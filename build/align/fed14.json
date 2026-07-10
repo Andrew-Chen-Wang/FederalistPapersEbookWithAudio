@@ -1,0 +1,636 @@
+{
+ "paper": 14,
+ "duration": 675.77034,
+ "match_ratio": 0.973,
+ "heading": [
+  "Objections to the Proposed Constitution From Extent of Territory Answered",
+  "From the New York Packet. Friday, November 30, 1787.",
+  "MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.8,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "WE HAVE seen the necessity of the Union, as our bulwark against foreign danger, as the conservator of peace among ourselves, as the guardian of our commerce and other common interests, as the only substitute for those military establishments which have subverted the liberties of the Old World, and as the proper antidote for the diseases of faction, which have proved fatal to other popular governments, and of which alarming symptoms have been betrayed by our own.",
+   "begin": 16.8,
+   "end": 41.12,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "All that remains, within this branch of our inquiries, is to take notice of an objection that may be drawn from the great extent of country which the Union embraces.",
+   "begin": 41.12,
+   "end": 49.84,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "A few observations on this subject will be the more proper, as it is perceived that the adversaries of the new Constitution are availing themselves of the prevailing prejudice with regard to the practicable sphere of republican administration, in order to supply, by imaginary difficulties, the want of those solid objections which they endeavor in vain to find.",
+   "begin": 49.84,
+   "end": 68.24,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "The error which limits republican government to a narrow district has been unfolded and refuted in preceding papers.",
+   "begin": 68.24,
+   "end": 74.799,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "I remark here only that it seems to owe its rise and prevalence chiefly to the confounding of a republic with a democracy, applying to the former reasonings drawn from the nature of the latter.",
+   "begin": 74.799,
+   "end": 85.2,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "The true distinction between these forms was also adverted to on a former occasion.",
+   "begin": 85.2,
+   "end": 90.079,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "It is, that in a democracy, the people meet and exercise the government in person;",
+   "begin": 90.079,
+   "end": 94.96,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "in a republic, they assemble and administer it by their representatives and agents.",
+   "begin": 94.96,
+   "end": 99.439,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "A democracy, consequently, will be confined to a small spot.",
+   "begin": 99.439,
+   "end": 102.799,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "A republic may be extended over a large region.",
+   "begin": 102.799,
+   "end": 105.84,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "To this accidental source of the error may be added the artifice of some celebrated authors, whose writings have had a great share in forming the modern standard of political opinions.",
+   "begin": 105.84,
+   "end": 115.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "Being subjects either of an absolute or limited monarchy, they have endeavored to heighten the advantages, or palliate the evils of those forms, by placing in comparison the vices and defects of the republican, and by citing as specimens of the latter the turbulent democracies of ancient Greece and modern Italy.",
+   "begin": 115.68,
+   "end": 131.84,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "Under the confusion of names, it has been an easy task to transfer to a republic observations applicable to a democracy only;",
+   "begin": 131.84,
+   "end": 139.2,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "and among others, the observation that it can never be established but among a small number of people, living within a small compass of territory.",
+   "begin": 139.2,
+   "end": 146.8,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "Such a fallacy may have been the less perceived, as most of the popular governments of antiquity were of the democratic species;",
+   "begin": 146.8,
+   "end": 153.28,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "and even in modern Europe, to which we owe the great principle of representation, no example is seen of a government wholly popular, and founded, at the same time, wholly on that principle.",
+   "begin": 153.28,
+   "end": 163.36,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "If Europe has the merit of discovering this great mechanical power in government, by the simple agency of which the will of the largest political body may be concentred, and its force directed to any object which the public good requires, America can claim the merit of making the discovery the basis of unmixed and extensive republics.",
+   "begin": 163.36,
+   "end": 181.2,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "It is only to be lamented that any of her citizens should wish to deprive her of the additional merit of displaying its full efficacy in the establishment of the comprehensive system now under her consideration.",
+   "begin": 181.2,
+   "end": 192.4,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "As the natural limit of a democracy is that distance from the central point which will just permit the most remote citizens to assemble as often as their public functions demand, and will include no greater number than can join in those functions;",
+   "begin": 192.4,
+   "end": 204.159,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "so the natural limit of a republic is that distance from the centre which will barely allow the representatives to meet as often as may be necessary for the administration of public affairs.",
+   "begin": 204.159,
+   "end": 213.84,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "Can it be said that the limits of the United States exceed this distance?",
+   "begin": 213.84,
+   "end": 217.92,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "It will not be said by those who recollect that the Atlantic coast is the longest side of the Union, that during the term of thirteen years, the representatives of the States have been almost continually assembled, and that the members from the most distant States are not chargeable with greater intermissions of attendance than those from the States in the neighborhood of Congress.",
+   "begin": 217.92,
+   "end": 235.84,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 6,
+   "text": "That we may form a juster estimate with regard to this interesting subject, let us resort to the actual dimensions of the Union.",
+   "begin": 235.84,
+   "end": 242.959,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "The limits, as fixed by the treaty of peace, are:",
+   "begin": 242.959,
+   "end": 245.599,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "on the east the Atlantic, on the south the latitude of thirty-one degrees, on the west the Mississippi, and on the north an irregular line running in some instances beyond the forty-fifth degree, in others falling as low as the forty-second.",
+   "begin": 245.599,
+   "end": 258.16,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "The southern shore of Lake Erie lies below that latitude.",
+   "begin": 258.16,
+   "end": 261.44,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "Computing the distance between the thirty-first and forty-fifth degrees, it amounts to nine hundred and seventy-three common miles;",
+   "begin": 261.44,
+   "end": 268.72,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "computing it from thirty-one to forty-two degrees, to seven hundred and sixty-four miles and a half.",
+   "begin": 268.72,
+   "end": 274.96,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "Taking the mean for the distance, the amount will be eight hundred and sixty-eight miles and three-fourths.",
+   "begin": 274.96,
+   "end": 280.4,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "The mean distance from the Atlantic to the Mississippi does not probably exceed seven hundred and fifty miles.",
+   "begin": 280.4,
+   "end": 285.84,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "On a comparison of this extent with that of several countries in Europe, the practicability of rendering our system commensurate to it appears to be demonstrable.",
+   "begin": 285.84,
+   "end": 294.32,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "It is not a great deal larger than Germany, where a diet representing the whole empire is continually assembled;",
+   "begin": 294.32,
+   "end": 300.08,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "or than Poland before the late dismemberment, where another national diet was the depositary of the supreme power.",
+   "begin": 300.08,
+   "end": 306.32,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "Passing by France and Spain, we find that in Great Britain, inferior as it may be in size, the representatives of the northern extremity of the island have as far to travel to the national council as will be required of those of the most remote parts of the Union.",
+   "begin": 306.32,
+   "end": 320.08,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "Favorable as this view of the subject may be, some observations remain which will place it in a light still more satisfactory.",
+   "begin": 320.08,
+   "end": 327.12,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "In the first place it is to be remembered that the general government is not to be charged with the whole power of making and administering laws.",
+   "begin": 327.12,
+   "end": 333.759,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "Its jurisdiction is limited to certain enumerated objects, which concern all the members of the republic, but which are not to be attained by the separate provisions of any.",
+   "begin": 333.759,
+   "end": 342.88,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "The subordinate governments, which can extend their care to all those other subjects which can be separately provided for, will retain their due authority and activity.",
+   "begin": 342.88,
+   "end": 352.639,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "Were it proposed by the plan of the convention to abolish the governments of the particular States, its adversaries would have some ground for their objection;",
+   "begin": 352.639,
+   "end": 359.759,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "though it would not be difficult to show that if they were abolished the general government would be compelled, by the principle of self-preservation, to reinstate them in their proper jurisdiction.",
+   "begin": 359.759,
+   "end": 369.68,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "A second observation to be made is that the immediate object of the federal Constitution is to secure the union of the thirteen primitive States, which we know to be practicable;",
+   "begin": 369.68,
+   "end": 378.72,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "and to add to them such other States as may arise in their own bosoms, or in their neighborhoods, which we cannot doubt to be equally practicable.",
+   "begin": 378.72,
+   "end": 386.319,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "The arrangements that may be necessary for those angles and fractions of our territory which lie on our northwestern frontier, must be left to those whom further discoveries and experience will render more equal to the task.",
+   "begin": 386.319,
+   "end": 398.4,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 10,
+   "text": "Let it be remarked, in the third place, that the intercourse throughout the Union will be facilitated by new improvements.",
+   "begin": 398.4,
+   "end": 404.96,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "Roads will everywhere be shortened, and kept in better order;",
+   "begin": 404.96,
+   "end": 408.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "accommodations for travelers will be multiplied and meliorated;",
+   "begin": 408.56,
+   "end": 412.08,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "an interior navigation on our eastern side will be opened throughout, or nearly throughout, the whole extent of the thirteen States.",
+   "begin": 412.08,
+   "end": 418.88,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "The communication between the Western and Atlantic districts, and between different parts of each, will be rendered more and more easy by those numerous canals with which the beneficence of nature has intersected our country, and which part finds it so little difficult to connect and complete.",
+   "begin": 418.88,
+   "end": 433.599,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 11,
+   "text": "A fourth and still more important consideration is, that as almost every State will, on one side or other, be a frontier, and will thus find, in regard to its safety, an inducement to make some sacrifices for the sake of the general protection;",
+   "begin": 433.599,
+   "end": 446.0,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 11,
+   "text": "so the States which lie at the greatest distance from the heart of the Union, and which, of course, may partake least of the ordinary circulation of its benefits, will be at the same time immediately contiguous to foreign nations, and will consequently stand, on particular occasions, in greatest need of its strength and resources.",
+   "begin": 446.0,
+   "end": 463.44,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 11,
+   "text": "It may be inconvenient for Georgia, or the States forming our western or northeastern borders, to send their representatives to the seat of government;",
+   "begin": 463.44,
+   "end": 470.879,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 11,
+   "text": "but they would find it more so to struggle alone against an invading enemy, or even to support alone the whole expense of those precautions which may be dictated by the neighborhood of continual danger.",
+   "begin": 470.879,
+   "end": 481.36,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 11,
+   "text": "If they should derive less benefit, therefore, from the Union in some respects than the less distant States, they will derive greater benefit from it in other respects, and thus the proper equilibrium will be maintained throughout.",
+   "begin": 481.36,
+   "end": 493.199,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 12,
+   "text": "I submit to you, my fellow-citizens, these considerations, in full confidence that the good sense which has so often marked your decisions will allow them their due weight and effect;",
+   "begin": 493.199,
+   "end": 502.16,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 12,
+   "text": "and that you will never suffer difficulties, however formidable in appearance, or however fashionable the error on which they may be founded, to drive you into the gloomy and perilous scene into which the advocates for disunion would conduct you.",
+   "begin": 502.16,
+   "end": 515.12,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 12,
+   "text": "Hearken not to the unnatural voice which tells you that the people of America, knit together as they are by so many cords of affection, can no longer live together as members of the same family;",
+   "begin": 515.12,
+   "end": 524.959,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 12,
+   "text": "can no longer continue the mutual guardians of their mutual happiness;",
+   "begin": 524.959,
+   "end": 528.399,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 12,
+   "text": "can no longer be fellowcitizens of one great, respectable, and flourishing empire.",
+   "begin": 528.399,
+   "end": 533.12,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 12,
+   "text": "Hearken not to the voice which petulantly tells you that the form of government recommended for your adoption is a novelty in the political world;",
+   "begin": 533.12,
+   "end": 540.16,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 12,
+   "text": "that it has never yet had a place in the theories of the wildest projectors;",
+   "begin": 540.16,
+   "end": 543.92,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 12,
+   "text": "that it rashly attempts what it is impossible to accomplish.",
+   "begin": 543.92,
+   "end": 547.2,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 12,
+   "text": "No, my countrymen, shut your ears against this unhallowed language.",
+   "begin": 547.2,
+   "end": 550.959,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 12,
+   "text": "Shut your hearts against the poison which it conveys;",
+   "begin": 550.959,
+   "end": 553.6,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 12,
+   "text": "the kindred blood which flows in the veins of American citizens, the mingled blood which they have shed in defense of their sacred rights, consecrate their Union, and excite horror at the idea of their becoming aliens, rivals, enemies.",
+   "begin": 553.6,
+   "end": 566.24,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 12,
+   "text": "And if novelties are to be shunned, believe me, the most alarming of all novelties, the most wild of all projects, the most rash of all attempts, is that of rendering us in pieces, in order to preserve our liberties and promote our happiness.",
+   "begin": 566.24,
+   "end": 578.88,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 12,
+   "text": "But why is the experiment of an extended republic to be rejected, merely because it may comprise what is new?",
+   "begin": 578.88,
+   "end": 585.2,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "Is it not the glory of the people of America, that, whilst they have paid a decent regard to the opinions of former times and other nations, they have not suffered a blind veneration for antiquity, for custom, or for names, to overrule the suggestions of their own good sense, the knowledge of their own situation, and the lessons of their own experience?",
+   "begin": 585.2,
+   "end": 602.32,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "To this manly spirit, posterity will be indebted for the possession, and the world for the example, of the numerous innovations displayed on the American theatre, in favor of private rights and public happiness.",
+   "begin": 602.32,
+   "end": 613.519,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 12,
+   "text": "Had no important step been taken by the leaders of the Revolution for which a precedent could not be discovered, no government established of which an exact model did not present itself, the people of the United States might, at this moment have been numbered among the melancholy victims of misguided councils, must at best have been laboring under the weight of some of those forms which have crushed the liberties of the rest of mankind.",
+   "begin": 613.519,
+   "end": 634.72,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 12,
+   "text": "Happily for America, happily, we trust, for the whole human race, they pursued a new and more noble course.",
+   "begin": 634.72,
+   "end": 641.04,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 12,
+   "text": "They accomplished a revolution which has no parallel in the annals of human society.",
+   "begin": 641.04,
+   "end": 645.839,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 12,
+   "text": "They reared the fabrics of governments which have no model on the face of the globe.",
+   "begin": 645.839,
+   "end": 649.92,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 12,
+   "text": "They formed the design of a great Confederacy, which it is incumbent on their successors to improve and perpetuate.",
+   "begin": 649.92,
+   "end": 656.56,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 12,
+   "text": "If their works betray imperfections, we wonder at the fewness of them.",
+   "begin": 656.56,
+   "end": 660.399,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 12,
+   "text": "If they erred most in the structure of the Union, this was the work most difficult to be executed;",
+   "begin": 660.399,
+   "end": 665.36,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 12,
+   "text": "this is the work which has been new modelled by the act of your convention, and it is that act on which you are now to deliberate and to decide.",
+   "begin": 665.36,
+   "end": 674.44,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 13,
+   "text": "PUBLIUS.",
+   "begin": 674.44,
+   "end": 675.77034,
+   "synced": true
+  }
+ ]
+}

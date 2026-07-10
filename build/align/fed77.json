@@ -1,0 +1,676 @@
+{
+ "paper": 77,
+ "duration": 612.449524,
+ "match_ratio": 0.9904,
+ "heading": [
+  "The Appointing Power Continued and Other Powers of the Executive Considered",
+  "From the New York Packet.",
+  "Friday, April 4, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.4,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IT HAS been mentioned as one of the advantages to be expected from the co-operation of the Senate, in the business of appointments, that it would contribute to the stability of the administration.",
+   "begin": 16.4,
+   "end": 26.0,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The consent of that body would be necessary to displace as well as to appoint.",
+   "begin": 26.0,
+   "end": 30.8,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "A change of the Chief Magistrate, therefore, would not occasion so violent or so general a revolution in the officers of the government as might be expected, if he were the sole disposer of offices.",
+   "begin": 30.8,
+   "end": 42.0,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "Where a man in any station had given satisfactory evidence of his fitness for it, a new President would be restrained from attempting a change in favor of a person more agreeable to him, by the apprehension that a discountenance of the Senate might frustrate the attempt, and bring some degree of discredit upon himself.",
+   "begin": 42.0,
+   "end": 58.16,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "Those who can best estimate the value of a steady administration, will be most disposed to prize a provision which connects the official existence of public men with the approbation or disapprobation of that body which, from the greater permanency of its own composition, will in all probability be less subject to inconstancy than any other member of the government.",
+   "begin": 58.16,
+   "end": 76.96,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "To this union of the Senate with the President, in the article of appointments, it has in some cases been suggested that it would serve to give the President an undue influence over the Senate, and in others that it would have an opposite tendency, a strong proof that neither suggestion is true.",
+   "begin": 76.96,
+   "end": 91.68,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "To state the first in its proper form, is to refute it.",
+   "begin": 91.68,
+   "end": 94.96,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "It amounts to this:",
+   "begin": 94.96,
+   "end": 96.479,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "the President would have an improper INFLUENCE OVER the Senate, because the Senate would have the power of RESTRAINING him.",
+   "begin": 96.479,
+   "end": 102.479,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "This is an absurdity in terms.",
+   "begin": 102.479,
+   "end": 104.799,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "It cannot admit of a doubt that the entire power of appointment would enable him much more effectually to establish a dangerous empire over that body, than a mere power of nomination subject to their control.",
+   "begin": 104.799,
+   "end": 115.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 4,
+   "text": "Let us take a view of the converse of the proposition:",
+   "begin": 115.68,
+   "end": 118.719,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "\"the Senate would influence the Executive.'' As I have had occasion to remark in several other instances, the indistinctness of the objection forbids a precise answer.",
+   "begin": 118.719,
+   "end": 128.0,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "In what manner is this influence to be exerted?",
+   "begin": 128.0,
+   "end": 130.399,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "In relation to what objects?",
+   "begin": 130.399,
+   "end": 132.16,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "The power of influencing a person, in the sense in which it is here used, must imply a power of conferring a benefit upon him.",
+   "begin": 132.16,
+   "end": 139.28,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "How could the Senate confer a benefit upon the President by the manner of employing their right of negative upon his nominations?",
+   "begin": 139.28,
+   "end": 145.599,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "If it be said they might sometimes gratify him by an acquiescence in a favorite choice, when public motives might dictate a different conduct, I answer, that the instances in which the President could be personally interested in the result, would be too few to admit of his being materially affected by the compliances of the Senate.",
+   "begin": 145.599,
+   "end": 161.36,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "The POWER which can ORIGINATE the disposition of honors and emoluments, is more likely to attract than to be attracted by the POWER which can merely obstruct their course.",
+   "begin": 161.36,
+   "end": 170.4,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "If by influencing the President be meant RESTRAINING him, this is precisely what must have been intended.",
+   "begin": 170.4,
+   "end": 175.84,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "And it has been shown that the restraint would be salutary, at the same time that it would not be such as to destroy a single advantage to be looked for from the uncontrolled agency of that Magistrate.",
+   "begin": 175.84,
+   "end": 185.68,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "The right of nomination would produce all the good of that of appointment, and would in a great measure avoid its evils.",
+   "begin": 185.68,
+   "end": 192.0,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "Upon a comparison of the plan for the appointment of the officers of the proposed government with that which is established by the constitution of this State, a decided preference must be given to the former.",
+   "begin": 192.0,
+   "end": 201.519,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "In that plan the power of nomination is unequivocally vested in the Executive.",
+   "begin": 201.519,
+   "end": 205.36,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "And as there would be a necessity for submitting each nomination to the judgment of an entire branch of the legislature, the circumstances attending an appointment, from the mode of conducting it, would naturally become matters of notoriety;",
+   "begin": 205.36,
+   "end": 216.959,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "and the public would be at no loss to determine what part had been performed by the different actors.",
+   "begin": 216.959,
+   "end": 222.0,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "The blame of a bad nomination would fall upon the President singly and absolutely.",
+   "begin": 222.0,
+   "end": 226.159,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "The censure of rejecting a good one would lie entirely at the door of the Senate;",
+   "begin": 226.159,
+   "end": 230.64,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "aggravated by the consideration of their having counteracted the good intentions of the Executive.",
+   "begin": 230.64,
+   "end": 235.36,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "If an ill appointment should be made, the Executive for nominating, and the Senate for approving, would participate, though in different degrees, in the opprobrium and disgrace.",
+   "begin": 235.36,
+   "end": 244.239,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "The reverse of all this characterizes the manner of appointment in this State.",
+   "begin": 244.239,
+   "end": 247.92,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "The council of appointment consists of from three to five persons, of whom the governor is always one.",
+   "begin": 247.92,
+   "end": 253.36,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "This small body, shut up in a private apartment, impenetrable to the public eye, proceed to the execution of the trust committed to them.",
+   "begin": 253.36,
+   "end": 260.479,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "It is known that the governor claims the right of nomination, upon the strength of some ambiguous expressions in the constitution;",
+   "begin": 260.479,
+   "end": 266.56,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "but it is not known to what extent, or in what manner he exercises it;",
+   "begin": 266.56,
+   "end": 270.4,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "nor upon what occasions he is contradicted or opposed.",
+   "begin": 270.4,
+   "end": 273.84,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "The censure of a bad appointment, on account of the uncertainty of its author, and for want of a determinate object, has neither poignancy nor duration.",
+   "begin": 273.84,
+   "end": 281.84,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "And while an unbounded field for cabal and intrigue lies open, all idea of responsibility is lost.",
+   "begin": 281.84,
+   "end": 287.759,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "The most that the public can know, is that the governor claims the right of nomination;",
+   "begin": 287.759,
+   "end": 291.52,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "that TWO out of the inconsiderable number of FOUR men can too often be managed without much difficulty;",
+   "begin": 291.52,
+   "end": 297.199,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "that if some of the members of a particular council should happen to be of an uncomplying character, it is frequently not impossible to get rid of their opposition by regulating the times of meeting in such a manner as to render their attendance inconvenient;",
+   "begin": 297.199,
+   "end": 309.28,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "and that from whatever cause it may proceed, a great number of very improper appointments are from time to time made.",
+   "begin": 309.28,
+   "end": 315.68,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "Whether a governor of this State avails himself of the ascendant he must necessarily have, in this delicate and important part of the administration, to prefer to offices men who are best qualified for them, or whether he prostitutes that advantage to the advancement of persons whose chief merit is their implicit devotion to his will, and to the support of a despicable and dangerous system of personal influence, are questions which, unfortunately for the community, can only be the subjects of speculation and conjecture.",
+   "begin": 315.68,
+   "end": 341.919,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 6,
+   "text": "Every mere council of appointment, however constituted, will be a conclave, in which cabal and intrigue will have their full scope.",
+   "begin": 341.919,
+   "end": 348.96,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "Their number, without an unwarrantable increase of expense, cannot be large enough to preclude a facility of combination.",
+   "begin": 348.96,
+   "end": 355.44,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "And as each member will have his friends and connections to provide for, the desire of mutual gratification will beget a scandalous bartering of votes and bargaining for places.",
+   "begin": 355.44,
+   "end": 364.56,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "The private attachments of one man might easily be satisfied;",
+   "begin": 364.56,
+   "end": 367.68,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "but to satisfy the private attachments of a dozen, or of twenty men, would occasion a monopoly of all the principal employments of the government in a few families, and would lead more directly to an aristocracy or an oligarchy than any measure that could be contrived.",
+   "begin": 367.68,
+   "end": 381.36,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "If, to avoid an accumulation of offices, there was to be a frequent change in the persons who were to compose the council, this would involve the mischiefs of a mutable administration in their full extent.",
+   "begin": 381.36,
+   "end": 391.36,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "Such a council would also be more liable to executive influence than the Senate, because they would be fewer in number, and would act less immediately under the public inspection.",
+   "begin": 391.36,
+   "end": 400.16,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "Such a council, in fine, as a substitute for the plan of the convention, would be productive of an increase of expense, a multiplication of the evils which spring from favoritism and intrigue in the distribution of public honors, a decrease of stability in the administration of the government, and a diminution of the security against an undue influence of the Executive.",
+   "begin": 400.16,
+   "end": 419.599,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "And yet such a council has been warmly contended for as an essential amendment in the proposed Constitution.",
+   "begin": 419.599,
+   "end": 425.52,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "I could not with propriety conclude my observations on the subject of appointments without taking notice of a scheme for which there have appeared some, though but few advocates;",
+   "begin": 425.52,
+   "end": 434.479,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "I mean that of uniting the House of Representatives in the power of making them.",
+   "begin": 434.479,
+   "end": 438.4,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "I shall, however, do little more than mention it, as I cannot imagine that it is likely to gain the countenance of any considerable part of the community.",
+   "begin": 438.4,
+   "end": 445.919,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "A body so fluctuating and at the same time so numerous, can never be deemed proper for the exercise of that power.",
+   "begin": 445.919,
+   "end": 452.639,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "Its unfitness will appear manifest to all, when it is recollected that in half a century it may consist of three or four hundred persons.",
+   "begin": 452.639,
+   "end": 460.0,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "All the advantages of the stability, both of the Executive and of the Senate, would be defeated by this union, and infinite delays and embarrassments would be occasioned.",
+   "begin": 460.0,
+   "end": 468.72,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "The example of most of the States in their local constitutions encourages us to reprobate the idea.",
+   "begin": 468.72,
+   "end": 474.56,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "The only remaining powers of the Executive are comprehended in giving information to Congress of the state of the Union;",
+   "begin": 474.56,
+   "end": 480.24,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "in recommending to their consideration such measures as he shall judge expedient;",
+   "begin": 480.24,
+   "end": 484.319,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "in convening them, or either branch, upon extraordinary occasions;",
+   "begin": 484.319,
+   "end": 487.919,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "in adjourning them when they cannot themselves agree upon the time of adjournment;",
+   "begin": 487.919,
+   "end": 491.68,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "in receiving ambassadors and other public ministers;",
+   "begin": 491.68,
+   "end": 494.479,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "in faithfully executing the laws;",
+   "begin": 494.479,
+   "end": 496.319,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "and in commissioning all the officers of the United States.",
+   "begin": 496.319,
+   "end": 500.0,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 9,
+   "text": "Except some cavils about the power of convening EITHER house of the legislature, and that of receiving ambassadors, no objection has been made to this class of authorities;",
+   "begin": 500.0,
+   "end": 508.879,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 9,
+   "text": "nor could they possibly admit of any.",
+   "begin": 508.879,
+   "end": 511.199,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "It required, indeed, an insatiable avidity for censure to invent exceptions to the parts which have been excepted to.",
+   "begin": 511.199,
+   "end": 517.76,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "In regard to the power of convening either house of the legislature, I shall barely remark, that in respect to the Senate at least, we can readily discover a good reason for it.",
+   "begin": 517.76,
+   "end": 526.72,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 9,
+   "text": "AS this body has a concurrent power with the Executive in the article of treaties, it might often be necessary to call it together with a view to this object, when it would be unnecessary and improper to convene the House of Representatives.",
+   "begin": 526.72,
+   "end": 538.24,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 9,
+   "text": "As to the reception of ambassadors, what I have said in a former paper will furnish a sufficient answer.",
+   "begin": 538.24,
+   "end": 544.16,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 10,
+   "text": "We have now completed a survey of the structure and powers of the executive department, which, I have endeavored to show, combines, as far as republican principles will admit, all the requisites to energy.",
+   "begin": 544.16,
+   "end": 554.959,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 10,
+   "text": "The remaining inquiry is:",
+   "begin": 554.959,
+   "end": 556.56,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 10,
+   "text": "Does it also combine the requisites to safety, in a republican sense, a due dependence on the people, a due responsibility?",
+   "begin": 556.56,
+   "end": 563.76,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 10,
+   "text": "The answer to this question has been anticipated in the investigation of its other characteristics, and is satisfactorily deducible from these circumstances;",
+   "begin": 563.76,
+   "end": 572.16,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 10,
+   "text": "from the election of the President once in four years by persons immediately chosen by the people for that purpose;",
+   "begin": 572.16,
+   "end": 577.68,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 10,
+   "text": "and from his being at all times liable to impeachment, trial, dismission from office, incapacity to serve in any other, and to forfeiture of life and estate by subsequent prosecution in the common course of law.",
+   "begin": 577.68,
+   "end": 588.88,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 10,
+   "text": "But these precautions, great as they are, are not the only ones which the plan of the convention has provided in favor of the public security.",
+   "begin": 588.88,
+   "end": 596.08,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 10,
+   "text": "In the only instances in which the abuse of the executive authority was materially to be feared, the Chief Magistrate of the United States would, by that plan, be subjected to the control of a branch of the legislative body.",
+   "begin": 596.08,
+   "end": 607.279,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 10,
+   "text": "What more could be desired by an enlightened and reasonable people?",
+   "begin": 607.279,
+   "end": 611.04,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 11,
+   "text": "PUBLIUS.",
+   "begin": 611.04,
+   "end": 612.449524,
+   "synced": true
+  }
+ ]
+}

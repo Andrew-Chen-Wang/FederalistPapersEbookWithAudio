@@ -1,0 +1,1053 @@
+{
+ "paper": 19,
+ "duration": 696.645079,
+ "match_ratio": 0.9693,
+ "heading": [
+  "The Same Subject Continued:",
+  "The Insufficiency of the Present Confederation to Preserve the Union",
+  "For the Independent Journal.",
+  "HAMILTON AND MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 14.799,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE examples of ancient confederacies, cited in my last paper, have not exhausted the source of experimental instruction on this subject.",
+   "begin": 14.799,
+   "end": 22.4,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "There are existing institutions, founded on a similar principle, which merit particular consideration.",
+   "begin": 22.4,
+   "end": 28.24,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "The first which presents itself is the Germanic body.",
+   "begin": 28.24,
+   "end": 32.48,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "In the early ages of Christianity, Germany was occupied by seven distinct nations, who had no common chief.",
+   "begin": 32.48,
+   "end": 38.96,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The Franks, one of the number, having conquered the Gauls, established the kingdom which has taken its name from them.",
+   "begin": 38.96,
+   "end": 44.879,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "In the ninth century Charlemagne, its warlike monarch, carried his victorious arms in every direction;",
+   "begin": 44.879,
+   "end": 50.559,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "and Germany became a part of his vast dominions.",
+   "begin": 50.559,
+   "end": 53.44,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "On the dismemberment, which took place under his sons, this part was erected into a separate and independent empire.",
+   "begin": 53.44,
+   "end": 60.239,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "Charlemagne and his immediate descendants possessed the reality, as well as the ensigns and dignity of imperial power.",
+   "begin": 60.239,
+   "end": 66.799,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "But the principal vassals, whose fiefs had become hereditary, and who composed the national diets which Charlemagne had not abolished, gradually threw off the yoke and advanced to sovereign jurisdiction and independence.",
+   "begin": 66.799,
+   "end": 78.64,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "The force of imperial sovereignty was insufficient to restrain such powerful dependants;",
+   "begin": 78.64,
+   "end": 83.28,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "or to preserve the unity and tranquillity of the empire.",
+   "begin": 83.28,
+   "end": 86.72,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "The most furious private wars, accompanied with every species of calamity, were carried on between the different princes and states.",
+   "begin": 86.72,
+   "end": 93.52,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "The imperial authority, unable to maintain the public order, declined by degrees till it was almost extinct in the anarchy, which agitated the long interval between the death of the last emperor of the Suabian, and the accession of the first emperor of the Austrian lines.",
+   "begin": 93.52,
+   "end": 107.6,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "In the eleventh century the emperors enjoyed full sovereignty:",
+   "begin": 107.6,
+   "end": 110.88,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "In the fifteenth they had little more than the symbols and decorations of power.",
+   "begin": 110.88,
+   "end": 115.439,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "Out of this feudal system, which has itself many of the important features of a confederacy, has grown the federal system which constitutes the Germanic empire.",
+   "begin": 115.439,
+   "end": 124.079,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Its powers are vested in a diet representing the component members of the confederacy;",
+   "begin": 124.079,
+   "end": 128.72,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "in the emperor, who is the executive magistrate, with a negative on the decrees of the diet;",
+   "begin": 128.72,
+   "end": 133.52,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "and in the imperial chamber and the aulic council, two judiciary tribunals having supreme jurisdiction in controversies which concern the empire, or which happen among its members.",
+   "begin": 133.52,
+   "end": 143.68,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "The diet possesses the general power of legislating for the empire;",
+   "begin": 143.68,
+   "end": 147.12,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "of making war and peace;",
+   "begin": 147.12,
+   "end": 148.48,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "contracting alliances;",
+   "begin": 148.48,
+   "end": 149.84,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "assessing quotas of troops and money;",
+   "begin": 149.84,
+   "end": 151.76,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "constructing fortresses;",
+   "begin": 151.76,
+   "end": 153.12,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "regulating coin;",
+   "begin": 153.12,
+   "end": 154.239,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "admitting new members;",
+   "begin": 154.239,
+   "end": 155.36,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "and subjecting disobedient members to the ban of the empire, by which the party is degraded from his sovereign rights and his possessions forfeited.",
+   "begin": 155.36,
+   "end": 163.04,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "The members of the confederacy are expressly restricted from entering into compacts prejudicial to the empire;",
+   "begin": 163.04,
+   "end": 168.48,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "from imposing tolls and duties on their mutual intercourse, without the consent of the emperor and diet;",
+   "begin": 168.48,
+   "end": 173.76,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "from altering the value of money;",
+   "begin": 173.76,
+   "end": 175.36,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "from doing injustice to one another;",
+   "begin": 175.36,
+   "end": 177.12,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "or from affording assistance or retreat to disturbers of the public peace.",
+   "begin": 177.12,
+   "end": 180.8,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "And the ban is denounced against such as shall violate any of these restrictions.",
+   "begin": 180.8,
+   "end": 185.44,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "The members of the diet, as such, are subject in all cases to be judged by the emperor and diet, and in their private capacities by the aulic council and imperial chamber.",
+   "begin": 185.44,
+   "end": 195.12,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "The prerogatives of the emperor are numerous.",
+   "begin": 195.12,
+   "end": 197.68,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "The most important of them are:",
+   "begin": 197.68,
+   "end": 199.36,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "his exclusive right to make propositions to the diet;",
+   "begin": 199.36,
+   "end": 202.159,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "to negative its resolutions;",
+   "begin": 202.159,
+   "end": 203.76,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "to name ambassadors;",
+   "begin": 203.76,
+   "end": 205.04,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "to confer dignities and titles;",
+   "begin": 205.04,
+   "end": 206.879,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "to fill vacant electorates;",
+   "begin": 206.879,
+   "end": 208.4,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "to found universities;",
+   "begin": 208.4,
+   "end": 209.68,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "to grant privileges not injurious to the states of the empire;",
+   "begin": 209.68,
+   "end": 212.72,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "to receive and apply the public revenues;",
+   "begin": 212.72,
+   "end": 214.72,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "and generally to watch over the public safety.",
+   "begin": 214.72,
+   "end": 217.44,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 5,
+   "text": "In certain cases, the electors form a council to him.",
+   "begin": 217.44,
+   "end": 220.64,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 5,
+   "text": "In quality of emperor, he possesses no territory within the empire, nor receives any revenue for his support.",
+   "begin": 220.64,
+   "end": 226.959,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 5,
+   "text": "But his revenue and dominions, in other qualities, constitute him one of the most powerful princes in Europe.",
+   "begin": 226.959,
+   "end": 232.799,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "From such a parade of constitutional powers, in the representatives and head of this confederacy, the natural supposition would be, that it must form an exception to the general character which belongs to its kindred systems.",
+   "begin": 232.799,
+   "end": 244.799,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "Nothing would be further from the reality.",
+   "begin": 244.799,
+   "end": 246.959,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "The fundamental principle on which it rests, that the empire is a community of sovereigns, that the diet is a representation of sovereigns and that the laws are addressed to sovereigns, renders the empire a nerveless body, incapable of regulating its own members, insecure against external dangers, and agitated with unceasing fermentations in its own bowels.",
+   "begin": 246.959,
+   "end": 266.639,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "The history of Germany is a history of wars between the emperor and the princes and states;",
+   "begin": 266.639,
+   "end": 271.6,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "of wars among the princes and states themselves;",
+   "begin": 271.6,
+   "end": 274.24,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "of the licentiousness of the strong, and the oppression of the weak;",
+   "begin": 274.24,
+   "end": 277.52,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "of foreign intrusions, and foreign intrigues;",
+   "begin": 277.52,
+   "end": 280.32,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "of requisitions of men and money disregarded, or partially complied with;",
+   "begin": 280.32,
+   "end": 284.16,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "of attempts to enforce them, altogether abortive, or attended with slaughter and desolation, involving the innocent with the guilty;",
+   "begin": 284.16,
+   "end": 290.479,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "of general inbecility, confusion, and misery.",
+   "begin": 290.479,
+   "end": 293.919,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "In the sixteenth century, the emperor, with one part of the empire on his side, was seen engaged against the other princes and states.",
+   "begin": 293.919,
+   "end": 301.039,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "In one of the conflicts, the emperor himself was put to flight, and very near being made prisoner by the elector of Saxony.",
+   "begin": 301.039,
+   "end": 307.199,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "The late king of Prussia was more than once pitted against his imperial sovereign;",
+   "begin": 307.199,
+   "end": 310.96,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "and commonly proved an overmatch for him.",
+   "begin": 310.96,
+   "end": 313.6,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "Controversies and wars among the members themselves have been so common, that the German annals are crowded with the bloody pages which describe them.",
+   "begin": 313.6,
+   "end": 321.68,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "Previous to the peace of Westphalia, Germany was desolated by a war of thirty years, in which the emperor, with one half of the empire, was on one side, and Sweden, with the other half, on the opposite side.",
+   "begin": 321.68,
+   "end": 332.72,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "Peace was at length negotiated, and dictated by foreign powers;",
+   "begin": 332.72,
+   "end": 336.24,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 8,
+   "text": "and the articles of it, to which foreign powers are parties, made a fundamental part of the Germanic constitution.",
+   "begin": 336.24,
+   "end": 342.32,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 9,
+   "text": "If the nation happens, on any emergency, to be more united by the necessity of self-defense, its situation is still deplorable.",
+   "begin": 342.32,
+   "end": 350.08,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "Military preparations must be preceded by so many tedious discussions, arising from the jealousies, pride, separate views, and clashing pretensions of sovereign bodies, that before the diet can settle the arrangements, the enemy are in the field;",
+   "begin": 350.08,
+   "end": 362.72,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "and before the federal troops are ready to take it, are retiring into winter quarters.",
+   "begin": 362.72,
+   "end": 367.36,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 10,
+   "text": "The small body of national troops, which has been judged necessary in time of peace, is defectively kept up, badly paid, infected with local prejudices, and supported by irregular and disproportionate contributions to the treasury.",
+   "begin": 367.36,
+   "end": 380.56,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 11,
+   "text": "The impossibility of maintaining order and dispensing justice among these sovereign subjects, produced the experiment of dividing the empire into nine or ten circles or districts;",
+   "begin": 380.56,
+   "end": 389.68,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 11,
+   "text": "of giving them an interior organization, and of charging them with the military execution of the laws against delinquent and contumacious members.",
+   "begin": 389.68,
+   "end": 397.68,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 11,
+   "text": "This experiment has only served to demonstrate more fully the radical vice of the constitution.",
+   "begin": 397.68,
+   "end": 402.639,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 11,
+   "text": "Each circle is the miniature picture of the deformities of this political monster.",
+   "begin": 402.639,
+   "end": 406.88,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 11,
+   "text": "They either fail to execute their commissions, or they do it with all the devastation and carnage of civil war.",
+   "begin": 406.88,
+   "end": 412.88,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 11,
+   "text": "Sometimes whole circles are defaulters;",
+   "begin": 412.88,
+   "end": 415.199,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 11,
+   "text": "and then they increase the mischief which they were instituted to remedy.",
+   "begin": 415.199,
+   "end": 419.28,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 12,
+   "text": "We may form some judgment of this scheme of military coercion from a sample given by Thuanus.",
+   "begin": 419.28,
+   "end": 425.68,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 12,
+   "text": "In Donawerth, a free and imperial city of the circle of Suabia, the Abb 300 de St.",
+   "begin": 425.68,
+   "end": 431.44,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 12,
+   "text": "Croix enjoyed certain immunities which had been reserved to him.",
+   "begin": 431.44,
+   "end": 435.28,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 12,
+   "text": "In the exercise of these, on some public occasions, outrages were committed on him by the people of the city.",
+   "begin": 435.28,
+   "end": 441.36,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 12,
+   "text": "The consequence was that the city was put under the ban of the empire, and the Duke of Bavaria, though director of another circle, obtained an appointment to enforce it.",
+   "begin": 441.36,
+   "end": 449.919,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 12,
+   "text": "He soon appeared before the city with a corps of ten thousand troops, and finding it a fit occasion, as he had secretly intended from the beginning, to revive an antiquated claim, on the pretext that his ancestors had suffered the place to be dismembered from his territory,1 he took possession of it in his own name, disarmed, and punished the inhabitants, and reannexed the city to his domains.",
+   "begin": 449.919,
+   "end": 479.28,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 13,
+   "text": "It may be asked, perhaps, what has so long kept this disjointed machine from falling entirely to pieces?",
+   "begin": 479.28,
+   "end": 485.599,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 13,
+   "text": "The answer is obvious:",
+   "begin": 485.599,
+   "end": 487.199,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 13,
+   "text": "The weakness of most of the members, who are unwilling to expose themselves to the mercy of foreign powers;",
+   "begin": 487.199,
+   "end": 492.479,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 13,
+   "text": "the weakness of most of the principal members, compared with the formidable powers all around them;",
+   "begin": 492.479,
+   "end": 496.96,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 13,
+   "text": "the vast weight and influence which the emperor derives from his separate and heriditary dominions;",
+   "begin": 496.96,
+   "end": 502.16,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 13,
+   "text": "and the interest he feels in preserving a system with which his family pride is connected, and which constitutes him the first prince in Europe;",
+   "begin": 502.16,
+   "end": 509.28,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 13,
+   "text": "--these causes support a feeble and precarious Union;",
+   "begin": 509.28,
+   "end": 512.159,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 13,
+   "text": "whilst the repellant quality, incident to the nature of sovereignty, and which time continually strengthens, prevents any reform whatever, founded on a proper consolidation.",
+   "begin": 512.159,
+   "end": 521.519,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 13,
+   "text": "Nor is it to be imagined, if this obstacle could be surmounted, that the neighboring powers would suffer a revolution to take place which would give to the empire the force and preeminence to which it is entitled.",
+   "begin": 521.519,
+   "end": 532.0,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 13,
+   "text": "Foreign nations have long considered themselves as interested in the changes made by events in this constitution;",
+   "begin": 532.0,
+   "end": 537.36,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 13,
+   "text": "and have, on various occasions, betrayed their policy of perpetuating its anarchy and weakness.",
+   "begin": 537.36,
+   "end": 542.8,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 14,
+   "text": "If more direct examples were wanting, Poland, as a government over local sovereigns, might not improperly be taken notice of.",
+   "begin": 542.8,
+   "end": 549.279,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 14,
+   "text": "Nor could any proof more striking be given of the calamities flowing from such institutions.",
+   "begin": 549.279,
+   "end": 554.56,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 14,
+   "text": "Equally unfit for self-government and self-defense, it has long been at the mercy of its powerful neighbors;",
+   "begin": 554.56,
+   "end": 559.68,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 14,
+   "text": "who have lately had the mercy to disburden it of one third of its people and territories.",
+   "begin": 559.68,
+   "end": 564.64,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 15,
+   "text": "The connection among the Swiss cantons scarcely amounts to a confederacy;",
+   "begin": 564.64,
+   "end": 568.64,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 15,
+   "text": "though it is sometimes cited as an instance of the stability of such institutions.",
+   "begin": 568.64,
+   "end": 573.12,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 16,
+   "text": "They have no common treasury;",
+   "begin": 573.12,
+   "end": 574.56,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 16,
+   "text": "no common troops even in war;",
+   "begin": 574.56,
+   "end": 576.24,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 16,
+   "text": "no common coin;",
+   "begin": 576.24,
+   "end": 577.04,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 16,
+   "text": "no common judicatory;",
+   "begin": 577.04,
+   "end": 578.399,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 16,
+   "text": "nor any other common mark of sovereignty.",
+   "begin": 578.399,
+   "end": 580.8,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 17,
+   "text": "They are kept together by the peculiarity of their topographical position;",
+   "begin": 580.8,
+   "end": 584.16,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 17,
+   "text": "by their individual weakness and insignificancy;",
+   "begin": 584.16,
+   "end": 586.64,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 17,
+   "text": "by the fear of powerful neighbors, to one of which they were formerly subject;",
+   "begin": 586.64,
+   "end": 590.399,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 17,
+   "text": "by the few sources of contention among a people of such simple and homogeneous manners;",
+   "begin": 590.399,
+   "end": 594.64,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 17,
+   "text": "by their joint interest in their dependent possessions;",
+   "begin": 594.64,
+   "end": 597.279,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 17,
+   "text": "by the mutual aid they stand in need of, for suppressing insurrections and rebellions, an aid expressly stipulated and often required and afforded;",
+   "begin": 597.279,
+   "end": 605.36,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 17,
+   "text": "and by the necessity of some regular and permanent provision for accomodating disputes among the cantons.",
+   "begin": 605.36,
+   "end": 610.88,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 17,
+   "text": "The provision is, that the parties at variance shall each choose four judges out of the neutral cantons, who, in case of disagreement, choose an umpire.",
+   "begin": 610.88,
+   "end": 619.44,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 17,
+   "text": "This tribunal, under an oath of impartiality, pronounces definitive sentence, which all the cantons are bound to enforce.",
+   "begin": 619.44,
+   "end": 626.56,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 17,
+   "text": "The competency of this regulation may be estimated by a clause in their treaty of 1683, with Victor Amadeus of Savoy;",
+   "begin": 626.56,
+   "end": 633.6,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 17,
+   "text": "in which he obliges himself to interpose as mediator in disputes between the cantons, and to employ force, if necessary, against the contumacious party.",
+   "begin": 633.6,
+   "end": 642.24,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 18,
+   "text": "So far as the peculiarity of their case will admit of comparison with that of the United States, it serves to confirm the principle intended to be established.",
+   "begin": 642.24,
+   "end": 650.24,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 18,
+   "text": "Whatever efficacy the union may have had in ordinary cases, it appears that the moment a cause of difference sprang up, capable of trying its strength, it failed.",
+   "begin": 650.24,
+   "end": 659.12,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 18,
+   "text": "The controversies on the subject of religion, which in three instances have kindled violent and bloody contests, may be said, in fact, to have severed the league.",
+   "begin": 659.12,
+   "end": 667.76,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 18,
+   "text": "The Protestant and Catholic cantons have since had their separate diets, where all the most important concerns are adjusted, and which have left the general diet little other business than to take care of the common bailages.",
+   "begin": 667.76,
+   "end": 679.04,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 19,
+   "text": "That separation had another consequence, which merits attention.",
+   "begin": 679.04,
+   "end": 682.56,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 19,
+   "text": "It produced opposite alliances with foreign powers:",
+   "begin": 682.56,
+   "end": 685.6,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 19,
+   "text": "of Berne, at the head of the Protestant association, with the United Provinces;",
+   "begin": 685.6,
+   "end": 689.519,
+   "synced": true
+  },
+  {
+   "id": "u0126",
+   "para": 19,
+   "text": "and of Luzerne, at the head of the Catholic association, with France.",
+   "begin": 689.519,
+   "end": 695.399,
+   "synced": true
+  },
+  {
+   "id": "u0127",
+   "para": 20,
+   "text": "PUBLIUS.",
+   "begin": 695.399,
+   "end": 696.399,
+   "synced": true
+  },
+  {
+   "id": "u0128",
+   "para": 21,
+   "text": "1 Pfeffel, \"Nouvel Abreg.",
+   "begin": 696.399,
+   "end": 696.645079,
+   "synced": false
+  },
+  {
+   "id": "u0129",
+   "para": 21,
+   "text": "Chronol.",
+   "begin": 696.645079,
+   "end": 696.645079,
+   "synced": false
+  },
+  {
+   "id": "u0130",
+   "para": 21,
+   "text": "de l'Hist., etc., d'Allemagne,'' says the pretext was to indemnify himself for the expense of the expedition.",
+   "begin": 696.645079,
+   "end": 696.645079,
+   "synced": false
+  }
+ ]
+}

@@ -1,0 +1,732 @@
+{
+ "paper": 8,
+ "duration": 677.767256,
+ "match_ratio": 0.9592,
+ "heading": [
+  "The Consequences of Hostilities Between the States",
+  "From the New York Packet. Tuesday, November 20, 1787.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.16,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "ASSUMING it therefore as an established truth that the several States, in case of disunion, or such combinations of them as might happen to be formed out of the wreck of the general Confederacy, would be subject to those vicissitudes of peace and war, of friendship and enmity, with each other, which have fallen to the lot of all neighboring nations not united under one government, let us enter into a concise detail of some of the consequences that would attend such a situation.",
+   "begin": 16.16,
+   "end": 40.0,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "War between the States, in the first period of their separate existence, would be accompanied with much greater distresses than it commonly is in those countries where regular military establishments have long obtained.",
+   "begin": 40.0,
+   "end": 51.199,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "The disciplined armies always kept on foot on the continent of Europe, though they bear a malignant aspect to liberty and economy, have, notwithstanding, been productive of the signal advantage of rendering sudden conquests impracticable, and of preventing that rapid desolation which used to mark the progress of war prior to their introduction.",
+   "begin": 51.199,
+   "end": 69.52,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "The art of fortification has contributed to the same ends.",
+   "begin": 69.52,
+   "end": 72.96,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The nations of Europe are encircled with chains of fortified places, which mutually obstruct invasion.",
+   "begin": 72.96,
+   "end": 78.72,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Campaigns are wasted in reducing two or three frontier garrisons, to gain admittance into an enemy's country.",
+   "begin": 78.72,
+   "end": 84.88,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "Similar impediments occur at every step, to exhaust the strength and delay the progress of an invader.",
+   "begin": 84.88,
+   "end": 90.479,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "Formerly, an invading army would penetrate into the heart of a neighboring country almost as soon as intelligence of its approach could be received;",
+   "begin": 90.479,
+   "end": 97.439,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "but now a comparatively small force of disciplined troops, acting on the defensive, with the aid of posts, is able to impede, and finally to frustrate, the enterprises of one much more considerable.",
+   "begin": 97.439,
+   "end": 107.6,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "The history of war, in that quarter of the globe, is no longer a history of nations subdued and empires overturned, but of towns taken and retaken;",
+   "begin": 107.6,
+   "end": 115.28,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "of battles that decide nothing;",
+   "begin": 115.28,
+   "end": 117.2,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "of retreats more beneficial than victories;",
+   "begin": 117.2,
+   "end": 119.6,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "of much effort and little acquisition.",
+   "begin": 119.6,
+   "end": 122.479,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "In this country the scene would be altogether reversed.",
+   "begin": 122.479,
+   "end": 125.2,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "The jealousy of military establishments would postpone them as long as possible.",
+   "begin": 125.2,
+   "end": 129.2,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "The want of fortifications, leaving the frontiers of one state open to another, would facilitate inroads.",
+   "begin": 129.2,
+   "end": 134.8,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "The populous States would, with little difficulty, overrun their less populous neighbors.",
+   "begin": 134.8,
+   "end": 140.319,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Conquests would be as easy to be made as difficult to be retained.",
+   "begin": 140.319,
+   "end": 144.239,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "War, therefore, would be desultory and predatory.",
+   "begin": 144.239,
+   "end": 147.04,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "PLUNDER and devastation ever march in the train of irregulars.",
+   "begin": 147.04,
+   "end": 150.72,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "The calamities of individuals would make the principal figure in the events which would characterize our military exploits.",
+   "begin": 150.72,
+   "end": 158.16,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "This picture is not too highly wrought;",
+   "begin": 158.16,
+   "end": 160.0,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "though, I confess, it would not long remain a just one.",
+   "begin": 160.0,
+   "end": 162.959,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "Safety from external danger is the most powerful director of national conduct.",
+   "begin": 162.959,
+   "end": 167.44,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "Even the ardent love of liberty will, after a time, give way to its dictates.",
+   "begin": 167.44,
+   "end": 172.16,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "The violent destruction of life and property incident to war, the continual effort and alarm attendant on a state of continual danger, will compel nations the most attached to liberty to resort for repose and security to institutions which have a tendency to destroy their civil and political rights.",
+   "begin": 172.16,
+   "end": 188.56,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "To be more safe, they at length become willing to run the risk of being less free.",
+   "begin": 188.56,
+   "end": 194.239,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "The institutions chiefly alluded to are STANDING ARMIES and the correspondent appendages of military establishments.",
+   "begin": 194.239,
+   "end": 201.04,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "Standing armies, it is said, are not provided against in the new Constitution;",
+   "begin": 201.04,
+   "end": 204.959,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "and it is therefore inferred that they may exist under it.1 Their existence, however, from the very terms of the proposition, is, at most, problematical and uncertain.",
+   "begin": 204.959,
+   "end": 231.84,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "But standing armies, it may be replied, must inevitably result from a dissolution of the Confederacy.",
+   "begin": 231.84,
+   "end": 237.28,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "Frequent war and constant apprehension, which require a state of as constant preparation, will infallibly produce them.",
+   "begin": 237.28,
+   "end": 243.84,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "The weaker States or confederacies would first have recourse to them, to put themselves upon an equality with their more potent neighbors.",
+   "begin": 243.84,
+   "end": 251.12,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "They would endeavor to supply the inferiority of population and resources by a more regular and effective system of defense, by disciplined troops, and by fortifications.",
+   "begin": 251.12,
+   "end": 260.239,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "They would, at the same time, be necessitated to strengthen the executive arm of government, in doing which their constitutions would acquire a progressive direction toward monarchy.",
+   "begin": 260.239,
+   "end": 269.199,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "It is of the nature of war to increase the executive at the expense of the legislative authority.",
+   "begin": 269.199,
+   "end": 274.8,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "The expedients which have been mentioned would soon give the States or confederacies that made use of them a superiority over their neighbors.",
+   "begin": 274.8,
+   "end": 281.919,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "Small states, or states of less natural strength, under vigorous governments, and with the assistance of disciplined armies, have often triumphed over large states, or states of greater natural strength, which have been destitute of these advantages.",
+   "begin": 281.919,
+   "end": 294.56,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 6,
+   "text": "Neither the pride nor the safety of the more important States or confederacies would permit them long to submit to this mortifying and adventitious superiority.",
+   "begin": 294.56,
+   "end": 303.199,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 6,
+   "text": "They would quickly resort to means similar to those by which it had been effected, to reinstate themselves in their lost pre-eminence.",
+   "begin": 303.199,
+   "end": 310.16,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "Thus, we should, in a little time, see established in every part of this country the same engines of despotism which have been the scourge of the Old World.",
+   "begin": 310.16,
+   "end": 318.56,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "This, at least, would be the natural course of things;",
+   "begin": 318.56,
+   "end": 321.039,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 6,
+   "text": "and our reasonings will be the more likely to be just, in proportion as they are accommodated to this standard.",
+   "begin": 321.039,
+   "end": 326.88,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "These are not vague inferences drawn from supposed or speculative defects in a Constitution, the whole power of which is lodged in the hands of a people, or their representatives and delegates, but they are solid conclusions, drawn from the natural and necessary progress of human affairs.",
+   "begin": 326.88,
+   "end": 342.24,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "It may, perhaps, be asked, by way of objection to this, why did not standing armies spring up out of the contentions which so often distracted the ancient republics of Greece?",
+   "begin": 342.24,
+   "end": 351.44,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "Different answers, equally satisfactory, may be given to this question.",
+   "begin": 351.44,
+   "end": 355.28,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "The industrious habits of the people of the present day, absorbed in the pursuits of gain, and devoted to the improvements of agriculture and commerce, are incompatible with the condition of a nation of soldiers, which was the true condition of the people of those republics.",
+   "begin": 355.28,
+   "end": 368.319,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "The means of revenue, which have been so greatly multiplied by the increase of gold and silver and of the arts of industry, and the science of finance, which is the offspring of modern times, concurring with the habits of nations, have produced an entire revolution in the system of war, and have rendered disciplined armies, distinct from the body of the citizens, the inseparable companions of frequent hostility.",
+   "begin": 368.319,
+   "end": 389.68,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "There is a wide difference, also, between military establishments in a country seldom exposed by its situation to internal invasions, and in one which is often subject to them, and always apprehensive of them.",
+   "begin": 389.68,
+   "end": 400.639,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "The rulers of the former can have a good pretext, if they are even so inclined, to keep on foot armies so numerous as must of necessity be maintained in the latter.",
+   "begin": 400.639,
+   "end": 409.84,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "These armies being, in the first case, rarely, if at all, called into activity for interior defense, the people are in no danger of being broken to military subordination.",
+   "begin": 409.84,
+   "end": 419.759,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "The laws are not accustomed to relaxations, in favor of military exigencies;",
+   "begin": 419.759,
+   "end": 424.479,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "the civil state remains in full vigor, neither corrupted, nor confounded with the principles or propensities of the other state.",
+   "begin": 424.479,
+   "end": 430.96,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "The smallness of the army renders the natural strength of the community an over-match for it;",
+   "begin": 430.96,
+   "end": 435.52,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 9,
+   "text": "and the citizens, not habituated to look up to the military power for protection, or to submit to its oppressions, neither love nor fear the soldiery;",
+   "begin": 435.52,
+   "end": 443.599,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 9,
+   "text": "they view them with a spirit of jealous acquiescence in a necessary evil, and stand ready to resist a power which they suppose may be exerted to the prejudice of their rights.",
+   "begin": 443.599,
+   "end": 452.56,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 9,
+   "text": "The army under such circumstances may usefully aid the magistrate to suppress a small faction, or an occasional mob, or insurrection;",
+   "begin": 452.56,
+   "end": 459.52,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 9,
+   "text": "but it will be unable to enforce encroachments against the united efforts of the great body of the people.",
+   "begin": 459.52,
+   "end": 465.52,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 10,
+   "text": "In a country in the predicament last described, the contrary of all this happens.",
+   "begin": 465.52,
+   "end": 470.319,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 10,
+   "text": "The perpetual menacings of danger oblige the government to be always prepared to repel it;",
+   "begin": 470.319,
+   "end": 474.96,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 10,
+   "text": "its armies must be numerous enough for instant defense.",
+   "begin": 474.96,
+   "end": 478.0,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 10,
+   "text": "The continual necessity for their services enhances the importance of the soldier, and proportionably degrades the condition of the citizen.",
+   "begin": 478.0,
+   "end": 485.28,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 10,
+   "text": "The military state becomes elevated above the civil.",
+   "begin": 485.28,
+   "end": 488.16,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 10,
+   "text": "The inhabitants of territories, often the theatre of war, are unavoidably subjected to frequent infringements on their rights, which serve to weaken their sense of those rights;",
+   "begin": 488.16,
+   "end": 497.36,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 10,
+   "text": "and by degrees the people are brought to consider the soldiery not only as their protectors, but as their superiors.",
+   "begin": 497.36,
+   "end": 503.84,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 10,
+   "text": "The transition from this disposition to that of considering them masters, is neither remote nor difficult;",
+   "begin": 503.84,
+   "end": 510.0,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 10,
+   "text": "but it is very difficult to prevail upon a people under such impressions, to make a bold or effectual resistance to usurpations supported by the military power.",
+   "begin": 510.0,
+   "end": 518.88,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 11,
+   "text": "The kingdom of Great Britain falls within the first description.",
+   "begin": 518.88,
+   "end": 521.919,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 11,
+   "text": "An insular situation, and a powerful marine, guarding it in a great measure against the possibility of foreign invasion, supersede the necessity of a numerous army within the kingdom.",
+   "begin": 521.919,
+   "end": 531.279,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 11,
+   "text": "A sufficient force to make head against a sudden descent, till the militia could have time to rally and embody, is all that has been deemed requisite.",
+   "begin": 531.279,
+   "end": 538.399,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 11,
+   "text": "No motive of national policy has demanded, nor would public opinion have tolerated, a larger number of troops upon its domestic establishment.",
+   "begin": 538.399,
+   "end": 545.92,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 11,
+   "text": "There has been, for a long time past, little room for the operation of the other causes, which have been enumerated as the consequences of internal war.",
+   "begin": 545.92,
+   "end": 554.32,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 11,
+   "text": "This peculiar felicity of situation has, in a great degree, contributed to preserve the liberty which that country to this day enjoys, in spite of the prevalent venality and corruption.",
+   "begin": 554.32,
+   "end": 564.56,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 11,
+   "text": "If, on the contrary, Britain had been situated on the continent, and had been compelled, as she would have been, by that situation, to make her military establishments at home coextensive with those of the other great powers of Europe, she, like them, would in all probability be, at this day, a victim to the absolute power of a single man.",
+   "begin": 564.56,
+   "end": 582.56,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 11,
+   "text": "'T is possible, though not easy, that the people of that island may be enslaved from other causes;",
+   "begin": 582.56,
+   "end": 587.44,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 11,
+   "text": "but it cannot be by the prowess of an army so inconsiderable as that which has been usually kept up within the kingdom.",
+   "begin": 587.44,
+   "end": 594.16,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "If we are wise enough to preserve the Union we may for ages enjoy an advantage similar to that of an insulated situation.",
+   "begin": 594.16,
+   "end": 601.44,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 12,
+   "text": "Europe is at a great distance from us.",
+   "begin": 601.44,
+   "end": 603.44,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 12,
+   "text": "Her colonies in our vicinity will be likely to continue too much disproportioned in strength to be able to give us any dangerous annoyance.",
+   "begin": 603.44,
+   "end": 610.8,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 12,
+   "text": "Extensive military establishments cannot, in this position, be necessary to our security.",
+   "begin": 610.8,
+   "end": 616.24,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 12,
+   "text": "But if we should be disunited, and the integral parts should either remain separated, or, which is most probable, should be thrown together into two or three confederacies, we should be, in a short course of time, in the predicament of the continental powers of Europe --our liberties would be a prey to the means of defending ourselves against the ambition and jealousy of each other.",
+   "begin": 616.24,
+   "end": 636.399,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 13,
+   "text": "This is an idea not superficial or futile, but solid and weighty.",
+   "begin": 636.399,
+   "end": 640.56,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 13,
+   "text": "It deserves the most serious and mature consideration of every prudent and honest man of whatever party.",
+   "begin": 640.56,
+   "end": 646.32,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 13,
+   "text": "If such men will make a firm and solemn pause, and meditate dispassionately on the importance of this interesting idea;",
+   "begin": 646.32,
+   "end": 652.64,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 13,
+   "text": "if they will contemplate it in all its attitudes, and trace it to all its consequences, they will not hesitate to part with trivial objections to a Constitution, the rejection of which would in all probability put a final period to the Union.",
+   "begin": 652.64,
+   "end": 665.44,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 13,
+   "text": "The airy phantoms that flit before the distempered imaginations of some of its adversaries would quickly give place to the more substantial forms of dangers, real, certain, and formidable.",
+   "begin": 665.44,
+   "end": 676.8,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 14,
+   "text": "PUBLIUS.",
+   "begin": 676.8,
+   "end": 677.8,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 15,
+   "text": "1 This objection will be fully examined in its proper place, and it will be shown that the only natural precaution which could have been taken on this subject has been taken;",
+   "begin": 677.8,
+   "end": 677.8,
+   "synced": false
+  },
+  {
+   "id": "u0090",
+   "para": 15,
+   "text": "and a much better one than is to be found in any constitution that has been heretofore framed in America, most of which contain no guard at all on this subject.",
+   "begin": 677.8,
+   "end": 677.8,
+   "synced": false
+  }
+ ]
+}

@@ -1,0 +1,533 @@
+{
+ "paper": 28,
+ "duration": 508.633107,
+ "match_ratio": 0.9857,
+ "heading": [
+  "The Same Subject Continued",
+  "(The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered)",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.88,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THAT there may happen cases in which the national government may be necessitated to resort to force, cannot be denied.",
+   "begin": 16.88,
+   "end": 24.24,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "Our own experience has corroborated the lessons taught by the examples of other nations;",
+   "begin": 24.24,
+   "end": 28.64,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "that emergencies of this sort will sometimes arise in all societies, however constituted;",
+   "begin": 28.64,
+   "end": 33.84,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "that seditions and insurrections are, unhappily, maladies as inseparable from the body politic as tumors and eruptions from the natural body;",
+   "begin": 33.84,
+   "end": 41.76,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "that the idea of governing at all times by the simple force of law (which we have been told is the only admissible principle of republican government), has no place but in the reveries of those political doctors whose sagacity disdains the admonitions of experimental instruction.",
+   "begin": 41.76,
+   "end": 55.76,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Should such emergencies at any time happen under the national government, there could be no remedy but force.",
+   "begin": 55.76,
+   "end": 61.84,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "The means to be employed must be proportioned to the extent of the mischief.",
+   "begin": 61.84,
+   "end": 66.159,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "If it should be a slight commotion in a small part of a State, the militia of the residue would be adequate to its suppression;",
+   "begin": 66.159,
+   "end": 72.479,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "and the national presumption is that they would be ready to do their duty.",
+   "begin": 72.479,
+   "end": 76.0,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "An insurrection, whatever may be its immediate cause, eventually endangers all government.",
+   "begin": 76.0,
+   "end": 81.68,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "Regard to the public peace, if not to the rights of the Union, would engage the citizens to whom the contagion had not communicated itself to oppose the insurgents;",
+   "begin": 81.68,
+   "end": 89.84,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "and if the general government should be found in practice conducive to the prosperity and felicity of the people, it were irrational to believe that they would be disinclined to its support.",
+   "begin": 89.84,
+   "end": 99.119,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "If, on the contrary, the insurrection should pervade a whole State, or a principal part of it, the employment of a different kind of force might become unavoidable.",
+   "begin": 99.119,
+   "end": 107.52,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "It appears that Massachusetts found it necessary to raise troops for repressing the disorders within that State;",
+   "begin": 107.52,
+   "end": 112.64,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "that Pennsylvania, from the mere apprehension of commotions among a part of her citizens, has thought proper to have recourse to the same measure.",
+   "begin": 112.64,
+   "end": 119.439,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "Suppose the State of New York had been inclined to re-establish her lost jurisdiction over the inhabitants of Vermont, could she have hoped for success in such an enterprise from the efforts of the militia alone?",
+   "begin": 119.439,
+   "end": 129.599,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "Would she not have been compelled to raise and to maintain a more regular force for the execution of her design?",
+   "begin": 129.599,
+   "end": 135.36,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "If it must then be admitted that the necessity of recurring to a force different from the militia, in cases of this extraordinary nature, is applicable to the State governments themselves, why should the possibility, that the national government might be under a like necessity, in similar extremities, be made an objection to its existence?",
+   "begin": 135.36,
+   "end": 151.68,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "Is it not surprising that men who declare an attachment to the Union in the abstract, should urge as an objection to the proposed Constitution what applies with tenfold weight to the plan for which they contend;",
+   "begin": 151.68,
+   "end": 161.76,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "and what, as far as it has any foundation in truth, is an inevitable consequence of civil society upon an enlarged scale?",
+   "begin": 161.76,
+   "end": 168.4,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "Who would not prefer that possibility to the unceasing agitations and frequent revolutions which are the continual scourges of petty republics?",
+   "begin": 168.4,
+   "end": 176.319,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "Let us pursue this examination in another light.",
+   "begin": 176.319,
+   "end": 179.2,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "Suppose, in lieu of one general system, two, or three, or even four Confederacies were to be formed, would not the same difficulty oppose itself to the operations of either of these Confederacies?",
+   "begin": 179.2,
+   "end": 190.4,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "Would not each of them be exposed to the same casualties;",
+   "begin": 190.4,
+   "end": 193.36,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "and when these happened, be obliged to have recourse to the same expedients for upholding its authority which are objected to in a government for all the States?",
+   "begin": 193.36,
+   "end": 201.2,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "Would the militia, in this supposition, be more ready or more able to support the federal authority than in the case of a general union?",
+   "begin": 201.2,
+   "end": 208.48,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "All candid and intelligent men must, upon due consideration, acknowledge that the principle of the objection is equally applicable to either of the two cases;",
+   "begin": 208.48,
+   "end": 216.72,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "and that whether we have one government for all the States, or different governments for different parcels of them, or even if there should be an entire separation of the States, there might sometimes be a necessity to make use of a force constituted differently from the militia, to preserve the peace of the community and to maintain the just authority of the laws against those violent invasions of them which amount to insurrections and rebellions.",
+   "begin": 216.72,
+   "end": 238.319,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "Independent of all other reasonings upon the subject, it is a full answer to those who require a more peremptory provision against military establishments in time of peace, to say that the whole power of the proposed government is to be in the hands of the representatives of the people.",
+   "begin": 238.319,
+   "end": 252.0,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "This is the essential, and, after all, only efficacious security for the rights and privileges of the people, which is attainable in civil society.1",
+   "begin": 252.0,
+   "end": 263.199,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "If the representatives of the people betray their constituents, there is then no resource left but in the exertion of that original right of self-defense which is paramount to all positive forms of government, and which against the usurpations of the national rulers, may be exerted with infinitely better prospect of success than against those of the rulers of an individual state.",
+   "begin": 263.199,
+   "end": 282.88,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "In a single state, if the persons intrusted with supreme power become usurpers, the different parcels, subdivisions, or districts of which it consists, having no distinct government in each, can take no regular measures for defense.",
+   "begin": 282.88,
+   "end": 295.44,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "The citizens must rush tumultuously to arms, without concert, without system, without resource;",
+   "begin": 295.44,
+   "end": 300.96,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "except in their courage and despair.",
+   "begin": 300.96,
+   "end": 303.12,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "The usurpers, clothed with the forms of legal authority, can too often crush the opposition in embryo.",
+   "begin": 303.12,
+   "end": 308.639,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 6,
+   "text": "The smaller the extent of the territory, the more difficult will it be for the people to form a regular or systematic plan of opposition, and the more easy will it be to defeat their early efforts.",
+   "begin": 308.639,
+   "end": 318.88,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "Intelligence can be more speedily obtained of their preparations and movements, and the military force in the possession of the usurpers can be more rapidly directed against the part where the opposition has begun.",
+   "begin": 318.88,
+   "end": 329.68,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "In this situation there must be a peculiar coincidence of circumstances to insure success to the popular resistance.",
+   "begin": 329.68,
+   "end": 336.8,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "The obstacles to usurpation and the facilities of resistance increase with the increased extent of the state, provided the citizens understand their rights and are disposed to defend them.",
+   "begin": 336.8,
+   "end": 346.16,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "The natural strength of the people in a large community, in proportion to the artificial strength of the government, is greater than in a small, and of course more competent to a struggle with the attempts of the government to establish a tyranny.",
+   "begin": 346.16,
+   "end": 358.08,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "But in a confederacy the people, without exaggeration, may be said to be entirely the masters of their own fate.",
+   "begin": 358.08,
+   "end": 364.08,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 7,
+   "text": "Power being almost always the rival of power, the general government will at all times stand ready to check the usurpations of the state governments, and these will have the same disposition towards the general government.",
+   "begin": 364.08,
+   "end": 374.96,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "The people, by throwing themselves into either scale, will infallibly make it preponderate.",
+   "begin": 374.96,
+   "end": 379.919,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "If their rights are invaded by either, they can make use of the other as the instrument of redress.",
+   "begin": 379.919,
+   "end": 385.199,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "How wise will it be in them by cherishing the union to preserve to themselves an advantage which can never be too highly prized!",
+   "begin": 385.199,
+   "end": 392.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "It may safely be received as an axiom in our political system, that the State governments will, in all possible contingencies, afford complete security against invasions of the public liberty by the national authority.",
+   "begin": 392.56,
+   "end": 403.919,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "Projects of usurpation cannot be masked under pretenses so likely to escape the penetration of select bodies of men, as of the people at large.",
+   "begin": 403.919,
+   "end": 411.52,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "The legislatures will have better means of information.",
+   "begin": 411.52,
+   "end": 414.319,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "They can discover the danger at a distance;",
+   "begin": 414.319,
+   "end": 416.479,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 8,
+   "text": "and possessing all the organs of civil power, and the confidence of the people, they can at once adopt a regular plan of opposition, in which they can combine all the resources of the community.",
+   "begin": 416.479,
+   "end": 425.759,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 8,
+   "text": "They can readily communicate with each other in the different States, and unite their common forces for the protection of their common liberty.",
+   "begin": 425.759,
+   "end": 432.72,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "The great extent of the country is a further security.",
+   "begin": 432.72,
+   "end": 435.599,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "We have already experienced its utility against the attacks of a foreign power.",
+   "begin": 435.599,
+   "end": 439.44,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "And it would have precisely the same effect against the enterprises of ambitious rulers in the national councils.",
+   "begin": 439.44,
+   "end": 445.84,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 9,
+   "text": "If the federal army should be able to quell the resistance of one State, the distant States would have it in their power to make head with fresh forces.",
+   "begin": 445.84,
+   "end": 453.44,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 9,
+   "text": "The advantages obtained in one place must be abandoned to subdue the opposition in others;",
+   "begin": 453.44,
+   "end": 458.24,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 9,
+   "text": "and the moment the part which had been reduced to submission was left to itself, its efforts would be renewed, and its resistance revive.",
+   "begin": 458.24,
+   "end": 466.0,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "We should recollect that the extent of the military force must, at all events, be regulated by the resources of the country.",
+   "begin": 466.0,
+   "end": 472.24,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 10,
+   "text": "For a long time to come, it will not be possible to maintain a large army;",
+   "begin": 472.24,
+   "end": 476.0,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 10,
+   "text": "and as the means of doing this increase, the population and natural strength of the community will proportionably increase.",
+   "begin": 476.0,
+   "end": 482.639,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 10,
+   "text": "When will the time arrive that the federal government can raise and maintain an army capable of erecting a despotism over the great body of the people of an immense empire, who are in a situation, through the medium of their State governments, to take measures for their own defense, with all the celerity, regularity, and system of independent nations?",
+   "begin": 482.639,
+   "end": 499.599,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 10,
+   "text": "The apprehension may be considered as a disease, for which there can be found no cure in the resources of argument and reasoning.",
+   "begin": 499.599,
+   "end": 507.319,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "PUBLIUS.",
+   "begin": 507.319,
+   "end": 508.319,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 12,
+   "text": "1 Its full efficacy will be examined hereafter.",
+   "begin": 508.319,
+   "end": 508.633107,
+   "synced": false
+  }
+ ]
+}

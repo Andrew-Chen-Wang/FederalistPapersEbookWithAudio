@@ -1,0 +1,653 @@
+{
+ "paper": 30,
+ "duration": 626.845896,
+ "match_ratio": 0.9777,
+ "heading": [
+  "Concerning the General Power of Taxation",
+  "From the New York Packet.",
+  "Friday, December 28, 1787.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.92,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IT HAS been already observed that the federal government ought to possess the power of providing for the support of the national forces;",
+   "begin": 13.92,
+   "end": 20.22,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "in which proposition was intended to be included the expense of raising troops, of building and equipping fleets, and all other expenses in any wise connected with military arrangements and operations.",
+   "begin": 20.22,
+   "end": 30.599,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "But these are not the only objects to which the jurisdiction of the Union, in respect to revenue, must necessarily be empowered to extend.",
+   "begin": 30.599,
+   "end": 37.559,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "It must embrace a provision for the support of the national civil list;",
+   "begin": 37.559,
+   "end": 41.46,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "for the payment of the national debts contracted, or that may be contracted;",
+   "begin": 41.46,
+   "end": 45.78,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "and, in general, for all those matters which will call for disbursements out of the national treasury.",
+   "begin": 45.78,
+   "end": 50.82,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "The conclusion is, that there must be interwoven, in the frame of the government, a general power of taxation, in one shape or another.",
+   "begin": 50.82,
+   "end": 57.62,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "Money is, with propriety, considered as the vital principle of the body politic;",
+   "begin": 57.62,
+   "end": 62.64,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "as that which sustains its life and motion, and enables it to perform its most essential functions.",
+   "begin": 62.64,
+   "end": 67.619,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "A complete power, therefore, to procure a regular and adequate supply of it, as far as the resources of the community will permit, may be regarded as an indispensable ingredient in every constitution.",
+   "begin": 67.619,
+   "end": 78.659,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "From a deficiency in this particular, one of two evils must ensue;",
+   "begin": 78.659,
+   "end": 82.56,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "either the people must be subjected to continual plunder, as a substitute for a more eligible mode of supplying the public wants, or the government must sink into a fatal atrophy, and, in a short course of time, perish.",
+   "begin": 82.56,
+   "end": 95.1,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "In the Ottoman or Turkish empire, the sovereign, though in other respects absolute master of the lives and fortunes of his subjects, has no right to impose a new tax.",
+   "begin": 95.1,
+   "end": 104.22,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "The consequence is that he permits the bashaws or governors of provinces to pillage the people without mercy;",
+   "begin": 104.22,
+   "end": 109.619,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "and, in turn, squeezes out of them the sums of which he stands in need, to satisfy his own exigencies and those of the state.",
+   "begin": 109.619,
+   "end": 116.04,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "In America, from a like cause, the government of the Union has gradually dwindled into a state of decay, approaching nearly to annihilation.",
+   "begin": 116.04,
+   "end": 123.42,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "Who can doubt, that the happiness of the people in both countries would be promoted by competent authorities in the proper hands, to provide the revenues which the necessities of the public might require?",
+   "begin": 123.42,
+   "end": 134.28,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "The present Confederation, feeble as it is intended to repose in the United States, an unlimited power of providing for the pecuniary wants of the Union.",
+   "begin": 134.28,
+   "end": 142.739,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "But proceeding upon an erroneous principle, it has been done in such a manner as entirely to have frustrated the intention.",
+   "begin": 142.739,
+   "end": 149.54,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "Congress, by the articles which compose that compact (as has already been stated), are authorized to ascertain and call for any sums of money necessary, in their judgment, to the service of the United States;",
+   "begin": 149.54,
+   "end": 160.56,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "and their requisitions, if conformable to the rule of apportionment, are in every constitutional sense obligatory upon the States.",
+   "begin": 160.56,
+   "end": 167.239,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "These have no right to question the propriety of the demand;",
+   "begin": 167.239,
+   "end": 170.58,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "no discretion beyond that of devising the ways and means of furnishing the sums demanded.",
+   "begin": 170.58,
+   "end": 175.26,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "But though this be strictly and truly the case;",
+   "begin": 175.26,
+   "end": 177.72,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "though the assumption of such a right would be an infringement of the articles of Union;",
+   "begin": 177.72,
+   "end": 181.62,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "though it may seldom or never have been avowedly claimed, yet in practice it has been constantly exercised, and would continue to be so, as long as the revenues of the Confederacy should remain dependent on the intermediate agency of its members.",
+   "begin": 181.62,
+   "end": 195.54,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "What the consequences of this system have been, is within the knowledge of every man the least conversant in our public affairs, and has been amply unfolded in different parts of these inquiries.",
+   "begin": 195.54,
+   "end": 204.48,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "It is this which has chiefly contributed to reduce us to a situation, which affords ample cause both of mortification to ourselves, and of triumph to our enemies.",
+   "begin": 204.48,
+   "end": 213.659,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "What remedy can there be for this situation, but in a change of the system which has produced it in a change of the fallacious and delusive system of quotas and requisitions?",
+   "begin": 213.659,
+   "end": 222.299,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "What substitute can there be imagined for this ignis fatuus in finance, but that of permitting the national government to raise its own revenues by the ordinary methods of taxation authorized in every well-ordered constitution of civil government?",
+   "begin": 222.299,
+   "end": 235.379,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "Ingenious men may declaim with plausibility on any subject;",
+   "begin": 235.379,
+   "end": 238.739,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "but no human ingenuity can point out any other expedient to rescue us from the inconveniences and embarrassments naturally resulting from defective supplies of the public treasury.",
+   "begin": 238.739,
+   "end": 248.819,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "The more intelligent adversaries of the new Constitution admit the force of this reasoning;",
+   "begin": 248.819,
+   "end": 253.5,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "but they qualify their admission by a distinction between what they call INTERNAL and EXTERNAL taxation.",
+   "begin": 253.5,
+   "end": 259.62,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "The former they would reserve to the State governments;",
+   "begin": 259.62,
+   "end": 261.959,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 6,
+   "text": "the latter, which they explain into commercial imposts, or rather duties on imported articles, they declare themselves willing to concede to the federal head.",
+   "begin": 261.959,
+   "end": 270.3,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "This distinction, however, would violate the maxim of good sense and sound policy, which dictates that every POWER ought to be in proportion to its OBJECT;",
+   "begin": 270.3,
+   "end": 277.919,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "and would still leave the general government in a kind of tutelage to the State governments, inconsistent with every idea of vigor or efficiency.",
+   "begin": 277.919,
+   "end": 285.54,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 6,
+   "text": "Who can pretend that commercial imposts are, or would be, alone equal to the present and future exigencies of the Union?",
+   "begin": 285.54,
+   "end": 292.139,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 6,
+   "text": "Taking into the account the existing debt, foreign and domestic, upon any plan of extinguishment which a man moderately impressed with the importance of public justice and public credit could approve, in addition to the establishments which all parties will acknowledge to be necessary, we could not reasonably flatter ourselves, that this resource alone, upon the most improved scale, would even suffice for its present necessities.",
+   "begin": 292.139,
+   "end": 313.139,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "Its future necessities admit not of calculation or limitation;",
+   "begin": 313.139,
+   "end": 316.74,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "and upon the principle, more than once adverted to, the power of making provision for them as they arise ought to be equally unconfined.",
+   "begin": 316.74,
+   "end": 324.479,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 6,
+   "text": "I believe it may be regarded as a position warranted by the history of mankind, that, IN THE USUAL PROGRESS OF THINGS, THE NECESSITIES OF A NATION, IN EVERY STAGE OF ITS EXISTENCE, WILL BE FOUND AT LEAST EQUAL TO ITS RESOURCES.",
+   "begin": 324.479,
+   "end": 337.08,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "To say that deficiencies may be provided for by requisitions upon the States, is on the one hand to acknowledge that this system cannot be depended upon, and on the other hand to depend upon it for every thing beyond a certain limit.",
+   "begin": 337.08,
+   "end": 349.56,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "Those who have carefully attended to its vices and deformities as they have been exhibited by experience or delineated in the course of these papers, must feel invincible repugnancy to trusting the national interests in any degree to its operation.",
+   "begin": 349.56,
+   "end": 362.1,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "Its inevitable tendency, whenever it is brought into activity, must be to enfeeble the Union, and sow the seeds of discord and contention between the federal head and its members, and between the members themselves.",
+   "begin": 362.1,
+   "end": 374.039,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 7,
+   "text": "Can it be expected that the deficiencies would be better supplied in this mode than the total wants of the Union have heretofore been supplied in the same mode?",
+   "begin": 374.039,
+   "end": 381.84,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 7,
+   "text": "It ought to be recollected that if less will be required from the States, they will have proportionably less means to answer the demand.",
+   "begin": 381.84,
+   "end": 388.68,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 7,
+   "text": "If the opinions of those who contend for the distinction which has been mentioned were to be received as evidence of truth, one would be led to conclude that there was some known point in the economy of national affairs at which it would be safe to stop and to say:",
+   "begin": 388.68,
+   "end": 401.94,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 7,
+   "text": "Thus far the ends of public happiness will be promoted by supplying the wants of government, and all beyond this is unworthy of our care or anxiety.",
+   "begin": 401.94,
+   "end": 409.979,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 7,
+   "text": "How is it possible that a government half supplied and always necessitous, can fulfill the purposes of its institution, can provide for the security, advance the prosperity, or support the reputation of the commonwealth?",
+   "begin": 409.979,
+   "end": 421.919,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 7,
+   "text": "How can it ever possess either energy or stability, dignity or credit, confidence at home or respectability abroad?",
+   "begin": 421.919,
+   "end": 428.4,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "How can its administration be any thing else than a succession of expedients temporizing, impotent, disgraceful?",
+   "begin": 428.4,
+   "end": 435.0,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "How will it be able to avoid a frequent sacrifice of its engagements to immediate necessity?",
+   "begin": 435.0,
+   "end": 439.979,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "How can it undertake or execute any liberal or enlarged plans of public good?",
+   "begin": 439.979,
+   "end": 444.419,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 8,
+   "text": "Let us attend to what would be the effects of this situation in the very first war in which we should happen to be engaged.",
+   "begin": 444.419,
+   "end": 450.599,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 8,
+   "text": "We will presume, for argument's sake, that the revenue arising from the impost duties answers the purposes of a provision for the public debt and of a peace establishment for the Union.",
+   "begin": 450.599,
+   "end": 460.16,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 8,
+   "text": "Thus circumstanced, a war breaks out.",
+   "begin": 460.16,
+   "end": 463.259,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 8,
+   "text": "What would be the probable conduct of the government in such an emergency?",
+   "begin": 463.259,
+   "end": 466.88,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "Taught by experience that proper dependence could not be placed on the success of requisitions, unable by its own authority to lay hold of fresh resources, and urged by considerations of national danger, would it not be driven to the expedient of diverting the funds already appropriated from their proper objects to the defense of the State?",
+   "begin": 466.88,
+   "end": 484.08,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "It is not easy to see how a step of this kind could be avoided;",
+   "begin": 484.08,
+   "end": 487.74,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "and if it should be taken, it is evident that it would prove the destruction of public credit at the very moment that it was becoming essential to the public safety.",
+   "begin": 487.74,
+   "end": 495.9,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "To imagine that at such a crisis credit might be dispensed with, would be the extreme of infatuation.",
+   "begin": 495.9,
+   "end": 501.419,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "In the modern system of war, nations the most wealthy are obliged to have recourse to large loans.",
+   "begin": 501.419,
+   "end": 506.94,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "A country so little opulent as ours must feel this necessity in a much stronger degree.",
+   "begin": 506.94,
+   "end": 512.099,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "But who would lend to a government that prefaced its overtures for borrowing by an act which demonstrated that no reliance could be placed on the steadiness of its measures for paying?",
+   "begin": 512.099,
+   "end": 520.62,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 8,
+   "text": "The loans it might be able to procure would be as limited in their extent as burdensome in their conditions.",
+   "begin": 520.62,
+   "end": 525.779,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 8,
+   "text": "They would be made upon the same principles that usurers commonly lend to bankrupt and fraudulent debtors, with a sparing hand and at enormous premiums.",
+   "begin": 525.779,
+   "end": 535.38,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "It may perhaps be imagined that, from the scantiness of the resources of the country, the necessity of diverting the established funds in the case supposed would exist, though the national government should possess an unrestrained power of taxation.",
+   "begin": 535.38,
+   "end": 547.38,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "But two considerations will serve to quiet all apprehension on this head:",
+   "begin": 547.38,
+   "end": 551.339,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 9,
+   "text": "one is, that we are sure the resources of the community, in their full extent, will be brought into activity for the benefit of the Union;",
+   "begin": 551.339,
+   "end": 557.94,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 9,
+   "text": "the other is, that whatever deficiences there may be, can without difficulty be supplied by loans.",
+   "begin": 557.94,
+   "end": 563.94,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 10,
+   "text": "The power of creating new funds upon new objects of taxation, by its own authority, would enable the national government to borrow as far as its necessities might require.",
+   "begin": 563.94,
+   "end": 572.76,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 10,
+   "text": "Foreigners, as well as the citizens of America, could then reasonably repose confidence in its engagements;",
+   "begin": 572.76,
+   "end": 578.1,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 10,
+   "text": "but to depend upon a government that must itself depend upon thirteen other governments for the means of fulfilling its contracts, when once its situation is clearly understood, would require a degree of credulity not often to be met with in the pecuniary transactions of mankind, and little reconcilable with the usual sharp-sightedness of avarice.",
+   "begin": 578.1,
+   "end": 596.82,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 11,
+   "text": "Reflections of this kind may have trifling weight with men who hope to see realized in America the halcyon scenes of the poetic or fabulous age;",
+   "begin": 596.82,
+   "end": 604.5,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 11,
+   "text": "but to those who believe we are likely to experience a common portion of the vicissitudes and calamities which have fallen to the lot of other nations, they must appear entitled to serious attention.",
+   "begin": 604.5,
+   "end": 614.16,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 11,
+   "text": "Such men must behold the actual situation of their country with painful solicitude, and deprecate the evils which ambition or revenge might, with too much facility, inflict upon it.",
+   "begin": 614.16,
+   "end": 625.26,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 12,
+   "text": "PUBLIUS.",
+   "begin": 625.26,
+   "end": 626.845896,
+   "synced": true
+  }
+ ]
+}

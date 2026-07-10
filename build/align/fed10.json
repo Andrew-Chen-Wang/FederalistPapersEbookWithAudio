@@ -1,0 +1,1013 @@
+{
+ "paper": 10,
+ "duration": 976.329433,
+ "match_ratio": 0.985,
+ "heading": [
+  "The Same Subject Continued",
+  "The Union as a Safeguard Against Domestic Faction and Insurrection",
+  "From the New York Packet. Friday, November 23, 1787.",
+  "MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 17.76,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "AMONG the numerous advantages promised by a wellconstructed Union, none deserves to be more accurately developed than its tendency to break and control the violence of faction.",
+   "begin": 17.76,
+   "end": 27.199,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The friend of popular governments never finds himself so much alarmed for their character and fate, as when he contemplates their propensity to this dangerous vice.",
+   "begin": 27.199,
+   "end": 36.079,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "He will not fail, therefore, to set a due value on any plan which, without violating the principles to which he is attached, provides a proper cure for it.",
+   "begin": 36.079,
+   "end": 44.719,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "The instability, injustice, and confusion introduced into the public councils, have, in truth, been the mortal diseases under which popular governments have everywhere perished;",
+   "begin": 44.719,
+   "end": 54.32,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "as they continue to be the favorite and fruitful topics from which the adversaries to liberty derive their most specious declamations.",
+   "begin": 54.32,
+   "end": 61.6,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "The valuable improvements made by the American constitutions on the popular models, both ancient and modern, cannot certainly be too much admired;",
+   "begin": 61.6,
+   "end": 69.04,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "but it would be an unwarrantable partiality, to contend that they have as effectually obviated the danger on this side, as was wished and expected.",
+   "begin": 69.04,
+   "end": 77.439,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "Complaints are everywhere heard from our most considerate and virtuous citizens, equally the friends of public and private faith, and of public and personal liberty, that our governments are too unstable, that the public good is disregarded in the conflicts of rival parties, and that measures are too often decided, not according to the rules of justice and the rights of the minor party, but by the superior force of an interested and overbearing majority.",
+   "begin": 77.439,
+   "end": 100.799,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "However anxiously we may wish that these complaints had no foundation, the evidence, of known facts will not permit us to deny that they are in some degree true.",
+   "begin": 100.799,
+   "end": 109.52,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "It will be found, indeed, on a candid review of our situation, that some of the distresses under which we labor have been erroneously charged on the operation of our governments;",
+   "begin": 109.52,
+   "end": 118.399,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 1,
+   "text": "but it will be found, at the same time, that other causes will not alone account for many of our heaviest misfortunes;",
+   "begin": 118.399,
+   "end": 124.24,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 1,
+   "text": "and, particularly, for that prevailing and increasing distrust of public engagements, and alarm for private rights, which are echoed from one end of the continent to the other.",
+   "begin": 124.24,
+   "end": 133.44,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 1,
+   "text": "These must be chiefly, if not wholly, effects of the unsteadiness and injustice with which a factious spirit has tainted our public administrations.",
+   "begin": 133.44,
+   "end": 142.319,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "By a faction, I understand a number of citizens, whether amounting to a majority or a minority of the whole, who are united and actuated by some common impulse of passion, or of interest, adversed to the rights of other citizens, or to the permanent and aggregate interests of the community.",
+   "begin": 142.319,
+   "end": 158.239,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "There are two methods of curing the mischiefs of faction:",
+   "begin": 158.239,
+   "end": 161.12,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "the one, by removing its causes;",
+   "begin": 161.12,
+   "end": 163.04,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "the other, by controlling its effects.",
+   "begin": 163.04,
+   "end": 165.44,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "There are again two methods of removing the causes of faction:",
+   "begin": 165.44,
+   "end": 168.8,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "the one, by destroying the liberty which is essential to its existence;",
+   "begin": 168.8,
+   "end": 172.48,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "the other, by giving to every citizen the same opinions, the same passions, and the same interests.",
+   "begin": 172.48,
+   "end": 177.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "It could never be more truly said than of the first remedy, that it was worse than the disease.",
+   "begin": 177.92,
+   "end": 183.44,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "Liberty is to faction what air is to fire, an aliment without which it instantly expires.",
+   "begin": 183.44,
+   "end": 189.519,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "But it could not be less folly to abolish liberty, which is essential to political life, because it nourishes faction, than it would be to wish the annihilation of air, which is essential to animal life, because it imparts to fire its destructive agency.",
+   "begin": 189.519,
+   "end": 203.12,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "The second expedient is as impracticable as the first would be unwise.",
+   "begin": 203.12,
+   "end": 207.68,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "As long as the reason of man continues fallible, and he is at liberty to exercise it, different opinions will be formed.",
+   "begin": 207.68,
+   "end": 214.08,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "As long as the connection subsists between his reason and his self-love, his opinions and his passions will have a reciprocal influence on each other;",
+   "begin": 214.08,
+   "end": 221.84,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "and the former will be objects to which the latter will attach themselves.",
+   "begin": 221.84,
+   "end": 225.76,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "The diversity in the faculties of men, from which the rights of property originate, is not less an insuperable obstacle to a uniformity of interests.",
+   "begin": 225.76,
+   "end": 234.159,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "The protection of these faculties is the first object of government.",
+   "begin": 234.159,
+   "end": 237.84,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "From the protection of different and unequal faculties of acquiring property, the possession of different degrees and kinds of property immediately results;",
+   "begin": 237.84,
+   "end": 245.84,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "and from the influence of these on the sentiments and views of the respective proprietors, ensues a division of the society into different interests and parties.",
+   "begin": 245.84,
+   "end": 254.4,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "The latent causes of faction are thus sown in the nature of man;",
+   "begin": 254.4,
+   "end": 257.919,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "and we see them everywhere brought into different degrees of activity, according to the different circumstances of civil society.",
+   "begin": 257.919,
+   "end": 264.32,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "A zeal for different opinions concerning religion, concerning government, and many other points, as well of speculation as of practice;",
+   "begin": 264.32,
+   "end": 271.44,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "an attachment to different leaders ambitiously contending for pre-eminence and power;",
+   "begin": 271.44,
+   "end": 275.44,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "or to persons of other descriptions whose fortunes have been interesting to the human passions, have, in turn, divided mankind into parties, inflamed them with mutual animosity, and rendered them much more disposed to vex and oppress each other than to co-operate for their common good.",
+   "begin": 275.44,
+   "end": 290.639,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 7,
+   "text": "So strong is this propensity of mankind to fall into mutual animosities, that where no substantial occasion presents itself, the most frivolous and fanciful distinctions have been sufficient to kindle their unfriendly passions and excite their most violent conflicts.",
+   "begin": 290.639,
+   "end": 305.199,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 7,
+   "text": "But the most common and durable source of factions has been the various and unequal distribution of property.",
+   "begin": 305.199,
+   "end": 311.759,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "Those who hold and those who are without property have ever formed distinct interests in society.",
+   "begin": 311.759,
+   "end": 317.68,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "Those who are creditors, and those who are debtors, fall under a like discrimination.",
+   "begin": 317.68,
+   "end": 322.0,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "A landed interest, a manufacturing interest, a mercantile interest, a moneyed interest, with many lesser interests, grow up of necessity in civilized nations, and divide them into different classes, actuated by different sentiments and views.",
+   "begin": 322.0,
+   "end": 336.0,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 7,
+   "text": "The regulation of these various and interfering interests forms the principal task of modern legislation, and involves the spirit of party and faction in the necessary and ordinary operations of the government.",
+   "begin": 336.0,
+   "end": 347.52,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "No man is allowed to be a judge in his own cause, because his interest would certainly bias his judgment, and, not improbably, corrupt his integrity.",
+   "begin": 347.52,
+   "end": 356.16,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 8,
+   "text": "With equal, nay with greater reason, a body of men are unfit to be both judges and parties at the same time;",
+   "begin": 356.16,
+   "end": 362.56,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "yet what are many of the most important acts of legislation, but so many judicial determinations, not indeed concerning the rights of single persons, but concerning the rights of large bodies of citizens?",
+   "begin": 362.56,
+   "end": 372.72,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "And what are the different classes of legislators but advocates and parties to the causes which they determine?",
+   "begin": 372.72,
+   "end": 378.24,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "Is a law proposed concerning private debts?",
+   "begin": 378.24,
+   "end": 380.96,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "It is a question to which the creditors are parties on one side and the debtors on the other.",
+   "begin": 380.96,
+   "end": 385.84,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "Justice ought to hold the balance between them.",
+   "begin": 385.84,
+   "end": 388.08,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 8,
+   "text": "Yet the parties are, and must be, themselves the judges;",
+   "begin": 388.08,
+   "end": 391.44,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 8,
+   "text": "and the most numerous party, or, in other words, the most powerful faction must be expected to prevail.",
+   "begin": 391.44,
+   "end": 397.28,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 8,
+   "text": "Shall domestic manufactures be encouraged, and in what degree, by restrictions on foreign manufactures?",
+   "begin": 397.28,
+   "end": 402.8,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 8,
+   "text": "are questions which would be differently decided by the landed and the manufacturing classes, and probably by neither with a sole regard to justice and the public good.",
+   "begin": 402.8,
+   "end": 411.52,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 8,
+   "text": "The apportionment of taxes on the various descriptions of property is an act which seems to require the most exact impartiality;",
+   "begin": 411.52,
+   "end": 419.039,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 8,
+   "text": "yet there is, perhaps, no legislative act in which greater opportunity and temptation are given to a predominant party to trample on the rules of justice.",
+   "begin": 419.039,
+   "end": 427.44,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 8,
+   "text": "Every shilling with which they overburden the inferior number, is a shilling saved to their own pockets.",
+   "begin": 427.44,
+   "end": 433.52,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 9,
+   "text": "It is in vain to say that enlightened statesmen will be able to adjust these clashing interests, and render them all subservient to the public good.",
+   "begin": 433.52,
+   "end": 441.12,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 9,
+   "text": "Enlightened statesmen will not always be at the helm.",
+   "begin": 441.12,
+   "end": 443.919,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 9,
+   "text": "Nor, in many cases, can such an adjustment be made at all without taking into view indirect and remote considerations, which will rarely prevail over the immediate interest which one party may find in disregarding the rights of another or the good of the whole.",
+   "begin": 443.919,
+   "end": 457.44,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 10,
+   "text": "The inference to which we are brought is, that the CAUSES of faction cannot be removed, and that relief is only to be sought in the means of controlling its EFFECTS.",
+   "begin": 457.44,
+   "end": 466.879,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "If a faction consists of less than a majority, relief is supplied by the republican principle, which enables the majority to defeat its sinister views by regular vote.",
+   "begin": 466.879,
+   "end": 476.319,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "It may clog the administration, it may convulse the society;",
+   "begin": 476.319,
+   "end": 479.52,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "but it will be unable to execute and mask its violence under the forms of the Constitution.",
+   "begin": 479.52,
+   "end": 484.96,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "When a majority is included in a faction, the form of popular government, on the other hand, enables it to sacrifice to its ruling passion or interest both the public good and the rights of other citizens.",
+   "begin": 484.96,
+   "end": 496.24,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "To secure the public good and private rights against the danger of such a faction, and at the same time to preserve the spirit and the form of popular government, is then the great object to which our inquiries are directed.",
+   "begin": 496.24,
+   "end": 506.96,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 11,
+   "text": "Let me add that it is the great desideratum by which this form of government can be rescued from the opprobrium under which it has so long labored, and be recommended to the esteem and adoption of mankind.",
+   "begin": 506.96,
+   "end": 518.159,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "By what means is this object attainable?",
+   "begin": 518.159,
+   "end": 520.56,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "Evidently by one of two only.",
+   "begin": 520.56,
+   "end": 522.8,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 12,
+   "text": "Either the existence of the same passion or interest in a majority at the same time must be prevented, or the majority, having such coexistent passion or interest, must be rendered, by their number and local situation, unable to concert and carry into effect schemes of oppression.",
+   "begin": 522.8,
+   "end": 538.399,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 12,
+   "text": "If the impulse and the opportunity be suffered to coincide, we well know that neither moral nor religious motives can be relied on as an adequate control.",
+   "begin": 538.399,
+   "end": 547.04,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 12,
+   "text": "They are not found to be such on the injustice and violence of individuals, and lose their efficacy in proportion to the number combined together, that is, in proportion as their efficacy becomes needful.",
+   "begin": 547.04,
+   "end": 557.92,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 13,
+   "text": "From this view of the subject it may be concluded that a pure democracy, by which I mean a society consisting of a small number of citizens, who assemble and administer the government in person, can admit of no cure for the mischiefs of faction.",
+   "begin": 557.92,
+   "end": 570.0,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 13,
+   "text": "A common passion or interest will, in almost every case, be felt by a majority of the whole;",
+   "begin": 570.0,
+   "end": 575.12,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 13,
+   "text": "a communication and concert result from the form of government itself;",
+   "begin": 575.12,
+   "end": 578.72,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 13,
+   "text": "and there is nothing to check the inducements to sacrifice the weaker party or an obnoxious individual.",
+   "begin": 578.72,
+   "end": 584.399,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 13,
+   "text": "Hence it is that such democracies have ever been spectacles of turbulence and contention;",
+   "begin": 584.399,
+   "end": 588.959,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 13,
+   "text": "have ever been found incompatible with personal security or the rights of property;",
+   "begin": 588.959,
+   "end": 593.04,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 13,
+   "text": "and have in general been as short in their lives as they have been violent in their deaths.",
+   "begin": 593.04,
+   "end": 599.279,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 13,
+   "text": "Theoretic politicians, who have patronized this species of government, have erroneously supposed that by reducing mankind to a perfect equality in their political rights, they would, at the same time, be perfectly equalized and assimilated in their possessions, their opinions, and their passions.",
+   "begin": 599.279,
+   "end": 615.04,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 14,
+   "text": "A republic, by which I mean a government in which the scheme of representation takes place, opens a different prospect, and promises the cure for which we are seeking.",
+   "begin": 615.04,
+   "end": 624.079,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 14,
+   "text": "Let us examine the points in which it varies from pure democracy, and we shall comprehend both the nature of the cure and the efficacy which it must derive from the Union.",
+   "begin": 624.079,
+   "end": 633.68,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 15,
+   "text": "The two great points of difference between a democracy and a republic are:",
+   "begin": 633.68,
+   "end": 637.36,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 15,
+   "text": "first, the delegation of the government, in the latter, to a small number of citizens elected by the rest;",
+   "begin": 637.36,
+   "end": 642.56,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 15,
+   "text": "secondly, the greater number of citizens, and greater sphere of country, over which the latter may be extended.",
+   "begin": 642.56,
+   "end": 648.72,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 16,
+   "text": "The effect of the first difference is, on the one hand, to refine and enlarge the public views, by passing them through the medium of a chosen body of citizens, whose wisdom may best discern the true interest of their country, and whose patriotism and love of justice will be least likely to sacrifice it to temporary or partial considerations.",
+   "begin": 648.72,
+   "end": 666.72,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 16,
+   "text": "Under such a regulation, it may well happen that the public voice, pronounced by the representatives of the people, will be more consonant to the public good than if pronounced by the people themselves, convened for the purpose.",
+   "begin": 666.72,
+   "end": 678.079,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 16,
+   "text": "On the other hand, the effect may be inverted.",
+   "begin": 678.079,
+   "end": 680.8,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 16,
+   "text": "Men of factious tempers, of local prejudices, or of sinister designs, may, by intrigue, by corruption, or by other means, first obtain the suffrages, and then betray the interests, of the people.",
+   "begin": 680.8,
+   "end": 691.839,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 16,
+   "text": "The question resulting is, whether small or extensive republics are more favorable to the election of proper guardians of the public weal;",
+   "begin": 691.839,
+   "end": 699.2,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 16,
+   "text": "and it is clearly decided in favor of the latter by two obvious considerations:",
+   "begin": 699.2,
+   "end": 704.079,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 17,
+   "text": "In the first place, it is to be remarked that, however small the republic may be, the representatives must be raised to a certain number, in order to guard against the cabals of a few;",
+   "begin": 704.079,
+   "end": 713.519,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 17,
+   "text": "and that, however large it may be, they must be limited to a certain number, in order to guard against the confusion of a multitude.",
+   "begin": 713.519,
+   "end": 719.6,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 17,
+   "text": "Hence, the number of representatives in the two cases not being in proportion to that of the two constituents, and being proportionally greater in the small republic, it follows that, if the proportion of fit characters be not less in the large than in the small republic, the former will present a greater option, and consequently a greater probability of a fit choice.",
+   "begin": 719.6,
+   "end": 738.959,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 18,
+   "text": "In the next place, as each representative will be chosen by a greater number of citizens in the large than in the small republic, it will be more difficult for unworthy candidates to practice with success the vicious arts by which elections are too often carried;",
+   "begin": 738.959,
+   "end": 752.8,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 18,
+   "text": "and the suffrages of the people being more free, will be more likely to centre in men who possess the most attractive merit and the most diffusive and established characters.",
+   "begin": 752.8,
+   "end": 762.16,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 19,
+   "text": "It must be confessed that in this, as in most other cases, there is a mean, on both sides of which inconveniences will be found to lie.",
+   "begin": 762.16,
+   "end": 769.519,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 19,
+   "text": "By enlarging too much the number of electors, you render the representatives too little acquainted with all their local circumstances and lesser interests;",
+   "begin": 769.519,
+   "end": 777.12,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 19,
+   "text": "as by reducing it too much, you render him unduly attached to these, and too little fit to comprehend and pursue great and national objects.",
+   "begin": 777.12,
+   "end": 784.8,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 19,
+   "text": "The federal Constitution forms a happy combination in this respect;",
+   "begin": 784.8,
+   "end": 788.399,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 19,
+   "text": "the great and aggregate interests being referred to the national, the local and particular to the State legislatures.",
+   "begin": 788.399,
+   "end": 794.72,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 20,
+   "text": "The other point of difference is, the greater number of citizens and extent of territory which may be brought within the compass of republican than of democratic government;",
+   "begin": 794.72,
+   "end": 802.88,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 20,
+   "text": "and it is this circumstance principally which renders factious combinations less to be dreaded in the former than in the latter.",
+   "begin": 802.88,
+   "end": 810.079,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 20,
+   "text": "The smaller the society, the fewer probably will be the distinct parties and interests composing it;",
+   "begin": 810.079,
+   "end": 815.68,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 20,
+   "text": "the fewer the distinct parties and interests, the more frequently will a majority be found of the same party;",
+   "begin": 815.68,
+   "end": 820.959,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 20,
+   "text": "and the smaller the number of individuals composing a majority, and the smaller the compass within which they are placed, the more easily will they concert and execute their plans of oppression.",
+   "begin": 820.959,
+   "end": 830.959,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 20,
+   "text": "Extend the sphere, and you take in a greater variety of parties and interests;",
+   "begin": 830.959,
+   "end": 835.6,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 20,
+   "text": "you make it less probable that a majority of the whole will have a common motive to invade the rights of other citizens;",
+   "begin": 835.6,
+   "end": 841.519,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 20,
+   "text": "or if such a common motive exists, it will be more difficult for all who feel it to discover their own strength, and to act in unison with each other.",
+   "begin": 841.519,
+   "end": 850.24,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 20,
+   "text": "Besides other impediments, it may be remarked that, where there is a consciousness of unjust or dishonorable purposes, communication is always checked by distrust in proportion to the number whose concurrence is necessary.",
+   "begin": 850.24,
+   "end": 862.399,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 21,
+   "text": "Hence, it clearly appears, that the same advantage which a republic has over a democracy, in controlling the effects of faction, is enjoyed by a large over a small republic,--is enjoyed by the Union over the States composing it.",
+   "begin": 862.399,
+   "end": 874.959,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 21,
+   "text": "Does the advantage consist in the substitution of representatives whose enlightened views and virtuous sentiments render them superior to local prejudices and schemes of injustice?",
+   "begin": 874.959,
+   "end": 884.959,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 21,
+   "text": "It will not be denied that the representation of the Union will be most likely to possess these requisite endowments.",
+   "begin": 884.959,
+   "end": 890.8,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 21,
+   "text": "Does it consist in the greater security afforded by a greater variety of parties, against the event of any one party being able to outnumber and oppress the rest?",
+   "begin": 890.8,
+   "end": 899.839,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 21,
+   "text": "In an equal degree does the increased variety of parties comprised within the Union, increase this security.",
+   "begin": 899.839,
+   "end": 905.76,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 21,
+   "text": "Does it, in fine, consist in the greater obstacles opposed to the concert and accomplishment of the secret wishes of an unjust and interested majority?",
+   "begin": 905.76,
+   "end": 914.24,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 21,
+   "text": "Here, again, the extent of the Union gives it the most palpable advantage.",
+   "begin": 914.24,
+   "end": 918.8,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 22,
+   "text": "The influence of factious leaders may kindle a flame within their particular States, but will be unable to spread a general conflagration through the other States.",
+   "begin": 918.8,
+   "end": 926.88,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 22,
+   "text": "A religious sect may degenerate into a political faction in a part of the Confederacy;",
+   "begin": 926.88,
+   "end": 931.36,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 22,
+   "text": "but the variety of sects dispersed over the entire face of it must secure the national councils against any danger from that source.",
+   "begin": 931.36,
+   "end": 938.88,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 22,
+   "text": "A rage for paper money, for an abolition of debts, for an equal division of property, or for any other improper or wicked project, will be less apt to pervade the whole body of the Union than a particular member of it;",
+   "begin": 938.88,
+   "end": 950.079,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 22,
+   "text": "in the same proportion as such a malady is more likely to taint a particular county or district, than an entire State.",
+   "begin": 950.079,
+   "end": 957.44,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 23,
+   "text": "In the extent and proper structure of the Union, therefore, we behold a republican remedy for the diseases most incident to republican government.",
+   "begin": 957.44,
+   "end": 965.44,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 23,
+   "text": "And according to the degree of pleasure and pride we feel in being republicans, ought to be our zeal in cherishing the spirit and supporting the character of Federalists.",
+   "begin": 965.44,
+   "end": 975.0,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 24,
+   "text": "PUBLIUS.",
+   "begin": 975.0,
+   "end": 976.329433,
+   "synced": true
+  }
+ ]
+}

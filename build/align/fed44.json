@@ -1,0 +1,587 @@
+{
+ "paper": 44,
+ "duration": 921.55356,
+ "match_ratio": 0.9874,
+ "heading": [
+  "Restrictions on the Authority of the Several States",
+  "From the New York Packet. Friday, January 25, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.44,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "A FIFTH class of provisions in favor of the federal authority consists of the following restrictions on the authority of the several States:",
+   "begin": 15.44,
+   "end": 43.84,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "''The prohibition against treaties, alliances, and confederations makes a part of the existing articles of Union;",
+   "begin": 43.84,
+   "end": 49.12,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "and for reasons which need no explanation, is copied into the new Constitution.",
+   "begin": 49.12,
+   "end": 53.76,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "The prohibition of letters of marque is another part of the old system, but is somewhat extended in the new.",
+   "begin": 53.76,
+   "end": 59.28,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "According to the former, letters of marque could be granted by the States after a declaration of war;",
+   "begin": 59.28,
+   "end": 64.4,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "according to the latter, these licenses must be obtained, as well during war as previous to its declaration, from the government of the United States.",
+   "begin": 64.4,
+   "end": 72.24,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "This alteration is fully justified by the advantage of uniformity in all points which relate to foreign powers;",
+   "begin": 72.24,
+   "end": 77.92,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "and of immediate responsibility to the nation in all those for whose conduct the nation itself is to be responsible.",
+   "begin": 77.92,
+   "end": 84.479,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "The right of coining money, which is here taken from the States, was left in their hands by the Confederation, as a concurrent right with that of Congress, under an exception in favor of the exclusive right of Congress to regulate the alloy and value.",
+   "begin": 84.479,
+   "end": 97.36,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "In this instance, also, the new provision is an improvement on the old.",
+   "begin": 97.36,
+   "end": 101.36,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "Whilst the alloy and value depended on the general authority, a right of coinage in the particular States could have no other effect than to multiply expensive mints and diversify the forms and weights of the circulating pieces.",
+   "begin": 101.36,
+   "end": 113.04,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "The latter inconveniency defeats one purpose for which the power was originally submitted to the federal head;",
+   "begin": 113.04,
+   "end": 118.399,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "and as far as the former might prevent an inconvenient remittance of gold and silver to the central mint for recoinage, the end can be as well attained by local mints established under the general authority.",
+   "begin": 118.399,
+   "end": 129.84,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "The extension of the prohibition to bills of credit must give pleasure to every citizen, in proportion to his love of justice and his knowledge of the true springs of public prosperity.",
+   "begin": 129.84,
+   "end": 139.599,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "The loss which America has sustained since the peace, from the pestilent effects of paper money on the necessary confidence between man and man, on the necessary confidence in the public councils, on the industry and morals of the people, and on the character of republican government, constitutes an enormous debt against the States chargeable with this unadvised measure, which must long remain unsatisfied;",
+   "begin": 139.599,
+   "end": 160.0,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "or rather an accumulation of guilt, which can be expiated no otherwise than by a voluntary sacrifice on the altar of justice, of the power which has been the instrument of it.",
+   "begin": 160.0,
+   "end": 169.2,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "In addition to these persuasive considerations, it may be observed, that the same reasons which show the necessity of denying to the States the power of regulating coin, prove with equal force that they ought not to be at liberty to substitute a paper medium in the place of coin.",
+   "begin": 169.2,
+   "end": 183.599,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Had every State a right to regulate the value of its coin, there might be as many different currencies as States, and thus the intercourse among them would be impeded;",
+   "begin": 183.599,
+   "end": 192.159,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "retrospective alterations in its value might be made, and thus the citizens of other States be injured, and animosities be kindled among the States themselves.",
+   "begin": 192.159,
+   "end": 200.56,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "The subjects of foreign powers might suffer from the same cause, and hence the Union be discredited and embroiled by the indiscretion of a single member.",
+   "begin": 200.56,
+   "end": 209.2,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "No one of these mischiefs is less incident to a power in the States to emit paper money, than to coin gold or silver.",
+   "begin": 209.2,
+   "end": 215.599,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "The power to make any thing but gold and silver a tender in payment of debts, is withdrawn from the States, on the same principle with that of issuing a paper currency.",
+   "begin": 215.599,
+   "end": 224.4,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "Bills of attainder, ex-post-facto laws, and laws impairing the obligation of contracts, are contrary to the first principles of the social compact, and to every principle of sound legislation.",
+   "begin": 224.4,
+   "end": 234.64,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "The two former are expressly prohibited by the declarations prefixed to some of the State constitutions, and all of them are prohibited by the spirit and scope of these fundamental charters.",
+   "begin": 234.64,
+   "end": 244.4,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "Our own experience has taught us, nevertheless, that additional fences against these dangers ought not to be omitted.",
+   "begin": 244.4,
+   "end": 250.4,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "Very properly, therefore, have the convention added this constitutional bulwark in favor of personal security and private rights;",
+   "begin": 250.4,
+   "end": 257.199,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "and I am much deceived if they have not, in so doing, as faithfully consulted the genuine sentiments as the undoubted interests of their constituents.",
+   "begin": 257.199,
+   "end": 264.96,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "The sober people of America are weary of the fluctuating policy which has directed the public councils.",
+   "begin": 264.96,
+   "end": 270.4,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "They have seen with regret and indignation that sudden changes and legislative interferences, in cases affecting personal rights, become jobs in the hands of enterprising and influential speculators, and snares to the more-industrious and lessinformed part of the community.",
+   "begin": 270.4,
+   "end": 284.72,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "They have seen, too, that one legislative interference is but the first link of a long chain of repetitions, every subsequent interference being naturally produced by the effects of the preceding.",
+   "begin": 284.72,
+   "end": 294.88,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "They very rightly infer, therefore, that some thorough reform is wanting, which will banish speculations on public measures, inspire a general prudence and industry, and give a regular course to the business of society.",
+   "begin": 294.88,
+   "end": 306.4,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "The prohibition with respect to titles of nobility is copied from the articles of Confederation and needs no comment.",
+   "begin": 306.4,
+   "end": 386.479,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "The SIXTH and last class consists of the several powers and provisions by which efficacy is given to all the rest.",
+   "begin": 386.479,
+   "end": 407.759,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "''Few parts of the Constitution have been assailed with more intemperance than this;",
+   "begin": 407.759,
+   "end": 411.68,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "yet on a fair investigation of it, no part can appear more completely invulnerable.",
+   "begin": 411.68,
+   "end": 416.08,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 6,
+   "text": "Without the SUBSTANCE of this power, the whole Constitution would be a dead letter.",
+   "begin": 416.08,
+   "end": 420.479,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "Those who object to the article, therefore, as a part of the Constitution, can only mean that the FORM of the provision is improper.",
+   "begin": 420.479,
+   "end": 426.8,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "But have they considered whether a better form could have been substituted?",
+   "begin": 426.8,
+   "end": 430.479,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 6,
+   "text": "There are four other possible methods which the Constitution might have taken on this subject.",
+   "begin": 430.479,
+   "end": 435.199,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 6,
+   "text": "They might have copied the second article of the existing Confederation, which would have prohibited the exercise of any power not EXPRESSLY delegated;",
+   "begin": 435.199,
+   "end": 443.039,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "they might have attempted a positive enumeration of the powers comprehended under the general terms \"necessary and proper'';",
+   "begin": 443.039,
+   "end": 449.039,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "they might have attempted a negative enumeration of them, by specifying the powers excepted from the general definition;",
+   "begin": 449.039,
+   "end": 455.28,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 6,
+   "text": "they might have been altogether silent on the subject, leaving these necessary and proper powers to construction and inference.",
+   "begin": 455.28,
+   "end": 461.919,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "Had the convention taken the first method of adopting the second article of Confederation, it is evident that the new Congress would be continually exposed, as their predecessors have been, to the alternative of construing the term \"EXPRESSLY'' with so much rigor, as to disarm the government of all real authority whatever, or with so much latitude as to destroy altogether the force of the restriction.",
+   "begin": 461.919,
+   "end": 482.72,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "It would be easy to show, if it were necessary, that no important power, delegated by the articles of Confederation, has been or can be executed by Congress, without recurring more or less to the doctrine of CONSTRUCTION or IMPLICATION.",
+   "begin": 482.72,
+   "end": 495.12,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "As the powers delegated under the new system are more extensive, the government which is to administer it would find itself still more distressed with the alternative of betraying the public interests by doing nothing, or of violating the Constitution by exercising powers indispensably necessary and proper, but, at the same time, not EXPRESSLY granted.",
+   "begin": 495.12,
+   "end": 513.279,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "Had the convention attempted a positive enumeration of the powers necessary and proper for carrying their other powers into effect, the attempt would have involved a complete digest of laws on every subject to which the Constitution relates;",
+   "begin": 513.279,
+   "end": 524.72,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "accommodated too, not only to the existing state of things, but to all the possible changes which futurity may produce;",
+   "begin": 524.72,
+   "end": 532.16,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "for in every new application of a general power, the PARTICULAR POWERS, which are the means of attaining the OBJECT of the general power, must always necessarily vary with that object, and be often properly varied whilst the object remains the same.",
+   "begin": 532.16,
+   "end": 544.8,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "Had they attempted to enumerate the particular powers or means not necessary or proper for carrying the general powers into execution, the task would have been no less chimerical;",
+   "begin": 544.8,
+   "end": 553.36,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "and would have been liable to this further objection, that every defect in the enumeration would have been equivalent to a positive grant of authority.",
+   "begin": 553.36,
+   "end": 560.72,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "If, to avoid this consequence, they had attempted a partial enumeration of the exceptions, and described the residue by the general terms, NOT NECESSARY OR PROPER, it must have happened that the enumeration would comprehend a few of the excepted powers only;",
+   "begin": 560.72,
+   "end": 573.839,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "that these would be such as would be least likely to be assumed or tolerated, because the enumeration would of course select such as would be least necessary or proper;",
+   "begin": 573.839,
+   "end": 581.76,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "and that the unnecessary and improper powers included in the residuum, would be less forcibly excepted, than if no partial enumeration had been made.",
+   "begin": 581.76,
+   "end": 590.08,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 9,
+   "text": "Had the Constitution been silent on this head, there can be no doubt that all the particular powers requisite as means of executing the general powers would have resulted to the government, by unavoidable implication.",
+   "begin": 590.08,
+   "end": 601.279,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 9,
+   "text": "No axiom is more clearly established in law, or in reason, than that wherever the end is required, the means are authorized;",
+   "begin": 601.279,
+   "end": 608.64,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 9,
+   "text": "wherever a general power to do a thing is given, every particular power necessary for doing it is included.",
+   "begin": 608.64,
+   "end": 614.959,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 9,
+   "text": "Had this last method, therefore, been pursued by the convention, every objection now urged against their plan would remain in all its plausibility;",
+   "begin": 614.959,
+   "end": 622.64,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 9,
+   "text": "and the real inconveniency would be incurred of not removing a pretext which may be seized on critical occasions for drawing into question the essential powers of the Union.",
+   "begin": 622.64,
+   "end": 631.76,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 9,
+   "text": "If it be asked what is to be the consequence, in case the Congress shall misconstrue this part of the Constitution, and exercise powers not warranted by its true meaning, I answer, the same as if they should misconstrue or enlarge any other power vested in them;",
+   "begin": 631.76,
+   "end": 644.8,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 9,
+   "text": "as if the general power had been reduced to particulars, and any one of these were to be violated;",
+   "begin": 644.8,
+   "end": 649.76,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 9,
+   "text": "the same, in short, as if the State legislatures should violate the irrespective constitutional authorities.",
+   "begin": 649.76,
+   "end": 655.92,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 9,
+   "text": "In the first instance, the success of the usurpation will depend on the executive and judiciary departments, which are to expound and give effect to the legislative acts;",
+   "begin": 655.92,
+   "end": 663.76,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 9,
+   "text": "and in the last resort a remedy must be obtained from the people who can, by the election of more faithful representatives, annul the acts of the usurpers.",
+   "begin": 663.76,
+   "end": 671.76,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 10,
+   "text": "The truth is, that this ultimate redress may be more confided in against unconstitutional acts of the federal than of the State legislatures, for this plain reason, that as every such act of the former will be an invasion of the rights of the latter, these will be ever ready to mark the innovation, to sound the alarm to the people, and to exert their local influence in effecting a change of federal representatives.",
+   "begin": 671.76,
+   "end": 692.8,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 10,
+   "text": "There being no such intermediate body between the State legislatures and the people interested in watching the conduct of the former, violations of the State constitutions are more likely to remain unnoticed and unredressed.",
+   "begin": 692.8,
+   "end": 776.8,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "In the third place, as the constitutions of the States differ much from each other, it might happen that a treaty or national law, of great and equal importance to the States, would interfere with some and not with other constitutions, and would consequently be valid in some of the States, at the same time that it would have no effect in others.",
+   "begin": 776.8,
+   "end": 794.639,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 11,
+   "text": "In fine, the world would have seen, for the first time, a system of government founded on an inversion of the fundamental principles of all government;",
+   "begin": 794.639,
+   "end": 802.0,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 11,
+   "text": "it would have seen the authority of the whole society every where subordinate to the authority of the parts;",
+   "begin": 802.0,
+   "end": 807.12,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 11,
+   "text": "it would have seen a monster, in which the head was under the direction of the members.",
+   "begin": 807.12,
+   "end": 920.279,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 12,
+   "text": "PUBLIUS.",
+   "begin": 920.279,
+   "end": 921.55356,
+   "synced": true
+  }
+ ]
+}

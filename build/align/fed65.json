@@ -1,0 +1,636 @@
+{
+ "paper": 65,
+ "duration": 626.265397,
+ "match_ratio": 0.9911,
+ "heading": [
+  "The Powers of the Senate Continued",
+  "From the New York Packet.",
+  "Friday, March 7, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.12,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE remaining powers which the plan of the convention allots to the Senate, in a distinct capacity, are comprised in their participation with the executive in the appointment to offices, and in their judicial character as a court for the trial of impeachments.",
+   "begin": 13.12,
+   "end": 26.4,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "As in the business of appointments the executive will be the principal agent, the provisions relating to it will most properly be discussed in the examination of that department.",
+   "begin": 26.4,
+   "end": 35.92,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "We will, therefore, conclude this head with a view of the judicial character of the Senate.",
+   "begin": 35.92,
+   "end": 40.879,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "A well-constituted court for the trial of impeachments is an object not more to be desired than difficult to be obtained in a government wholly elective.",
+   "begin": 40.879,
+   "end": 49.12,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The subjects of its jurisdiction are those offenses which proceed from the misconduct of public men, or, in other words, from the abuse or violation of some public trust.",
+   "begin": 49.12,
+   "end": 57.76,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "They are of a nature which may with peculiar propriety be denominated POLITICAL, as they relate chiefly to injuries done immediately to the society itself.",
+   "begin": 57.76,
+   "end": 66.72,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "The prosecution of them, for this reason, will seldom fail to agitate the passions of the whole community, and to divide it into parties more or less friendly or inimical to the accused.",
+   "begin": 66.72,
+   "end": 76.72,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "In many cases it will connect itself with the pre-existing factions, and will enlist all their animosities, partialities, influence, and interest on one side or on the other;",
+   "begin": 76.72,
+   "end": 85.92,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "and in such cases there will always be the greatest danger that the decision will be regulated more by the comparative strength of parties, than by the real demonstrations of innocence or guilt.",
+   "begin": 85.92,
+   "end": 96.479,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "The delicacy and magnitude of a trust which so deeply concerns the political reputation and existence of every man engaged in the administration of public affairs, speak for themselves.",
+   "begin": 96.479,
+   "end": 106.56,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "The difficulty of placing it rightly, in a government resting entirely on the basis of periodical elections, will as readily be perceived, when it is considered that the most conspicuous characters in it will, from that circumstance, be too often the leaders or the tools of the most cunning or the most numerous faction, and on this account, can hardly be expected to possess the requisite neutrality towards those whose conduct may be the subject of scrutiny.",
+   "begin": 106.56,
+   "end": 130.08,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 4,
+   "text": "The convention, it appears, thought the Senate the most fit depositary of this important trust.",
+   "begin": 130.08,
+   "end": 135.52,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "Those who can best discern the intrinsic difficulty of the thing, will be least hasty in condemning that opinion, and will be most inclined to allow due weight to the arguments which may be supposed to have produced it.",
+   "begin": 135.52,
+   "end": 146.8,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 5,
+   "text": "What, it may be asked, is the true spirit of the institution itself?",
+   "begin": 146.8,
+   "end": 151.2,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 5,
+   "text": "Is it not designed as a method of NATIONAL INQUEST into the conduct of public men?",
+   "begin": 151.2,
+   "end": 155.92,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 5,
+   "text": "If this be the design of it, who can so properly be the inquisitors for the nation as the representatives of the nation themselves?",
+   "begin": 155.92,
+   "end": 163.12,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 5,
+   "text": "It is not disputed that the power of originating the inquiry, or, in other words, of preferring the impeachment, ought to be lodged in the hands of one branch of the legislative body.",
+   "begin": 163.12,
+   "end": 172.879,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 5,
+   "text": "Will not the reasons which indicate the propriety of this arrangement strongly plead for an admission of the other branch of that body to a share of the inquiry?",
+   "begin": 172.879,
+   "end": 181.28,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "The model from which the idea of this institution has been borrowed, pointed out that course to the convention.",
+   "begin": 181.28,
+   "end": 187.04,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "In Great Britain it is the province of the House of Commons to prefer the impeachment, and of the House of Lords to decide upon it.",
+   "begin": 187.04,
+   "end": 194.239,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "Several of the State constitutions have followed the example.",
+   "begin": 194.239,
+   "end": 197.36,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "As well the latter, as the former, seem to have regarded the practice of impeachments as a bridle in the hands of the legislative body upon the executive servants of the government.",
+   "begin": 197.36,
+   "end": 206.64,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "Is not this the true light in which it ought to be regarded?",
+   "begin": 206.64,
+   "end": 210.48,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "Where else than in the Senate could have been found a tribunal sufficiently dignified, or sufficiently independent?",
+   "begin": 210.48,
+   "end": 216.64,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "What other body would be likely to feel CONFIDENCE ENOUGH IN ITS OWN SITUATION, to preserve, unawed and uninfluenced, the necessary impartiality between an INDIVIDUAL accused, and the REPRESENTATIVES OF THE PEOPLE, HIS ACCUSERS?",
+   "begin": 216.64,
+   "end": 228.799,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 7,
+   "text": "Could the Supreme Court have been relied upon as answering this description?",
+   "begin": 228.799,
+   "end": 232.879,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 7,
+   "text": "It is much to be doubted, whether the members of that tribunal would at all times be endowed with so eminent a portion of fortitude, as would be called for in the execution of so difficult a task;",
+   "begin": 232.879,
+   "end": 242.4,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "and it is still more to be doubted, whether they would possess the degree of credit and authority, which might, on certain occasions, be indispensable towards reconciling the people to a decision that should happen to clash with an accusation brought by their immediate representatives.",
+   "begin": 242.4,
+   "end": 255.599,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "A deficiency in the first, would be fatal to the accused;",
+   "begin": 255.599,
+   "end": 259.12,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "in the last, dangerous to the public tranquillity.",
+   "begin": 259.12,
+   "end": 262.479,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "The hazard in both these respects, could only be avoided, if at all, by rendering that tribunal more numerous than would consist with a reasonable attention to economy.",
+   "begin": 262.479,
+   "end": 271.6,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "The necessity of a numerous court for the trial of impeachments, is equally dictated by the nature of the proceeding.",
+   "begin": 271.6,
+   "end": 278.16,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "This can never be tied down by such strict rules, either in the delineation of the offense by the prosecutors, or in the construction of it by the judges, as in common cases serve to limit the discretion of courts in favor of personal security.",
+   "begin": 278.16,
+   "end": 291.52,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "There will be no jury to stand between the judges who are to pronounce the sentence of the law, and the party who is to receive or suffer it.",
+   "begin": 291.52,
+   "end": 298.4,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "The awful discretion which a court of impeachments must necessarily have, to doom to honor or to infamy the most confidential and the most distinguished characters of the community, forbids the commitment of the trust to a small number of persons.",
+   "begin": 298.4,
+   "end": 310.96,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "These considerations seem alone sufficient to authorize a conclusion, that the Supreme Court would have been an improper substitute for the Senate, as a court of impeachments.",
+   "begin": 310.96,
+   "end": 319.919,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "There remains a further consideration, which will not a little strengthen this conclusion.",
+   "begin": 319.919,
+   "end": 324.4,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "It is this:",
+   "begin": 324.4,
+   "end": 325.6,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "The punishment which may be the consequence of conviction upon impeachment, is not to terminate the chastisement of the offender.",
+   "begin": 325.6,
+   "end": 332.479,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "After having been sentenced to a prepetual ostracism from the esteem and confidence, and honors and emoluments of his country, he will still be liable to prosecution and punishment in the ordinary course of law.",
+   "begin": 332.479,
+   "end": 343.68,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "Would it be proper that the persons who had disposed of his fame, and his most valuable rights as a citizen in one trial, should, in another trial, for the same offense, be also the disposers of his life and his fortune?",
+   "begin": 343.68,
+   "end": 355.039,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "Would there not be the greatest reason to apprehend, that error, in the first sentence, would be the parent of error in the second sentence?",
+   "begin": 355.039,
+   "end": 361.919,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "That the strong bias of one decision would be apt to overrule the influence of any new lights which might be brought to vary the complexion of another decision?",
+   "begin": 361.919,
+   "end": 370.639,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 8,
+   "text": "Those who know anything of human nature, will not hesitate to answer these questions in the affirmative;",
+   "begin": 370.639,
+   "end": 375.199,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "and will be at no loss to perceive, that by making the same persons judges in both cases, those who might happen to be the objects of prosecution would, in a great measure, be deprived of the double security intended them by a double trial.",
+   "begin": 375.199,
+   "end": 387.68,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "The loss of life and estate would often be virtually included in a sentence which, in its terms, imported nothing more than dismission from a present, and disqualification for a future, office.",
+   "begin": 387.68,
+   "end": 398.96,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "It may be said, that the intervention of a jury, in the second instance, would obviate the danger.",
+   "begin": 398.96,
+   "end": 403.84,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "But juries are frequently influenced by the opinions of judges.",
+   "begin": 403.84,
+   "end": 407.199,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "They are sometimes induced to find special verdicts, which refer the main question to the decision of the court.",
+   "begin": 407.199,
+   "end": 413.039,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 8,
+   "text": "Who would be willing to stake his life and his estate upon the verdict of a jury acting under the auspices of judges who had predetermined his guilt?",
+   "begin": 413.039,
+   "end": 420.639,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "Would it have been an improvement of the plan, to have united the Supreme Court with the Senate, in the formation of the court of impeachments?",
+   "begin": 420.639,
+   "end": 427.199,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "This union would certainly have been attended with several advantages;",
+   "begin": 427.199,
+   "end": 430.479,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "but would they not have been overbalanced by the signal disadvantage, already stated, arising from the agency of the same judges in the double prosecution to which the offender would be liable?",
+   "begin": 430.479,
+   "end": 440.24,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "To a certain extent, the benefits of that union will be obtained from making the chief justice of the Supreme Court the president of the court of impeachments, as is proposed to be done in the plan of the convention;",
+   "begin": 440.24,
+   "end": 450.08,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 9,
+   "text": "while the inconveniences of an entire incorporation of the former into the latter will be substantially avoided.",
+   "begin": 450.08,
+   "end": 456.08,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 9,
+   "text": "This was perhaps the prudent mean.",
+   "begin": 456.08,
+   "end": 458.24,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 9,
+   "text": "I forbear to remark upon the additional pretext for clamor against the judiciary, which so considerable an augmentation of its authority would have afforded.",
+   "begin": 458.24,
+   "end": 466.4,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "Would it have been desirable to have composed the court for the trial of impeachments, of persons wholly distinct from the other departments of the government?",
+   "begin": 466.4,
+   "end": 474.319,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 10,
+   "text": "There are weighty arguments, as well against, as in favor of, such a plan.",
+   "begin": 474.319,
+   "end": 478.8,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 10,
+   "text": "To some minds it will not appear a trivial objection, that it could tend to increase the complexity of the political machine, and to add a new spring to the government, the utility of which would at best be questionable.",
+   "begin": 478.8,
+   "end": 489.12,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 10,
+   "text": "But an objection which will not be thought by any unworthy of attention, is this:",
+   "begin": 489.12,
+   "end": 493.68,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 10,
+   "text": "a court formed upon such a plan, would either be attended with a heavy expense, or might in practice be subject to a variety of casualties and inconveniences.",
+   "begin": 493.68,
+   "end": 502.56,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 10,
+   "text": "It must either consist of permanent officers, stationary at the seat of government, and of course entitled to fixed and regular stipends, or of certain officers of the State governments to be called upon whenever an impeachment was actually depending.",
+   "begin": 502.56,
+   "end": 515.279,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 10,
+   "text": "It will not be easy to imagine any third mode materially different, which could rationally be proposed.",
+   "begin": 515.279,
+   "end": 520.88,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 10,
+   "text": "As the court, for reasons already given, ought to be numerous, the first scheme will be reprobated by every man who can compare the extent of the public wants with the means of supplying them.",
+   "begin": 520.88,
+   "end": 530.56,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 10,
+   "text": "The second will be espoused with caution by those who will seriously consider the difficulty of collecting men dispersed over the whole Union;",
+   "begin": 530.56,
+   "end": 537.44,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 10,
+   "text": "the injury to the innocent, from the procrastinated determination of the charges which might be brought against them;",
+   "begin": 537.44,
+   "end": 542.48,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 10,
+   "text": "the advantage to the guilty, from the opportunities which delay would afford to intrigue and corruption;",
+   "begin": 542.48,
+   "end": 547.279,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 10,
+   "text": "and in some cases the detriment to the State, from the prolonged inaction of men whose firm and faithful execution of their duty might have exposed them to the persecution of an intemperate or designing majority in the House of Representatives.",
+   "begin": 547.279,
+   "end": 559.12,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 10,
+   "text": "Though this latter supposition may seem harsh, and might not be likely often to be verified, yet it ought not to be forgotten that the demon of faction will, at certain seasons, extend his sceptre over all numerous bodies of men.",
+   "begin": 559.12,
+   "end": 570.88,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 11,
+   "text": "But though one or the other of the substitutes which have been examined, or some other that might be devised, should be thought preferable to the plan in this respect, reported by the convention, it will not follow that the Constitution ought for this reason to be rejected.",
+   "begin": 570.88,
+   "end": 584.399,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 11,
+   "text": "If mankind were to resolve to agree in no institution of government, until every part of it had been adjusted to the most exact standard of perfection, society would soon become a general scene of anarchy, and the world a desert.",
+   "begin": 584.399,
+   "end": 596.56,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 11,
+   "text": "Where is the standard of perfection to be found?",
+   "begin": 596.56,
+   "end": 599.12,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 11,
+   "text": "Who will undertake to unite the discordant opinions of a whole commuity, in the same judgment of it;",
+   "begin": 599.12,
+   "end": 604.079,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 11,
+   "text": "and to prevail upon one conceited projector to renounce his INFALLIBLE criterion for the FALLIBLE criterion of his more CONCEITED NEIGHBOR?",
+   "begin": 604.079,
+   "end": 612.079,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 11,
+   "text": "To answer the purpose of the adversaries of the Constitution, they ought to prove, not merely that particular provisions in it are not the best which might have been imagined, but that the plan upon the whole is bad and pernicious.",
+   "begin": 612.079,
+   "end": 624.64,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "PUBLIUS.",
+   "begin": 624.64,
+   "end": 626.265397,
+   "synced": true
+  }
+ ]
+}

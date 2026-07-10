@@ -1,0 +1,547 @@
+{
+ "paper": 59,
+ "duration": 598.703311,
+ "match_ratio": 0.9833,
+ "heading": [
+  "Concerning the Power of Congress to Regulate the Election of Members",
+  "From the New York Packet. Friday, February 22, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.64,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE natural order of the subject leads us to consider, in this place, that provision of the Constitution which authorizes the national legislature to regulate, in the last resort, the election of its own members.",
+   "begin": 16.64,
+   "end": 28.24,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "It is in these words:",
+   "begin": 28.24,
+   "end": 29.679,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "\"The TIMES, PLACES, and MANNER of holding elections for senators and representatives shall be prescribed in each State by the legislature thereof;",
+   "begin": 29.679,
+   "end": 37.84,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "but the Congress may, at any time, by law, make or alter SUCH REGULATIONS, except as to the PLACES of choosing senators.",
+   "begin": 37.84,
+   "end": 49.12,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "''1 This provision has not only been declaimed against by those who condemn the Constitution in the gross, but it has been censured by those who have objected with less latitude and greater moderation;",
+   "begin": 49.12,
+   "end": 59.52,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "and, in one instance it has been thought exceptionable by a gentleman who has declared himself the advocate of every other part of the system.",
+   "begin": 59.52,
+   "end": 66.799,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "I am greatly mistaken, notwithstanding, if there be any article in the whole plan more completely defensible than this.",
+   "begin": 66.799,
+   "end": 73.439,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "Its propriety rests upon the evidence of this plain proposition, that EVERY GOVERNMENT OUGHT TO CONTAIN IN ITSELF THE MEANS OF ITS OWN PRESERVATION.",
+   "begin": 73.439,
+   "end": 81.439,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "Every just reasoner will, at first sight, approve an adherence to this rule, in the work of the convention;",
+   "begin": 81.439,
+   "end": 86.799,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "and will disapprove every deviation from it which may not appear to have been dictated by the necessity of incorporating into the work some particular ingredient, with which a rigid conformity to the rule was incompatible.",
+   "begin": 86.799,
+   "end": 98.4,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 1,
+   "text": "Even in this case, though he may acquiesce in the necessity, yet he will not cease to regard and to regret a departure from so fundamental a principle, as a portion of imperfection in the system which may prove the seed of future weakness, and perhaps anarchy.",
+   "begin": 98.4,
+   "end": 112.64,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "It will not be alleged, that an election law could have been framed and inserted in the Constitution, which would have been always applicable to every probable change in the situation of the country;",
+   "begin": 112.64,
+   "end": 121.92,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "and it will therefore not be denied, that a discretionary power over elections ought to exist somewhere.",
+   "begin": 121.92,
+   "end": 127.6,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "It will, I presume, be as readily conceded, that there were only three ways in which this power could have been reasonably modified and disposed:",
+   "begin": 127.6,
+   "end": 135.36,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "that it must either have been lodged wholly in the national legislature, or wholly in the State legislatures, or primarily in the latter and ultimately in the former.",
+   "begin": 135.36,
+   "end": 144.08,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "The last mode has, with reason, been preferred by the convention.",
+   "begin": 144.08,
+   "end": 147.84,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "They have submitted the regulation of elections for the federal government, in the first instance, to the local administrations;",
+   "begin": 147.84,
+   "end": 153.84,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "which, in ordinary cases, and when no improper views prevail, may be both more convenient and more satisfactory;",
+   "begin": 153.84,
+   "end": 160.56,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 2,
+   "text": "but they have reserved to the national authority a right to interpose, whenever extraordinary circumstances might render that interposition necessary to its safety.",
+   "begin": 160.56,
+   "end": 169.04,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 2,
+   "text": "Nothing can be more evident, than that an exclusive power of regulating elections for the national government, in the hands of the State legislatures, would leave the existence of the Union entirely at their mercy.",
+   "begin": 169.04,
+   "end": 179.599,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 2,
+   "text": "They could at any moment annihilate it, by neglecting to provide for the choice of persons to administer its affairs.",
+   "begin": 179.599,
+   "end": 185.84,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 2,
+   "text": "It is to little purpose to say, that a neglect or omission of this kind would not be likely to take place.",
+   "begin": 185.84,
+   "end": 191.68,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 2,
+   "text": "The constitutional possibility of the thing, without an equivalent for the risk, is an unanswerable objection.",
+   "begin": 191.68,
+   "end": 198.159,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 2,
+   "text": "Nor has any satisfactory reason been yet assigned for incurring that risk.",
+   "begin": 198.159,
+   "end": 203.04,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 2,
+   "text": "The extravagant surmises of a distempered jealousy can never be dignified with that character.",
+   "begin": 203.04,
+   "end": 209.04,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "If we are in a humor to presume abuses of power, it is as fair to presume them on the part of the State governments as on the part of the general government.",
+   "begin": 209.04,
+   "end": 217.12,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 3,
+   "text": "And as it is more consonant to the rules of a just theory, to trust the Union with the care of its own existence, than to transfer that care to any other hands, if abuses of power are to be hazarded on the one side or on the other, it is more rational to hazard them where the power would naturally be placed, than where it would unnaturally be placed.",
+   "begin": 217.12,
+   "end": 235.04,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 3,
+   "text": "Suppose an article had been introduced into the Constitution, empowering the United States to regulate the elections for the particular States, would any man have hesitated to condemn it, both as an unwarrantable transposition of power, and as a premeditated engine for the destruction of the State governments?",
+   "begin": 235.04,
+   "end": 250.799,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 3,
+   "text": "The violation of principle, in this case, would have required no comment;",
+   "begin": 250.799,
+   "end": 254.72,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 3,
+   "text": "and, to an unbiased observer, it will not be less apparent in the project of subjecting the existence of the national government, in a similar respect, to the pleasure of the State governments.",
+   "begin": 254.72,
+   "end": 263.759,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 3,
+   "text": "An impartial view of the matter cannot fail to result in a conviction, that each, as far as possible, ought to depend on itself for its own preservation.",
+   "begin": 263.759,
+   "end": 271.919,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "As an objection to this position, it may be remarked that the constitution of the national Senate would involve, in its full extent, the danger which it is suggested might flow from an exclusive power in the State legislatures to regulate the federal elections.",
+   "begin": 271.919,
+   "end": 284.88,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "It may be alleged, that by declining the appointment of Senators, they might at any time give a fatal blow to the Union;",
+   "begin": 284.88,
+   "end": 291.04,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "and from this it may be inferred, that as its existence would be thus rendered dependent upon them in so essential a point, there can be no objection to intrusting them with it in the particular case under consideration.",
+   "begin": 291.04,
+   "end": 302.16,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "The interest of each State, it may be added, to maintain its representation in the national councils, would be a complete security against an abuse of the trust.",
+   "begin": 302.16,
+   "end": 310.72,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "This argument, though specious, will not, upon examination, be found solid.",
+   "begin": 310.72,
+   "end": 315.28,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 4,
+   "text": "It is certainly true that the State legislatures, by forbearing the appointment of senators, may destroy the national government.",
+   "begin": 315.28,
+   "end": 321.28,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 4,
+   "text": "But it will not follow that, because they have a power to do this in one instance, they ought to have it in every other.",
+   "begin": 321.28,
+   "end": 327.6,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 4,
+   "text": "There are cases in which the pernicious tendency of such a power may be far more decisive, without any motive equally cogent with that which must have regulated the conduct of the convention in respect to the formation of the Senate, to recommend their admission into the system.",
+   "begin": 327.6,
+   "end": 341.919,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "So far as that construction may expose the Union to the possibility of injury from the State legislatures, it is an evil;",
+   "begin": 341.919,
+   "end": 348.8,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "but it is an evil which could not have been avoided without excluding the States, in their political capacities, wholly from a place in the organization of the national government.",
+   "begin": 348.8,
+   "end": 358.639,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "If this had been done, it would doubtless have been interpreted into an entire dereliction of the federal principle;",
+   "begin": 358.639,
+   "end": 364.0,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "and would certainly have deprived the State governments of that absolute safeguard which they will enjoy under this provision.",
+   "begin": 364.0,
+   "end": 370.56,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "But however wise it may have been to have submitted in this instance to an inconvenience, for the attainment of a necessary advantage or a greater good, no inference can be drawn from thence to favor an accumulation of the evil, where no necessity urges, nor any greater good invites.",
+   "begin": 370.56,
+   "end": 386.16,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "It may be easily discerned also that the national government would run a much greater risk from a power in the State legislatures over the elections of its House of Representatives, than from their power of appointing the members of its Senate.",
+   "begin": 386.16,
+   "end": 398.319,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "The senators are to be chosen for the period of six years;",
+   "begin": 398.319,
+   "end": 402.08,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 5,
+   "text": "there is to be a rotation, by which the seats of a third part of them are to be vacated and replenished every two years;",
+   "begin": 402.08,
+   "end": 408.08,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 5,
+   "text": "and no State is to be entitled to more than two senators;",
+   "begin": 408.08,
+   "end": 411.199,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 5,
+   "text": "a quorum of the body is to consist of sixteen members.",
+   "begin": 411.199,
+   "end": 414.72,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "The joint result of these circumstances would be, that a temporary combination of a few States to intermit the appointment of senators, could neither annul the existence nor impair the activity of the body;",
+   "begin": 414.72,
+   "end": 424.72,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "and it is not from a general and permanent combination of the States that we can have any thing to fear.",
+   "begin": 424.72,
+   "end": 430.319,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "The first might proceed from sinister designs in the leading members of a few of the State legislatures;",
+   "begin": 430.319,
+   "end": 435.36,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 6,
+   "text": "the last would suppose a fixed and rooted disaffection in the great body of the people, which will either never exist at all, or will, in all probability, proceed from an experience of the inaptitude of the general government to the advancement of their happiness in which event no good citizen could desire its continuance.",
+   "begin": 435.36,
+   "end": 451.52,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 6,
+   "text": "But with regard to the federal House of Representatives, there is intended to be a general election of members once in two years.",
+   "begin": 451.52,
+   "end": 458.319,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 6,
+   "text": "If the State legislatures were to be invested with an exclusive power of regulating these elections, every period of making them would be a delicate crisis in the national situation, which might issue in a dissolution of the Union, if the leaders of a few of the most important States should have entered into a previous conspiracy to prevent an election.",
+   "begin": 458.319,
+   "end": 476.0,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 6,
+   "text": "I shall not deny, that there is a degree of weight in the observation, that the interests of each State, to be represented in the federal councils, will be a security against the abuse of a power over its elections in the hands of the State legislatures.",
+   "begin": 476.0,
+   "end": 488.0,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 6,
+   "text": "But the security will not be considered as complete, by those who attend to the force of an obvious distinction between the interest of the people in the public felicity, and the interest of their local rulers in the power and consequence of their offices.",
+   "begin": 488.0,
+   "end": 500.479,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "The people of America may be warmly attached to the government of the Union, at times when the particular rulers of particular States, stimulated by the natural rivalship of power, and by the hopes of personal aggrandizement, and supported by a strong faction in each of those States, may be in a very opposite temper.",
+   "begin": 500.479,
+   "end": 516.719,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "This diversity of sentiment between a majority of the people, and the individuals who have the greatest credit in their councils, is exemplified in some of the States at the present moment, on the present question.",
+   "begin": 516.719,
+   "end": 527.519,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 7,
+   "text": "The scheme of separate confederacies, which will always nultiply the chances of ambition, will be a never failing bait to all such influential characters in the State administrations as are capable of preferring their own emolument and advancement to the public weal.",
+   "begin": 527.519,
+   "end": 540.959,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 7,
+   "text": "With so effectual a weapon in their hands as the exclusive power of regulating elections for the national government, a combination of a few such men, in a few of the most considerable States, where the temptation will always be the strongest, might accomplish the destruction of the Union, by seizing the opportunity of some casual dissatisfaction among the people (and which perhaps they may themselves have excited), to discontinue the choice of members for the federal House of Representatives.",
+   "begin": 540.959,
+   "end": 565.519,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 7,
+   "text": "It ought never to be forgotten, that a firm union of this country, under an efficient government, will probably be an increasing object of jealousy to more than one nation of Europe;",
+   "begin": 565.519,
+   "end": 574.959,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 7,
+   "text": "and that enterprises to subvert it will sometimes originate in the intrigues of foreign powers, and will seldom fail to be patronized and abetted by some of them.",
+   "begin": 574.959,
+   "end": 583.6,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 7,
+   "text": "Its preservation, therefore ought in no case that can be avoided, to be committed to the guardianship of any but those whose situation will uniformly beget an immediate interest in the faithful and vigilant performance of the trust.",
+   "begin": 583.6,
+   "end": 597.04,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "PUBLIUS.",
+   "begin": 597.04,
+   "end": 598.04,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 9,
+   "text": "1 Ist clause, 4th section, of the Ist article.",
+   "begin": 598.04,
+   "end": 598.703311,
+   "synced": false
+  }
+ ]
+}

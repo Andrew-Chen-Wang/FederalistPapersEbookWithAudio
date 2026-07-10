@@ -1,0 +1,692 @@
+{
+ "paper": 6,
+ "duration": 622.109025,
+ "match_ratio": 0.9358,
+ "heading": [
+  "Concerning Dangers from Dissensions Between the States",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 12.08,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations.",
+   "begin": 12.08,
+   "end": 21.52,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "I shall now proceed to delineate dangers of a different and, perhaps, still more alarming kind--those which will in all probability flow from dissensions between the States themselves, and from domestic factions and convulsions.",
+   "begin": 21.52,
+   "end": 34.8,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "These have been already in some instances slightly anticipated;",
+   "begin": 34.8,
+   "end": 37.92,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "but they deserve a more particular and more full investigation.",
+   "begin": 37.92,
+   "end": 42.079,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "A man must be far gone in Utopian speculations who can seriously doubt that, if these States should either be wholly disunited, or only united in partial confederacies, the subdivisions into which they might be thrown would have frequent and violent contests with each other.",
+   "begin": 42.079,
+   "end": 57.12,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "To presume a want of motives for such contests as an argument against their existence, would be to forget that men are ambitious, vindictive, and rapacious.",
+   "begin": 57.12,
+   "end": 65.84,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "To look for a continuation of harmony between a number of independent, unconnected sovereignties in the same neighborhood, would be to disregard the uniform course of human events, and to set at defiance the accumulated experience of ages.",
+   "begin": 65.84,
+   "end": 78.32,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "The causes of hostility among nations are innumerable.",
+   "begin": 78.32,
+   "end": 81.439,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "There are some which have a general and almost constant operation upon the collective bodies of society.",
+   "begin": 81.439,
+   "end": 86.72,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "Of this description are the love of power or the desire of pre-eminence and dominion--the jealousy of power, or the desire of equality and safety.",
+   "begin": 86.72,
+   "end": 95.439,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "There are others which have a more circumscribed though an equally operative influence within their spheres.",
+   "begin": 95.439,
+   "end": 101.04,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "Such are the rivalships and competitions of commerce between commercial nations.",
+   "begin": 101.04,
+   "end": 105.2,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "And there are others, not less numerous than either of the former, which take their origin entirely in private passions;",
+   "begin": 105.2,
+   "end": 110.72,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "in the attachments, enmities, interests, hopes, and fears of leading individuals in the communities of which they are members.",
+   "begin": 110.72,
+   "end": 117.439,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "Men of this class, whether the favorites of a king or of a people, have in too many instances abused the confidence they possessed;",
+   "begin": 117.439,
+   "end": 124.079,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "and assuming the pretext of some public motive, have not scrupled to sacrifice the national tranquillity to personal advantage or personal gratification.",
+   "begin": 124.079,
+   "end": 132.0,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "The celebrated Pericles, in compliance with the resentment of a prostitute,1 at the expense of much of the blood and treasure of his countrymen, attacked, vanquished, and destroyed the city of the SAMNIANS.",
+   "begin": 132.0,
+   "end": 142.879,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "The same man, stimulated by private pique against the MEGARENSIANS,2 another nation of Greece, or to avoid a prosecution with which he was threatened as an accomplice of a supposed theft of the statuary Phidias,3 or to get rid of the accusations prepared to be brought against him for dissipating the funds of the state in the purchase of popularity,4 or from a combination of all these causes, was the primitive author of that famous and fatal war, distinguished in the Grecian annals by the name of the PELOPONNESIAN war;",
+   "begin": 142.879,
+   "end": 168.319,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "which, after various vicissitudes, intermissions, and renewals, terminated in the ruin of the Athenian commonwealth.",
+   "begin": 168.319,
+   "end": 174.4,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "The ambitious cardinal, who was prime minister to Henry VIII., permitting his vanity to aspire to the triple crown,5 entertained hopes of succeeding in the acquisition of that splendid prize by the influence of the Emperor Charles V.",
+   "begin": 174.4,
+   "end": 186.64,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "To secure the favor and interest of this enterprising and powerful monarch, he precipitated England into a war with France, contrary to the plainest dictates of policy, and at the hazard of the safety and independence, as well of the kingdom over which he presided by his counsels, as of Europe in general.",
+   "begin": 186.64,
+   "end": 201.519,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "For if there ever was a sovereign who bid fair to realize the project of universal monarchy, it was the Emperor Charles V., of whose intrigues Wolsey was at once the instrument and the dupe.",
+   "begin": 201.519,
+   "end": 212.799,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 6,
+   "text": "The influence which the bigotry of one female,6 the petulance of another,7 and the cabals of a third,8 had in the contemporary policy, ferments, and pacifications, of a considerable part of Europe, are topics that have been too often descanted upon not to be generally known.",
+   "begin": 212.799,
+   "end": 227.04,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 7,
+   "text": "To multiply examples of the agency of personal considerations in the production of great national events, either foreign or domestic, according to their direction, would be an unnecessary waste of time.",
+   "begin": 227.04,
+   "end": 237.28,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 7,
+   "text": "Those who have but a superficial acquaintance with the sources from which they are to be drawn, will themselves recollect a variety of instances;",
+   "begin": 237.28,
+   "end": 243.92,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 7,
+   "text": "and those who have a tolerable knowledge of human nature will not stand in need of such lights to form their opinion either of the reality or extent of that agency.",
+   "begin": 243.92,
+   "end": 252.4,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 7,
+   "text": "Perhaps, however, a reference, tending to illustrate the general principle, may with propriety be made to a case which has lately happened among ourselves.",
+   "begin": 252.4,
+   "end": 260.079,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "If Shays had not been a DESPERATE DEBTOR, it is much to be doubted whether Massachusetts would have been plunged into a civil war.",
+   "begin": 260.079,
+   "end": 266.639,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 8,
+   "text": "But notwithstanding the concurring testimony of experience, in this particular, there are still to be found visionary or designing men, who stand ready to advocate the paradox of perpetual peace between the States, though dismembered and alienated from each other.",
+   "begin": 266.639,
+   "end": 279.919,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 8,
+   "text": "The genius of republics (say they) is pacific;",
+   "begin": 279.919,
+   "end": 282.88,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 8,
+   "text": "the spirit of commerce has a tendency to soften the manners of men, and to extinguish those inflammable humors which have so often kindled into wars.",
+   "begin": 282.88,
+   "end": 290.479,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 8,
+   "text": "Commercial republics, like ours, will never be disposed to waste themselves in ruinous contentions with each other.",
+   "begin": 290.479,
+   "end": 295.84,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "They will be governed by mutual interest, and will cultivate a spirit of mutual amity and concord.",
+   "begin": 295.84,
+   "end": 301.199,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 9,
+   "text": "Is it not (we may ask these projectors in politics) the true interest of all nations to cultivate the same benevolent and philosophic spirit?",
+   "begin": 301.199,
+   "end": 308.96,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 9,
+   "text": "If this be their true interest, have they in fact pursued it?",
+   "begin": 308.96,
+   "end": 312.24,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 9,
+   "text": "Has it not, on the contrary, invariably been found that momentary passions, and immediate interest, have a more active and imperious control over human conduct than general or remote considerations of policy, utility or justice?",
+   "begin": 312.24,
+   "end": 324.8,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 9,
+   "text": "Have republics in practice been less addicted to war than monarchies?",
+   "begin": 324.8,
+   "end": 328.56,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 9,
+   "text": "Are not the former administered by MEN as well as the latter?",
+   "begin": 328.56,
+   "end": 331.52,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "Are there not aversions, predilections, rivalships, and desires of unjust acquisitions, that affect nations as well as kings?",
+   "begin": 331.52,
+   "end": 338.8,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "Are not popular assemblies frequently subject to the impulses of rage, resentment, jealousy, avarice, and of other irregular and violent propensities?",
+   "begin": 338.8,
+   "end": 347.199,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "Is it not well known that their determinations are often governed by a few individuals in whom they place confidence, and are, of course, liable to be tinctured by the passions and views of those individuals?",
+   "begin": 347.199,
+   "end": 357.039,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "Has commerce hitherto done anything more than change the objects of war?",
+   "begin": 357.039,
+   "end": 360.96,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "Is not the love of wealth as domineering and enterprising a passion as that of power or glory?",
+   "begin": 360.96,
+   "end": 365.6,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "Have there not been as many wars founded upon commercial motives since that has become the prevailing system of nations, as were before occasioned by the cupidity of territory or dominion?",
+   "begin": 365.6,
+   "end": 375.199,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 9,
+   "text": "Has not the spirit of commerce, in many instances, administered new incentives to the appetite, both for the one and for the other?",
+   "begin": 375.199,
+   "end": 381.919,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 9,
+   "text": "Let experience, the least fallible guide of human opinions, be appealed to for an answer to these inquiries.",
+   "begin": 381.919,
+   "end": 387.919,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "Sparta, Athens, Rome, and Carthage were all republics;",
+   "begin": 387.919,
+   "end": 391.36,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "two of them, Athens and Carthage, of the commercial kind.",
+   "begin": 391.36,
+   "end": 394.639,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 10,
+   "text": "Yet were they as often engaged in wars, offensive and defensive, as the neighboring monarchies of the same times.",
+   "begin": 394.639,
+   "end": 400.319,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 10,
+   "text": "Sparta was little better than a wellregulated camp;",
+   "begin": 400.319,
+   "end": 402.88,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 10,
+   "text": "and Rome was never sated of carnage and conquest.",
+   "begin": 402.88,
+   "end": 405.919,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 11,
+   "text": "Carthage, though a commercial republic, was the aggressor in the very war that ended in her destruction.",
+   "begin": 405.919,
+   "end": 411.36,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 11,
+   "text": "Hannibal had carried her arms into the heart of Italy and to the gates of Rome, before Scipio, in turn, gave him an overthrow in the territories of Carthage, and made a conquest of the commonwealth.",
+   "begin": 411.36,
+   "end": 420.88,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 12,
+   "text": "Venice, in later times, figured more than once in wars of ambition, till, becoming an object to the other Italian states, Pope Julius II.",
+   "begin": 420.88,
+   "end": 428.0,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 12,
+   "text": "found means to accomplish that formidable league,9 which gave a deadly blow to the power and pride of this haughty republic.",
+   "begin": 428.0,
+   "end": 434.319,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 13,
+   "text": "The provinces of Holland, till they were overwhelmed in debts and taxes, took a leading and conspicuous part in the wars of Europe.",
+   "begin": 434.319,
+   "end": 440.96,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 13,
+   "text": "They had furious contests with England for the dominion of the sea, and were among the most persevering and most implacable of the opponents of Louis XIV.",
+   "begin": 440.96,
+   "end": 449.12,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 14,
+   "text": "In the government of Britain the representatives of the people compose one branch of the national legislature.",
+   "begin": 449.12,
+   "end": 454.319,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 14,
+   "text": "Commerce has been for ages the predominant pursuit of that country.",
+   "begin": 454.319,
+   "end": 457.84,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 14,
+   "text": "Few nations, nevertheless, have been more frequently engaged in war;",
+   "begin": 457.84,
+   "end": 461.36,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 14,
+   "text": "and the wars in which that kingdom has been engaged have, in numerous instances, proceeded from the people.",
+   "begin": 461.36,
+   "end": 467.039,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 15,
+   "text": "There have been, if I may so express it, almost as many popular as royal wars.",
+   "begin": 467.039,
+   "end": 471.44,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 15,
+   "text": "The cries of the nation and the importunities of their representatives have, upon various occasions, dragged their monarchs into war, or continued them in it, contrary to their inclinations, and sometimes contrary to the real interests of the State.",
+   "begin": 471.44,
+   "end": 483.599,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 15,
+   "text": "In that memorable struggle for superiority between the rival houses of AUSTRIA and BOURBON, which so long kept Europe in a flame, it is well known that the antipathies of the English against the French, seconding the ambition, or rather the avarice, of a favorite leader,10 protracted the war beyond the limits marked out by sound policy, and for a considerable time in opposition to the views of the court.",
+   "begin": 483.599,
+   "end": 502.96,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 16,
+   "text": "The wars of these two last-mentioned nations have in a great measure grown out of commercial considerations,--the desire of supplanting and the fear of being supplanted, either in particular branches of traffic or in the general advantages of trade and navigation.",
+   "begin": 502.96,
+   "end": 516.64,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 17,
+   "text": "From this summary of what has taken place in other countries, whose situations have borne the nearest resemblance to our own, what reason can we have to confide in those reveries which would seduce us into an expectation of peace and cordiality between the members of the present confederacy, in a state of separation?",
+   "begin": 516.64,
+   "end": 532.24,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 17,
+   "text": "Have we not already seen enough of the fallacy and extravagance of those idle theories which have amused us with promises of an exemption from the imperfections, weaknesses and evils incident to society in every shape?",
+   "begin": 532.24,
+   "end": 543.76,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 17,
+   "text": "Is it not time to awake from the deceitful dream of a golden age, and to adopt as a practical maxim for the direction of our political conduct that we, as well as the other inhabitants of the globe, are yet remote from the happy empire of perfect wisdom and perfect virtue?",
+   "begin": 543.76,
+   "end": 557.36,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 18,
+   "text": "Let the point of extreme depression to which our national dignity and credit have sunk, let the inconveniences felt everywhere from a lax and ill administration of government, let the revolt of a part of the State of North Carolina, the late menacing disturbances in Pennsylvania, and the actual insurrections and rebellions in Massachusetts, declare--!",
+   "begin": 557.36,
+   "end": 574.32,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 19,
+   "text": "So far is the general sense of mankind from corresponding with the tenets of those who endeavor to lull asleep our apprehensions of discord and hostility between the States, in the event of disunion, that it has from long observation of the progress of society become a sort of axiom in politics, that vicinity or nearness of situation, constitutes nations natural enemies.",
+   "begin": 574.32,
+   "end": 594.0,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 19,
+   "text": "An intelligent writer expresses himself on this subject to this effect:",
+   "begin": 594.0,
+   "end": 598.24,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 19,
+   "text": "\"NEIGHBORING NATIONS (says he) are naturally enemies of each other unless their common weakness forces them to league in a CONFEDERATE REPUBLIC, and their constitution prevents the differences that neighborhood occasions, extinguishing that secret jealousy which disposes all states to aggrandize themselves at the expense of their neighbors.''11 This passage, at the same time, points out the EVIL and suggests the REMEDY.",
+   "begin": 598.24,
+   "end": 620.839,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 20,
+   "text": "PUBLIUS.",
+   "begin": 620.839,
+   "end": 621.839,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 21,
+   "text": "1 Aspasia, vide \"Plutarch's Life of Pericles.'' 2 Ibid.",
+   "begin": 621.839,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0076",
+   "para": 21,
+   "text": "3 Ibid.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0077",
+   "para": 21,
+   "text": "4 Ibid.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0078",
+   "para": 21,
+   "text": "Phidias was supposed to have stolen some public gold, with the connivance of Pericles, for the embellishment of the statue of Minerva.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0079",
+   "para": 21,
+   "text": "5 P Worn by the popes.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0080",
+   "para": 21,
+   "text": "6 Madame de Maintenon.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0081",
+   "para": 21,
+   "text": "7 Duchess of Marlborough.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0082",
+   "para": 21,
+   "text": "8 Madame de Pompadour.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0083",
+   "para": 21,
+   "text": "9 The League of Cambray, comprehending the Emperor, the King of France, the King of Aragon, and most of the Italian princes and states.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0084",
+   "para": 21,
+   "text": "10 The Duke of Marlborough.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  },
+  {
+   "id": "u0085",
+   "para": 21,
+   "text": "11 Vide \"Principes des Negociations'' par 1'Abbe de Mably.",
+   "begin": 622.109025,
+   "end": 622.109025,
+   "synced": false
+  }
+ ]
+}

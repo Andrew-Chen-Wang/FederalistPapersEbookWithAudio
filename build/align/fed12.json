@@ -1,0 +1,732 @@
+{
+ "paper": 12,
+ "duration": 705.375782,
+ "match_ratio": 0.9713,
+ "heading": [
+  "The Utility of the Union In Respect to Revenue",
+  "From the New York Packet. Tuesday, November 27, 1787.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.32,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE effects of Union upon the commercial prosperity of the States have been sufficiently delineated.",
+   "begin": 16.32,
+   "end": 22.08,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "Its tendency to promote the interests of revenue will be the subject of our present inquiry.",
+   "begin": 22.08,
+   "end": 28.0,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "The prosperity of commerce is now perceived and acknowledged by all enlightened statesmen to be the most useful as well as the most productive source of national wealth, and has accordingly become a primary object of their political cares.",
+   "begin": 28.0,
+   "end": 40.559,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "By multipying the means of gratification, by promoting the introduction and circulation of the precious metals, those darling objects of human avarice and enterprise, it serves to vivify and invigorate the channels of industry, and to make them flow with greater activity and copiousness.",
+   "begin": 40.559,
+   "end": 56.64,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The assiduous merchant, the laborious husbandman, the active mechanic, and the industrious manufacturer,--all orders of men, look forward with eager expectation and growing alacrity to this pleasing reward of their toils.",
+   "begin": 56.64,
+   "end": 69.92,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "The often-agitated question between agriculture and commerce has, from indubitable experience, received a decision which has silenced the rivalship that once subsisted between them, and has proved, to the satisfaction of their friends, that their interests are intimately blended and interwoven.",
+   "begin": 69.92,
+   "end": 85.68,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "It has been found in various countries that, in proportion as commerce has flourished, land has risen in value.",
+   "begin": 85.68,
+   "end": 91.28,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "And how could it have happened otherwise?",
+   "begin": 91.28,
+   "end": 93.6,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "Could that which procures a freer vent for the products of the earth, which furnishes new incitements to the cultivation of land, which is the most powerful instrument in increasing the quantity of money in a state--could that, in fine, which is the faithful handmaid of labor and industry, in every shape, fail to augment that article, which is the prolific parent of far the greatest part of the objects upon which they are exerted?",
+   "begin": 93.6,
+   "end": 115.119,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "It is astonishing that so simple a truth should ever have had an adversary;",
+   "begin": 115.119,
+   "end": 119.119,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "and it is one, among a multitude of proofs, how apt a spirit of ill-informed jealousy, or of too great abstraction and refinement, is to lead men astray from the plainest truths of reason and conviction.",
+   "begin": 119.119,
+   "end": 130.8,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "The ability of a country to pay taxes must always be proportioned, in a great degree, to the quantity of money in circulation, and to the celerity with which it circulates.",
+   "begin": 130.8,
+   "end": 140.16,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "Commerce, contributing to both these objects, must of necessity render the payment of taxes easier, and facilitate the requisite supplies to the treasury.",
+   "begin": 140.16,
+   "end": 148.4,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "The hereditary dominions of the Emperor of Germany contain a great extent of fertile, cultivated, and populous territory, a large proportion of which is situated in mild and luxuriant climates.",
+   "begin": 148.4,
+   "end": 159.12,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "In some parts of this territory are to be found the best gold and silver mines in Europe.",
+   "begin": 159.12,
+   "end": 163.519,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "And yet, from the want of the fostering influence of commerce, that monarch can boast but slender revenues.",
+   "begin": 163.519,
+   "end": 169.44,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "He has several times been compelled to owe obligations to the pecuniary succors of other nations for the preservation of his essential interests, and is unable, upon the strength of his own resources, to sustain a long or continued war.",
+   "begin": 169.44,
+   "end": 182.319,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "But it is not in this aspect of the subject alone that Union will be seen to conduce to the purpose of revenue.",
+   "begin": 182.319,
+   "end": 187.68,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "There are other points of view, in which its influence will appear more immediate and decisive.",
+   "begin": 187.68,
+   "end": 192.64,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "It is evident from the state of the country, from the habits of the people, from the experience we have had on the point itself, that it is impracticable to raise any very considerable sums by direct taxation.",
+   "begin": 192.64,
+   "end": 204.159,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "Tax laws have in vain been multiplied;",
+   "begin": 204.159,
+   "end": 206.56,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "new methods to enforce the collection have in vain been tried;",
+   "begin": 206.56,
+   "end": 210.159,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "the public expectation has been uniformly disappointed, and the treasuries of the States have remained empty.",
+   "begin": 210.159,
+   "end": 216.08,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "The popular system of administration inherent in the nature of popular government, coinciding with the real scarcity of money incident to a languid and mutilated state of trade, has hitherto defeated every experiment for extensive collections, and has at length taught the different legislatures the folly of attempting them.",
+   "begin": 216.08,
+   "end": 232.48,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "No person acquainted with what happens in other countries will be surprised at this circumstance.",
+   "begin": 232.48,
+   "end": 237.12,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "In so opulent a nation as that of Britain, where direct taxes from superior wealth must be much more tolerable, and, from the vigor of the government, much more practicable, than in America, far the greatest part of the national revenue is derived from taxes of the indirect kind, from imposts, and from excises.",
+   "begin": 237.12,
+   "end": 254.4,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "Duties on imported articles form a large branch of this latter description.",
+   "begin": 254.4,
+   "end": 259.12,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "In America, it is evident that we must a long time depend for the means of revenue chiefly on such duties.",
+   "begin": 259.12,
+   "end": 265.36,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "In most parts of it, excises must be confined within a narrow compass.",
+   "begin": 265.36,
+   "end": 269.84,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "The genius of the people will ill brook the inquisitive and peremptory spirit of excise laws.",
+   "begin": 269.84,
+   "end": 275.199,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "The pockets of the farmers, on the other hand, will reluctantly yield but scanty supplies, in the unwelcome shape of impositions on their houses and lands;",
+   "begin": 275.199,
+   "end": 282.88,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "and personal property is too precarious and invisible a fund to be laid hold of in any other way than by the inperceptible agency of taxes on consumption.",
+   "begin": 282.88,
+   "end": 292.16,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "If these remarks have any foundation, that state of things which will best enable us to improve and extend so valuable a resource must be best adapted to our political welfare.",
+   "begin": 292.16,
+   "end": 301.759,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "And it cannot admit of a serious doubt, that this state of things must rest on the basis of a general Union.",
+   "begin": 301.759,
+   "end": 308.4,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "As far as this would be conducive to the interests of commerce, so far it must tend to the extension of the revenue to be drawn from that source.",
+   "begin": 308.4,
+   "end": 315.36,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "As far as it would contribute to rendering regulations for the collection of the duties more simple and efficacious, so far it must serve to answer the purposes of making the same rate of duties more productive, and of putting it into the power of the government to increase the rate without prejudice to trade.",
+   "begin": 315.36,
+   "end": 330.24,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "The relative situation of these States;",
+   "begin": 330.24,
+   "end": 332.639,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "the number of rivers with which they are intersected, and of bays that wash there shores;",
+   "begin": 332.639,
+   "end": 337.52,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "the facility of communication in every direction;",
+   "begin": 337.52,
+   "end": 340.4,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "the affinity of language and manners;",
+   "begin": 340.4,
+   "end": 342.4,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "the familiar habits of intercourse;",
+   "begin": 342.4,
+   "end": 344.56,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "--all these are circumstances that would conspire to render an illicit trade between them a matter of little difficulty, and would insure frequent evasions of the commercial regulations of each other.",
+   "begin": 344.56,
+   "end": 354.8,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "The separate States or confederacies would be necessitated by mutual jealousy to avoid the temptations to that kind of trade by the lowness of their duties.",
+   "begin": 354.8,
+   "end": 363.28,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 8,
+   "text": "The temper of our governments, for a long time to come, would not permit those rigorous precautions by which the European nations guard the avenues into their respective countries, as well by land as by water;",
+   "begin": 363.28,
+   "end": 373.919,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "and which, even there, are found insufficient obstacles to the adventurous stratagems of avarice.",
+   "begin": 373.919,
+   "end": 380.08,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 9,
+   "text": "In France, there is an army of patrols (as they are called) constantly employed to secure their fiscal regulations against the inroads of the dealers in contraband trade.",
+   "begin": 380.08,
+   "end": 389.44,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "Mr.",
+   "begin": 389.44,
+   "end": 390.16,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "Neckar computes the number of these patrols at upwards of twenty thousand.",
+   "begin": 390.16,
+   "end": 393.919,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "This shows the immense difficulty in preventing that species of traffic, where there is an inland communication, and places in a strong light the disadvantages with which the collection of duties in this country would be encumbered, if by disunion the States should be placed in a situation, with respect to each other, resembling that of France with respect to her neighbors.",
+   "begin": 393.919,
+   "end": 411.599,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "The arbitrary and vexatious powers with which the patrols are necessarily armed, would be intolerable in a free country.",
+   "begin": 411.599,
+   "end": 419.039,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 10,
+   "text": "If, on the contrary, there be but one government pervading all the States, there will be, as to the principal part of our commerce, but ONE SIDE to guard--the ATLANTIC COAST.",
+   "begin": 419.039,
+   "end": 428.639,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 10,
+   "text": "Vessels arriving directly from foreign countries, laden with valuable cargoes, would rarely choose to hazard themselves to the complicated and critical perils which would attend attempts to unlade prior to their coming into port.",
+   "begin": 428.639,
+   "end": 440.72,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 10,
+   "text": "They would have to dread both the dangers of the coast, and of detection, as well after as before their arrival at the places of their final destination.",
+   "begin": 440.72,
+   "end": 449.36,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 10,
+   "text": "An ordinary degree of vigilance would be competent to the prevention of any material infractions upon the rights of the revenue.",
+   "begin": 449.36,
+   "end": 455.759,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "A few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.",
+   "begin": 455.759,
+   "end": 463.44,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "And the government having the same interest to provide against violations everywhere, the co-operation of its measures in each State would have a powerful tendency to render them effectual.",
+   "begin": 463.44,
+   "end": 473.12,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "Here also we should preserve by Union, an advantage which nature holds out to us, and which would be relinquished by separation.",
+   "begin": 473.12,
+   "end": 481.039,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "The United States lie at a great distance from Europe, and at a considerable distance from all other places with which they would have extensive connections of foreign trade.",
+   "begin": 481.039,
+   "end": 490.16,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 10,
+   "text": "The passage from them to us, in a few hours, or in a single night, as between the coasts of France and Britain, and of other neighboring nations, would be impracticable.",
+   "begin": 490.16,
+   "end": 498.96,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 10,
+   "text": "This is a prodigious security against a direct contraband with foreign countries;",
+   "begin": 498.96,
+   "end": 503.12,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 10,
+   "text": "but a circuitous contraband to one State, through the medium of another, would be both easy and safe.",
+   "begin": 503.12,
+   "end": 508.24,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 10,
+   "text": "The difference between a direct importation from abroad, and an indirect importation through the channel of a neighboring State, in small parcels, according to time and opportunity, with the additional facilities of inland communication, must be palpable to every man of discernment.",
+   "begin": 508.24,
+   "end": 522.959,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "It is therefore evident, that one national government would be able, at much less expense, to extend the duties on imports, beyond comparison, further than would be practicable to the States separately, or to any partial confederacies.",
+   "begin": 522.959,
+   "end": 535.92,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "Hitherto, I believe, it may safely be asserted, that these duties have not upon an average exceeded in any State three per cent.",
+   "begin": 535.92,
+   "end": 542.64,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "In France they are estimated to be about fifteen per cent., and in Britain they exceed this proportion.1 There seems to be nothing to hinder their being increased in this country to at least treble their present amount.",
+   "begin": 542.64,
+   "end": 556.16,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 11,
+   "text": "The single article of ardent spirits, under federal regulation, might be made to furnish a considerable revenue.",
+   "begin": 556.16,
+   "end": 562.08,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "Upon a ratio to the importation into this State, the whole quantity imported into the United States may be estimated at four millions of gallons;",
+   "begin": 562.08,
+   "end": 569.92,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 11,
+   "text": "which, at a shilling per gallon, would produce two hundred thousand pounds.",
+   "begin": 569.92,
+   "end": 574.0,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 11,
+   "text": "That article would well bear this rate of duty;",
+   "begin": 574.0,
+   "end": 576.72,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 11,
+   "text": "and if it should tend to diminish the consumption of it, such an effect would be equally favorable to the agriculture, to the economy, to the morals, and to the health of the society.",
+   "begin": 576.72,
+   "end": 585.44,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 11,
+   "text": "There is, perhaps, nothing so much a subject of national extravagance as these spirits.",
+   "begin": 585.44,
+   "end": 590.8,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 12,
+   "text": "What will be the consequence, if we are not able to avail ourselves of the resource in question in its full extent?",
+   "begin": 590.8,
+   "end": 596.72,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 12,
+   "text": "A nation cannot long exist without revenues.",
+   "begin": 596.72,
+   "end": 599.12,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 12,
+   "text": "Destitute of this essential support, it must resign its independence, and sink into the degraded condition of a province.",
+   "begin": 599.12,
+   "end": 606.079,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 12,
+   "text": "This is an extremity to which no government will of choice accede.",
+   "begin": 606.079,
+   "end": 609.92,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 12,
+   "text": "Revenue, therefore, must be had at all events.",
+   "begin": 609.92,
+   "end": 613.44,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "In this country, if the principal part be not drawn from commerce, it must fall with oppressive weight upon land.",
+   "begin": 613.44,
+   "end": 619.68,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 12,
+   "text": "It has been already intimated that excises, in their true signification, are too little in unison with the feelings of the people, to admit of great use being made of that mode of taxation;",
+   "begin": 619.68,
+   "end": 629.92,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 12,
+   "text": "nor, indeed, in the States where almost the sole employment is agriculture, are the objects proper for excise sufficiently numerous to permit very ample collections in that way.",
+   "begin": 629.92,
+   "end": 638.64,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 12,
+   "text": "Personal estate (as has been before remarked), from the difficulty in tracing it, cannot be subjected to large contributions, by any other means than by taxes on consumption.",
+   "begin": 638.64,
+   "end": 648.16,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 12,
+   "text": "In populous cities, it may be enough the subject of conjecture, to occasion the oppression of individuals, without much aggregate benefit to the State;",
+   "begin": 648.16,
+   "end": 655.2,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 12,
+   "text": "but beyond these circles, it must, in a great measure, escape the eye and the hand of the tax-gatherer.",
+   "begin": 655.2,
+   "end": 661.279,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 12,
+   "text": "As the necessities of the State, nevertheless, must be satisfied in some mode or other, the defect of other resources must throw the principal weight of public burdens on the possessors of land.",
+   "begin": 661.279,
+   "end": 671.519,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 12,
+   "text": "And as, on the other hand, the wants of the government can never obtain an adequate supply, unless all the sources of revenue are open to its demands, the finances of the community, under such embarrassments, cannot be put into a situation consistent with its respectability or its security.",
+   "begin": 671.519,
+   "end": 686.16,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 12,
+   "text": "Thus we shall not even have the consolations of a full treasury, to atone for the oppression of that valuable class of the citizens who are employed in the cultivation of the soil.",
+   "begin": 686.16,
+   "end": 694.48,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 12,
+   "text": "But public and private distress will keep pace with each other in gloomy concert;",
+   "begin": 694.48,
+   "end": 698.8,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 12,
+   "text": "and unite in deploring the infatuation of those counsels which led to disunion.",
+   "begin": 698.8,
+   "end": 704.079,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 13,
+   "text": "PUBLIUS.",
+   "begin": 704.079,
+   "end": 705.079,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 14,
+   "text": "1 If my memory be right they amount to twenty per cent.",
+   "begin": 705.079,
+   "end": 705.375782,
+   "synced": false
+  }
+ ]
+}

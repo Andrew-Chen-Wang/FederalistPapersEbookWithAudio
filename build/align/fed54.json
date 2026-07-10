@@ -1,0 +1,667 @@
+{
+ "paper": 54,
+ "duration": 634.6478,
+ "match_ratio": 0.9895,
+ "heading": [
+  "The Apportionment of Members Among the States",
+  "From the New York Packet. Tuesday, February 12, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.48,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE next view which I shall take of the House of Representatives relates to the appointment of its members to the several States which is to be determined by the same rule with that of direct taxes.",
+   "begin": 16.48,
+   "end": 27.359,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "It is not contended that the number of people in each State ought not to be the standard for regulating the proportion of those who are to represent the people of each State.",
+   "begin": 27.359,
+   "end": 36.32,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "The establishment of the same rule for the appointment of taxes, will probably be as little contested;",
+   "begin": 36.32,
+   "end": 41.52,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "though the rule itself in this case, is by no means founded on the same principle.",
+   "begin": 41.52,
+   "end": 46.64,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "In the former case, the rule is understood to refer to the personal rights of the people, with which it has a natural and universal connection.",
+   "begin": 46.64,
+   "end": 54.719,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "In the latter, it has reference to the proportion of wealth, of which it is in no case a precise measure, and in ordinary cases a very unfit one.",
+   "begin": 54.719,
+   "end": 63.52,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "But notwithstanding the imperfection of the rule as applied to the relative wealth and contributions of the States, it is evidently the least objectionable among the practicable rules, and had too recently obtained the general sanction of America, not to have found a ready preference with the convention.",
+   "begin": 63.52,
+   "end": 78.96,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "All this is admitted, it will perhaps be said;",
+   "begin": 78.96,
+   "end": 81.759,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "but does it follow, from an admission of numbers for the measure of representation, or of slaves combined with free citizens as a ratio of taxation, that slaves ought to be included in the numerical rule of representation?",
+   "begin": 81.759,
+   "end": 93.68,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "Slaves are considered as property, not as persons.",
+   "begin": 93.68,
+   "end": 96.799,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "They ought therefore to be comprehended in estimates of taxation which are founded on property, and to be excluded from representation which is regulated by a census of persons.",
+   "begin": 96.799,
+   "end": 106.56,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "This is the objection, as I understand it, stated in its full force.",
+   "begin": 106.56,
+   "end": 110.72,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "I shall be equally candid in stating the reasoning which may be offered on the opposite side.",
+   "begin": 110.72,
+   "end": 115.6,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "\"We subscribe to the doctrine,'' might one of our Southern brethren observe, \"that representation relates more immediately to persons, and taxation more immediately to property, and we join in the application of this distinction to the case of our slaves.",
+   "begin": 115.6,
+   "end": 128.16,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "But we must deny the fact, that slaves are considered merely as property, and in no respect whatever as persons.",
+   "begin": 128.16,
+   "end": 134.319,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "The true state of the case is, that they partake of both these qualities:",
+   "begin": 134.319,
+   "end": 137.92,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "being considered by our laws, in some respects, as persons, and in other respects as property.",
+   "begin": 137.92,
+   "end": 143.84,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "In being compelled to labor, not for himself, but for a master;",
+   "begin": 143.84,
+   "end": 147.36,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "in being vendible by one master to another master;",
+   "begin": 147.36,
+   "end": 150.16,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "and in being subject at all times to be restrained in his liberty and chastised in his body, by the capricious will of another, the slave may appear to be degraded from the human rank, and classed with those irrational animals which fall under the legal denomination of property.",
+   "begin": 150.16,
+   "end": 164.64,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "In being protected, on the other hand, in his life and in his limbs, against the violence of all others, even the master of his labor and his liberty;",
+   "begin": 164.64,
+   "end": 171.599,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "and in being punishable himself for all violence committed against others, the slave is no less evidently regarded by the law as a member of the society, not as a part of the irrational creation;",
+   "begin": 171.599,
+   "end": 182.239,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "as a moral person, not as a mere article of property.",
+   "begin": 182.239,
+   "end": 185.92,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "The federal Constitution, therefore, decides with great propriety on the case of our slaves, when it views them in the mixed character of persons and of property.",
+   "begin": 185.92,
+   "end": 194.4,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "This is in fact their true character.",
+   "begin": 194.4,
+   "end": 196.8,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "It is the character bestowed on them by the laws under which they live;",
+   "begin": 196.8,
+   "end": 200.08,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "and it will not be denied, that these are the proper criterion;",
+   "begin": 200.08,
+   "end": 203.2,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "because it is only under the pretext that the laws have transformed the negroes into subjects of property, that a place is disputed them in the computation of numbers;",
+   "begin": 203.2,
+   "end": 211.68,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "and it is admitted, that if the laws were to restore the rights which have been taken away, the negroes could no longer be refused an equal share of representation with the other inhabitants.",
+   "begin": 211.68,
+   "end": 222.08,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "\"This question may be placed in another light.",
+   "begin": 222.08,
+   "end": 224.319,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "It is agreed on all sides, that numbers are the best scale of wealth and taxation, as they are the only proper scale of representation.",
+   "begin": 224.319,
+   "end": 231.84,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "Would the convention have been impartial or consistent, if they had rejected the slaves from the list of inhabitants, when the shares of representation were to be calculated, and inserted them on the lists when the tariff of contributions was to be adjusted?",
+   "begin": 231.84,
+   "end": 244.0,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "Could it be reasonably expected, that the Southern States would concur in a system, which considered their slaves in some degree as men, when burdens were to be imposed, but refused to consider them in the same light, when advantages were to be conferred?",
+   "begin": 244.0,
+   "end": 256.479,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "Might not some surprise also be expressed, that those who reproach the Southern States with the barbarous policy of considering as property a part of their human brethren, should themselves contend, that the government to which all the States are to be parties, ought to consider this unfortunate race more completely in the unnatural light of property, than the very laws of which they complain?",
+   "begin": 256.479,
+   "end": 276.4,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "\"It may be replied, perhaps, that slaves are not included in the estimate of representatives in any of the States possessing them.",
+   "begin": 276.4,
+   "end": 283.04,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "They neither vote themselves nor increase the votes of their masters.",
+   "begin": 283.04,
+   "end": 286.56,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "Upon what principle, then, ought they to be taken into the federal estimate of representation?",
+   "begin": 286.56,
+   "end": 291.759,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "In rejecting them altogether, the Constitution would, in this respect, have followed the very laws which have been appealed to as the proper guide.",
+   "begin": 291.759,
+   "end": 298.8,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 6,
+   "text": "\"This objection is repelled by a single abservation.",
+   "begin": 298.8,
+   "end": 301.84,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 6,
+   "text": "It is a fundamental principle of the proposed Constitution, that as the aggregate number of representatives allotted to the several States is to be determined by a federal rule, founded on the aggregate number of inhabitants, so the right of choosing this allotted number in each State is to be exercised by such part of the inhabitants as the State itself may designate.",
+   "begin": 301.84,
+   "end": 320.72,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "The qualifications on which the right of suffrage depend are not, perhaps, the same in any two States.",
+   "begin": 320.72,
+   "end": 326.4,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "In some of the States the difference is very material.",
+   "begin": 326.4,
+   "end": 329.52,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "In every State, a certain proportion of inhabitants are deprived of this right by the constitution of the State, who will be included in the census by which the federal Constitution apportions the representatives.",
+   "begin": 329.52,
+   "end": 340.4,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "In this point of view the Southern States might retort the complaint, by insisting that the principle laid down by the convention required that no regard should be had to the policy of particular States towards their own inhabitants;",
+   "begin": 340.4,
+   "end": 351.12,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "and consequently, that the slaves, as inhabitants, should have been admitted into the census according to their full number, in like manner with other inhabitants, who, by the policy of other States, are not admitted to all the rights of citizens.",
+   "begin": 351.12,
+   "end": 363.52,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "A rigorous adherence, however, to this principle, is waived by those who would be gainers by it.",
+   "begin": 363.52,
+   "end": 369.12,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 7,
+   "text": "All that they ask is that equal moderation be shown on the other side.",
+   "begin": 369.12,
+   "end": 373.6,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 7,
+   "text": "Let the case of the slaves be considered, as it is in truth, a peculiar one.",
+   "begin": 373.6,
+   "end": 377.919,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 7,
+   "text": "Let the compromising expedient of the Constitution be mutually adopted, which regards them as inhabitants, but as debased by servitude below the equal level of free inhabitants, which regards the SLAVE as divested of two fifths of the MAN.",
+   "begin": 377.919,
+   "end": 391.759,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 7,
+   "text": "\"After all, may not another ground be taken on which this article of the Constitution will admit of a still more ready defense?",
+   "begin": 391.759,
+   "end": 398.639,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 7,
+   "text": "We have hitherto proceeded on the idea that representation related to persons only, and not at all to property.",
+   "begin": 398.639,
+   "end": 404.479,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 7,
+   "text": "But is it a just idea?",
+   "begin": 404.479,
+   "end": 406.319,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "Government is instituted no less for protection of the property, than of the persons, of individuals.",
+   "begin": 406.319,
+   "end": 411.68,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "The one as well as the other, therefore, may be considered as represented by those who are charged with the government.",
+   "begin": 411.68,
+   "end": 418.0,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 8,
+   "text": "Upon this principle it is, that in several of the States, and particularly in the State of New York, one branch of the government is intended more especially to be the guardian of property, and is accordingly elected by that part of the society which is most interested in this object of government.",
+   "begin": 418.0,
+   "end": 432.8,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 8,
+   "text": "In the federal Constitution, this policy does not prevail.",
+   "begin": 432.8,
+   "end": 436.16,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 8,
+   "text": "The rights of property are committed into the same hands with the personal rights.",
+   "begin": 436.16,
+   "end": 440.4,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 8,
+   "text": "Some attention ought, therefore, to be paid to property in the choice of those hands.",
+   "begin": 440.4,
+   "end": 444.88,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 8,
+   "text": "\"For another reason, the votes allowed in the federal legislature to the people of each State, ought to bear some proportion to the comparative wealth of the States.",
+   "begin": 444.88,
+   "end": 453.28,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "States have not, like individuals, an influence over each other, arising from superior advantages of fortune.",
+   "begin": 453.28,
+   "end": 459.599,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "If the law allows an opulent citizen but a single vote in the choice of his representative, the respect and consequence which he derives from his fortunate situation very frequently guide the votes of others to the objects of his choice;",
+   "begin": 459.599,
+   "end": 471.44,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "and through this imperceptible channel the rights of property are conveyed into the public representation.",
+   "begin": 471.44,
+   "end": 476.72,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "A State possesses no such influence over other States.",
+   "begin": 476.72,
+   "end": 479.84,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "It is not probable that the richest State in the Confederacy will ever influence the choice of a single representative in any other State.",
+   "begin": 479.84,
+   "end": 486.639,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "Nor will the representatives of the larger and richer States possess any other advantage in the federal legislature, over the representatives of other States, than what may result from their superior number alone.",
+   "begin": 486.639,
+   "end": 497.36,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "As far, therefore, as their superior wealth and weight may justly entitle them to any advantage, it ought to be secured to them by a superior share of representation.",
+   "begin": 497.36,
+   "end": 507.199,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 9,
+   "text": "The new Constitution is, in this respect, materially different from the existing Confederation, as well as from that of the United Netherlands, and other similar confederacies.",
+   "begin": 507.199,
+   "end": 517.279,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 9,
+   "text": "In each of the latter, the efficacy of the federal resolutions depends on the subsequent and voluntary resolutions of the states composing the union.",
+   "begin": 517.279,
+   "end": 525.36,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "Hence the states, though possessing an equal vote in the public councils, have an unequal influence, corresponding with the unequal importance of these subsequent and voluntary resolutions.",
+   "begin": 525.36,
+   "end": 535.519,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "Under the proposed Constitution, the federal acts will take effect without the necessary intervention of the individual States.",
+   "begin": 535.519,
+   "end": 542.32,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 9,
+   "text": "They will depend merely on the majority of votes in the federal legislature, and consequently each vote, whether proceeding from a larger or smaller State, or a State more or less wealthy or powerful, will have an equal weight and efficacy:",
+   "begin": 542.32,
+   "end": 554.8,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 9,
+   "text": "in the same manner as the votes individually given in a State legislature, by the representatives of unequal counties or other districts, have each a precise equality of value and effect;",
+   "begin": 554.8,
+   "end": 564.56,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 9,
+   "text": "or if there be any difference in the case, it proceeds from the difference in the personal character of the individual representative, rather than from any regard to the extent of the district from which he comes.",
+   "begin": 564.56,
+   "end": 575.36,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 9,
+   "text": "''Such is the reasoning which an advocate for the Southern interests might employ on this subject;",
+   "begin": 575.36,
+   "end": 580.0,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 9,
+   "text": "and although it may appear to be a little strained in some points, yet, on the whole, I must confess that it fully reconciles me to the scale of representation which the convention have established.",
+   "begin": 580.0,
+   "end": 590.08,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 9,
+   "text": "In one respect, the establishment of a common measure for representation and taxation will have a very salutary effect.",
+   "begin": 590.08,
+   "end": 596.88,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 9,
+   "text": "As the accuracy of the census to be obtained by the Congress will necessarily depend, in a considerable degree on the disposition, if not on the co-operation, of the States, it is of great importance that the States should feel as little bias as possible, to swell or to reduce the amount of their numbers.",
+   "begin": 596.88,
+   "end": 612.48,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 9,
+   "text": "Were their share of representation alone to be governed by this rule, they would have an interest in exaggerating their inhabitants.",
+   "begin": 612.48,
+   "end": 618.959,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 9,
+   "text": "Were the rule to decide their share of taxation alone, a contrary temptation would prevail.",
+   "begin": 618.959,
+   "end": 624.16,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 9,
+   "text": "By extending the rule to both objects, the States will have opposite interests, which will control and balance each other, and produce the requisite impartiality.",
+   "begin": 624.16,
+   "end": 633.04,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 10,
+   "text": "PUBLIUS.",
+   "begin": 633.04,
+   "end": 634.6478,
+   "synced": true
+  }
+ ]
+}

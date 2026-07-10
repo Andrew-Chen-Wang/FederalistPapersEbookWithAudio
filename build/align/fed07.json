@@ -1,0 +1,837 @@
+{
+ "paper": 7,
+ "duration": 708.022857,
+ "match_ratio": 0.9645,
+ "heading": [
+  "The Same Subject Continued:",
+  "Concerning Dangers from Dissensions Between the States",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.12,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IT IS sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?",
+   "begin": 13.12,
+   "end": 21.119,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "It would be a full answer to this question to say--precisely the same inducements which have, at different times, deluged in blood all the nations in the world.",
+   "begin": 21.119,
+   "end": 29.119,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "But, unfortunately for us, the question admits of a more particular answer.",
+   "begin": 29.119,
+   "end": 33.84,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "There are causes of differences within our immediate contemplation, of the tendency of which, even under the restraints of a federal constitution, we have had sufficient experience to enable us to form a judgment of what might be expected if those restraints were removed.",
+   "begin": 33.84,
+   "end": 48.079,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "Territorial disputes have at all times been found one of the most fertile sources of hostility among nations.",
+   "begin": 48.079,
+   "end": 54.239,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Perhaps the greatest proportion of wars that have desolated the earth have sprung from this origin.",
+   "begin": 54.239,
+   "end": 59.359,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "This cause would exist among us in full force.",
+   "begin": 59.359,
+   "end": 62.079,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "We have a vast tract of unsettled territory within the boundaries of the United States.",
+   "begin": 62.079,
+   "end": 66.479,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "There still are discordant and undecided claims between several of them, and the dissolution of the Union would lay a foundation for similar claims between them all.",
+   "begin": 66.479,
+   "end": 74.56,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "It is well known that they have heretofore had serious and animated discussion concerning the rights to the lands which were ungranted at the time of the Revolution, and which usually went under the name of crown lands.",
+   "begin": 74.56,
+   "end": 85.04,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "The States within the limits of whose colonial governments they were comprised have claimed them as their property, the others have contended that the rights of the crown in this article devolved upon the Union;",
+   "begin": 85.04,
+   "end": 94.24,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "especially as to all that part of the Western territory which, either by actual possession, or through the submission of the Indian proprietors, was subjected to the jurisdiction of the king of Great Britain, till it was relinquished in the treaty of peace.",
+   "begin": 94.24,
+   "end": 106.56,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "This, it has been said, was at all events an acquisition to the Confederacy by compact with a foreign power.",
+   "begin": 106.56,
+   "end": 112.32,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "It has been the prudent policy of Congress to appease this controversy, by prevailing upon the States to make cessions to the United States for the benefit of the whole.",
+   "begin": 112.32,
+   "end": 120.64,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "This has been so far accomplished as, under a continuation of the Union, to afford a decided prospect of an amicable termination of the dispute.",
+   "begin": 120.64,
+   "end": 128.479,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "A dismemberment of the Confederacy, however, would revive this dispute, and would create others on the same subject.",
+   "begin": 128.479,
+   "end": 134.8,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "At present, a large part of the vacant Western territory is, by cession at least, if not by any anterior right, the common property of the Union.",
+   "begin": 134.8,
+   "end": 143.04,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "If that were at an end, the States which made the cession, on a principle of federal compromise, would be apt when the motive of the grant had ceased, to reclaim the lands as a reversion.",
+   "begin": 143.04,
+   "end": 152.0,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 2,
+   "text": "The other States would no doubt insist on a proportion, by right of representation.",
+   "begin": 152.0,
+   "end": 156.16,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 2,
+   "text": "Their argument would be, that a grant, once made, could not be revoked;",
+   "begin": 156.16,
+   "end": 159.599,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 2,
+   "text": "and that the justice of participating in territory acquired or secured by the joint efforts of the Confederacy, remained undiminished.",
+   "begin": 159.599,
+   "end": 166.64,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 2,
+   "text": "If, contrary to probability, it should be admitted by all the States, that each had a right to a share of this common stock, there would still be a difficulty to be surmounted, as to a proper rule of apportionment.",
+   "begin": 166.64,
+   "end": 177.12,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 2,
+   "text": "Different principles would be set up by different States for this purpose;",
+   "begin": 177.12,
+   "end": 180.319,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 2,
+   "text": "and as they would affect the opposite interests of the parties, they might not easily be susceptible of a pacific adjustment.",
+   "begin": 180.319,
+   "end": 186.48,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "In the wide field of Western territory, therefore, we perceive an ample theatre for hostile pretensions, without any umpire or common judge to interpose between the contending parties.",
+   "begin": 186.48,
+   "end": 196.159,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "To reason from the past to the future, we shall have good ground to apprehend, that the sword would sometimes be appealed to as the arbiter of their differences.",
+   "begin": 196.159,
+   "end": 204.08,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 3,
+   "text": "The circumstances of the dispute between Connecticut and Pennsylvania, respecting the land at Wyoming, admonish us not to be sanguine in expecting an easy accommodation of such differences.",
+   "begin": 204.08,
+   "end": 213.12,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 3,
+   "text": "The articles of confederation obliged the parties to submit the matter to the decision of a federal court.",
+   "begin": 213.12,
+   "end": 218.239,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 3,
+   "text": "The submission was made, and the court decided in favor of Pennsylvania.",
+   "begin": 218.239,
+   "end": 222.0,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 3,
+   "text": "But Connecticut gave strong indications of dissatisfaction with that determination;",
+   "begin": 222.0,
+   "end": 226.4,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 3,
+   "text": "nor did she appear to be entirely resigned to it, till, by negotiation and management, something like an equivalent was found for the loss she supposed herself to have sustained.",
+   "begin": 226.4,
+   "end": 235.04,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 3,
+   "text": "Nothing here said is intended to convey the slightest censure on the conduct of that State.",
+   "begin": 235.04,
+   "end": 239.76,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 3,
+   "text": "She no doubt sincerely believed herself to have been injured by the decision;",
+   "begin": 239.76,
+   "end": 243.439,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 3,
+   "text": "and States, like individuals, acquiesce with great reluctance in determinations to their disadvantage.",
+   "begin": 243.439,
+   "end": 248.879,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "Those who had an opportunity of seeing the inside of the transactions which attended the progress of the controversy between this State and the district of Vermont, can vouch the opposition we experienced, as well from States not interested as from those which were interested in the claim;",
+   "begin": 248.879,
+   "end": 262.16,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "and can attest the danger to which the peace of the Confederacy might have been exposed, had this State attempted to assert its rights by force.",
+   "begin": 262.16,
+   "end": 269.759,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 4,
+   "text": "Two motives preponderated in that opposition:",
+   "begin": 269.759,
+   "end": 272.479,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 4,
+   "text": "one, a jealousy entertained of our future power;",
+   "begin": 272.479,
+   "end": 275.28,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 4,
+   "text": "and the other, the interest of certain individuals of influence in the neighboring States, who had obtained grants of lands under the actual government of that district.",
+   "begin": 275.28,
+   "end": 283.44,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 4,
+   "text": "Even the States which brought forward claims, in contradiction to ours, seemed more solicitous to dismember this State, than to establish their own pretensions.",
+   "begin": 283.44,
+   "end": 291.759,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 4,
+   "text": "These were New Hampshire, Massachusetts, and Connecticut.",
+   "begin": 291.759,
+   "end": 294.8,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 4,
+   "text": "New Jersey and Rhode Island, upon all occasions, discovered a warm zeal for the independence of Vermont;",
+   "begin": 294.8,
+   "end": 299.84,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 4,
+   "text": "and Maryland, till alarmed by the appearance of a connection between Canada and that State, entered deeply into the same views.",
+   "begin": 299.84,
+   "end": 306.16,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 4,
+   "text": "These being small States, saw with an unfriendly eye the perspective of our growing greatness.",
+   "begin": 306.16,
+   "end": 311.28,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 4,
+   "text": "In a review of these transactions we may trace some of the causes which would be likely to embroil the States with each other, if it should be their unpropitious destiny to become disunited.",
+   "begin": 311.28,
+   "end": 320.88,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "The competitions of commerce would be another fruitful source of contention.",
+   "begin": 320.88,
+   "end": 324.479,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 5,
+   "text": "The States less favorably circumstanced would be desirous of escaping from the disadvantages of local situation, and of sharing in the advantages of their more fortunate neighbors.",
+   "begin": 324.479,
+   "end": 333.6,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 5,
+   "text": "Each State, or separate confederacy, would pursue a system of commercial policy peculiar to itself.",
+   "begin": 333.6,
+   "end": 338.88,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 5,
+   "text": "This would occasion distinctions, preferences, and exclusions, which would beget discontent.",
+   "begin": 338.88,
+   "end": 344.24,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 5,
+   "text": "The habits of intercourse, on the basis of equal privileges, to which we have been accustomed since the earliest settlement of the country, would give a keener edge to those causes of discontent than they would naturally have independent of this circumstance.",
+   "begin": 344.24,
+   "end": 356.16,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 5,
+   "text": "WE SHOULD BE READY TO DENOMINATE INJURIES THOSE THINGS WHICH WERE IN REALITY THE JUSTIFIABLE ACTS OF INDEPENDENT SOVEREIGNTIES CONSULTING A DISTINCT INTEREST.",
+   "begin": 356.16,
+   "end": 364.88,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 5,
+   "text": "The spirit of enterprise, which characterizes the commercial part of America, has left no occasion of displaying itself unimproved.",
+   "begin": 364.88,
+   "end": 371.52,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 5,
+   "text": "It is not at all probable that this unbridled spirit would pay much respect to those regulations of trade by which particular States might endeavor to secure exclusive benefits to their own citizens.",
+   "begin": 371.52,
+   "end": 381.44,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 5,
+   "text": "The infractions of these regulations, on one side, the efforts to prevent and repel them, on the other, would naturally lead to outrages, and these to reprisals and wars.",
+   "begin": 381.44,
+   "end": 391.28,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 6,
+   "text": "The opportunities which some States would have of rendering others tributary to them by commercial regulations would be impatiently submitted to by the tributary States.",
+   "begin": 391.28,
+   "end": 400.08,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 6,
+   "text": "The relative situation of New York, Connecticut, and New Jersey would afford an example of this kind.",
+   "begin": 400.08,
+   "end": 405.039,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 6,
+   "text": "New York, from the necessities of revenue, must lay duties on her importations.",
+   "begin": 405.039,
+   "end": 409.44,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 6,
+   "text": "A great part of these duties must be paid by the inhabitants of the two other States in the capacity of consumers of what we import.",
+   "begin": 409.44,
+   "end": 416.08,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 6,
+   "text": "New York would neither be willing nor able to forego this advantage.",
+   "begin": 416.08,
+   "end": 419.52,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 6,
+   "text": "Her citizens would not consent that a duty paid by them should be remitted in favor of the citizens of her neighbors;",
+   "begin": 419.52,
+   "end": 424.88,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 6,
+   "text": "nor would it be practicable, if there were not this impediment in the way, to distinguish the customers in our own markets.",
+   "begin": 424.88,
+   "end": 430.479,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 6,
+   "text": "Would Connecticut and New Jersey long submit to be taxed by New York for her exclusive benefit?",
+   "begin": 430.479,
+   "end": 435.44,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 6,
+   "text": "Should we be long permitted to remain in the quiet and undisturbed enjoyment of a metropolis, from the possession of which we derived an advantage so odious to our neighbors, and, in their opinion, so oppressive?",
+   "begin": 435.44,
+   "end": 445.36,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 6,
+   "text": "Should we be able to preserve it against the incumbent weight of Connecticut on the one side, and the co-operating pressure of New Jersey on the other?",
+   "begin": 445.36,
+   "end": 452.24,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 6,
+   "text": "These are questions that temerity alone will answer in the affirmative.",
+   "begin": 452.24,
+   "end": 456.639,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 7,
+   "text": "The public debt of the Union would be a further cause of collision between the separate States or confederacies.",
+   "begin": 456.639,
+   "end": 461.84,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 7,
+   "text": "The apportionment, in the first instance, and the progressive extinguishment afterward, would be alike productive of ill-humor and animosity.",
+   "begin": 461.84,
+   "end": 468.8,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 7,
+   "text": "How would it be possible to agree upon a rule of apportionment satisfactory to all?",
+   "begin": 468.8,
+   "end": 472.96,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 7,
+   "text": "There is scarcely any that can be proposed which is entirely free from real objections.",
+   "begin": 472.96,
+   "end": 477.68,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 7,
+   "text": "These, as usual, would be exaggerated by the adverse interest of the parties.",
+   "begin": 477.68,
+   "end": 481.84,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 7,
+   "text": "There are even dissimilar views among the States as to the general principle of discharging the public debt.",
+   "begin": 481.84,
+   "end": 487.039,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 7,
+   "text": "Some of them, either less impressed with the importance of national credit, or because their citizens have little, if any, immediate interest in the question, feel an indifference, if not a repugnance, to the payment of the domestic debt at any rate.",
+   "begin": 487.039,
+   "end": 499.039,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 7,
+   "text": "These would be inclined to magnify the difficulties of a distribution.",
+   "begin": 499.039,
+   "end": 502.56,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 7,
+   "text": "Others of them, a numerous body of whose citizens are creditors to the public beyond proportion of the State in the total amount of the national debt, would be strenuous for some equitable and effective provision.",
+   "begin": 502.56,
+   "end": 512.8,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 7,
+   "text": "The procrastinations of the former would excite the resentments of the latter.",
+   "begin": 512.8,
+   "end": 516.399,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 7,
+   "text": "The settlement of a rule would, in the meantime, be postponed by real differences of opinion and affected delays.",
+   "begin": 516.399,
+   "end": 522.719,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 7,
+   "text": "The citizens of the States interested would clamour;",
+   "begin": 522.719,
+   "end": 525.36,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 7,
+   "text": "foreign powers would urge for the satisfaction of their just demands, and the peace of the States would be hazarded to the double contingency of external invasion and internal contention.",
+   "begin": 525.36,
+   "end": 535.36,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 8,
+   "text": "Suppose the difficulties of agreeing upon a rule surmounted, and the apportionment made.",
+   "begin": 535.36,
+   "end": 540.0,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 8,
+   "text": "Still there is great room to suppose that the rule agreed upon would, upon experiment, be found to bear harder upon some States than upon others.",
+   "begin": 540.0,
+   "end": 547.92,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 8,
+   "text": "Those which were sufferers by it would naturally seek for a mitigation of the burden.",
+   "begin": 547.92,
+   "end": 552.08,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 8,
+   "text": "The others would as naturally be disinclined to a revision, which was likely to end in an increase of their own incumbrances.",
+   "begin": 552.08,
+   "end": 558.8,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 8,
+   "text": "Their refusal would be too plausible a pretext to the complaining States to withhold their contributions, not to be embraced with avidity;",
+   "begin": 558.8,
+   "end": 565.2,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 8,
+   "text": "and the non-compliance of these States with their engagements would be a ground of bitter discussion and altercation.",
+   "begin": 565.2,
+   "end": 571.12,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 8,
+   "text": "If even the rule adopted should in practice justify the equality of its principle, still delinquencies in payments on the part of some of the States would result from a diversity of other causes--the real deficiency of resources;",
+   "begin": 571.12,
+   "end": 582.56,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 8,
+   "text": "the mismanagement of their finances;",
+   "begin": 582.56,
+   "end": 584.56,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 8,
+   "text": "accidental disorders in the management of the government;",
+   "begin": 584.56,
+   "end": 587.2,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 8,
+   "text": "and, in addition to the rest, the reluctance with which men commonly part with money for purposes that have outlived the exigencies which produced them, and interfere with the supply of immediate wants.",
+   "begin": 587.2,
+   "end": 596.959,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 8,
+   "text": "Delinquencies, from whatever causes, would be productive of complaints, recriminations, and quarrels.",
+   "begin": 596.959,
+   "end": 602.959,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 8,
+   "text": "There is, perhaps, nothing more likely to disturb the tranquillity of nations than their being bound to mutual contributions for any common object that does not yield an equal and coincident benefit.",
+   "begin": 602.959,
+   "end": 613.04,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 8,
+   "text": "For it is an observation, as true as it is trite, that there is nothing men differ so readily about as the payment of money.",
+   "begin": 613.04,
+   "end": 620.0,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 9,
+   "text": "Laws in violation of private contracts, as they amount to aggressions on the rights of those States whose citizens are injured by them, may be considered as another probable source of hostility.",
+   "begin": 620.0,
+   "end": 629.76,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 9,
+   "text": "We are not authorized to expect that a more liberal or more equitable spirit would preside over the legislations of the individual States hereafter, if unrestrained by any additional checks, than we have heretofore seen in too many instances disgracing their several codes.",
+   "begin": 629.76,
+   "end": 643.92,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 9,
+   "text": "We have observed the disposition to retaliation excited in Connecticut in consequence of the enormities perpetrated by the Legislature of Rhode Island;",
+   "begin": 643.92,
+   "end": 651.04,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 9,
+   "text": "and we reasonably infer that, in similar cases, under other circumstances, a war, not of PARCHMENT, but of the sword, would chastise such atrocious breaches of moral obligation and social justice.",
+   "begin": 651.04,
+   "end": 662.24,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 10,
+   "text": "The probability of incompatible alliances between the different States or confederacies and different foreign nations, and the effects of this situation upon the peace of the whole, have been sufficiently unfolded in some preceding papers.",
+   "begin": 662.24,
+   "end": 673.92,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 10,
+   "text": "From the view they have exhibited of this part of the subject, this conclusion is to be drawn, that America, if not connected at all, or only by the feeble tie of a simple league, offensive and defensive, would, by the operation of such jarring alliances, be gradually entangled in all the pernicious labyrinths of European politics and wars;",
+   "begin": 673.92,
+   "end": 691.44,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 10,
+   "text": "and by the destructive contentions of the parts into which she was divided, would be likely to become a prey to the artifices and machinations of powers equally the enemies of them all.",
+   "begin": 691.44,
+   "end": 702.16,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 10,
+   "text": "Divide et impera1 must be the motto of every nation that either hates or fears us.",
+   "begin": 702.16,
+   "end": 706.68,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 11,
+   "text": "PUBLIUS.",
+   "begin": 706.68,
+   "end": 707.68,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 12,
+   "text": "1 Divide and command.",
+   "begin": 707.68,
+   "end": 708.022857,
+   "synced": false
+  },
+  {
+   "id": "u0103",
+   "para": 13,
+   "text": "2 In order that the whole subject of these papers may as soon as possible be laid before the public, it is proposed to publish them four times a week--on Tuesday in the New York Packet and on Thursday in the Daily Advertiser.",
+   "begin": 708.022857,
+   "end": 708.022857,
+   "synced": false
+  }
+ ]
+}

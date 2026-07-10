@@ -1,0 +1,723 @@
+{
+ "paper": 53,
+ "duration": 701.939229,
+ "match_ratio": 0.9899,
+ "heading": [
+  "The Same Subject Continued(The House of Representatives)",
+  "From the New York Packet. Tuesday, February 12, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 17.44,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "I SHALL here, perhaps, be reminded of a current observation, \"that where annual elections end, tyranny begins.",
+   "begin": 17.44,
+   "end": 24.88,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "'' If it be true, as has often been remarked, that sayings which become proverbial are generally founded in reason, it is not less true, that when once established, they are often applied to cases to which the reason of them does not extend.",
+   "begin": 24.88,
+   "end": 38.0,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "I need not look for a proof beyond the case before us.",
+   "begin": 38.0,
+   "end": 41.36,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "What is the reason on which this proverbial observation is founded?",
+   "begin": 41.36,
+   "end": 45.28,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "No man will subject himself to the ridicule of pretending that any natural connection subsists between the sun or the seasons, and the period within which human virtue can bear the temptations of power.",
+   "begin": 45.28,
+   "end": 55.6,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "Happily for mankind, liberty is not, in this respect, confined to any single point of time;",
+   "begin": 55.6,
+   "end": 60.559,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "but lies within extremes, which afford sufficient latitude for all the variations which may be required by the various situations and circumstances of civil society.",
+   "begin": 60.559,
+   "end": 69.84,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "The election of magistrates might be, if it were found expedient, as in some instances it actually has been, daily, weekly, or monthly, as well as annual;",
+   "begin": 69.84,
+   "end": 78.56,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "and if circumstances may require a deviation from the rule on one side, why not also on the other side?",
+   "begin": 78.56,
+   "end": 85.28,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "Turning our attention to the periods established among ourselves, for the election of the most numerous branches of the State legislatures, we find them by no means coinciding any more in this instance, than in the elections of other civil magistrates.",
+   "begin": 85.28,
+   "end": 98.24,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "In Connecticut and Rhode Island, the periods are half-yearly.",
+   "begin": 98.24,
+   "end": 101.759,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "In the other States, South Carolina excepted, they are annual.",
+   "begin": 101.759,
+   "end": 105.2,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "In South Carolina they are biennial as is proposed in the federal government.",
+   "begin": 105.2,
+   "end": 110.159,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "Here is a difference, as four to one, between the longest and shortest periods;",
+   "begin": 110.159,
+   "end": 114.479,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "and yet it would be not easy to show, that Connecticut or Rhode Island is better governed, or enjoys a greater share of rational liberty, than South Carolina;",
+   "begin": 114.479,
+   "end": 122.32,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "or that either the one or the other of these States is distinguished in these respects, and by these causes, from the States whose elections are different from both.",
+   "begin": 122.32,
+   "end": 130.479,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "In searching for the grounds of this doctrine, I can discover but one, and that is wholly inapplicable to our case.",
+   "begin": 130.479,
+   "end": 136.4,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "The important distinction so well understood in America, between a Constitution established by the people and unalterable by the government, and a law established by the government and alterable by the government, seems to have been little understood and less observed in any other country.",
+   "begin": 136.4,
+   "end": 151.2,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 2,
+   "text": "Wherever the supreme power of legislation has resided, has been supposed to reside also a full power to change the form of the government.",
+   "begin": 151.2,
+   "end": 160.0,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "Even in Great Britain, where the principles of political and civil liberty have been most discussed, and where we hear most of the rights of the Constitution, it is maintained that the authority of the Parliament is transcendent and uncontrollable, as well with regard to the Constitution, as the ordinary objects of legislative provision.",
+   "begin": 160.0,
+   "end": 176.72,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "They have accordingly, in several instances, actually changed, by legislative acts, some of the most fundamental articles of the government.",
+   "begin": 176.72,
+   "end": 184.08,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "They have in particular, on several occasions, changed the period of election;",
+   "begin": 184.08,
+   "end": 187.92,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "and, on the last occasion, not only introduced septennial in place of triennial elections, but by the same act, continued themselves in place four years beyond the term for which they were elected by the people.",
+   "begin": 187.92,
+   "end": 199.599,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "An attention to these dangerous practices has produced a very natural alarm in the votaries of free government, of which frequency of elections is the corner-stone;",
+   "begin": 199.599,
+   "end": 208.0,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "and has led them to seek for some security to liberty, against the danger to which it is exposed.",
+   "begin": 208.0,
+   "end": 213.28,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "Where no Constitution, paramount to the government, either existed or could be obtained, no constitutional security, similar to that established in the United States, was to be attempted.",
+   "begin": 213.28,
+   "end": 224.08,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "Some other security, therefore, was to be sought for;",
+   "begin": 224.08,
+   "end": 226.799,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "and what better security would the case admit, than that of selecting and appealing to some simple and familiar portion of time, as a standard for measuring the danger of innovations, for fixing the national sentiment, and for uniting the patriotic exertions?",
+   "begin": 226.799,
+   "end": 240.879,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "The most simple and familiar portion of time, applicable to the subject was that of a year;",
+   "begin": 240.879,
+   "end": 246.0,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "and hence the doctrine has been inculcated by a laudable zeal, to erect some barrier against the gradual innovations of an unlimited government, that the advance towards tyranny was to be calculated by the distance of departure from the fixed point of annual elections.",
+   "begin": 246.0,
+   "end": 260.079,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "But what necessity can there be of applying this expedient to a government limited, as the federal government will be, by the authority of a paramount Constitution?",
+   "begin": 260.079,
+   "end": 268.639,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "Or who will pretend that the liberties of the people of America will not be more secure under biennial elections, unalterably fixed by such a Constitution, than those of any other nation would be, where elections were annual, or even more frequent, but subject to alterations by the ordinary power of the government?",
+   "begin": 268.639,
+   "end": 285.199,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "The second question stated is, whether biennial elections be necessary or useful.",
+   "begin": 285.199,
+   "end": 290.639,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "The propriety of answering this question in the affirmative will appear from several very obvious considerations.",
+   "begin": 290.639,
+   "end": 297.04,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "No man can be a competent legislator who does not add to an upright intention and a sound judgment a certain degree of knowledge of the subjects on which he is to legislate.",
+   "begin": 297.04,
+   "end": 306.16,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "A part of this knowledge may be acquired by means of information which lie within the compass of men in private as well as public stations.",
+   "begin": 306.16,
+   "end": 313.36,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "Another part can only be attained, or at least thoroughly attained, by actual experience in the station which requires the use of it.",
+   "begin": 313.36,
+   "end": 320.479,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "The period of service, ought, therefore, in all such cases, to bear some proportion to the extent of practical knowledge requisite to the due performance of the service.",
+   "begin": 320.479,
+   "end": 329.039,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "The period of legislative service established in most of the States for the more numerous branch is, as we have seen, one year.",
+   "begin": 329.039,
+   "end": 336.0,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "The question then may be put into this simple form:",
+   "begin": 336.0,
+   "end": 338.4,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "does the period of two years bear no greater proportion to the knowledge requisite for federal legislation than one year does to the knowledge requisite for State legislation?",
+   "begin": 338.4,
+   "end": 347.36,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "The very statement of the question, in this form, suggests the answer that ought to be given to it.",
+   "begin": 347.36,
+   "end": 352.4,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "In a single State, the requisite knowledge relates to the existing laws which are uniform throughout the State, and with which all the citizens are more or less conversant;",
+   "begin": 352.4,
+   "end": 360.479,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "and to the general affairs of the State, which lie within a small compass, are not very diversified, and occupy much of the attention and conversation of every class of people.",
+   "begin": 360.479,
+   "end": 369.919,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "The great theatre of the United States presents a very different scene.",
+   "begin": 369.919,
+   "end": 373.6,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "The laws are so far from being uniform, that they vary in every State;",
+   "begin": 373.6,
+   "end": 377.199,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "whilst the public affairs of the Union are spread throughout a very extensive region, and are extremely diversified by the local affairs connected with them, and can with difficulty be correctly learnt in any other place than in the central councils to which a knowledge of them will be brought by the representatives of every part of the empire.",
+   "begin": 377.199,
+   "end": 393.68,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "Yet some knowledge of the affairs, and even of the laws, of all the States, ought to be possessed by the members from each of the States.",
+   "begin": 393.68,
+   "end": 400.479,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "How can foreign trade be properly regulated by uniform laws, without some acquaintance with the commerce, the ports, the usages, and the regulatious of the different States?",
+   "begin": 400.479,
+   "end": 409.36,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "How can the trade between the different States be duly regulated, without some knowledge of their relative situations in these and other respects?",
+   "begin": 409.36,
+   "end": 416.639,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "How can taxes be judiciously imposed and effectually collected, if they be not accommodated to the different laws and local circumstances relating to these objects in the different States?",
+   "begin": 416.639,
+   "end": 426.4,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "How can uniform regulations for the militia be duly provided, without a similar knowledge of many internal circumstances by which the States are distinguished from each other?",
+   "begin": 426.4,
+   "end": 435.199,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 6,
+   "text": "These are the principal objects of federal legislation, and suggest most forcibly the extensive information which the representatives ought to acquire.",
+   "begin": 435.199,
+   "end": 443.28,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 6,
+   "text": "The other interior objects will require a proportional degree of information with regard to them.",
+   "begin": 443.28,
+   "end": 448.96,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "It is true that all these difficulties will, by degrees, be very much diminished.",
+   "begin": 448.96,
+   "end": 453.68,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "The most laborious task will be the proper inauguration of the government and the primeval formation of a federal code.",
+   "begin": 453.68,
+   "end": 460.479,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "Improvements on the first draughts will every year become both easier and fewer.",
+   "begin": 460.479,
+   "end": 464.96,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "Past transactions of the government will be a ready and accurate source of information to new members.",
+   "begin": 464.96,
+   "end": 469.919,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "The affairs of the Union will become more and more objects of curiosity and conversation among the citizens at large.",
+   "begin": 469.919,
+   "end": 475.919,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 7,
+   "text": "And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws.",
+   "begin": 475.919,
+   "end": 486.479,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 7,
+   "text": "But with all these abatements, the business of federal legislation must continue so far to exceed, both in novelty and difficulty, the legislative business of a single State, as to justify the longer period of service assigned to those who are to transact it.",
+   "begin": 486.479,
+   "end": 500.72,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 7,
+   "text": "A branch of knowledge which belongs to the acquirements of a federal representative, and which has not been mentioned is that of foreign affairs.",
+   "begin": 500.72,
+   "end": 508.56,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 7,
+   "text": "In regulating our own commerce he ought to be not only acquainted with the treaties between the United States and other nations, but also with the commercial policy and laws of other nations.",
+   "begin": 508.56,
+   "end": 518.159,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 7,
+   "text": "He ought not to be altogether ignorant of the law of nations;",
+   "begin": 518.159,
+   "end": 521.519,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 7,
+   "text": "for that, as far as it is a proper object of municipal legislation, is submitted to the federal government.",
+   "begin": 521.519,
+   "end": 527.6,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "And although the House of Representatives is not immediately to participate in foreign negotiations and arrangements, yet from the necessary connection between the several branches of public affairs, those particular branches will frequently deserve attention in the ordinary course of legislation, and will sometimes demand particular legislative sanction and co-operation.",
+   "begin": 527.6,
+   "end": 546.48,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 8,
+   "text": "Some portion of this knowledge may, no doubt, be acquired in a man's closet;",
+   "begin": 546.48,
+   "end": 550.399,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 8,
+   "text": "but some of it also can only be derived from the public sources of information;",
+   "begin": 550.399,
+   "end": 554.399,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 8,
+   "text": "and all of it will be acquired to best effect by a practical attention to the subject during the period of actual service in the legislature.",
+   "begin": 554.399,
+   "end": 562.24,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 8,
+   "text": "There are other considerations, of less importance, perhaps, but which are not unworthy of notice.",
+   "begin": 562.24,
+   "end": 567.519,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 8,
+   "text": "The distance which many of the representatives will be obliged to travel, and the arrangements rendered necessary by that circumstance, might be much more serious objections with fit men to this service, if limited to a single year, than if extended to two years.",
+   "begin": 567.519,
+   "end": 581.44,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 8,
+   "text": "No argument can be drawn on this subject, from the case of the delegates to the existing Congress.",
+   "begin": 581.44,
+   "end": 586.16,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 8,
+   "text": "They are elected annually, it is true;",
+   "begin": 586.16,
+   "end": 588.08,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 8,
+   "text": "but their re-election is considered by the legislative assemblies almost as a matter of course.",
+   "begin": 588.08,
+   "end": 592.8,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 8,
+   "text": "The election of the representatives by the people would not be governed by the same principle.",
+   "begin": 592.8,
+   "end": 597.279,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 8,
+   "text": "A few of the members, as happens in all such assemblies, will possess superior talents;",
+   "begin": 597.279,
+   "end": 601.92,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 8,
+   "text": "will, by frequent reelections, become members of long standing;",
+   "begin": 601.92,
+   "end": 605.36,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 8,
+   "text": "will be thoroughly masters of the public business, and perhaps not unwilling to avail themselves of those advantages.",
+   "begin": 605.36,
+   "end": 611.6,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 8,
+   "text": "The greater the proportion of new members, and the less the information of the bulk of the members the more apt will they be to fall into the snares that may be laid for them.",
+   "begin": 611.6,
+   "end": 619.92,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 8,
+   "text": "This remark is no less applicable to the relation which will subsist between the House of Representatives and the Senate.",
+   "begin": 619.92,
+   "end": 626.32,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 9,
+   "text": "It is an inconvenience mingled with the advantages of our frequent elections even in single States, where they are large, and hold but one legislative session in a year, that spurious elections cannot be investigated and annulled in time for the decision to have its due effect.",
+   "begin": 626.32,
+   "end": 641.12,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 9,
+   "text": "If a return can be obtained, no matter by what unlawful means, the irregular member, who takes his seat of course, is sure of holding it a sufficient time to answer his purposes.",
+   "begin": 641.12,
+   "end": 651.2,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 9,
+   "text": "Hence, a very pernicious encouragement is given to the use of unlawful means, for obtaining irregular returns.",
+   "begin": 651.2,
+   "end": 657.44,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 9,
+   "text": "Were elections for the federal legislature to be annual, this practice might become a very serious abuse, particularly in the more distant States.",
+   "begin": 657.44,
+   "end": 665.36,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 9,
+   "text": "Each house is, as it necessarily must be, the judge of the elections, qualifications, and returns of its members;",
+   "begin": 665.36,
+   "end": 671.68,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 9,
+   "text": "and whatever improvements may be suggested by experience, for simplifying and accelerating the process in disputed cases, so great a portion of a year would unavoidably elapse, before an illegitimate member could be dispossessed of his seat, that the prospect of such an event would be little check to unfair and illicit means of obtaining a seat.",
+   "begin": 671.68,
+   "end": 689.279,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 9,
+   "text": "All these considerations taken together warrant us in affirming, that biennial elections will be as useful to the affairs of the public as we have seen that they will be safe to the liberty of the people.",
+   "begin": 689.279,
+   "end": 700.64,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 10,
+   "text": "PUBLIUS.",
+   "begin": 700.64,
+   "end": 701.939229,
+   "synced": true
+  }
+ ]
+}

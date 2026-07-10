@@ -1,0 +1,1044 @@
+{
+ "paper": 69,
+ "duration": 886.537868,
+ "match_ratio": 0.9136,
+ "heading": [
+  "The Real Character of the Executive",
+  "From the New York Packet.",
+  "Friday, March 14, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.36,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "I PROCEED now to trace the real characters of the proposed Executive, as they are marked out in the plan of the convention.",
+   "begin": 13.36,
+   "end": 19.84,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "This will serve to place in a strong light the unfairness of the representations which have been made in regard to it.",
+   "begin": 19.84,
+   "end": 26.4,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "The first thing which strikes our attention is, that the executive authority, with few exceptions, is to be vested in a single magistrate.",
+   "begin": 26.4,
+   "end": 33.68,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "This will scarcely, however, be considered as a point upon which any comparison can be grounded;",
+   "begin": 33.68,
+   "end": 38.16,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "for if, in this particular, there be a resemblance to the king of Great Britain, there is not less a resemblance to the Grand Seignior, to the khan of Tartary, to the Man of the Seven Mountains, or to the governor of New York.",
+   "begin": 38.16,
+   "end": 49.12,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "That magistrate is to be elected for FOUR years;",
+   "begin": 49.12,
+   "end": 51.68,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "and is to be re-eligible as often as the people of the United States shall think him worthy of their confidence.",
+   "begin": 51.68,
+   "end": 57.6,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "In these circumstances there is a total dissimilitude between HIM and a king of Great Britain, who is an HEREDITARY monarch, possessing the crown as a patrimony descendible to his heirs forever;",
+   "begin": 57.6,
+   "end": 68.08,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "but there is a close analogy between HIM and a governor of New York, who is elected for THREE years, and is re-eligible without limitation or intermission.",
+   "begin": 68.08,
+   "end": 76.32,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "If we consider how much less time would be requisite for establishing a dangerous influence in a single State, than for establishing a like influence throughout the United States, we must conclude that a duration of FOUR years for the Chief Magistrate of the Union is a degree of permanency far less to be dreaded in that office, than a duration of THREE years for a corresponding office in a single State.",
+   "begin": 76.32,
+   "end": 95.76,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 4,
+   "text": "The President of the United States would be liable to be impeached, tried, and, upon conviction of treason, bribery, or other high crimes or misdemeanors, removed from office;",
+   "begin": 95.76,
+   "end": 104.48,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 4,
+   "text": "and would afterwards be liable to prosecution and punishment in the ordinary course of law.",
+   "begin": 104.48,
+   "end": 109.44,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "The person of the king of Great Britain is sacred and inviolable;",
+   "begin": 109.44,
+   "end": 113.04,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "there is no constitutional tribunal to which he is amenable;",
+   "begin": 113.04,
+   "end": 116.24,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "no punishment to which he can be subjected without involving the crisis of a national revolution.",
+   "begin": 116.24,
+   "end": 121.2,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "In this delicate and important circumstance of personal responsibility, the President of Confederated America would stand upon no better ground than a governor of New York, and upon worse ground than the governors of Maryland and Delaware.",
+   "begin": 121.2,
+   "end": 133.92,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 5,
+   "text": "The President of the United States is to have power to return a bill, which shall have passed the two branches of the legislature, for reconsideration;",
+   "begin": 133.92,
+   "end": 141.84,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 5,
+   "text": "and the bill so returned is to become a law, if, upon that reconsideration, it be approved by two thirds of both houses.",
+   "begin": 141.84,
+   "end": 148.64,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "The king of Great Britain, on his part, has an absolute negative upon the acts of the two houses of Parliament.",
+   "begin": 148.64,
+   "end": 154.64,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "The disuse of that power for a considerable time past does not affect the reality of its existence;",
+   "begin": 154.64,
+   "end": 159.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "and is to be ascribed wholly to the crown's having found the means of substituting influence to authority, or the art of gaining a majority in one or the other of the two houses, to the necessity of exerting a prerogative which could seldom be exerted without hazarding some degree of national agitation.",
+   "begin": 159.92,
+   "end": 175.04,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "The qualified negative of the President differs widely from this absolute negative of the British sovereign;",
+   "begin": 175.04,
+   "end": 180.0,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "and tallies exactly with the revisionary authority of the council of revision of this State, of which the governor is a constituent part.",
+   "begin": 180.0,
+   "end": 187.12,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "In this respect the power of the President would exceed that of the governor of New York, because the former would possess, singly, what the latter shares with the chancellor and judges;",
+   "begin": 187.12,
+   "end": 195.28,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "but it would be precisely the same with that of the governor of Massachusetts, whose constitution, as to this article, seems to have been the original from which the convention have copied.",
+   "begin": 195.28,
+   "end": 204.56,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "The President is to be the \"commander-in-chief of the army and navy of the United States, and of the militia of the several States, when called into the actual service of the United States.",
+   "begin": 204.56,
+   "end": 214.4,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "He is to have power to grant reprieves and pardons for offenses against the United States, EXCEPT IN CASES OF IMPEACHMENT;",
+   "begin": 214.4,
+   "end": 220.88,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "to recommend to the consideration of Congress such measures as he shall judge necessary and expedient;",
+   "begin": 220.88,
+   "end": 226.16,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "to convene, on extraordinary occasions, both houses of the legislature, or either of them, and, in case of disagreement between them WITH RESPECT TO THE TIME OF ADJOURNMENT, to adjourn them to such time as he shall think proper;",
+   "begin": 226.16,
+   "end": 237.28,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "to take care that the laws be faithfully executed;",
+   "begin": 237.28,
+   "end": 239.92,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "and to commission all officers of the United States.'' In most of these particulars, the power of the President will resemble equally that of the king of Great Britain and of the governor of New York.",
+   "begin": 239.92,
+   "end": 249.76,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "The most material points of difference are these:",
+   "begin": 249.76,
+   "end": 252.72,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "First.",
+   "begin": 252.72,
+   "end": 253.28,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "The President will have only the occasional command of such part of the militia of the nation as by legislative provision may be called into the actual service of the Union.",
+   "begin": 253.28,
+   "end": 262.0,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "The king of Great Britain and the governor of New York have at all times the entire command of all the militia within their several jurisdictions.",
+   "begin": 262.0,
+   "end": 268.8,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "In this article, therefore, the power of the President would be inferior to that of either the monarch or the governor.",
+   "begin": 268.8,
+   "end": 275.04,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "Secondly.",
+   "begin": 275.04,
+   "end": 275.76,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "The President is to be commander-in-chief of the army and navy of the United States.",
+   "begin": 275.76,
+   "end": 280.4,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "In this respect his authority would be nominally the same with that of the king of Great Britain, but in substance much inferior to it.",
+   "begin": 280.4,
+   "end": 287.2,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "It would amount to nothing more than the supreme command and direction of the military and naval forces, as first General and admiral of the Confederacy;",
+   "begin": 287.2,
+   "end": 294.8,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "while that of the British king extends to the DECLARING of war and to the RAISING and REGULATING of fleets and armies, all which, by the Constitution under consideration, would appertain to the legislature.1 The governor of New York, on the other hand, is by the constitution of the State vested only with the command of its militia and navy.",
+   "begin": 294.8,
+   "end": 358.0,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "But the constitutions of several of the States expressly declare their governors to be commanders-in-chief, as well of the army as navy;",
+   "begin": 358.0,
+   "end": 364.72,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "and it may well be a question, whether those of New Hampshire and Massachusetts, in particular, do not, in this instance, confer larger powers upon their respective governors, than could be claimed by a President of the United States.",
+   "begin": 364.72,
+   "end": 376.32,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "Thirdly.",
+   "begin": 376.32,
+   "end": 377.28,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 9,
+   "text": "The power of the President, in respect to pardons, would extend to all cases, EXCEPT THOSE OF IMPEACHMENT.",
+   "begin": 377.28,
+   "end": 383.28,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 9,
+   "text": "The governor of New York may pardon in all cases, even in those of impeachment, except for treason and murder.",
+   "begin": 383.28,
+   "end": 389.52,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "Is not the power of the governor, in this article, on a calculation of political consequences, greater than that of the President?",
+   "begin": 389.52,
+   "end": 396.16,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "All conspiracies and plots against the government, which have not been matured into actual treason, may be screened from punishment of every kind, by the interposition of the prerogative of pardoning.",
+   "begin": 396.16,
+   "end": 405.92,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "If a governor of New York, therefore, should be at the head of any such conspiracy, until the design had been ripened into actual hostility he could insure his accomplices and adherents an entire impunity.",
+   "begin": 405.92,
+   "end": 416.72,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "A President of the Union, on the other hand, though he may even pardon treason, when prosecuted in the ordinary course of law, could shelter no offender, in any degree, from the effects of impeachment and conviction.",
+   "begin": 416.72,
+   "end": 427.52,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "Would not the prospect of a total indemnity for all the preliminary steps be a greater temptation to undertake and persevere in an enterprise against the public liberty, than the mere prospect of an exemption from death and confiscation, if the final execution of the design, upon an actual appeal to arms, should miscarry?",
+   "begin": 427.52,
+   "end": 442.96,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "Would this last expectation have any influence at all, when the probability was computed, that the person who was to afford that exemption might himself be involved in the consequences of the measure, and might be incapacitated by his agency in it from affording the desired impunity?",
+   "begin": 442.96,
+   "end": 457.04,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "The better to judge of this matter, it will be necessary to recollect, that, by the proposed Constitution, the offense of treason is limited \"to levying war upon the United States, and adhering to their enemies, giving them aid and comfort'';",
+   "begin": 457.04,
+   "end": 469.44,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "and that by the laws of New York it is confined within similar bounds.",
+   "begin": 469.44,
+   "end": 473.76,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "Fourthly.",
+   "begin": 473.76,
+   "end": 474.64,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "The President can only adjourn the national legislature in the single case of disagreement about the time of adjournment.",
+   "begin": 474.64,
+   "end": 480.4,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "The British monarch may prorogue or even dissolve the Parliament.",
+   "begin": 480.4,
+   "end": 483.68,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "The governor of New York may also prorogue the legislature of this State for a limited time;",
+   "begin": 483.68,
+   "end": 488.16,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 10,
+   "text": "a power which, in certain situations, may be employed to very important purposes.",
+   "begin": 488.16,
+   "end": 492.88,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "The President is to have power, with the advice and consent of the Senate, to make treaties, provided two thirds of the senators present concur.",
+   "begin": 492.88,
+   "end": 500.32,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "The king of Great Britain is the sole and absolute representative of the nation in all foreign transactions.",
+   "begin": 500.32,
+   "end": 505.68,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "He can of his own accord make treaties of peace, commerce, alliance, and of every other description.",
+   "begin": 505.68,
+   "end": 511.36,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "It has been insinuated, that his authority in this respect is not conclusive, and that his conventions with foreign powers are subject to the revision, and stand in need of the ratification, of Parliament.",
+   "begin": 511.36,
+   "end": 521.12,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "But I believe this doctrine was never heard of, until it was broached upon the present occasion.",
+   "begin": 521.12,
+   "end": 525.68,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "Every jurist2 of that kingdom, and every other man acquainted with its Constitution, knows, as an established fact, that the prerogative of making treaties exists in the crown in its utomst plentitude;",
+   "begin": 525.68,
+   "end": 540.32,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 11,
+   "text": "and that the compacts entered into by the royal authority have the most complete legal validity and perfection, independent of any other sanction.",
+   "begin": 540.32,
+   "end": 547.84,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "The Parliament, it is true, is sometimes seen employing itself in altering the existing laws to conform them to the stipulations in a new treaty;",
+   "begin": 547.84,
+   "end": 555.2,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 11,
+   "text": "and this may have possibly given birth to the imagination, that its co-operation was necessary to the obligatory efficacy of the treaty.",
+   "begin": 555.2,
+   "end": 561.84,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 11,
+   "text": "But this parliamentary interposition proceeds from a different cause:",
+   "begin": 561.84,
+   "end": 565.2,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 11,
+   "text": "from the necessity of adjusting a most artificial and intricate system of revenue and commercial laws, to the changes made in them by the operation of the treaty;",
+   "begin": 565.2,
+   "end": 572.64,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 11,
+   "text": "and of adapting new provisions and precautions to the new state of things, to keep the machine from running into disorder.",
+   "begin": 572.64,
+   "end": 578.72,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 11,
+   "text": "In this respect, therefore, there is no comparison between the intended power of the President and the actual power of the British sovereign.",
+   "begin": 578.72,
+   "end": 585.76,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 11,
+   "text": "The one can perform alone what the other can do only with the concurrence of a branch of the legislature.",
+   "begin": 585.76,
+   "end": 590.96,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 11,
+   "text": "It must be admitted, that, in this instance, the power of the federal Executive would exceed that of any State Executive.",
+   "begin": 590.96,
+   "end": 596.64,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 11,
+   "text": "But this arises naturally from the sovereign power which relates to treaties.",
+   "begin": 596.64,
+   "end": 600.4,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 11,
+   "text": "If the Confederacy were to be dissolved, it would become a question, whether the Executives of the several States were not solely invested with that delicate and important prerogative.",
+   "begin": 600.4,
+   "end": 609.6,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "The President is also to be authorized to receive ambassadors and other public ministers.",
+   "begin": 609.6,
+   "end": 614.56,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 12,
+   "text": "This, though it has been a rich theme of declamation, is more a matter of dignity than of authority.",
+   "begin": 614.56,
+   "end": 619.68,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 12,
+   "text": "It is a circumstance which will be without consequence in the administration of the government;",
+   "begin": 619.68,
+   "end": 624.16,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 12,
+   "text": "and it was far more convenient that it should be arranged in this manner, than that there should be a necessity of convening the legislature, or one of its branches, upon every arrival of a foreign minister, though it were merely to take the place of a departed predecessor.",
+   "begin": 624.16,
+   "end": 636.56,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 13,
+   "text": "The President is to nominate, and, WITH THE ADVICE AND CONSENT OF THE SENATE, to appoint ambassadors and other public ministers, judges of the Supreme Court, and in general all officers of the United States established by law, and whose appointments are not otherwise provided for by the Constitution.",
+   "begin": 636.56,
+   "end": 651.68,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 13,
+   "text": "The king of Great Britain is emphatically and truly styled the fountain of honor.",
+   "begin": 651.68,
+   "end": 656.08,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 13,
+   "text": "He not only appoints to all offices, but can create offices.",
+   "begin": 656.08,
+   "end": 659.52,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 13,
+   "text": "He can confer titles of nobility at pleasure;",
+   "begin": 659.52,
+   "end": 662.08,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 13,
+   "text": "and has the disposal of an immense number of church preferments.",
+   "begin": 662.08,
+   "end": 665.36,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 13,
+   "text": "There is evidently a great inferiority in the power of the President, in this particular, to that of the British king;",
+   "begin": 665.36,
+   "end": 670.8,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 13,
+   "text": "nor is it equal to that of the governor of New York, if we are to interpret the meaning of the constitution of the State by the practice which has obtained under it.",
+   "begin": 670.8,
+   "end": 678.48,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 13,
+   "text": "The power of appointment is with us lodged in a council, composed of the governor and four members of the Senate, chosen by the Assembly.",
+   "begin": 678.48,
+   "end": 685.2,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 13,
+   "text": "The governor CLAIMS, and has frequently EXERCISED, the right of nomination, and is ENTITLED to a casting vote in the appointment.",
+   "begin": 685.2,
+   "end": 692.16,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 13,
+   "text": "If he really has the right of nominating, his authority is in this respect equal to that of the President, and exceeds it in the article of the casting vote.",
+   "begin": 692.16,
+   "end": 700.0,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 13,
+   "text": "In the national government, if the Senate should be divided, no appointment could be made;",
+   "begin": 700.0,
+   "end": 704.56,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 13,
+   "text": "in the government of New York, if the council should be divided, the governor can turn the scale, and confirm his own nomination.3 If we compare the publicity which must necessarily attend the mode of appointment by the President and an entire branch of the national legislature, with the privacy in the mode of appointment by the governor of New York, closeted in a secret apartment with at most four, and frequently with only two persons;",
+   "begin": 704.56,
+   "end": 746.64,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 13,
+   "text": "and if we at the same time consider how much more easy it must be to influence the small number of which a council of appointment consists, than the considerable number of which the national Senate would consist, we cannot hesitate to pronounce that the power of the chief magistrate of this State, in the disposition of offices, must, in practice, be greatly superior to that of the Chief Magistrate of the Union.",
+   "begin": 746.64,
+   "end": 766.4,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 14,
+   "text": "Hence it appears that, except as to the concurrent authority of the President in the article of treaties, it would be difficult to determine whether that magistrate would, in the aggregate, possess more or less power than the Governor of New York.",
+   "begin": 766.4,
+   "end": 777.68,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 14,
+   "text": "And it appears yet more unequivocally, that there is no pretense for the parallel which has been attempted between him and the king of Great Britain.",
+   "begin": 777.68,
+   "end": 784.88,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 14,
+   "text": "But to render the contrast in this respect still more striking, it may be of use to throw the principal circumstances of dissimilitude into a closer group.",
+   "begin": 784.88,
+   "end": 792.88,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 15,
+   "text": "The President of the United States would be an officer elected by the people for FOUR years;",
+   "begin": 792.88,
+   "end": 797.6,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 15,
+   "text": "the king of Great Britain is a perpetual and HEREDITARY prince.",
+   "begin": 797.6,
+   "end": 801.44,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 15,
+   "text": "The one would be amenable to personal punishment and disgrace;",
+   "begin": 801.44,
+   "end": 804.48,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 15,
+   "text": "the person of the other is sacred and inviolable.",
+   "begin": 804.48,
+   "end": 807.2,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 15,
+   "text": "The one would have a QUALIFIED negative upon the acts of the legislative body;",
+   "begin": 807.2,
+   "end": 811.04,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 15,
+   "text": "the other has an ABSOLUTE negative.",
+   "begin": 811.04,
+   "end": 812.88,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 15,
+   "text": "The one would have a right to command the military and naval forces of the nation;",
+   "begin": 812.88,
+   "end": 816.56,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 15,
+   "text": "the other, in addition to this right, possesses that of DECLARING war, and of RAISING and REGULATING fleets and armies by his own authority.",
+   "begin": 816.56,
+   "end": 823.2,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 15,
+   "text": "The one would have a concurrent power with a branch of the legislature in the formation of treaties;",
+   "begin": 823.2,
+   "end": 827.6,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 15,
+   "text": "the other is the SOLE POSSESSOR of the power of making treaties.",
+   "begin": 827.6,
+   "end": 830.8,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 15,
+   "text": "The one would have a like concurrent authority in appointing to offices;",
+   "begin": 830.8,
+   "end": 834.4,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 15,
+   "text": "the other is the sole author of all appointments.",
+   "begin": 834.4,
+   "end": 837.2,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 15,
+   "text": "The one can confer no privileges whatever;",
+   "begin": 837.2,
+   "end": 839.6,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 15,
+   "text": "the other can make denizens of aliens, noblemen of commoners;",
+   "begin": 839.6,
+   "end": 842.72,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 15,
+   "text": "can erect corporations with all the rights incident to corporate bodies.",
+   "begin": 842.72,
+   "end": 846.48,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 15,
+   "text": "The one can prescribe no rules concerning the commerce or currency of the nation;",
+   "begin": 846.48,
+   "end": 850.32,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 15,
+   "text": "the other is in several respects the arbiter of commerce, and in this capacity can establish markets and fairs, can regulate weights and measures, can lay embargoes for a limited time, can coin money, can authorize or prohibit the circulation of foreign coin.",
+   "begin": 850.32,
+   "end": 862.96,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 15,
+   "text": "The one has no particle of spiritual jurisdiction;",
+   "begin": 862.96,
+   "end": 865.76,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 15,
+   "text": "the other is the supreme head and governor of the national church!",
+   "begin": 865.76,
+   "end": 869.36,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 15,
+   "text": "What answer shall we give to those who would persuade us that things so unlike resemble each other?",
+   "begin": 869.36,
+   "end": 874.4,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 15,
+   "text": "The same that ought to be given to those who tell us that a government, the whole power of which would be in the hands of the elective and periodical servants of the people, is an aristocracy, a monarchy, and a despotism.",
+   "begin": 874.4,
+   "end": 885.12,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 16,
+   "text": "PUBLIUS.",
+   "begin": 885.12,
+   "end": 886.12,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 17,
+   "text": "1 A writer in a &ennsylvania paper, under the signature of TAMONY, has asserted that the king of Great Britain oweshis prerogative as commander-in-chief to an annual mutiny bill.",
+   "begin": 886.12,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0121",
+   "para": 17,
+   "text": "The truth is, on the contrary, that his prerogative, in this respect, is immenmorial, and was only disputed, \"contrary to all reason and precedent,'' as Blackstone vol.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0122",
+   "para": 17,
+   "text": "i., page 262, expresses it, by the Long Parliament of Charles I.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0123",
+   "para": 17,
+   "text": "but by the statute the 13th of Charles II., chap.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0124",
+   "para": 17,
+   "text": "6, it was declared to be in the king alone, for that the sole supreme government and command of the militia within his Majesty's realms and dominions, and of all forces by sea and land, and of all forts and places of strength, EVER WAS AND IS the undoubted right of his Majesty and his royal predecessors, kings and queens of England, and that both or either house of Parliament cannot nor ought to pretend to the same.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0125",
+   "para": 18,
+   "text": "2 Vide Blackstone's \"Commentaries,'' vol i., p.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0126",
+   "para": 18,
+   "text": "257.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0127",
+   "para": 19,
+   "text": "3 Candor, however, demands an acknowledgment that I do not think the claim of the governor to a right of nomination well founded.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0128",
+   "para": 19,
+   "text": "Yet it is always justifiable to reason from the practice of a government, till its propriety has been constitutionally questioned.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  },
+  {
+   "id": "u0129",
+   "para": 19,
+   "text": "And independent of this claim, when we take into view the other considerations, and pursue them through all their consequences, we shall be inclined to draw much the same conclusion.",
+   "begin": 886.537868,
+   "end": 886.537868,
+   "synced": false
+  }
+ ]
+}

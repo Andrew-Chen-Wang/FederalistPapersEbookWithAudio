@@ -1,0 +1,1075 @@
+{
+ "paper": 78,
+ "duration": 928.821406,
+ "match_ratio": 0.9726,
+ "heading": [
+  "The Judiciary Department",
+  "From McLEAN'S Edition, New York."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 10.08,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "WE PROCEED now to an examination of the judiciary department of the proposed government.",
+   "begin": 10.08,
+   "end": 15.12,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "In unfolding the defects of the existing Confederation, the utility and necessity of a federal judicature have been clearly pointed out.",
+   "begin": 15.12,
+   "end": 22.56,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "It is the less necessary to recapitulate the considerations there urged, as the propriety of the institution in the abstract is not disputed;",
+   "begin": 22.56,
+   "end": 29.599,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "the only questions which have been raised being relative to the manner of constituting it, and to its extent.",
+   "begin": 29.599,
+   "end": 35.2,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "To these points, therefore, our observations shall be confined.",
+   "begin": 35.2,
+   "end": 39.04,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "The manner of constituting it seems to embrace these several objects:",
+   "begin": 39.04,
+   "end": 42.96,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "1st.",
+   "begin": 42.96,
+   "end": 43.44,
+   "synced": false
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "The mode of appointing the judges.",
+   "begin": 43.44,
+   "end": 45.36,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "2d.",
+   "begin": 45.36,
+   "end": 46.0,
+   "synced": false
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "The tenure by which they are to hold their places.",
+   "begin": 46.0,
+   "end": 48.559,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "3d.",
+   "begin": 48.559,
+   "end": 49.039,
+   "synced": false
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "The partition of the judiciary authority between different courts, and their relations to each other.",
+   "begin": 49.039,
+   "end": 54.719,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "First.",
+   "begin": 54.719,
+   "end": 55.44,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "As to the mode of appointing the judges;",
+   "begin": 55.44,
+   "end": 57.36,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "this is the same with that of appointing the officers of the Union in general, and has been so fully discussed in the two last numbers, that nothing can be said here which would not be useless repetition.",
+   "begin": 57.36,
+   "end": 67.68,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 5,
+   "text": "Second.",
+   "begin": 67.68,
+   "end": 68.479,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 5,
+   "text": "As to the tenure by which the judges are to hold their places;",
+   "begin": 68.479,
+   "end": 71.52,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 5,
+   "text": "this chiefly concerns their duration in office;",
+   "begin": 71.52,
+   "end": 73.84,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "the provisions for their support;",
+   "begin": 73.84,
+   "end": 75.36,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "the precautions for their responsibility.",
+   "begin": 75.36,
+   "end": 78.08,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 6,
+   "text": "According to the plan of the convention, all judges who may be appointed by the United States are to hold their offices DURING GOOD BEHAVIOR;",
+   "begin": 78.08,
+   "end": 84.88,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 6,
+   "text": "which is conformable to the most approved of the State constitutions and among the rest, to that of this State.",
+   "begin": 84.88,
+   "end": 90.88,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 6,
+   "text": "Its propriety having been drawn into question by the adversaries of that plan, is no light symptom of the rage for objection, which disorders their imaginations and judgments.",
+   "begin": 90.88,
+   "end": 99.68,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "The standard of good behavior for the continuance in office of the judicial magistracy, is certainly one of the most valuable of the modern improvements in the practice of government.",
+   "begin": 99.68,
+   "end": 108.399,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "In a monarchy it is an excellent barrier to the despotism of the prince;",
+   "begin": 108.399,
+   "end": 112.079,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "in a republic it is a no less excellent barrier to the encroachments and oppressions of the representative body.",
+   "begin": 112.079,
+   "end": 117.439,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "And it is the best expedient which can be devised in any government, to secure a steady, upright, and impartial administration of the laws.",
+   "begin": 117.439,
+   "end": 124.96,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "Whoever attentively considers the different departments of power must perceive, that, in a government in which they are separated from each other, the judiciary, from the nature of its functions, will always be the least dangerous to the political rights of the Constitution;",
+   "begin": 124.96,
+   "end": 137.44,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "because it will be least in a capacity to annoy or injure them.",
+   "begin": 137.44,
+   "end": 141.04,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "The Executive not only dispenses the honors, but holds the sword of the community.",
+   "begin": 141.04,
+   "end": 145.28,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "The legislature not only commands the purse, but prescribes the rules by which the duties and rights of every citizen are to be regulated.",
+   "begin": 145.28,
+   "end": 152.16,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "The judiciary, on the contrary, has no influence over either the sword or the purse;",
+   "begin": 152.16,
+   "end": 157.04,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "no direction either of the strength or of the wealth of the society;",
+   "begin": 157.04,
+   "end": 160.56,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "and can take no active resolution whatever.",
+   "begin": 160.56,
+   "end": 163.36,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "It may truly be said to have neither FORCE nor WILL, but merely judgment;",
+   "begin": 163.36,
+   "end": 167.2,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "and must ultimately depend upon the aid of the executive arm even for the efficacy of its judgments.",
+   "begin": 167.2,
+   "end": 172.72,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "This simple view of the matter suggests several important consequences.",
+   "begin": 172.72,
+   "end": 176.48,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "It proves incontestably, that the judiciary is beyond comparison the weakest of the three departments of power1;",
+   "begin": 176.48,
+   "end": 192.239,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "that it can never attack with success either of the other two;",
+   "begin": 192.239,
+   "end": 195.2,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "and that all possible care is requisite to enable it to defend itself against their attacks.",
+   "begin": 195.2,
+   "end": 199.519,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "It equally proves, that though individual oppression may now and then proceed from the courts of justice, the general liberty of the people can never be endangered from that quarter;",
+   "begin": 199.519,
+   "end": 208.239,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "I mean so long as the judiciary remains truly distinct from both the legislature and the Executive.",
+   "begin": 208.239,
+   "end": 213.68,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "For I agree, that \"there is no liberty, if the power of judging be not separated from the legislative and executive powers.''2 And it proves, in the last place, that as liberty can have nothing to fear from the judiciary alone, but would have every thing to fear from its union with either of the other departments;",
+   "begin": 213.68,
+   "end": 230.959,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 8,
+   "text": "that as all the effects of such a union must ensue from a dependence of the former on the latter, notwithstanding a nominal and apparent separation;",
+   "begin": 230.959,
+   "end": 238.159,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "that as, from the natural feebleness of the judiciary, it is in continual jeopardy of being overpowered, awed, or influenced by its co-ordinate branches;",
+   "begin": 238.159,
+   "end": 246.08,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "and that as nothing can contribute so much to its firmness and independence as permanency in office, this quality may therefore be justly regarded as an indispensable ingredient in its constitution, and, in a great measure, as the citadel of the public justice and the public security.",
+   "begin": 246.08,
+   "end": 260.959,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "The complete independence of the courts of justice is peculiarly essential in a limited Constitution.",
+   "begin": 260.959,
+   "end": 266.56,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "By a limited Constitution, I understand one which contains certain specified exceptions to the legislative authority;",
+   "begin": 266.56,
+   "end": 272.8,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "such, for instance, as that it shall pass no bills of attainder, no ex-post-facto laws, and the like.",
+   "begin": 272.8,
+   "end": 278.72,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "Limitations of this kind can be preserved in practice no other way than through the medium of courts of justice, whose duty it must be to declare all acts contrary to the manifest tenor of the Constitution void.",
+   "begin": 278.72,
+   "end": 289.84,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "Without this, all the reservations of particular rights or privileges would amount to nothing.",
+   "begin": 289.84,
+   "end": 295.04,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 10,
+   "text": "Some perplexity respecting the rights of the courts to pronounce legislative acts void, because contrary to the Constitution, has arisen from an imagination that the doctrine would imply a superiority of the judiciary to the legislative power.",
+   "begin": 295.04,
+   "end": 307.44,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 10,
+   "text": "It is urged that the authority which can declare the acts of another void, must necessarily be superior to the one whose acts may be declared void.",
+   "begin": 307.44,
+   "end": 314.96,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 10,
+   "text": "As this doctrine is of great importance in all the American constitutions, a brief discussion of the ground on which it rests cannot be unacceptable.",
+   "begin": 314.96,
+   "end": 323.199,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 11,
+   "text": "There is no position which depends on clearer principles, than that every act of a delegated authority, contrary to the tenor of the commission under which it is exercised, is void.",
+   "begin": 323.199,
+   "end": 332.56,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 11,
+   "text": "No legislative act, therefore, contrary to the Constitution, can be valid.",
+   "begin": 332.56,
+   "end": 337.039,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 11,
+   "text": "To deny this, would be to affirm, that the deputy is greater than his principal;",
+   "begin": 337.039,
+   "end": 340.96,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 11,
+   "text": "that the servant is above his master;",
+   "begin": 340.96,
+   "end": 342.8,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 11,
+   "text": "that the representatives of the people are superior to the people themselves;",
+   "begin": 342.8,
+   "end": 346.479,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "that men acting by virtue of powers, may do not only what their powers do not authorize, but what they forbid.",
+   "begin": 346.479,
+   "end": 352.32,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 12,
+   "text": "If it be said that the legislative body are themselves the constitutional judges of their own powers, and that the construction they put upon them is conclusive upon the other departments, it may be answered, that this cannot be the natural presumption, where it is not to be collected from any particular provisions in the Constitution.",
+   "begin": 352.32,
+   "end": 369.12,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 12,
+   "text": "It is not otherwise to be supposed, that the Constitution could intend to enable the representatives of the people to substitute their WILL to that of their constituents.",
+   "begin": 369.12,
+   "end": 377.12,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 12,
+   "text": "It is far more rational to suppose, that the courts were designed to be an intermediate body between the people and the legislature, in order, among other things, to keep the latter within the limits assigned to their authority.",
+   "begin": 377.12,
+   "end": 388.0,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 12,
+   "text": "The interpretation of the laws is the proper and peculiar province of the courts.",
+   "begin": 388.0,
+   "end": 392.319,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 12,
+   "text": "A constitution is, in fact, and must be regarded by the judges, as a fundamental law.",
+   "begin": 392.319,
+   "end": 397.68,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 12,
+   "text": "It therefore belongs to them to ascertain its meaning, as well as the meaning of any particular act proceeding from the legislative body.",
+   "begin": 397.68,
+   "end": 404.8,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "If there should happen to be an irreconcilable variance between the two, that which has the superior obligation and validity ought, of course, to be preferred;",
+   "begin": 404.8,
+   "end": 412.639,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "or, in other words, the Constitution ought to be preferred to the statute, the intention of the people to the intention of their agents.",
+   "begin": 412.639,
+   "end": 419.599,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 13,
+   "text": "Nor does this conclusion by any means suppose a superiority of the judicial to the legislative power.",
+   "begin": 419.599,
+   "end": 425.12,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 13,
+   "text": "It only supposes that the power of the people is superior to both;",
+   "begin": 425.12,
+   "end": 428.4,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 13,
+   "text": "and that where the will of the legislature, declared in its statutes, stands in opposition to that of the people, declared in the Constitution, the judges ought to be governed by the latter rather than the former.",
+   "begin": 428.4,
+   "end": 438.08,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 13,
+   "text": "They ought to regulate their decisions by the fundamental laws, rather than by those which are not fundamental.",
+   "begin": 438.08,
+   "end": 443.759,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 14,
+   "text": "This exercise of judicial discretion, in determining between two contradictory laws, is exemplified in a familiar instance.",
+   "begin": 443.759,
+   "end": 450.479,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 14,
+   "text": "It not uncommonly happens, that there are two statutes existing at one time, clashing in whole or in part with each other, and neither of them containing any repealing clause or expression.",
+   "begin": 450.479,
+   "end": 460.24,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 14,
+   "text": "In such a case, it is the province of the courts to liquidate and fix their meaning and operation.",
+   "begin": 460.24,
+   "end": 465.44,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 14,
+   "text": "So far as they can, by any fair construction, be reconciled to each other, reason and law conspire to dictate that this should be done;",
+   "begin": 465.44,
+   "end": 472.08,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 14,
+   "text": "where this is impracticable, it becomes a matter of necessity to give effect to one, in exclusion of the other.",
+   "begin": 472.08,
+   "end": 478.0,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 14,
+   "text": "The rule which has obtained in the courts for determining their relative validity is, that the last in order of time shall be preferred to the first.",
+   "begin": 478.0,
+   "end": 485.039,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 14,
+   "text": "But this is a mere rule of construction, not derived from any positive law, but from the nature and reason of the thing.",
+   "begin": 485.039,
+   "end": 491.039,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 14,
+   "text": "It is a rule not enjoined upon the courts by legislative provision, but adopted by themselves, as consonant to truth and propriety, for the direction of their conduct as interpreters of the law.",
+   "begin": 491.039,
+   "end": 500.96,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 14,
+   "text": "They thought it reasonable, that between the interfering acts of an EQUAL authority, that which was the last indication of its will should have the preference.",
+   "begin": 500.96,
+   "end": 508.08,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 15,
+   "text": "But in regard to the interfering acts of a superior and subordinate authority, of an original and derivative power, the nature and reason of the thing indicate the converse of that rule as proper to be followed.",
+   "begin": 508.08,
+   "end": 518.8,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 15,
+   "text": "They teach us that the prior act of a superior ought to be preferred to the subsequent act of an inferior and subordinate authority;",
+   "begin": 518.8,
+   "end": 524.959,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 15,
+   "text": "and that accordingly, whenever a particular statute contravenes the Constitution, it will be the duty of the judicial tribunals to adhere to the latter and disregard the former.",
+   "begin": 524.959,
+   "end": 534.56,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 16,
+   "text": "It can be of no weight to say that the courts, on the pretense of a repugnancy, may substitute their own pleasure to the constitutional intentions of the legislature.",
+   "begin": 534.56,
+   "end": 543.36,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 16,
+   "text": "This might as well happen in the case of two contradictory statutes;",
+   "begin": 543.36,
+   "end": 546.64,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 16,
+   "text": "or it might as well happen in every adjudication upon any single statute.",
+   "begin": 546.64,
+   "end": 550.8,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 16,
+   "text": "The courts must declare the sense of the law;",
+   "begin": 550.8,
+   "end": 552.72,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 16,
+   "text": "and if they should be disposed to exercise WILL instead of JUDGMENT, the consequence would equally be the substitution of their pleasure to that of the legislative body.",
+   "begin": 552.72,
+   "end": 561.04,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 16,
+   "text": "The observation, if it prove any thing, would prove that there ought to be no judges distinct from that body.",
+   "begin": 561.04,
+   "end": 566.72,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 17,
+   "text": "If, then, the courts of justice are to be considered as the bulwarks of a limited Constitution against legislative encroachments, this consideration will afford a strong argument for the permanent tenure of judicial offices, since nothing will contribute so much as this to that independent spirit in the judges which must be essential to the faithful performance of so arduous a duty.",
+   "begin": 566.72,
+   "end": 585.76,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 18,
+   "text": "This independence of the judges is equally requisite to guard the Constitution and the rights of individuals from the effects of those ill humors, which the arts of designing men, or the influence of particular conjunctures, sometimes disseminate among the people themselves, and which, though they speedily give place to better information, and more deliberate reflection, have a tendency, in the meantime, to occasion dangerous innovations in the government, and serious oppressions of the minor party in the community.",
+   "begin": 585.76,
+   "end": 610.24,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 18,
+   "text": "Though I trust the friends of the proposed Constitution will never concur with its enemies,3 in questioning that fundamental principle of republican government, which admits the right of the people to alter or abolish the established Constitution, whenever they find it inconsistent with their happiness, yet it is not to be inferred from this principle, that the representatives of the people, whenever a momentary inclination happens to lay hold of a majority of their constituents, incompatible with the provisions in the existing Constitution, would, on that account, be justifiable in a violation of those provisions;",
+   "begin": 610.24,
+   "end": 643.6,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 18,
+   "text": "or that the courts would be under a greater obligation to connive at infractions in this shape, than when they had proceeded wholly from the cabals of the representative body.",
+   "begin": 643.6,
+   "end": 651.76,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 18,
+   "text": "Until the people have, by some solemn and authoritative act, annulled or changed the established form, it is binding upon themselves collectively, as well as individually;",
+   "begin": 651.76,
+   "end": 660.56,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 18,
+   "text": "and no presumption, or even knowledge, of their sentiments, can warrant their representatives in a departure from it, prior to such an act.",
+   "begin": 660.56,
+   "end": 667.04,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 18,
+   "text": "But it is easy to see, that it would require an uncommon portion of fortitude in the judges to do their duty as faithful guardians of the Constitution, where legislative invasions of it had been instigated by the major voice of the community.",
+   "begin": 667.04,
+   "end": 679.2,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 19,
+   "text": "But it is not with a view to infractions of the Constitution only, that the independence of the judges may be an essential safeguard against the effects of occasional ill humors in the society.",
+   "begin": 679.2,
+   "end": 689.04,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 19,
+   "text": "These sometimes extend no farther than to the injury of the private rights of particular classes of citizens, by unjust and partial laws.",
+   "begin": 689.04,
+   "end": 695.76,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 19,
+   "text": "Here also the firmness of the judicial magistracy is of vast importance in mitigating the severity and confining the operation of such laws.",
+   "begin": 695.76,
+   "end": 703.44,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 19,
+   "text": "It not only serves to moderate the immediate mischiefs of those which may have been passed, but it operates as a check upon the legislative body in passing them;",
+   "begin": 703.44,
+   "end": 711.519,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 19,
+   "text": "who, perceiving that obstacles to the success of iniquitous intention are to be expected from the scruples of the courts, are in a manner compelled, by the very motives of the injustice they meditate, to qualify their attempts.",
+   "begin": 711.519,
+   "end": 723.36,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 19,
+   "text": "This is a circumstance calculated to have more influence upon the character of our governments, than but few may be aware of.",
+   "begin": 723.36,
+   "end": 729.68,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 19,
+   "text": "The benefits of the integrity and moderation of the judiciary have already been felt in more States than one;",
+   "begin": 729.68,
+   "end": 735.2,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 19,
+   "text": "and though they may have displeased those whose sinister expectations they may have disappointed, they must have commanded the esteem and applause of all the virtuous and disinterested.",
+   "begin": 735.2,
+   "end": 744.0,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 19,
+   "text": "Considerate men, of every description, ought to prize whatever will tend to beget or fortify that temper in the courts:",
+   "begin": 744.0,
+   "end": 749.92,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 19,
+   "text": "as no man can be sure that he may not be to-morrow the victim of a spirit of injustice, by which he may be a gainer to-day.",
+   "begin": 749.92,
+   "end": 756.399,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 19,
+   "text": "And every man must now feel, that the inevitable tendency of such a spirit is to sap the foundations of public and private confidence, and to introduce in its stead universal distrust and distress.",
+   "begin": 756.399,
+   "end": 767.2,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 20,
+   "text": "That inflexible and uniform adherence to the rights of the Constitution, and of individuals, which we perceive to be indispensable in the courts of justice, can certainly not be expected from judges who hold their offices by a temporary commission.",
+   "begin": 767.2,
+   "end": 779.6,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 20,
+   "text": "Periodical appointments, however regulated, or by whomsoever made, would, in some way or other, be fatal to their necessary independence.",
+   "begin": 779.6,
+   "end": 787.12,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 20,
+   "text": "If the power of making them was committed either to the Executive or legislature, there would be danger of an improper complaisance to the branch which possessed it;",
+   "begin": 787.12,
+   "end": 794.959,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 20,
+   "text": "if to both, there would be an unwillingness to hazard the displeasure of either;",
+   "begin": 794.959,
+   "end": 798.88,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 20,
+   "text": "if to the people, or to persons chosen by them for the special purpose, there would be too great a disposition to consult popularity, to justify a reliance that nothing would be consulted but the Constitution and the laws.",
+   "begin": 798.88,
+   "end": 810.24,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 21,
+   "text": "There is yet a further and a weightier reason for the permanency of the judicial offices, which is deducible from the nature of the qualifications they require.",
+   "begin": 810.24,
+   "end": 817.92,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 21,
+   "text": "It has been frequently remarked, with great propriety, that a voluminous code of laws is one of the inconveniences necessarily connected with the advantages of a free government.",
+   "begin": 817.92,
+   "end": 826.399,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 21,
+   "text": "To avoid an arbitrary discretion in the courts, it is indispensable that they should be bound down by strict rules and precedents, which serve to define and point out their duty in every particular case that comes before them;",
+   "begin": 826.399,
+   "end": 837.04,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 21,
+   "text": "and it will readily be conceived from the variety of controversies which grow out of the folly and wickedness of mankind, that the records of those precedents must unavoidably swell to a very considerable bulk, and must demand long and laborious study to acquire a competent knowledge of them.",
+   "begin": 837.04,
+   "end": 851.519,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 21,
+   "text": "Hence it is, that there can be but few men in the society who will have sufficient skill in the laws to qualify them for the stations of judges.",
+   "begin": 851.519,
+   "end": 858.639,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 21,
+   "text": "And making the proper deductions for the ordinary depravity of human nature, the number must be still smaller of those who unite the requisite integrity with the requisite knowledge.",
+   "begin": 858.639,
+   "end": 867.68,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 21,
+   "text": "These considerations apprise us, that the government can have no great option between fit character;",
+   "begin": 867.68,
+   "end": 872.48,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 21,
+   "text": "and that a temporary duration in office, which would naturally discourage such characters from quitting a lucrative line of practice to accept a seat on the bench, would have a tendency to throw the administration of justice into hands less able, and less well qualified, to conduct it with utility and dignity.",
+   "begin": 872.48,
+   "end": 887.12,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 21,
+   "text": "In the present circumstances of this country, and in those in which it is likely to be for a long time to come, the disadvantages on this score would be greater than they may at first sight appear;",
+   "begin": 887.12,
+   "end": 896.399,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 21,
+   "text": "but it must be confessed, that they are far inferior to those which present themselves under the other aspects of the subject.",
+   "begin": 896.399,
+   "end": 902.72,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 22,
+   "text": "Upon the whole, there can be no room to doubt that the convention acted wisely in copying from the models of those constitutions which have established GOOD BEHAVIOR as the tenure of their judicial offices, in point of duration;",
+   "begin": 902.72,
+   "end": 913.36,
+   "synced": true
+  },
+  {
+   "id": "u0126",
+   "para": 22,
+   "text": "and that so far from being blamable on this account, their plan would have been inexcusably defective, if it had wanted this important feature of good government.",
+   "begin": 913.36,
+   "end": 921.44,
+   "synced": true
+  },
+  {
+   "id": "u0127",
+   "para": 22,
+   "text": "The experience of Great Britain affords an illustrious comment on the excellence of the institution.",
+   "begin": 921.44,
+   "end": 927.12,
+   "synced": true
+  },
+  {
+   "id": "u0128",
+   "para": 23,
+   "text": "PUBLIUS.",
+   "begin": 927.12,
+   "end": 928.12,
+   "synced": true
+  },
+  {
+   "id": "u0129",
+   "para": 24,
+   "text": "1 The celebrated Montesquieu, speaking of them, says:",
+   "begin": 928.12,
+   "end": 928.821406,
+   "synced": false
+  },
+  {
+   "id": "u0130",
+   "para": 24,
+   "text": "\"Of the three powers above mentioned, the judiciary is next to nothing.'' \"Spirit of Laws.'' vol.",
+   "begin": 928.821406,
+   "end": 928.821406,
+   "synced": false
+  },
+  {
+   "id": "u0131",
+   "para": 24,
+   "text": "i., page 186.",
+   "begin": 928.821406,
+   "end": 928.821406,
+   "synced": false
+  },
+  {
+   "id": "u0132",
+   "para": 25,
+   "text": "2 Idem, page 181.",
+   "begin": 928.821406,
+   "end": 928.821406,
+   "synced": false
+  },
+  {
+   "id": "u0133",
+   "para": 26,
+   "text": "3 Vide \"Protest of the Minority of the Convention of Pennsylvania,'' Martin's Speech, etc.",
+   "begin": 928.821406,
+   "end": 928.821406,
+   "synced": false
+  }
+ ]
+}

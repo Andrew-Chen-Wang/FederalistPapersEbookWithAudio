@@ -1,0 +1,764 @@
+{
+ "paper": 73,
+ "duration": 712.991927,
+ "match_ratio": 0.9793,
+ "heading": [
+  "The Provision For The Support of the Executive, and the Veto Power",
+  "From the New York Packet.",
+  "Friday, March 21, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.6,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE third ingredient towards constituting the vigor of the executive authority, is an adequate provision for its support.",
+   "begin": 13.6,
+   "end": 20.48,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "It is evident that, without proper attention to this article, the separation of the executive from the legislative department would be merely nominal and nugatory.",
+   "begin": 20.48,
+   "end": 29.12,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "The legislature, with a discretionary power over the salary and emoluments of the Chief Magistrate, could render him as obsequious to their will as they might think proper to make him.",
+   "begin": 29.12,
+   "end": 38.56,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "They might, in most cases, either reduce him by famine, or tempt him by largesses, to surrender at discretion his judgment to their inclinations.",
+   "begin": 38.56,
+   "end": 46.48,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "These expressions, taken in all the latitude of the terms, would no doubt convey more than is intended.",
+   "begin": 46.48,
+   "end": 52.0,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "There are men who could neither be distressed nor won into a sacrifice of their duty;",
+   "begin": 52.0,
+   "end": 56.4,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "but this stern virtue is the growth of few soils;",
+   "begin": 56.4,
+   "end": 59.04,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "and in the main it will be found that a power over a man's support is a power over his will.",
+   "begin": 59.04,
+   "end": 63.92,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body.",
+   "begin": 63.92,
+   "end": 76.56,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "It is not easy, therefore, to commend too highly the judicious attention which has been paid to this subject in the proposed Constitution.",
+   "begin": 76.56,
+   "end": 83.2,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "It is there provided that \"The President of the United States shall, at stated times, receive for his services a compensation WHICH SHALL NEITHER BE INCREASED NOR DIMINISHED DURING THE PERIOD FOR WHICH HE SHALL HAVE BEEN ELECTED;",
+   "begin": 83.2,
+   "end": 93.52,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "and he SHALL NOT RECEIVE WITHIN THAT PERIOD ANY OTHER EMOLUMENT from the United States, or any of them.'' It is impossible to imagine any provision which would have been more eligible than this.",
+   "begin": 93.52,
+   "end": 103.52,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "The legislature, on the appointment of a President, is once for all to declare what shall be the compensation for his services during the time for which he shall have been elected.",
+   "begin": 103.52,
+   "end": 112.0,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "This done, they will have no power to alter it, either by increase or diminution, till a new period of service by a new election commences.",
+   "begin": 112.0,
+   "end": 119.44,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "They can neither weaken his fortitude by operating on his necessities, nor corrupt his integrity by appealing to his avarice.",
+   "begin": 119.44,
+   "end": 125.92,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "Neither the Union, nor any of its members, will be at liberty to give, nor will he be at liberty to receive, any other emolument than that which may have been determined by the first act.",
+   "begin": 125.92,
+   "end": 135.2,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "He can, of course, have no pecuniary inducement to renounce or desert the independence intended for him by the Constitution.",
+   "begin": 135.2,
+   "end": 142.24,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "The last of the requisites to energy, which have been enumerated, are competent powers.",
+   "begin": 142.24,
+   "end": 147.68,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "Let us proceed to consider those which are proposed to be vested in the President of the United States.",
+   "begin": 147.68,
+   "end": 152.96,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "The first thing that offers itself to our observation, is the qualified negative of the President upon the acts or resolutions of the two houses of the legislature;",
+   "begin": 152.96,
+   "end": 161.36,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "or, in other words, his power of returning all bills with objections, to have the effect of preventing their becoming laws, unless they should afterwards be ratified by two thirds of each of the component members of the legislative body.",
+   "begin": 161.36,
+   "end": 173.12,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "The propensity of the legislative department to intrude upon the rights, and to absorb the powers, of the other departments, has been already suggested and repeated;",
+   "begin": 173.12,
+   "end": 181.52,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "the insufficiency of a mere parchment delineation of the boundaries of each, has also been remarked upon;",
+   "begin": 181.52,
+   "end": 186.8,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "and the necessity of furnishing each with constitutional arms for its own defense, has been inferred and proved.",
+   "begin": 186.8,
+   "end": 192.8,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "From these clear and indubitable principles results the propriety of a negative, either absolute or qualified, in the Executive, upon the acts of the legislative branches.",
+   "begin": 192.8,
+   "end": 201.92,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "Without the one or the other, the former would be absolutely unable to defend himself against the depredations of the latter.",
+   "begin": 201.92,
+   "end": 208.0,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "He might gradually be stripped of his authorities by successive resolutions, or annihilated by a single vote.",
+   "begin": 208.0,
+   "end": 213.2,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "And in the one mode or the other, the legislative and executive powers might speedily come to be blended in the same hands.",
+   "begin": 213.2,
+   "end": 219.52,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "If even no propensity had ever discovered itself in the legislative body to invade the rights of the Executive, the rules of just reasoning and theoretic propriety would of themselves teach us, that the one ought not to be left to the mercy of the other, but ought to possess a constitutional and effectual power of selfdefense.",
+   "begin": 219.52,
+   "end": 235.68,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "But the power in question has a further use.",
+   "begin": 235.68,
+   "end": 238.08,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "It not only serves as a shield to the Executive, but it furnishes an additional security against the enaction of improper laws.",
+   "begin": 238.08,
+   "end": 244.88,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "It establishes a salutary check upon the legislative body, calculated to guard the community against the effects of faction, precipitancy, or of any impulse unfriendly to the public good, which may happen to influence a majority of that body.",
+   "begin": 244.88,
+   "end": 257.44,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "The propriety of a negative has, upon some occasions, been combated by an observation, that it was not to be presumed a single man would possess more virtue and wisdom than a number of men;",
+   "begin": 257.44,
+   "end": 266.88,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "and that unless this presumption should be entertained, it would be improper to give the executive magistrate any species of control over the legislative body.",
+   "begin": 266.88,
+   "end": 274.16,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "But this observation, when examined, will appear rather specious than solid.",
+   "begin": 274.16,
+   "end": 278.16,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "The propriety of the thing does not turn upon the supposition of superior wisdom or virtue in the Executive, but upon the supposition that the legislature will not be infallible;",
+   "begin": 278.16,
+   "end": 286.64,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "that the love of power may sometimes betray it into a disposition to encroach upon the rights of other members of the government;",
+   "begin": 286.64,
+   "end": 292.16,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "that a spirit of faction may sometimes pervert its deliberations;",
+   "begin": 292.16,
+   "end": 295.44,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "that impressions of the moment may sometimes hurry it into measures which itself, on maturer reflexion, would condemn.",
+   "begin": 295.44,
+   "end": 301.36,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "The primary inducement to conferring the power in question upon the Executive is, to enable him to defend himself;",
+   "begin": 301.36,
+   "end": 307.52,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "the secondary one is to increase the chances in favor of the community against the passing of bad laws, through haste, inadvertence, or design.",
+   "begin": 307.52,
+   "end": 315.2,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "The oftener the measure is brought under examination, the greater the diversity in the situations of those who are to examine it, the less must be the danger of those errors which flow from want of due deliberation, or of those missteps which proceed from the contagion of some common passion or interest.",
+   "begin": 315.2,
+   "end": 330.56,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "It is far less probable, that culpable views of any kind should infect all the parts of the government at the same moment and in relation to the same object, than that they should by turns govern and mislead every one of them.",
+   "begin": 330.56,
+   "end": 342.16,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "It may perhaps be said that the power of preventing bad laws includes that of preventing good ones;",
+   "begin": 342.16,
+   "end": 347.04,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 9,
+   "text": "and may be used to the one purpose as well as to the other.",
+   "begin": 347.04,
+   "end": 349.76,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 9,
+   "text": "But this objection will have little weight with those who can properly estimate the mischiefs of that inconstancy and mutability in the laws, which form the greatest blemish in the character and genius of our governments.",
+   "begin": 349.76,
+   "end": 360.08,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "They will consider every institution calculated to restrain the excess of law-making, and to keep things in the same state in which they happen to be at any given period, as much more likely to do good than harm;",
+   "begin": 360.08,
+   "end": 370.88,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "because it is favorable to greater stability in the system of legislation.",
+   "begin": 370.88,
+   "end": 374.96,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "The injury which may possibly be done by defeating a few good laws, will be amply compensated by the advantage of preventing a number of bad ones.",
+   "begin": 374.96,
+   "end": 382.96,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 10,
+   "text": "Nor is this all.",
+   "begin": 382.96,
+   "end": 384.24,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 10,
+   "text": "The superior weight and influence of the legislative body in a free government, and the hazard to the Executive in a trial of strength with that body, afford a satisfactory security that the negative would generally be employed with great caution;",
+   "begin": 384.24,
+   "end": 395.92,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 10,
+   "text": "and there would oftener be room for a charge of timidity than of rashness in the exercise of it.",
+   "begin": 395.92,
+   "end": 400.88,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 10,
+   "text": "A king of Great Britain, with all his train of sovereign attributes, and with all the influence he draws from a thousand sources, would, at this day, hesitate to put a negative upon the joint resolutions of the two houses of Parliament.",
+   "begin": 400.88,
+   "end": 412.4,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 10,
+   "text": "He would not fail to exert the utmost resources of that influence to strangle a measure disagreeable to him, in its progress to the throne, to avoid being reduced to the dilemma of permitting it to take effect, or of risking the displeasure of the nation by an opposition to the sense of the legislative body.",
+   "begin": 412.4,
+   "end": 427.36,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "Nor is it probable, that he would ultimately venture to exert his prerogatives, but in a case of manifest propriety, or extreme necessity.",
+   "begin": 427.36,
+   "end": 434.64,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "All well-informed men in that kingdom will accede to the justness of this remark.",
+   "begin": 434.64,
+   "end": 438.88,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "A very considerable period has elapsed since the negative of the crown has been exercised.",
+   "begin": 438.88,
+   "end": 443.76,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 11,
+   "text": "If a magistrate so powerful and so well fortified as a British monarch, would have scruples about the exercise of the power under consideration, how much greater caution may be reasonably expected in a President of the United States, clothed for the short period of four years with the executive authority of a government wholly and purely republican?",
+   "begin": 443.76,
+   "end": 461.6,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 12,
+   "text": "It is evident that there would be greater danger of his not using his power when necessary, than of his using it too often, or too much.",
+   "begin": 461.6,
+   "end": 469.12,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 12,
+   "text": "An argument, indeed, against its expediency, has been drawn from this very source.",
+   "begin": 469.12,
+   "end": 473.68,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 12,
+   "text": "It has been represented, on this account, as a power odious in appearance, useless in practice.",
+   "begin": 473.68,
+   "end": 478.72,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 12,
+   "text": "But it will not follow, that because it might be rarely exercised, it would never be exercised.",
+   "begin": 478.72,
+   "end": 483.6,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 12,
+   "text": "In the case for which it is chiefly designed, that of an immediate attack upon the constitutional rights of the Executive, or in a case in which the public good was evidently and palpably sacrificed, a man of tolerable firmness would avail himself of his constitutional means of defense, and would listen to the admonitions of duty and responsibility.",
+   "begin": 483.6,
+   "end": 500.88,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 12,
+   "text": "In the former supposition, his fortitude would be stimulated by his immediate interest in the power of his office;",
+   "begin": 500.88,
+   "end": 506.72,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 12,
+   "text": "in the latter, by the probability of the sanction of his constituents, who, though they would naturally incline to the legislative body in a doubtful case, would hardly suffer their partiality to delude them in a very plain case.",
+   "begin": 506.72,
+   "end": 517.84,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 12,
+   "text": "I speak now with an eye to a magistrate possessing only a common share of firmness.",
+   "begin": 517.84,
+   "end": 522.56,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "There are men who, under any circumstances, will have the courage to do their duty at every hazard.",
+   "begin": 522.56,
+   "end": 527.76,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 13,
+   "text": "But the convention have pursued a mean in this business, which will both facilitate the exercise of the power vested in this respect in the executive magistrate, and make its efficacy to depend on the sense of a considerable part of the legislative body.",
+   "begin": 527.76,
+   "end": 540.0,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 13,
+   "text": "Instead of an absolute negative, it is proposed to give the Executive the qualified negative already described.",
+   "begin": 540.0,
+   "end": 546.24,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 13,
+   "text": "This is a power which would be much more readily exercised than the other.",
+   "begin": 546.24,
+   "end": 549.92,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 13,
+   "text": "A man who might be afraid to defeat a law by his single VETO, might not scruple to return it for reconsideration;",
+   "begin": 549.92,
+   "end": 555.76,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 13,
+   "text": "subject to being finally rejected only in the event of more than one third of each house concurring in the sufficiency of his objections.",
+   "begin": 555.76,
+   "end": 562.72,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 13,
+   "text": "He would be encouraged by the reflection, that if his opposition should prevail, it would embark in it a very respectable proportion of the legislative body, whose influence would be united with his in supporting the propriety of his conduct in the public opinion.",
+   "begin": 562.72,
+   "end": 575.52,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 13,
+   "text": "A direct and categorical negative has something in the appearance of it more harsh, and more apt to irritate, than the mere suggestion of argumentative objections to be approved or disapproved by those to whom they are addressed.",
+   "begin": 575.52,
+   "end": 587.12,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 13,
+   "text": "In proportion as it would be less apt to offend, it would be more apt to be exercised;",
+   "begin": 587.12,
+   "end": 591.68,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 13,
+   "text": "and for this very reason, it may in practice be found more effectual.",
+   "begin": 591.68,
+   "end": 596.0,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 13,
+   "text": "It is to be hoped that it will not often happen that improper views will govern so large a proportion as two thirds of both branches of the legislature at the same time;",
+   "begin": 596.0,
+   "end": 603.92,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 13,
+   "text": "and this, too, in spite of the counterposing weight of the Executive.",
+   "begin": 603.92,
+   "end": 607.44,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 13,
+   "text": "It is at any rate far less probable that this should be the case, than that such views should taint the resolutions and conduct of a bare majority.",
+   "begin": 607.44,
+   "end": 614.64,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 13,
+   "text": "A power of this nature in the Executive, will often have a silent and unperceived, though forcible, operation.",
+   "begin": 614.64,
+   "end": 620.72,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 13,
+   "text": "When men, engaged in unjustifiable pursuits, are aware that obstructions may come from a quarter which they cannot control, they will often be restrained by the bare apprehension of opposition, from doing what they would with eagerness rush into, if no such external impediments were to be feared.",
+   "begin": 620.72,
+   "end": 635.44,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 14,
+   "text": "This qualified negative, as has been elsewhere remarked, is in this State vested in a council, consisting of the governor, with the chancellor and judges of the Supreme Court, or any two of them.",
+   "begin": 635.44,
+   "end": 645.6,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 14,
+   "text": "It has been freely employed upon a variety of occasions, and frequently with success.",
+   "begin": 645.6,
+   "end": 650.08,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 14,
+   "text": "And its utility has become so apparent, that persons who, in compiling the Constitution, were violent opposers of it, have from experience become its declared admirers.1",
+   "begin": 650.08,
+   "end": 664.08,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 15,
+   "text": "I have in another place remarked, that the convention, in the formation of this part of their plan, had departed from the model of the constitution of this State, in favor of that of Massachusetts.",
+   "begin": 664.08,
+   "end": 674.0,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 15,
+   "text": "Two strong reasons may be imagined for this preference.",
+   "begin": 674.0,
+   "end": 677.12,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 15,
+   "text": "One is that the judges, who are to be the interpreters of the law, might receive an improper bias, from having given a previous opinion in their revisionary capacities;",
+   "begin": 677.12,
+   "end": 685.76,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 15,
+   "text": "the other is that by being often associated with the Executive, they might be induced to embark too far in the political views of that magistrate, and thus a dangerous combination might by degrees be cemented between the executive and judiciary departments.",
+   "begin": 685.76,
+   "end": 698.88,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 15,
+   "text": "It is impossible to keep the judges too distinct from every other avocation than that of expounding the laws.",
+   "begin": 698.88,
+   "end": 704.4,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 15,
+   "text": "It is peculiarly dangerous to place them in a situation to be either corrupted or influenced by the Executive.",
+   "begin": 704.4,
+   "end": 711.44,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 16,
+   "text": "PUBLIUS.",
+   "begin": 711.44,
+   "end": 712.44,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 17,
+   "text": "1 Mr.",
+   "begin": 712.44,
+   "end": 712.991927,
+   "synced": false
+  },
+  {
+   "id": "u0094",
+   "para": 17,
+   "text": "Abraham Yates, a warm opponent of the plan of the convention is of this number.",
+   "begin": 712.991927,
+   "end": 712.991927,
+   "synced": false
+  }
+ ]
+}

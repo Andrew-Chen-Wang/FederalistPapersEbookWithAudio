@@ -1,0 +1,1021 @@
+{
+ "paper": 40,
+ "duration": 965.067755,
+ "match_ratio": 0.9878,
+ "heading": [
+  "The Powers of the Convention to Form a Mixed Government Examined and Sustained",
+  "From the New York Packet.",
+  "Friday, January 18, 1788.",
+  "MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.32,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE SECOND point to be examined is, whether the convention were authorized to frame and propose this mixed Constitution.",
+   "begin": 16.32,
+   "end": 22.96,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The powers of the convention ought, in strictness, to be determined by an inspection of the commissions given to the members by their respective constituents.",
+   "begin": 22.96,
+   "end": 31.039,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "As all of these, however, had reference, either to the recommendation from the meeting at Annapolis, in September, 1786, or to that from Congress, in February, 1787, it will be sufficient to recur to these particular acts.",
+   "begin": 31.039,
+   "end": 44.239,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "The act from Annapolis recommends the \"appointment of commissioners to take into consideration the situation of the United States;",
+   "begin": 44.239,
+   "end": 50.48,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "to devise SUCH FURTHER PROVISIONS as shall appear to them necessary to render the Constitution of the federal government ADEQUATE TO THE EXIGENCIES OF THE UNION;",
+   "begin": 50.48,
+   "end": 58.399,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "and to report such an act for that purpose, to the United States in Congress assembled, as when agreed to by them, and afterwards confirmed by the legislature of every State, will effectually provide for the same.",
+   "begin": 58.399,
+   "end": 69.52,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "''The recommendatory act of Congress is in the words following:",
+   "begin": 69.52,
+   "end": 73.6,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "\"WHEREAS, There is provision in the articles of Confederation and perpetual Union, for making alterations therein, by the assent of a Congress of the United States, and of the legislatures of the several States;",
+   "begin": 73.6,
+   "end": 83.84,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "and whereas experience hath evinced, that there are defects in the present Confederation;",
+   "begin": 83.84,
+   "end": 87.84,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "as a mean to remedy which, several of the States, and PARTICULARLY THE STATE OF NEW YORK, by express instructions to their delegates in Congress, have suggested a convention for the purposes expressed in the following resolution;",
+   "begin": 87.84,
+   "end": 99.28,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "and such convention appearing to be the most probable mean of establishing in these States A FIRM NATIONAL GOVERNMENT:",
+   "begin": 99.28,
+   "end": 105.28,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "\"Resolved, That in the opinion of Congress it is expedient, that on the second Monday of May next a convention of delegates, who shall have been appointed by the several States, be held at Philadelphia, for the sole and express purpose OF REVISING THE ARTICLES OF CONFEDERATION, and reporting to Congress and the several legislatures such ALTERATIONS AND PROVISIONS THEREIN, as shall, when agreed to in Congress, and confirmed by the States, render the federal Constitution ADEQUATE TO THE EXIGENCIES OF GOVERNMENT AND THE PRESERVATION OF THE UNION.",
+   "begin": 105.28,
+   "end": 133.76,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "''From these two acts, it appears, 1st, that the object of the convention was to establish, in these States, A FIRM NATIONAL GOVERNMENT;",
+   "begin": 133.76,
+   "end": 141.44,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "2d, that this government was to be such as would be ADEQUATE TO THE EXIGENCIES OF GOVERNMENT and THE PRESERVATION OF THE UNION;",
+   "begin": 141.44,
+   "end": 148.239,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "3d, that these purposes were to be effected by ALTERATIONS AND PROVISIONS IN THE ARTICLES OF CONFEDERATION, as it is expressed in the act of Congress, or by SUCH FURTHER PROVISIONS AS SHOULD APPEAR NECESSARY, as it stands in the recommendatory act from Annapolis;",
+   "begin": 148.239,
+   "end": 162.4,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "4th, that the alterations and provisions were to be reported to Congress, and to the States, in order to be agreed to by the former and confirmed by the latter.",
+   "begin": 162.4,
+   "end": 171.04,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "From a comparison and fair construction of these several modes of expression, is to be deduced the authority under which the convention acted.",
+   "begin": 171.04,
+   "end": 178.0,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "They were to frame a NATIONAL GOVERNMENT, adequate to the EXIGENCIES OF GOVERNMENT, and OF THE UNION;",
+   "begin": 178.0,
+   "end": 182.879,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "and to reduce the articles of Confederation into such form as to accomplish these purposes.",
+   "begin": 182.879,
+   "end": 188.239,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "There are two rules of construction, dictated by plain reason, as well as founded on legal axioms.",
+   "begin": 188.239,
+   "end": 193.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "The one is, that every part of the expression ought, if possible, to be allowed some meaning, and be made to conspire to some common end.",
+   "begin": 193.92,
+   "end": 201.519,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "The other is, that where the several parts cannot be made to coincide, the less important should give way to the more important part;",
+   "begin": 201.519,
+   "end": 208.4,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "the means should be sacrificed to the end, rather than the end to the means.",
+   "begin": 208.4,
+   "end": 212.72,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "Suppose, then, that the expressions defining the authority of the convention were irreconcilably at variance with each other;",
+   "begin": 212.72,
+   "end": 218.64,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "that a NATIONAL and ADEQUATE GOVERNMENT could not possibly, in the judgment of the convention, be affected by ALTERATIONS and PROVISIONS in the ARTICLES OF CONFEDERATION;",
+   "begin": 218.64,
+   "end": 227.44,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "which part of the definition ought to have been embraced, and which rejected?",
+   "begin": 227.44,
+   "end": 231.68,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "Which was the more important, which the less important part?",
+   "begin": 231.68,
+   "end": 234.959,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "Which the end;",
+   "begin": 234.959,
+   "end": 235.76,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "which the means?",
+   "begin": 235.76,
+   "end": 237.12,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "Let the most scrupulous expositors of delegated powers;",
+   "begin": 237.12,
+   "end": 240.319,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "let the most inveterate objectors against those exercised by the convention, answer these questions.",
+   "begin": 240.319,
+   "end": 245.36,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "Let them declare, whether it was of most importance to the happiness of the people of America, that the articles of Confederation should be disregarded, and an adequate government be provided, and the Union preserved;",
+   "begin": 245.36,
+   "end": 255.599,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "or that an adequate government should be omitted, and the articles of Confederation preserved.",
+   "begin": 255.599,
+   "end": 260.239,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "Let them declare, whether the preservation of these articles was the end, for securing which a reform of the government was to be introduced as the means;",
+   "begin": 260.239,
+   "end": 267.6,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "or whether the establishment of a government, adequate to the national happiness, was the end at which these articles themselves originally aimed, and to which they ought, as insufficient means, to have been sacrificed.",
+   "begin": 267.6,
+   "end": 278.88,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "But is it necessary to suppose that these expressions are absolutely irreconcilable to each other;",
+   "begin": 278.88,
+   "end": 283.759,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 7,
+   "text": "that no ALTERATIONS or PROVISIONS in THE ARTICLES OF THE CONFEDERATION could possibly mould them into a national and adequate government;",
+   "begin": 283.759,
+   "end": 290.32,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 7,
+   "text": "into such a government as has been proposed by the convention?",
+   "begin": 290.32,
+   "end": 293.84,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "No stress, it is presumed, will, in this case, be laid on the TITLE;",
+   "begin": 293.84,
+   "end": 297.84,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "a change of that could never be deemed an exercise of ungranted power.",
+   "begin": 297.84,
+   "end": 301.919,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "ALTERATIONS in the body of the instrument are expressly authorized.",
+   "begin": 301.919,
+   "end": 305.52,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 7,
+   "text": "NEW PROVISIONS therein are also expressly authorized.",
+   "begin": 305.52,
+   "end": 308.96,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "Here then is a power to change the title;",
+   "begin": 308.96,
+   "end": 311.12,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "to insert new articles;",
+   "begin": 311.12,
+   "end": 312.4,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "to alter old ones.",
+   "begin": 312.4,
+   "end": 314.16,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "Must it of necessity be admitted that this power is infringed, so long as a part of the old articles remain?",
+   "begin": 314.16,
+   "end": 320.24,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 7,
+   "text": "Those who maintain the affirmative ought at least to mark the boundary between authorized and usurped innovations;",
+   "begin": 320.24,
+   "end": 325.919,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 7,
+   "text": "between that degree of change which lies within the compass of ALTERATIONS AND FURTHER PROVISIONS, and that which amounts to a TRANSMUTATION of the government.",
+   "begin": 325.919,
+   "end": 334.08,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 7,
+   "text": "Will it be said that the alterations ought not to have touched the substance of the Confederation?",
+   "begin": 334.08,
+   "end": 339.199,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 7,
+   "text": "The States would never have appointed a convention with so much solemnity, nor described its objects with so much latitude, if some SUBSTANTIAL reform had not been in contemplation.",
+   "begin": 339.199,
+   "end": 348.8,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 7,
+   "text": "Will it be said that the FUNDAMENTAL PRINCIPLES of the Confederation were not within the purview of the convention, and ought not to have been varied?",
+   "begin": 348.8,
+   "end": 356.16,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 7,
+   "text": "I ask, What are these principles?",
+   "begin": 356.16,
+   "end": 358.24,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "Do they require that, in the establishment of the Constitution, the States should be regarded as distinct and independent sovereigns?",
+   "begin": 358.24,
+   "end": 364.479,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "They are so regarded by the Constitution proposed.",
+   "begin": 364.479,
+   "end": 368.0,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 8,
+   "text": "Do they require that the members of the government should derive their appointment from the legislatures, not from the people of the States?",
+   "begin": 368.0,
+   "end": 374.639,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 8,
+   "text": "One branch of the new government is to be appointed by these legislatures;",
+   "begin": 374.639,
+   "end": 378.16,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 8,
+   "text": "and under the Confederation, the delegates to Congress MAY ALL be appointed immediately by the people, and in two States1 are actually so appointed.",
+   "begin": 378.16,
+   "end": 388.08,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 8,
+   "text": "Do they require that the powers of the government should act on the States, and not immediately on individuals?",
+   "begin": 388.08,
+   "end": 393.6,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 8,
+   "text": "In some instances, as has been shown, the powers of the new government will act on the States in their collective characters.",
+   "begin": 393.6,
+   "end": 399.6,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "In some instances, also, those of the existing government act immediately on individuals.",
+   "begin": 399.6,
+   "end": 404.56,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "In cases of capture;",
+   "begin": 404.56,
+   "end": 405.84,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "of piracy;",
+   "begin": 405.84,
+   "end": 406.8,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "of the post office;",
+   "begin": 406.8,
+   "end": 407.68,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "of coins, weights, and measures;",
+   "begin": 407.68,
+   "end": 409.28,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "of trade with the Indians;",
+   "begin": 409.28,
+   "end": 410.88,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "of claims under grants of land by different States;",
+   "begin": 410.88,
+   "end": 413.52,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 8,
+   "text": "and, above all, in the case of trials by courts-marshal in the army and navy, by which death may be inflicted without the intervention of a jury, or even of a civil magistrate;",
+   "begin": 413.52,
+   "end": 423.36,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 8,
+   "text": "in all these cases the powers of the Confederation operate immediately on the persons and interests of individual citizens.",
+   "begin": 423.36,
+   "end": 429.919,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "Do these fundamental principles require, particularly, that no tax should be levied without the intermediate agency of the States?",
+   "begin": 429.919,
+   "end": 436.639,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "The Confederation itself authorizes a direct tax, to a certain extent, on the post office.",
+   "begin": 436.639,
+   "end": 442.08,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 9,
+   "text": "The power of coinage has been so construed by Congress as to levy a tribute immediately from that source also.",
+   "begin": 442.08,
+   "end": 448.0,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 9,
+   "text": "But pretermitting these instances, was it not an acknowledged object of the convention and the universal expectation of the people, that the regulation of trade should be submitted to the general government in such a form as would render it an immediate source of general revenue?",
+   "begin": 448.0,
+   "end": 461.599,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 9,
+   "text": "Had not Congress repeatedly recommended this measure as not inconsistent with the fundamental principles of the Confederation?",
+   "begin": 461.599,
+   "end": 467.919,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 9,
+   "text": "Had not every State but one;",
+   "begin": 467.919,
+   "end": 469.44,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 9,
+   "text": "had not New York herself, so far complied with the plan of Congress as to recognize the PRINCIPLE of the innovation?",
+   "begin": 469.44,
+   "end": 476.24,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 9,
+   "text": "Do these principles, in fine, require that the powers of the general government should be limited, and that, beyond this limit, the States should be left in possession of their sovereignty and independence?",
+   "begin": 476.24,
+   "end": 486.56,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 9,
+   "text": "We have seen that in the new government, as in the old, the general powers are limited;",
+   "begin": 486.56,
+   "end": 490.879,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 9,
+   "text": "and that the States, in all unenumerated cases, are left in the enjoyment of their sovereign and independent jurisdiction.",
+   "begin": 490.879,
+   "end": 498.0,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 10,
+   "text": "The truth is, that the great principles of the Constitution proposed by the convention may be considered less as absolutely new, than as the expansion of principles which are found in the articles of Confederation.",
+   "begin": 498.0,
+   "end": 509.12,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 10,
+   "text": "The misfortune under the latter system has been, that these principles are so feeble and confined as to justify all the charges of inefficiency which have been urged against it, and to require a degree of enlargement which gives to the new system the aspect of an entire transformation of the old.",
+   "begin": 509.12,
+   "end": 524.159,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 10,
+   "text": "In one particular it is admitted that the convention have departed from the tenor of their commission.",
+   "begin": 524.159,
+   "end": 529.36,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 10,
+   "text": "Instead of reporting a plan requiring the confirmation OF THE LEGISLATURES OF ALL THE STATES, they have reported a plan which is to be confirmed by the PEOPLE, and may be carried into effect by NINE STATES ONLY.",
+   "begin": 529.36,
+   "end": 540.0,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 10,
+   "text": "It is worthy of remark that this objection, though the most plausible, has been the least urged in the publications which have swarmed against the convention.",
+   "begin": 540.0,
+   "end": 547.76,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 10,
+   "text": "The forbearance can only have proceeded from an irresistible conviction of the absurdity of subjecting the fate of twelve States to the perverseness or corruption of a thirteenth;",
+   "begin": 547.76,
+   "end": 557.04,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 10,
+   "text": "from the example of inflexible opposition given by a MAJORITY of one sixtieth of the people of America to a measure approved and called for by the voice of twelve States, comprising fifty-nine sixtieths of the people an example still fresh in the memory and indignation of every citizen who has felt for the wounded honor and prosperity of his country.",
+   "begin": 557.04,
+   "end": 575.6,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 10,
+   "text": "As this objection, therefore, has been in a manner waived by those who have criticised the powers of the convention, I dismiss it without further observation.",
+   "begin": 575.6,
+   "end": 584.64,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 11,
+   "text": "The THIRD point to be inquired into is, how far considerations of duty arising out of the case itself could have supplied any defect of regular authority.",
+   "begin": 584.64,
+   "end": 593.44,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 11,
+   "text": "In the preceding inquiries the powers of the convention have been analyzed and tried with the same rigor, and by the same rules, as if they had been real and final powers for the establishment of a Constitution for the United States.",
+   "begin": 593.44,
+   "end": 605.04,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 11,
+   "text": "We have seen in what manner they have borne the trial even on that supposition.",
+   "begin": 605.04,
+   "end": 609.36,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 11,
+   "text": "It is time now to recollect that the powers were merely advisory and recommendatory;",
+   "begin": 609.36,
+   "end": 614.0,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 11,
+   "text": "that they were so meant by the States, and so understood by the convention;",
+   "begin": 614.0,
+   "end": 617.839,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 11,
+   "text": "and that the latter have accordingly planned and proposed a Constitution which is to be of no more consequence than the paper on which it is written, unless it be stamped with the approbation of those to whom it is addressed.",
+   "begin": 617.839,
+   "end": 628.48,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 11,
+   "text": "This reflection places the subject in a point of view altogether different, and will enable us to judge with propriety of the course taken by the convention.",
+   "begin": 628.48,
+   "end": 636.56,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 11,
+   "text": "Let us view the ground on which the convention stood.",
+   "begin": 636.56,
+   "end": 639.519,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 12,
+   "text": "It may be collected from their proceedings, that they were deeply and unanimously impressed with the crisis, which had led their country almost with one voice to make so singular and solemn an experiment for correcting the errors of a system by which this crisis had been produced;",
+   "begin": 639.519,
+   "end": 652.64,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 12,
+   "text": "that they were no less deeply and unanimously convinced that such a reform as they have proposed was absolutely necessary to effect the purposes of their appointment.",
+   "begin": 652.64,
+   "end": 661.36,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 12,
+   "text": "It could not be unknown to them that the hopes and expectations of the great body of citizens, throughout this great empire, were turned with the keenest anxiety to the event of their deliberations.",
+   "begin": 661.36,
+   "end": 671.04,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 12,
+   "text": "They had every reason to believe that the contrary sentiments agitated the minds and bosoms of every external and internal foe to the liberty and prosperity of the United States.",
+   "begin": 671.04,
+   "end": 680.56,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 13,
+   "text": "They had seen in the origin and progress of the experiment, the alacrity with which the PROPOSITION, made by a single State (Virginia), towards a partial amendment of the Confederation, had been attended to and promoted.",
+   "begin": 680.56,
+   "end": 692.079,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 13,
+   "text": "They had seen the LIBERTY ASSUMED by a VERY FEW deputies from a VERY FEW States, convened at Annapolis, of recommending a great and critical object, wholly foreign to their commission, not only justified by the public opinion, but actually carried into effect by twelve out of the thirteen States.",
+   "begin": 692.079,
+   "end": 708.24,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 13,
+   "text": "They had seen, in a variety of instances, assumptions by Congress, not only of recommendatory, but of operative, powers, warranted, in the public estimation, by occasions and objects infinitely less urgent than those by which their conduct was to be governed.",
+   "begin": 708.24,
+   "end": 722.639,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 14,
+   "text": "They must have reflected, that in all great changes of established governments, forms ought to give way to substance;",
+   "begin": 722.639,
+   "end": 728.8,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 14,
+   "text": "that a rigid adherence in such cases to the former, would render nominal and nugatory the transcendent and precious right of the people to \"abolish or alter their governments as to them shall seem most likely to effect their safety and happiness,''2 since it is impossible for the people spontaneously and universally to move in concert towards their object;",
+   "begin": 728.8,
+   "end": 749.04,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 14,
+   "text": "and it is therefore essential that such changes be instituted by some INFORMAL AND UNAUTHORIZED PROPOSITIONS, made by some patriotic and respectable citizen or number of citizens.",
+   "begin": 749.04,
+   "end": 759.44,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 15,
+   "text": "They must have recollected that it was by this irregular and assumed privilege of proposing to the people plans for their safety and happiness, that the States were first united against the danger with which they were threatened by their ancient government;",
+   "begin": 759.44,
+   "end": 771.76,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 15,
+   "text": "that committees and congresses were formed for concentrating their efforts and defending their rights;",
+   "begin": 771.76,
+   "end": 776.639,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 15,
+   "text": "and that CONVENTIONS were ELECTED in THE SEVERAL STATES for establishing the constitutions under which they are now governed;",
+   "begin": 776.639,
+   "end": 782.8,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 15,
+   "text": "nor could it have been forgotten that no little ill-timed scruples, no zeal for adhering to ordinary forms, were anywhere seen, except in those who wished to indulge, under these masks, their secret enmity to the substance contended for.",
+   "begin": 782.8,
+   "end": 796.0,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 15,
+   "text": "They must have borne in mind, that as the plan to be framed and proposed was to be submitted TO THE PEOPLE THEMSELVES, the disapprobation of this supreme authority would destroy it forever;",
+   "begin": 796.0,
+   "end": 805.6,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 15,
+   "text": "its approbation blot out antecedent errors and irregularities.",
+   "begin": 805.6,
+   "end": 809.36,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 15,
+   "text": "It might even have occurred to them, that where a disposition to cavil prevailed, their neglect to execute the degree of power vested in them, and still more their recommendation of any measure whatever, not warranted by their commission, would not less excite animadversion, than a recommendation at once of a measure fully commensurate to the national exigencies.",
+   "begin": 809.36,
+   "end": 826.959,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 16,
+   "text": "Had the convention, under all these impressions, and in the midst of all these considerations, instead of exercising a manly confidence in their country, by whose confidence they had been so peculiarly distinguished, and of pointing out a system capable, in their judgment, of securing its happiness, taken the cold and sullen resolution of disappointing its ardent hopes, of sacrificing substance to forms, of committing the dearest interests of their country to the uncertainties of delay and the hazard of events, let me ask the man who can raise his mind to one elevated conception, who can awaken in his bosom one patriotic emotion, what judgment ought to have been pronounced by the impartia",
+   "begin": 826.959,
+   "end": 861.12,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 17,
+   "text": "l world, by the friends of mankind, by every virtuous citizen, on the conduct and character of this assembly?",
+   "begin": 861.12,
+   "end": 867.199,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 18,
+   "text": "Or if there be a man whose propensity to condemn is susceptible of no control, let me then ask what sentence he has in reserve for the twelve States who USURPED THE POWER of sending deputies to the convention, a body utterly unknown to their constitutions;",
+   "begin": 867.199,
+   "end": 880.56,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 18,
+   "text": "for Congress, who recommended the appointment of this body, equally unknown to the Confederation;",
+   "begin": 880.56,
+   "end": 885.199,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 18,
+   "text": "and for the State of New York, in particular, which first urged and then complied with this unauthorized interposition?",
+   "begin": 885.199,
+   "end": 891.68,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 19,
+   "text": "But that the objectors may be disarmed of every pretext, it shall be granted for a moment that the convention were neither authorized by their commission, nor justified by circumstances in proposing a Constitution for their country:",
+   "begin": 891.68,
+   "end": 903.04,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 19,
+   "text": "does it follow that the Constitution ought, for that reason alone, to be rejected?",
+   "begin": 903.04,
+   "end": 907.199,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 19,
+   "text": "If, according to the noble precept, it be lawful to accept good advice even from an enemy, shall we set the ignoble example of refusing such advice even when it is offered by our friends?",
+   "begin": 907.199,
+   "end": 917.68,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 20,
+   "text": "The prudent inquiry, in all cases, ought surely to be, not so much FROM WHOM the advice comes, as whether the advice be GOOD.",
+   "begin": 917.68,
+   "end": 925.04,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 20,
+   "text": "The sum of what has been here advanced and proved is, that the charge against the convention of exceeding their powers, except in one instance little urged by the objectors, has no foundation to support it;",
+   "begin": 925.04,
+   "end": 936.0,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 20,
+   "text": "that if they had exceeded their powers, they were not only warranted, but required, as the confidential servants of their country, by the circumstances in which they were placed, to exercise the liberty which they assume;",
+   "begin": 936.0,
+   "end": 946.56,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 20,
+   "text": "and that finally, if they had violated both their powers and their obligations, in proposing a Constitution, this ought nevertheless to be embraced, if it be calculated to accomplish the views and happiness of the people of America.",
+   "begin": 946.56,
+   "end": 958.16,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 20,
+   "text": "How far this character is due to the Constitution, is the subject under investigation.",
+   "begin": 958.16,
+   "end": 963.72,
+   "synced": true
+  },
+  {
+   "id": "u0126",
+   "para": 21,
+   "text": "PUBLIUS.",
+   "begin": 963.72,
+   "end": 965.067755,
+   "synced": true
+  }
+ ]
+}

@@ -1,0 +1,819 @@
+{
+ "paper": 85,
+ "duration": 833.340952,
+ "match_ratio": 0.9613,
+ "heading": [
+  "Concluding Remarks",
+  "From MCLEAN's Edition, New York."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 8.72,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "ACCORDING to the formal division of the subject of these papers, announced in my first number, there would appear still to remain for discussion two points:",
+   "begin": 8.72,
+   "end": 16.8,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "\"the analogy of the proposed government to your own State constitution,'' and \"the additional security which its adoption will afford to republican government, to liberty, and to property.'' But these heads have been so fully anticipated and exhausted in the progress of the work, that it would now scarcely be possible to do any thing more than repeat, in a more dilated form, what has been heretofore said, which the advanced stage of the question, and the time already spent upon it, conspire to forbid.",
+   "begin": 16.8,
+   "end": 43.52,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "It is remarkable, that the resemblance of the plan of the convention to the act which organizes the government of this State holds, not less with regard to many of the supposed defects, than to the real excellences of the former.",
+   "begin": 43.52,
+   "end": 54.96,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "Among the pretended defects are the re-eligibility of the Executive, the want of a council, the omission of a formal bill of rights, the omission of a provision respecting the liberty of the press.",
+   "begin": 54.96,
+   "end": 65.28,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "These and several others which have been noted in the course of our inquiries are as much chargeable on the existing constitution of this State, as on the one proposed for the Union;",
+   "begin": 65.28,
+   "end": 74.24,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "and a man must have slender pretensions to consistency, who can rail at the latter for imperfections which he finds no difficulty in excusing in the former.",
+   "begin": 74.24,
+   "end": 82.24,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "Nor indeed can there be a better proof of the insincerity and affectation of some of the zealous adversaries of the plan of the convention among us, who profess to be the devoted admirers of the government under which they live, than the fury with which they have attacked that plan, for matters in regard to which our own constitution is equally or perhaps more vulnerable.",
+   "begin": 82.24,
+   "end": 100.0,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "The additional securities to republican government, to liberty and to property, to be derived from the adoption of the plan under consideration, consist chiefly in the restraints which the preservation of the Union will impose on local factions and insurrections, and on the ambition of powerful individuals in single States, who may acquire credit and influence enough, from leaders and favorites, to become the despots of the people;",
+   "begin": 100.0,
+   "end": 121.36,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "in the diminution of the opportunities to foreign intrigue, which the dissolution of the Confederacy would invite and facilitate;",
+   "begin": 121.36,
+   "end": 127.2,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "in the prevention of extensive military establishments, which could not fail to grow out of wars between the States in a disunited situation;",
+   "begin": 127.2,
+   "end": 134.16,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "in the express guaranty of a republican form of government to each;",
+   "begin": 134.16,
+   "end": 137.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "in the absolute and universal exclusion of titles of nobility;",
+   "begin": 137.68,
+   "end": 140.959,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "and in the precautions against the repetition of those practices on the part of the State governments which have undermined the foundations of property and credit, have planted mutual distrust in the breasts of all classes of citizens, and have occasioned an almost universal prostration of morals.",
+   "begin": 140.959,
+   "end": 155.92,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "Thus have I, fellow-citizens, executed the task I had assigned to myself;",
+   "begin": 155.92,
+   "end": 160.0,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "with what success, your conduct must determine.",
+   "begin": 160.0,
+   "end": 162.959,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "I trust at least you will admit that I have not failed in the assurance I gave you respecting the spirit with which my endeavors should be conducted.",
+   "begin": 162.959,
+   "end": 170.319,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "I have addressed myself purely to your judgments, and have studiously avoided those asperities which are too apt to disgrace political disputants of all parties, and which have been not a little provoked by the language and conduct of the opponents of the Constitution.",
+   "begin": 170.319,
+   "end": 183.519,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "The charge of a conspiracy against the liberties of the people, which has been indiscriminately brought against the advocates of the plan, has something in it too wanton and too malignant, not to excite the indignation of every man who feels in his own bosom a refutation of the calumny.",
+   "begin": 183.519,
+   "end": 197.599,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "The perpetual changes which have been rung upon the wealthy, the well-born, and the great, have been such as to inspire the disgust of all sensible men.",
+   "begin": 197.599,
+   "end": 205.68,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "And the unwarrantable concealments and misrepresentations which have been in various ways practiced to keep the truth from the public eye, have been of a nature to demand the reprobation of all honest men.",
+   "begin": 205.68,
+   "end": 215.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "It is not impossible that these circumstances may have occasionally betrayed me into intemperances of expression which I did not intend;",
+   "begin": 215.92,
+   "end": 223.04,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "it is certain that I have frequently felt a struggle between sensibility and moderation;",
+   "begin": 223.04,
+   "end": 227.68,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "and if the former has in some instances prevailed, it must be my excuse that it has been neither often nor much.",
+   "begin": 227.68,
+   "end": 234.4,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "Let us now pause and ask ourselves whether, in the course of these papers, the proposed Constitution has not been satisfactorily vindicated from the aspersions thrown upon it;",
+   "begin": 234.4,
+   "end": 242.64,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "and whether it has not been shown to be worthy of the public approbation, and necessary to the public safety and prosperity.",
+   "begin": 242.64,
+   "end": 249.28,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "Every man is bound to answer these questions to himself, according to the best of his conscience and understanding, and to act agreeably to the genuine and sober dictates of his judgment.",
+   "begin": 249.28,
+   "end": 258.72,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "This is a duty from which nothing can give him a dispensation.",
+   "begin": 258.72,
+   "end": 262.24,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "'T is one that he is called upon, nay, constrained by all the obligations that form the bands of society, to discharge sincerely and honestly.",
+   "begin": 262.24,
+   "end": 269.44,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "No partial motive, no particular interest, no pride of opinion, no temporary passion or prejudice, will justify to himself, to his country, or to his posterity, an improper election of the part he is to act.",
+   "begin": 269.44,
+   "end": 281.44,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "Let him beware of an obstinate adherence to party;",
+   "begin": 281.44,
+   "end": 284.479,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "let him reflect that the object upon which he is to decide is not a particular interest of the community, but the very existence of the nation;",
+   "begin": 284.479,
+   "end": 291.199,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "and let him remember that a majority of America has already given its sanction to the plan which he is to approve or reject.",
+   "begin": 291.199,
+   "end": 298.24,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "I shall not dissemble that I feel an entire confidence in the arguments which recommend the proposed system to your adoption, and that I am unable to discern any real force in those by which it has been opposed.",
+   "begin": 298.24,
+   "end": 308.88,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "I am persuaded that it is the best which our political situation, habits, and opinions will admit, and superior to any the revolution has produced.",
+   "begin": 308.88,
+   "end": 317.36,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "Concessions on the part of the friends of the plan, that it has not a claim to absolute perfection, have afforded matter of no small triumph to its enemies.",
+   "begin": 317.36,
+   "end": 325.199,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "\"Why,'' say they, \"should we adopt an imperfect thing?",
+   "begin": 325.199,
+   "end": 328.16,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 7,
+   "text": "Why not amend it and make it perfect before it is irrevocably established?'' This may be plausible enough, but it is only plausible.",
+   "begin": 328.16,
+   "end": 335.68,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 7,
+   "text": "In the first place I remark, that the extent of these concessions has been greatly exaggerated.",
+   "begin": 335.68,
+   "end": 340.639,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "They have been stated as amounting to an admission that the plan is radically defective, and that without material alterations the rights and the interests of the community cannot be safely confided to it.",
+   "begin": 340.639,
+   "end": 350.88,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "This, as far as I have understood the meaning of those who make the concessions, is an entire perversion of their sense.",
+   "begin": 350.88,
+   "end": 356.88,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "No advocate of the measure can be found, who will not declare as his sentiment, that the system, though it may not be perfect in every part, is, upon the whole, a good one;",
+   "begin": 356.88,
+   "end": 364.88,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 7,
+   "text": "is the best that the present views and circumstances of the country will permit;",
+   "begin": 364.88,
+   "end": 368.639,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "and is such an one as promises every species of security which a reasonable people can desire.",
+   "begin": 368.639,
+   "end": 374.4,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 8,
+   "text": "I answer in the next place, that I should esteem it the extreme of imprudence to prolong the precarious state of our national affairs, and to expose the Union to the jeopardy of successive experiments, in the chimerical pursuit of a perfect plan.",
+   "begin": 374.4,
+   "end": 386.96,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "I never expect to see a perfect work from imperfect man.",
+   "begin": 386.96,
+   "end": 390.72,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "The result of the deliberations of all collective bodies must necessarily be a compound, as well of the errors and prejudices, as of the good sense and wisdom, of the individuals of whom they are composed.",
+   "begin": 390.72,
+   "end": 401.84,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "The compacts which are to embrace thirteen distinct States in a common bond of amity and union, must as necessarily be a compromise of as many dissimilar interests and inclinations.",
+   "begin": 401.84,
+   "end": 411.52,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "How can perfection spring from such materials?",
+   "begin": 411.52,
+   "end": 414.4,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "The reasons assigned in an excellent little pamphlet lately published in this city,1 are unanswerable to show the utter improbability of assembling a new convention, under circumstances in any degree so favorable to a happy issue, as those in which the late convention met, deliberated, and concluded.",
+   "begin": 414.4,
+   "end": 433.44,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "I will not repeat the arguments there used, as I presume the production itself has had an extensive circulation.",
+   "begin": 433.44,
+   "end": 439.199,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "It is certainly well worthy the perusal of every friend to his country.",
+   "begin": 439.199,
+   "end": 443.039,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "There is, however, one point of light in which the subject of amendments still remains to be considered, and in which it has not yet been exhibited to public view.",
+   "begin": 443.039,
+   "end": 450.96,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "I cannot resolve to conclude without first taking a survey of it in this aspect.",
+   "begin": 450.96,
+   "end": 456.0,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 10,
+   "text": "It appears to me susceptible of absolute demonstration, that it will be far more easy to obtain subsequent than previous amendments to the Constitution.",
+   "begin": 456.0,
+   "end": 464.319,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "The moment an alteration is made in the present plan, it becomes, to the purpose of adoption, a new one, and must undergo a new decision of each State.",
+   "begin": 464.319,
+   "end": 472.319,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "To its complete establishment throughout the Union, it will therefore require the concurrence of thirteen States.",
+   "begin": 472.319,
+   "end": 478.16,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "If, on the contrary, the Constitution proposed should once be ratified by all the States as it stands, alterations in it may at any time be effected by nine States.",
+   "begin": 478.16,
+   "end": 487.12,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "Here, then, the chances are as thirteen to nine2 in favor of subsequent amendment, rather than of the original adoption of an entire system.",
+   "begin": 487.12,
+   "end": 500.319,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 11,
+   "text": "This is not all.",
+   "begin": 500.319,
+   "end": 501.68,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "Every Constitution for the United States must inevitably consist of a great variety of particulars, in which thirteen independent States are to be accommodated in their interests or opinions of interest.",
+   "begin": 501.68,
+   "end": 512.719,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "We may of course expect to see, in any body of men charged with its original formation, very different combinations of the parts upon different points.",
+   "begin": 512.719,
+   "end": 520.64,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "Many of those who form a majority on one question, may become the minority on a second, and an association dissimilar to either may constitute the majority on a third.",
+   "begin": 520.64,
+   "end": 529.519,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "Hence the necessity of moulding and arranging all the particulars which are to compose the whole, in such a manner as to satisfy all the parties to the compact;",
+   "begin": 529.519,
+   "end": 537.2,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "and hence, also, an immense multiplication of difficulties and casualties in obtaining the collective assent to a final act.",
+   "begin": 537.2,
+   "end": 544.32,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "The degree of that multiplication must evidently be in a ratio to the number of particulars and the number of parties.",
+   "begin": 544.32,
+   "end": 550.16,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 12,
+   "text": "But every amendment to the Constitution, if once established, would be a single proposition, and might be brought forward singly.",
+   "begin": 550.16,
+   "end": 556.88,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "There would then be no necessity for management or compromise, in relation to any other point no giving nor taking.",
+   "begin": 556.88,
+   "end": 563.2,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "The will of the requisite number would at once bring the matter to a decisive issue.",
+   "begin": 563.2,
+   "end": 567.279,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 12,
+   "text": "And consequently, whenever nine, or rather ten States, were united in the desire of a particular amendment, that amendment must infallibly take place.",
+   "begin": 567.279,
+   "end": 575.519,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 12,
+   "text": "There can, therefore, be no comparison between the facility of affecting an amendment, and that of establishing in the first instance a complete Constitution.",
+   "begin": 575.519,
+   "end": 583.76,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 13,
+   "text": "In opposition to the probability of subsequent amendments, it has been urged that the persons delegated to the administration of the national government will always be disinclined to yield up any portion of the authority of which they were once possessed.",
+   "begin": 583.76,
+   "end": 595.839,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 13,
+   "text": "For my own part I acknowledge a thorough conviction that any amendments which may, upon mature consideration, be thought useful, will be applicable to the organization of the government, not to the mass of its powers;",
+   "begin": 595.839,
+   "end": 606.32,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 13,
+   "text": "and on this account alone, I think there is no weight in the observation just stated.",
+   "begin": 606.32,
+   "end": 610.72,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 13,
+   "text": "I also think there is little weight in it on another account.",
+   "begin": 610.72,
+   "end": 613.76,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 13,
+   "text": "The intrinsic difficulty of governing thirteen States at any rate, independent of calculations upon an ordinary degree of public spirit and integrity, will, in my opinion constantly impose on the national rulers the necessity of a spirit of accommodation to the reasonable expectations of their constituents.",
+   "begin": 613.76,
+   "end": 629.92,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 13,
+   "text": "But there is yet a further consideration, which proves beyond the possibility of a doubt, that the observation is futile.",
+   "begin": 629.92,
+   "end": 636.0,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 13,
+   "text": "It is this that the national rulers, whenever nine States concur, will have no option upon the subject.",
+   "begin": 636.0,
+   "end": 642.48,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 13,
+   "text": "By the fifth article of the plan, the Congres will be obliged \"on the application of the legislatures of two thirds of the States \u00c3\u0095which at present amount to nine\u00c3\u00a5, to call a convention for proposing amendments, which shall be valid, to all intents and purposes, as part of the Constitution, when ratified by the legislatures of three fourths of the States, or by conventions in three fourths thereof.'' The words of this article are peremptory.",
+   "begin": 642.48,
+   "end": 664.48,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 13,
+   "text": "The Congress \"shall call a convention.'' Nothing in this particular is left to the discretion of that body.",
+   "begin": 664.48,
+   "end": 670.24,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 13,
+   "text": "And of consequence, all the declamation about the disinclination to a change vanishes in air.",
+   "begin": 670.24,
+   "end": 675.44,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 13,
+   "text": "Nor however difficult it may be supposed to unite two thirds or three fourths of the State legislatures, in amendments which may affect local interests, can there be any room to apprehend any such difficulty in a union on points which are merely relative to the general liberty or security of the people.",
+   "begin": 675.44,
+   "end": 691.6,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 13,
+   "text": "We may safely rely on the disposition of the State legislatures to erect barriers against the encroachments of the national authority.",
+   "begin": 691.6,
+   "end": 698.88,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 14,
+   "text": "If the foregoing argument is a fallacy, certain it is that I am myself deceived by it, for it is, in my conception, one of those rare instances in which a political truth can be brought to the test of a mathematical demonstration.",
+   "begin": 698.88,
+   "end": 711.2,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 14,
+   "text": "Those who see the matter in the same light with me, however zealous they may be for amendments, must agree in the propriety of a previous adoption, as the most direct road to their own object.",
+   "begin": 711.2,
+   "end": 721.2,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 15,
+   "text": "The zeal for attempts to amend, prior to the establishment of the Constitution, must abate in every man who is ready to accede to the truth of the following observations of a writer equally solid and ingenious:",
+   "begin": 721.2,
+   "end": 731.92,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 15,
+   "text": "\"To balance a large state or society \u00c3\u0095says he\u00c3\u00a5, whether monarchical or republican, on general laws, is a work of so great difficulty, that no human genius, however comprehensive, is able, by the mere dint of reason and reflection, to effect it.",
+   "begin": 731.92,
+   "end": 745.76,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 15,
+   "text": "The judgments of many must unite in the work;",
+   "begin": 745.76,
+   "end": 748.16,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 15,
+   "text": "experience must guide their labor;",
+   "begin": 748.16,
+   "end": 750.24,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 15,
+   "text": "time must bring it to perfection, and the feeling of inconveniences must correct the mistakes which they INEVITABLY fall into in their first trials and experiments.''3 These judicious reflections contain a lesson of moderation to all the sincere lovers of the Union, and ought to put them upon their guard against hazarding anarchy, civil war, a perpetual alienation of the States from each other, and perhaps the military despotism of a victorious demagogue, in the pursuit of what they are not likely to obtain, but from time and experience.",
+   "begin": 750.24,
+   "end": 783.2,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 15,
+   "text": "It may be in me a defect of political fortitude, but I acknowledge that I cannot entertain an equal tranquillity with those who affect to treat the dangers of a longer continuance in our present situation as imaginary.",
+   "begin": 783.2,
+   "end": 794.959,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 15,
+   "text": "A nation, without a national government, is, in my view, an awful spectacle.",
+   "begin": 794.959,
+   "end": 799.36,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 15,
+   "text": "The establishment of a Constitution, in time of profound peace, by the voluntary consent of a whole people, is a prodigy, to the completion of which I look forward with trembling anxiety.",
+   "begin": 799.36,
+   "end": 809.519,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 15,
+   "text": "I can reconcile it to no rules of prudence to let go the hold we now have, in so arduous an enterprise, upon seven out of the thirteen States, and after having passed over so considerable a part of the ground, to recommence the course.",
+   "begin": 809.519,
+   "end": 821.519,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 15,
+   "text": "I dread the more the consequences of new attempts, because I know that powerful individuals, in this and in other States, are enemies to a general national government in every possible shape.",
+   "begin": 821.519,
+   "end": 831.76,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 16,
+   "text": "PUBLIUS.",
+   "begin": 831.76,
+   "end": 832.76,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 17,
+   "text": "1 Entitled \"An Address to the People of the State of New York.''",
+   "begin": 832.76,
+   "end": 833.340952,
+   "synced": false
+  },
+  {
+   "id": "u0098",
+   "para": 18,
+   "text": "2 It may rather be said TEN, for though two thirds may set on foot the measure, three fourths must ratify.",
+   "begin": 833.340952,
+   "end": 833.340952,
+   "synced": false
+  },
+  {
+   "id": "u0099",
+   "para": 19,
+   "text": "3 Hume's \"Essays,'' vol.",
+   "begin": 833.340952,
+   "end": 833.340952,
+   "synced": false
+  },
+  {
+   "id": "u0100",
+   "para": 19,
+   "text": "i., page 128:",
+   "begin": 833.340952,
+   "end": 833.340952,
+   "synced": false
+  },
+  {
+   "id": "u0101",
+   "para": 19,
+   "text": "\"The Rise of Arts and Sciences.''",
+   "begin": 833.340952,
+   "end": 833.340952,
+   "synced": false
+  }
+ ]
+}

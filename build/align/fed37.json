@@ -1,0 +1,741 @@
+{
+ "paper": 37,
+ "duration": 872.327256,
+ "match_ratio": 0.9908,
+ "heading": [
+  "Concerning the Difficulties of the Convention in Devising a Proper Form of Government",
+  "From the Daily Advertiser.",
+  "Friday, January 11, 1788.",
+  "MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.28,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IN REVIEWING the defects of the existing Confederation, and showing that they cannot be supplied by a government of less energy than that before the public, several of the most important principles of the latter fell of course under consideration.",
+   "begin": 15.28,
+   "end": 28.0,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "But as the ultimate object of these papers is to determine clearly and fully the merits of this Constitution, and the expediency of adopting it, our plan cannot be complete without taking a more critical and thorough survey of the work of the convention, without examining it on all its sides, comparing it in all its parts, and calculating its probable effects.",
+   "begin": 28.0,
+   "end": 47.12,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "That this remaining task may be executed under impressions conducive to a just and fair result, some reflections must in this place be indulged, which candor previously suggests.",
+   "begin": 47.12,
+   "end": 57.6,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 3,
+   "text": "It is a misfortune, inseparable from human affairs, that public measures are rarely investigated with that spirit of moderation which is essential to a just estimate of their real tendency to advance or obstruct the public good;",
+   "begin": 57.6,
+   "end": 69.76,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 3,
+   "text": "and that this spirit is more apt to be diminished than promoted, by those occasions which require an unusual exercise of it.",
+   "begin": 69.76,
+   "end": 76.72,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "To those who have been led by experience to attend to this consideration, it could not appear surprising, that the act of the convention, which recommends so many important changes and innovations, which may be viewed in so many lights and relations, and which touches the springs of so many passions and interests, should find or excite dispositions unfriendly, both on one side and on the other, to a fair discussion and accurate judgment of its merits.",
+   "begin": 76.72,
+   "end": 99.92,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "In some, it has been too evident from their own publications, that they have scanned the proposed Constitution, not only with a predisposition to censure, but with a predetermination to condemn;",
+   "begin": 99.92,
+   "end": 109.2,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "as the language held by others betrays an opposite predetermination or bias, which must render their opinions also of little moment in the question.",
+   "begin": 109.2,
+   "end": 117.52,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "In placing, however, these different characters on a level, with respect to the weight of their opinions, I wish not to insinuate that there may not be a material difference in the purity of their intentions.",
+   "begin": 117.52,
+   "end": 127.439,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "It is but just to remark in favor of the latter description, that as our situation is universally admitted to be peculiarly critical, and to require indispensably that something should be done for our relief, the predetermined patron of what has been actually done may have taken his bias from the weight of these considerations, as well as from considerations of a sinister nature.",
+   "begin": 127.439,
+   "end": 147.52,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "The predetermined adversary, on the other hand, can have been governed by no venial motive whatever.",
+   "begin": 147.52,
+   "end": 153.12,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "The intentions of the first may be upright, as they may on the contrary be culpable.",
+   "begin": 153.12,
+   "end": 157.2,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "The views of the last cannot be upright, and must be culpable.",
+   "begin": 157.2,
+   "end": 160.879,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "But the truth is, that these papers are not addressed to persons falling under either of these characters.",
+   "begin": 160.879,
+   "end": 166.4,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "They solicit the attention of those only, who add to a sincere zeal for the happiness of their country, a temper favorable to a just estimate of the means of promoting it.",
+   "begin": 166.4,
+   "end": 175.76,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "Persons of this character will proceed to an examination of the plan submitted by the convention, not only without a disposition to find or to magnify faults;",
+   "begin": 175.76,
+   "end": 183.68,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "but will see the propriety of reflecting, that a faultless plan was not to be expected.",
+   "begin": 183.68,
+   "end": 188.48,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "Nor will they barely make allowances for the errors which may be chargeable on the fallibility to which the convention, as a body of men, were liable;",
+   "begin": 188.48,
+   "end": 196.319,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "but will keep in mind, that they themselves also are but men, and ought not to assume an infallibility in rejudging the fallible opinions of others.",
+   "begin": 196.319,
+   "end": 204.4,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "With equal readiness will it be perceived, that besides these inducements to candor, many allowances ought to be made for the difficulties inherent in the very nature of the undertaking referred to the convention.",
+   "begin": 204.4,
+   "end": 214.799,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 6,
+   "text": "The novelty of the undertaking immediately strikes us.",
+   "begin": 214.799,
+   "end": 217.76,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 6,
+   "text": "It has been shown in the course of these papers, that the existing Confederation is founded on principles which are fallacious;",
+   "begin": 217.76,
+   "end": 223.36,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 6,
+   "text": "that we must consequently change this first foundation, and with it the superstructure resting upon it.",
+   "begin": 223.36,
+   "end": 228.799,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "It has been shown, that the other confederacies which could be consulted as precedents have been vitiated by the same erroneous principles, and can therefore furnish no other light than that of beacons, which give warning of the course to be shunned, without pointing out that which ought to be pursued.",
+   "begin": 228.799,
+   "end": 243.439,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "The most that the convention could do in such a situation, was to avoid the errors suggested by the past experience of other countries, as well as of our own;",
+   "begin": 243.439,
+   "end": 251.2,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "and to provide a convenient mode of rectifying their own errors, as future experiences may unfold them.",
+   "begin": 251.2,
+   "end": 257.359,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 7,
+   "text": "Among the difficulties encountered by the convention, a very important one must have lain in combining the requisite stability and energy in government, with the inviolable attention due to liberty and to the republican form.",
+   "begin": 257.359,
+   "end": 269.44,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "Without substantially accomplishing this part of their undertaking, they would have very imperfectly fulfilled the object of their appointment, or the expectation of the public;",
+   "begin": 269.44,
+   "end": 277.6,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "yet that it could not be easily accomplished, will be denied by no one who is unwilling to betray his ignorance of the subject.",
+   "begin": 277.6,
+   "end": 284.32,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "Energy in government is essential to that security against external and internal danger, and to that prompt and salutary execution of the laws which enter into the very definition of good government.",
+   "begin": 284.32,
+   "end": 294.8,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "Stability in government is essential to national character and to the advantages annexed to it, as well as to that repose and confidence in the minds of the people, which are among the chief blessings of civil society.",
+   "begin": 294.8,
+   "end": 305.6,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "An irregular and mutable legislation is not more an evil in itself than it is odious to the people;",
+   "begin": 305.6,
+   "end": 310.96,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "and it may be pronounced with assurance that the people of this country, enlightened as they are with regard to the nature, and interested, as the great body of them are, in the effects of good government, will never be satisfied till some remedy be applied to the vicissitudes and uncertainties which characterize the State administrations.",
+   "begin": 310.96,
+   "end": 328.8,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "On comparing, however, these valuable ingredients with the vital principles of liberty, we must perceive at once the difficulty of mingling them together in their due proportions.",
+   "begin": 328.8,
+   "end": 337.6,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 7,
+   "text": "The genius of republican liberty seems to demand on one side, not only that all power should be derived from the people, but that those intrusted with it should be kept in independence on the people, by a short duration of their appointments;",
+   "begin": 337.6,
+   "end": 349.039,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 7,
+   "text": "and that even during this short period the trust should be placed not in a few, but a number of hands.",
+   "begin": 349.039,
+   "end": 354.479,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 7,
+   "text": "Stability, on the contrary, requires that the hands in which power is lodged should continue for a length of time the same.",
+   "begin": 354.479,
+   "end": 361.199,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 7,
+   "text": "A frequent change of men will result from a frequent return of elections;",
+   "begin": 361.199,
+   "end": 364.72,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "and a frequent change of measures from a frequent change of men:",
+   "begin": 364.72,
+   "end": 367.68,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "whilst energy in government requires not only a certain duration of power, but the execution of it by a single hand.",
+   "begin": 367.68,
+   "end": 374.479,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "How far the convention may have succeeded in this part of their work, will better appear on a more accurate view of it.",
+   "begin": 374.479,
+   "end": 379.84,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "From the cursory view here taken, it must clearly appear to have been an arduous part.",
+   "begin": 379.84,
+   "end": 384.88,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "Not less arduous must have been the task of marking the proper line of partition between the authority of the general and that of the State governments.",
+   "begin": 384.88,
+   "end": 392.08,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "Every man will be sensible of this difficulty, in proportion as he has been accustomed to contemplate and discriminate objects extensive and complicated in their nature.",
+   "begin": 392.08,
+   "end": 400.319,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 9,
+   "text": "The faculties of the mind itself have never yet been distinguished and defined, with satisfactory precision, by all the efforts of the most acute and metaphysical philosophers.",
+   "begin": 400.319,
+   "end": 408.96,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 9,
+   "text": "Sense, perception, judgment, desire, volition, memory, imagination, are found to be separated by such delicate shades and minute gradations that their boundaries have eluded the most subtle investigations, and remain a pregnant source of ingenious disquisition and controversy.",
+   "begin": 408.96,
+   "end": 424.319,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "The boundaries between the great kingdom of nature, and, still more, between the various provinces, and lesser portions, into which they are subdivided, afford another illustration of the same important truth.",
+   "begin": 424.319,
+   "end": 434.639,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "The most sagacious and laborious naturalists have never yet succeeded in tracing with certainty the line which separates the district of vegetable life from the neighboring region of unorganized matter, or which marks the ermination of the former and the commencement of the animal empire.",
+   "begin": 434.639,
+   "end": 448.8,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "A still greater obscurity lies in the distinctive characters by which the objects in each of these great departments of nature have been arranged and assorted.",
+   "begin": 448.8,
+   "end": 457.44,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 10,
+   "text": "When we pass from the works of nature, in which all the delineations are perfectly accurate, and appear to be otherwise only from the imperfection of the eye which surveys them, to the institutions of man, in which the obscurity arises as well from the object itself as from the organ by which it is contemplated, we must perceive the necessity of moderating still further our expectations and hopes from the efforts of human sagacity.",
+   "begin": 457.44,
+   "end": 480.0,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 10,
+   "text": "Experience has instructed us that no skill in the science of government has yet been able to discriminate and define, with sufficient certainty, its three great provinces the legislative, executive, and judiciary;",
+   "begin": 480.0,
+   "end": 490.96,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 10,
+   "text": "or even the privileges and powers of the different legislative branches.",
+   "begin": 490.96,
+   "end": 494.72,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 10,
+   "text": "Questions daily occur in the course of practice, which prove the obscurity which reins in these subjects, and which puzzle the greatest adepts in political science.",
+   "begin": 494.72,
+   "end": 503.68,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 11,
+   "text": "The experience of ages, with the continued and combined labors of the most enlightened legislatures and jurists, has been equally unsuccessful in delineating the several objects and limits of different codes of laws and different tribunals of justice.",
+   "begin": 503.68,
+   "end": 516.56,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 11,
+   "text": "The precise extent of the common law, and the statute law, the maritime law, the ecclesiastical law, the law of corporations, and other local laws and customs, remains still to be clearly and finally established in Great Britain, where accuracy in such subjects has been more industriously pursued than in any other part of the world.",
+   "begin": 516.56,
+   "end": 533.44,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 11,
+   "text": "The jurisdiction of her several courts, general and local, of law, of equity, of admiralty, etc., is not less a source of frequent and intricate discussions, sufficiently denoting the indeterminate limits by which they are respectively circumscribed.",
+   "begin": 533.44,
+   "end": 546.56,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 11,
+   "text": "All new laws, though penned with the greatest technical skill, and passed on the fullest and most mature deliberation, are considered as more or less obscure and equivocal, until their meaning be liquidated and ascertained by a series of particular discussions and adjudications.",
+   "begin": 546.56,
+   "end": 560.72,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 11,
+   "text": "Besides the obscurity arising from the complexity of objects, and the imperfection of the human faculties, the medium through which the conceptions of men are conveyed to each other adds a fresh embarrassment.",
+   "begin": 560.72,
+   "end": 571.2,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 11,
+   "text": "The use of words is to express ideas.",
+   "begin": 571.2,
+   "end": 573.6,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "Perspicuity, therefore, requires not only that the ideas should be distinctly formed, but that they should be expressed by words distinctly and exclusively appropriate to them.",
+   "begin": 573.6,
+   "end": 582.0,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "But no language is so copious as to supply words and phrases for every complex idea, or so correct as not to include many equivocally denoting different ideas.",
+   "begin": 582.0,
+   "end": 591.2,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "Hence it must happen that however accurately objects may be discriminated in themselves, and however accurately the discrimination may be considered, the definition of them may be rendered inaccurate by the inaccuracy of the terms in which it is delivered.",
+   "begin": 591.2,
+   "end": 603.92,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "And this unavoidable inaccuracy must be greater or less, according to the complexity and novelty of the objects defined.",
+   "begin": 603.92,
+   "end": 611.12,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "When the Almighty himself condescends to address mankind in their own language, his meaning, luminous as it must be, is rendered dim and doubtful by the cloudy medium through which it is communicated.",
+   "begin": 611.12,
+   "end": 621.92,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 12,
+   "text": "Here, then, are three sources of vague and incorrect definitions:",
+   "begin": 621.92,
+   "end": 625.519,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 12,
+   "text": "indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas.",
+   "begin": 625.519,
+   "end": 632.16,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "Any one of these must produce a certain degree of obscurity.",
+   "begin": 632.16,
+   "end": 635.519,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "The convention, in delineating the boundary between the federal and State jurisdictions, must have experienced the full effect of them all.",
+   "begin": 635.519,
+   "end": 643.04,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 13,
+   "text": "To the difficulties already mentioned may be added the interfering pretensions of the larger and smaller States.",
+   "begin": 643.04,
+   "end": 648.56,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 13,
+   "text": "We cannot err in supposing that the former would contend for a participation in the government, fully proportioned to their superior wealth and importance;",
+   "begin": 648.56,
+   "end": 656.16,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 13,
+   "text": "and that the latter would not be less tenacious of the equality at present enjoyed by them.",
+   "begin": 656.16,
+   "end": 660.959,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 13,
+   "text": "We may well suppose that neither side would entirely yield to the other, and consequently that the struggle could be terminated only by compromise.",
+   "begin": 660.959,
+   "end": 668.24,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 13,
+   "text": "It is extremely probable, also, that after the ratio of representation had been adjusted, this very compromise must have produced a fresh struggle between the same parties, to give such a turn to the organization of the government, and to the distribution of its powers, as would increase the importance of the branches, in forming which they had respectively obtained the greatest share of influence.",
+   "begin": 668.24,
+   "end": 687.92,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 13,
+   "text": "There are features in the Constitution which warrant each of these suppositions;",
+   "begin": 687.92,
+   "end": 691.92,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 13,
+   "text": "and as far as either of them is well founded, it shows that the convention must have been compelled to sacrifice theoretical propriety to the force of extraneous considerations.",
+   "begin": 691.92,
+   "end": 701.04,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 14,
+   "text": "Nor could it have been the large and small States only, which would marshal themselves in opposition to each other on various points.",
+   "begin": 701.04,
+   "end": 707.44,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 14,
+   "text": "Other combinations, resulting from a difference of local position and policy, must have created additional difficulties.",
+   "begin": 707.44,
+   "end": 713.6,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 14,
+   "text": "As every State may be divided into different districts, and its citizens into different classes, which give birth to contending interests and local jealousies, so the different parts of the United States are distinguished from each other by a variety of circumstances, which produce a like effect on a larger scale.",
+   "begin": 713.6,
+   "end": 729.44,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 14,
+   "text": "And although this variety of interests, for reasons sufficiently explained in a former paper, may have a salutary influence on the administration of the government when formed, yet every one must be sensible of the contrary influence, which must have been experienced in the task of forming it.",
+   "begin": 729.44,
+   "end": 744.32,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 15,
+   "text": "Would it be wonderful if, under the pressure of all these difficulties, the convention should have been forced into some deviations from that artificial structure and regular symmetry which an abstract view of the subject might lead an ingenious theorist to bestow on a Constitution planned in his closet or in his imagination?",
+   "begin": 744.32,
+   "end": 760.24,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 15,
+   "text": "The real wonder is that so many difficulties should have been surmounted, and surmounted with a unanimity almost as unprecedented as it must have been unexpected.",
+   "begin": 760.24,
+   "end": 768.72,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 15,
+   "text": "It is impossible for any man of candor to reflect on this circumstance without partaking of the astonishment.",
+   "begin": 768.72,
+   "end": 773.839,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 15,
+   "text": "It is impossible for the man of pious reflection not to perceive in it a finger of that Almighty hand which has been so frequently and signally extended to our relief in the critical stages of the revolution.",
+   "begin": 773.839,
+   "end": 784.88,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 16,
+   "text": "We had occasion, in a former paper, to take notice of the repeated trials which have been unsuccessfully made in the United Netherlands for reforming the baneful and notorious vices of their constitution.",
+   "begin": 784.88,
+   "end": 796.079,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 16,
+   "text": "The history of almost all the great councils and consultations held among mankind for reconciling their discordant opinions, assuaging their mutual jealousies, and adjusting their respective interests, is a history of factions, contentions, and disappointments, and may be classed among the most dark and degraded pictures which display the infirmities and depravities of the human character.",
+   "begin": 796.079,
+   "end": 815.76,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 16,
+   "text": "If, in a few scattered instances, a brighter aspect is presented, they serve only as exceptions to admonish us of the general truth;",
+   "begin": 815.76,
+   "end": 823.12,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 16,
+   "text": "and by their lustre to darken the gloom of the adverse prospect to which they are contrasted.",
+   "begin": 823.12,
+   "end": 828.0,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 16,
+   "text": "In revolving the causes from which these exceptions result, and applying them to the particular instances before us, we are necessarily led to two important conclusions.",
+   "begin": 828.0,
+   "end": 836.88,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 16,
+   "text": "The first is, that the convention must have enjoyed, in a very singular degree, an exemption from the pestilential influence of party animosities the disease most incident to deliberative bodies, and most apt to contaminate their proceedings.",
+   "begin": 836.88,
+   "end": 850.399,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 16,
+   "text": "The second conclusion is that all the deputations composing the convention were satisfactorily accommodated by the final act, or were induced to accede to it by a deep conviction of the necessity of sacrificing private opinions and partial interests to the public good, and by a despair of seeing this necessity diminished by delays or by new experiments.",
+   "begin": 850.399,
+   "end": 872.327256,
+   "synced": true
+  }
+ ]
+}

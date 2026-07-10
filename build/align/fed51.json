@@ -1,0 +1,652 @@
+{
+ "paper": 51,
+ "duration": 617.488254,
+ "match_ratio": 0.9938,
+ "heading": [
+  "The Structure of the Government Must Furnish the Proper Checks",
+  "and Balances Between the Different Departments",
+  "From the New York Packet. Friday, February 8, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 19.039,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "TO WHAT expedient, then, shall we finally resort, for maintaining in practice the necessary partition of power among the several departments, as laid down in the Constitution?",
+   "begin": 19.039,
+   "end": 28.359,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The only answer that can be given is, that as all these exterior provisions are found to be inadequate, the defect must be supplied, by so contriving the interior structure of the government as that its several constituent parts may, by their mutual relations, be the means of keeping each other in their proper places.",
+   "begin": 28.359,
+   "end": 44.96,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "Without presuming to undertake a full development of this important idea, I will hazard a few general observations, which may perhaps place it in a clearer light, and enable us to form a more correct judgment of the principles and structure of the government planned by the convention.",
+   "begin": 44.96,
+   "end": 59.28,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "In order to lay a due foundation for that separate and distinct exercise of the different powers of government, which to a certain extent is admitted on all hands to be essential to the preservation of liberty, it is evident that each department should have a will of its own;",
+   "begin": 59.28,
+   "end": 72.759,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "and consequently should be so constituted that the members of each should have as little agency as possible in the appointment of the members of the others.",
+   "begin": 72.759,
+   "end": 80.0,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Were this principle rigorously adhered to, it would require that all the appointments for the supreme executive, legislative, and judiciary magistracies should be drawn from the same fountain of authority, the people, through channels having no communication whatever with one another.",
+   "begin": 80.0,
+   "end": 94.6,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "Perhaps such a plan of constructing the several departments would be less difficult in practice than it may in contemplation appear.",
+   "begin": 94.6,
+   "end": 101.0,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "Some difficulties, however, and some additional expense would attend the execution of it.",
+   "begin": 101.0,
+   "end": 105.96,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "Some deviations, therefore, from the principle must be admitted.",
+   "begin": 105.96,
+   "end": 109.36,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "In the constitution of the judiciary department in particular, it might be inexpedient to insist rigorously on the principle:",
+   "begin": 109.36,
+   "end": 115.759,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "first, because peculiar qualifications being essential in the members, the primary consideration ought to be to select that mode of choice which best secures these qualifications;",
+   "begin": 115.759,
+   "end": 124.92,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "secondly, because the permanent tenure by which the appointments are held in that department, must soon destroy all sense of dependence on the authority conferring them.",
+   "begin": 124.92,
+   "end": 133.239,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "It is equally evident, that the members of each department should be as little dependent as possible on those of the others, for the emoluments annexed to their offices.",
+   "begin": 133.239,
+   "end": 141.519,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "Were the executive magistrate, or the judges, not independent of the legislature in this particular, their independence in every other would be merely nominal.",
+   "begin": 141.519,
+   "end": 149.36,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "But the great security against a gradual concentration of the several powers in the same department, consists in giving to those who administer each department the necessary constitutional means and personal motives to resist encroachments of the others.",
+   "begin": 149.36,
+   "end": 162.44,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "The provision for defense must in this, as in all other cases, be made commensurate to the danger of attack.",
+   "begin": 162.44,
+   "end": 168.4,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "Ambition must be made to counteract ambition.",
+   "begin": 168.4,
+   "end": 171.239,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "The interest of the man must be connected with the constitutional rights of the place.",
+   "begin": 171.239,
+   "end": 175.4,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "It may be a reflection on human nature, that such devices should be necessary to control the abuses of government.",
+   "begin": 175.4,
+   "end": 181.64,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "But what is government itself, but the greatest of all reflections on human nature?",
+   "begin": 181.64,
+   "end": 185.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "If men were angels, no government would be necessary.",
+   "begin": 185.92,
+   "end": 188.92,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "If angels were to govern men, neither external nor internal controls on government would be necessary.",
+   "begin": 188.92,
+   "end": 194.36,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "In framing a government which is to be administered by men over men, the great difficulty lies in this:",
+   "begin": 194.36,
+   "end": 199.84,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "you must first enable the government to control the governed;",
+   "begin": 199.84,
+   "end": 202.599,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "and in the next place oblige it to control itself.",
+   "begin": 202.599,
+   "end": 205.84,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "A dependence on the people is, no doubt, the primary control on the government;",
+   "begin": 205.84,
+   "end": 209.959,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "but experience has taught mankind the necessity of auxiliary precautions.",
+   "begin": 209.959,
+   "end": 214.48,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "This policy of supplying, by opposite and rival interests, the defect of better motives, might be traced through the whole system of human affairs, private as well as public.",
+   "begin": 214.48,
+   "end": 223.12,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "We see it particularly displayed in all the subordinate distributions of power, where the constant aim is to divide and arrange the several offices in such a manner as that each may be a check on the other that the private interest of every individual may be a sentinel over the public rights.",
+   "begin": 223.12,
+   "end": 237.599,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "These inventions of prudence cannot be less requisite in the distribution of the supreme powers of the State.",
+   "begin": 237.599,
+   "end": 243.0,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "But it is not possible to give to each department an equal power of self-defense.",
+   "begin": 243.0,
+   "end": 247.4,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "In republican government, the legislative authority necessarily predominates.",
+   "begin": 247.4,
+   "end": 252.079,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "The remedy for this inconveniency is to divide the legislature into different branches;",
+   "begin": 252.079,
+   "end": 256.4,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "and to render them, by different modes of election and different principles of action, as little connected with each other as the nature of their common functions and their common dependence on the society will admit.",
+   "begin": 256.4,
+   "end": 266.68,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "It may even be necessary to guard against dangerous encroachments by still further precautions.",
+   "begin": 266.68,
+   "end": 271.32,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "As the weight of the legislative authority requires that it should be thus divided, the weakness of the executive may require, on the other hand, that it should be fortified.",
+   "begin": 271.32,
+   "end": 280.199,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "An absolute negative on the legislature appears, at first view, to be the natural defense with which the executive magistrate should be armed.",
+   "begin": 280.199,
+   "end": 287.52,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "But perhaps it would be neither altogether safe nor alone sufficient.",
+   "begin": 287.52,
+   "end": 291.32,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "On ordinary occasions it might not be exerted with the requisite firmness, and on extraordinary occasions it might be perfidiously abused.",
+   "begin": 291.32,
+   "end": 299.28,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "May not this defect of an absolute negative be supplied by some qualified connection between this weaker department and the weaker branch of the stronger department, by which the latter may be led to support the constitutional rights of the former, without being too much detached from the rights of its own department?",
+   "begin": 299.28,
+   "end": 314.56,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "If the principles on which these observations are founded be just, as I persuade myself they are, and they be applied as a criterion to the several State constitutions, and to the federal Constitution it will be found that if the latter does not perfectly correspond with them, the former are infinitely less able to bear such a test.",
+   "begin": 314.56,
+   "end": 331.4,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "There are, moreover, two considerations particularly applicable to the federal system of America, which place that system in a very interesting point of view.",
+   "begin": 331.4,
+   "end": 340.16,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 6,
+   "text": "First.",
+   "begin": 340.16,
+   "end": 340.68,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 6,
+   "text": "In a single republic, all the power surrendered by the people is submitted to the administration of a single government;",
+   "begin": 340.68,
+   "end": 346.72,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "and the usurpations are guarded against by a division of the government into distinct and separate departments.",
+   "begin": 346.72,
+   "end": 352.319,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "In the compound republic of America, the power surrendered by the people is first divided between two distinct governments, and then the portion allotted to each subdivided among distinct and separate departments.",
+   "begin": 352.319,
+   "end": 363.08,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "Hence a double security arises to the rights of the people.",
+   "begin": 363.08,
+   "end": 366.319,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "The different governments will control each other, at the same time that each will be controlled by itself.",
+   "begin": 366.319,
+   "end": 371.599,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "Second.",
+   "begin": 371.599,
+   "end": 372.16,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "It is of great importance in a republic not only to guard the society against the oppression of its rulers, but to guard one part of the society against the injustice of the other part.",
+   "begin": 372.16,
+   "end": 381.36,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "Different interests necessarily exist in different classes of citizens.",
+   "begin": 381.36,
+   "end": 385.479,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "If a majority be united by a common interest, the rights of the minority will be insecure.",
+   "begin": 385.479,
+   "end": 390.599,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "There are but two methods of providing against this evil:",
+   "begin": 390.599,
+   "end": 393.72,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "the one by creating a will in the community independent of the majority that is, of the society itself;",
+   "begin": 393.72,
+   "end": 399.8,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "the other, by comprehending in the society so many separate descriptions of citizens as will render an unjust combination of a majority of the whole very improbable, if not impracticable.",
+   "begin": 399.8,
+   "end": 410.52,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "The first method prevails in all governments possessing an hereditary or self-appointed authority.",
+   "begin": 410.52,
+   "end": 415.8,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "This, at best, is but a precarious security;",
+   "begin": 415.8,
+   "end": 418.44,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "because a power independent of the society may as well espouse the unjust views of the major, as the rightful interests of the minor party, and may possibly be turned against both parties.",
+   "begin": 418.44,
+   "end": 428.759,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "The second method will be exemplified in the federal republic of the United States.",
+   "begin": 428.759,
+   "end": 433.24,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 7,
+   "text": "Whilst all authority in it will be derived from and dependent on the society, the society itself will be broken into so many parts, interests, and classes of citizens, that the rights of individuals, or of the minority, will be in little danger from interested combinations of the majority.",
+   "begin": 433.24,
+   "end": 448.599,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "In a free government the security for civil rights must be the same as that for religious rights.",
+   "begin": 448.599,
+   "end": 454.44,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "It consists in the one case in the multiplicity of interests, and in the other in the multiplicity of sects.",
+   "begin": 454.44,
+   "end": 459.759,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "The degree of security in both cases will depend on the number of interests and sects;",
+   "begin": 459.759,
+   "end": 464.159,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "and this may be presumed to depend on the extent of country and number of people comprehended under the same government.",
+   "begin": 464.159,
+   "end": 470.52,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "This view of the subject must particularly recommend a proper federal system to all the sincere and considerate friends of republican government, since it shows that in exact proportion as the territory of the Union may be formed into more circumscribed Confederacies, or States oppressive combinations of a majority will be facilitated:",
+   "begin": 470.52,
+   "end": 487.879,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "the best security, under the republican forms, for the rights of every class of citizens, will be diminished:",
+   "begin": 487.879,
+   "end": 493.4,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 8,
+   "text": "and consequently the stability and independence of some member of the government, the only other security, must be proportionately increased.",
+   "begin": 493.4,
+   "end": 501.28,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 8,
+   "text": "Justice is the end of government.",
+   "begin": 501.28,
+   "end": 503.159,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 8,
+   "text": "It is the end of civil society.",
+   "begin": 503.159,
+   "end": 505.56,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 8,
+   "text": "It ever has been and ever will be pursued until it be obtained, or until liberty be lost in the pursuit.",
+   "begin": 505.56,
+   "end": 511.919,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 8,
+   "text": "In a society under the forms of which the stronger faction can readily unite and oppress the weaker, anarchy may as truly be said to reign as in a state of nature, where the weaker individual is not secured against the violence of the stronger;",
+   "begin": 511.919,
+   "end": 524.48,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 8,
+   "text": "and as, in the latter state, even the stronger individuals are prompted, by the uncertainty of their condition, to submit to a government which may protect the weak as well as themselves;",
+   "begin": 524.48,
+   "end": 533.8,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 8,
+   "text": "so, in the former state, will the more powerful factions or parties be gradnally induced, by a like motive, to wish for a government which will protect all parties, the weaker as well as the more powerful.",
+   "begin": 533.8,
+   "end": 544.519,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 9,
+   "text": "It can be little doubted that if the State of Rhode Island was separated from the Confederacy and left to itself, the insecurity of rights under the popular form of government within such narrow limits would be displayed by such reiterated oppressions of factious majorities that some power altogether independent of the people would soon be called for by the voice of the very factions whose misrule had proved the necessity of it.",
+   "begin": 544.519,
+   "end": 565.64,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 9,
+   "text": "In the extended republic of the United States, and among the great variety of interests, parties, and sects which it embraces, a coalition of a majority of the whole society could seldom take place on any other principles than those of justice and the general good;",
+   "begin": 565.64,
+   "end": 578.8,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 9,
+   "text": "whilst there being thus less danger to a minor from the will of a major party, there must be less pretext, also, to provide for the security of the former, by introducing into the government a will not dependent on the latter, or, in other words, a will independent of the society itself.",
+   "begin": 578.8,
+   "end": 594.12,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 9,
+   "text": "It is no less certain than it is important, notwithstanding the contrary opinions which have been entertained, that the larger the society, provided it lie within a practical sphere, the more duly capable it will be of self-government.",
+   "begin": 594.12,
+   "end": 606.0,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 9,
+   "text": "And happily for the REPUBLICAN CAUSE, the practicable sphere may be carried to a very great extent, by a judicious modification and mixture of the FEDERAL PRINCIPLE.",
+   "begin": 606.0,
+   "end": 615.8,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 10,
+   "text": "PUBLIUS.",
+   "begin": 615.8,
+   "end": 617.488254,
+   "synced": false
+  }
+ ]
+}

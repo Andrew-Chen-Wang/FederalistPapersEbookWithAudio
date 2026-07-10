@@ -1,0 +1,1004 @@
+{
+ "paper": 15,
+ "duration": 1001.035465,
+ "match_ratio": 0.9861,
+ "heading": [
+  "The Insufficiency of the Present Confederation to Preserve the Union",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York.",
+   "begin": 0.0,
+   "end": 13.679,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IN THE course of the preceding papers, I have endeavored, my fellow-citizens, to place before you, in a clear and convincing light, the importance of Union to your political safety and happiness.",
+   "begin": 13.679,
+   "end": 24.56,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "I have unfolded to you a complication of dangers to which you would be exposed, should you permit that sacred knot which binds the people of America together be severed or dissolved by ambition or by avarice, by jealousy or by misrepresentation.",
+   "begin": 24.56,
+   "end": 38.32,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "In the sequel of the inquiry through which I propose to accompany you, the truths intended to be inculcated will receive further confirmation from facts and arguments hitherto unnoticed.",
+   "begin": 38.32,
+   "end": 48.32,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "If the road over which you will still have to pass should in some places appear to you tedious or irksome, you will recollect that you are in quest of information on a subject the most momentous which can engage the attention of a free people, that the field through which you have to travel is in itself spacious, and that the difficulties of the journey have been unnecessarily increased by the mazes with which sophistry has beset the way.",
+   "begin": 48.32,
+   "end": 72.64,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "It will be my aim to remove the obstacles from your progress in as compendious a manner as it can be done, without sacrificing utility to despatch.",
+   "begin": 72.64,
+   "end": 81.28,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "In pursuance of the plan which I have laid down for the discussion of the subject, the point next in order to be examined is the \"insufficiency of the present Confederation to the preservation of the Union.'' It may perhaps be asked what need there is of reasoning or proof to illustrate a position which is not either controverted or doubted, to which the understandings and feelings of all classes of men assent, and which in substance is admitted by the opponents as well as by the friends of the new Constitution.",
+   "begin": 81.28,
+   "end": 109.6,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "It must in truth be acknowledged that, however these may differ in other respects, they in general appear to harmonize in this sentiment, at least, that there are material imperfections in our national system, and that something is necessary to be done to rescue us from impending anarchy.",
+   "begin": 109.6,
+   "end": 125.68,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "The facts that support this opinion are no longer objects of speculation.",
+   "begin": 125.68,
+   "end": 129.52,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "They have forced themselves upon the sensibility of the people at large, and have at length extorted from those, whose mistaken policy has had the principal share in precipitating the extremity at which we are arrived, a reluctant confession of the reality of those defects in the scheme of our federal government, which have been long pointed out and regretted by the intelligent friends of the Union.",
+   "begin": 129.52,
+   "end": 149.28,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "We may indeed with propriety be said to have reached almost the last stage of national humiliation.",
+   "begin": 149.28,
+   "end": 154.72,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "There is scarcely anything that can wound the pride or degrade the character of an independent nation which we do not experience.",
+   "begin": 154.72,
+   "end": 161.519,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "Are there engagements to the performance of which we are held by every tie respectable among men?",
+   "begin": 161.519,
+   "end": 166.4,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "These are the subjects of constant and unblushing violation.",
+   "begin": 166.4,
+   "end": 170.08,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "Do we owe debts to foreigners and to our own citizens contracted in a time of imminent peril for the preservation of our political existence?",
+   "begin": 170.08,
+   "end": 177.68,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "These remain without any proper or satisfactory provision for their discharge.",
+   "begin": 177.68,
+   "end": 181.84,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "Have we valuable territories and important posts in the possession of a foreign power which, by express stipulations, ought long since to have been surrendered?",
+   "begin": 181.84,
+   "end": 190.8,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "These are still retained, to the prejudice of our interests, not less than of our rights.",
+   "begin": 190.8,
+   "end": 195.84,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Are we in a condition to resent or to repel the aggression?",
+   "begin": 195.84,
+   "end": 199.04,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "We have neither troops, nor treasury, nor government.1 Are we even in a condition to remonstrate with dignity?",
+   "begin": 199.04,
+   "end": 206.56,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "The just imputations on our own faith, in respect to the same treaty, ought first to be removed.",
+   "begin": 206.56,
+   "end": 211.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "Are we entitled by nature and compact to a free participation in the navigation of the Mississippi?",
+   "begin": 211.92,
+   "end": 217.04,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "Spain excludes us from it.",
+   "begin": 217.04,
+   "end": 218.959,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "Is public credit an indispensable resource in time of public danger?",
+   "begin": 218.959,
+   "end": 222.56,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "We seem to have abandoned its cause as desperate and irretrievable.",
+   "begin": 222.56,
+   "end": 226.959,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "Is commerce of importance to national wealth?",
+   "begin": 226.959,
+   "end": 229.519,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "Ours is at the lowest point of declension.",
+   "begin": 229.519,
+   "end": 232.08,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 3,
+   "text": "Is respectability in the eyes of foreign powers a safeguard against foreign encroachments?",
+   "begin": 232.08,
+   "end": 236.56,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 3,
+   "text": "The imbecility of our government even forbids them to treat with us.",
+   "begin": 236.56,
+   "end": 240.799,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 3,
+   "text": "Our ambassadors abroad are the mere pageants of mimic sovereignty.",
+   "begin": 240.799,
+   "end": 244.64,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 3,
+   "text": "Is a violent and unnatural decrease in the value of land a symptom of national distress?",
+   "begin": 244.64,
+   "end": 249.68,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 3,
+   "text": "The price of improved land in most parts of the country is much lower than can be accounted for by the quantity of waste land at market, and can only be fully explained by that want of private and public confidence, which are so alarmingly prevalent among all ranks, and which have a direct tendency to depreciate property of every kind.",
+   "begin": 249.68,
+   "end": 267.12,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 3,
+   "text": "Is private credit the friend and patron of industry?",
+   "begin": 267.12,
+   "end": 270.4,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 3,
+   "text": "That most useful kind which relates to borrowing and lending is reduced within the narrowest limits, and this still more from an opinion of insecurity than from the scarcity of money.",
+   "begin": 270.4,
+   "end": 280.56,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 3,
+   "text": "To shorten an enumeration of particulars which can afford neither pleasure nor instruction, it may in general be demanded, what indication is there of national disorder, poverty, and insignificance that could befall a community so peculiarly blessed with natural advantages as we are, which does not form a part of the dark catalogue of our public misfortunes?",
+   "begin": 280.56,
+   "end": 300.32,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "This is the melancholy situation to which we have been brought by those very maxims and councils which would now deter us from adopting the proposed Constitution;",
+   "begin": 300.32,
+   "end": 308.96,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "and which, not content with having conducted us to the brink of a precipice, seem resolved to plunge us into the abyss that awaits us below.",
+   "begin": 308.96,
+   "end": 316.56,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 4,
+   "text": "Here, my countrymen, impelled by every motive that ought to influence an enlightened people, let us make a firm stand for our safety, our tranquillity, our dignity, our reputation.",
+   "begin": 316.56,
+   "end": 326.8,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 4,
+   "text": "Let us at last break the fatal charm which has too long seduced us from the paths of felicity and prosperity.",
+   "begin": 326.8,
+   "end": 333.52,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "It is true, as has been before observed that facts, too stubborn to be resisted, have produced a species of general assent to the abstract proposition that there exist material defects in our national system;",
+   "begin": 333.52,
+   "end": 345.28,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "but the usefulness of the concession, on the part of the old adversaries of federal measures, is destroyed by a strenuous opposition to a remedy, upon the only principles that can give it a chance of success.",
+   "begin": 345.28,
+   "end": 356.639,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "While they admit that the government of the United States is destitute of energy, they contend against conferring upon it those powers which are requisite to supply that energy.",
+   "begin": 356.639,
+   "end": 365.759,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "They seem still to aim at things repugnant and irreconcilable;",
+   "begin": 365.759,
+   "end": 369.68,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "at an augmentation of federal authority, without a diminution of State authority;",
+   "begin": 369.68,
+   "end": 374.08,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "at sovereignty in the Union, and complete independence in the members.",
+   "begin": 374.08,
+   "end": 377.919,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "They still, in fine, seem to cherish with blind devotion the political monster of an imperium in imperio.",
+   "begin": 377.919,
+   "end": 384.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "This renders a full display of the principal defects of the Confederation necessary, in order to show that the evils we experience do not proceed from minute or partial imperfections, but from fundamental errors in the structure of the building, which cannot be amended otherwise than by an alteration in the first principles and main pillars of the fabric.",
+   "begin": 384.56,
+   "end": 403.199,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "The great and radical vice in the construction of the existing Confederation is in the principle of LEGISLATION for STATES or GOVERNMENTS, in their CORPORATE or COLLECTIVE CAPACITIES, and as contradistinguished from the INDIVIDUALS of which they consist.",
+   "begin": 403.199,
+   "end": 417.36,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "Though this principle does not run through all the powers delegated to the Union, yet it pervades and governs those on which the efficacy of the rest depends.",
+   "begin": 417.36,
+   "end": 425.84,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "Except as to the rule of appointment, the United States has an indefinite discretion to make requisitions for men and money;",
+   "begin": 425.84,
+   "end": 432.479,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "but they have no authority to raise either, by regulations extending to the individual citizens of America.",
+   "begin": 432.479,
+   "end": 438.479,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "The consequence of this is, that though in theory their resolutions concerning those objects are laws, constitutionally binding on the members of the Union, yet in practice they are mere recommendations which the States observe or disregard at their option.",
+   "begin": 438.479,
+   "end": 451.759,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 7,
+   "text": "It is a singular instance of the capriciousness of the human mind, that after all the admonitions we have had from experience on this head, there should still be found men who object to the new Constitution, for deviating from a principle which has been found the bane of the old, and which is in itself evidently incompatible with the idea of GOVERNMENT;",
+   "begin": 451.759,
+   "end": 470.0,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "a principle, in short, which, if it is to be executed at all, must substitute the violent and sanguinary agency of the sword to the mild influence of the magistracy.",
+   "begin": 470.0,
+   "end": 480.0,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 8,
+   "text": "There is nothing absurd or impracticable in the idea of a league or alliance between independent nations for certain defined purposes precisely stated in a treaty regulating all the details of time, place, circumstance, and quantity;",
+   "begin": 480.0,
+   "end": 492.4,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 8,
+   "text": "leaving nothing to future discretion;",
+   "begin": 492.4,
+   "end": 494.24,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 8,
+   "text": "and depending for its execution on the good faith of the parties.",
+   "begin": 494.24,
+   "end": 497.84,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 8,
+   "text": "Compacts of this kind exist among all civilized nations, subject to the usual vicissitudes of peace and war, of observance and non-observance, as the interests or passions of the contracting powers dictate.",
+   "begin": 497.84,
+   "end": 509.84,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 8,
+   "text": "In the early part of the present century there was an epidemical rage in Europe for this species of compacts, from which the politicians of the times fondly hoped for benefits which were never realized.",
+   "begin": 509.84,
+   "end": 521.039,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 8,
+   "text": "With a view to establishing the equilibrium of power and the peace of that part of the world, all the resources of negotiation were exhausted, and triple and quadruple alliances were formed;",
+   "begin": 521.039,
+   "end": 531.279,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "but they were scarcely formed before they were broken, giving an instructive but afflicting lesson to mankind, how little dependence is to be placed on treaties which have no other sanction than the obligations of good faith, and which oppose general considerations of peace and justice to the impulse of any immediate interest or passion.",
+   "begin": 531.279,
+   "end": 548.8,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 9,
+   "text": "If the particular States in this country are disposed to stand in a similar relation to each other, and to drop the project of a general DISCRETIONARY SUPERINTENDENCE, the scheme would indeed be pernicious, and would entail upon us all the mischiefs which have been enumerated under the first head;",
+   "begin": 548.8,
+   "end": 564.16,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 9,
+   "text": "but it would have the merit of being, at least, consistent and practicable Abandoning all views towards a confederate government, this would bring us to a simple alliance offensive and defensive;",
+   "begin": 564.16,
+   "end": 574.0,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 9,
+   "text": "and would place us in a situation to be alternate friends and enemies of each other, as our mutual jealousies and rivalships, nourished by the intrigues of foreign nations, should prescribe to us.",
+   "begin": 574.0,
+   "end": 584.0,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 10,
+   "text": "But if we are unwilling to be placed in this perilous situation;",
+   "begin": 584.0,
+   "end": 587.519,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 10,
+   "text": "if we still will adhere to the design of a national government, or, which is the same thing, of a superintending power, under the direction of a common council, we must resolve to incorporate into our plan those ingredients which may be considered as forming the characteristic difference between a league and a government;",
+   "begin": 587.519,
+   "end": 604.16,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 10,
+   "text": "we must extend the authority of the Union to the persons of the citizens, --the only proper objects of government.",
+   "begin": 604.16,
+   "end": 610.8,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "Government implies the power of making laws.",
+   "begin": 610.8,
+   "end": 614.0,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 11,
+   "text": "It is essential to the idea of a law, that it be attended with a sanction;",
+   "begin": 614.0,
+   "end": 617.76,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 11,
+   "text": "or, in other words, a penalty or punishment for disobedience.",
+   "begin": 617.76,
+   "end": 621.279,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 11,
+   "text": "If there be no penalty annexed to disobedience, the resolutions or commands which pretend to be laws will, in fact, amount to nothing more than advice or recommendation.",
+   "begin": 621.279,
+   "end": 630.8,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 11,
+   "text": "This penalty, whatever it may be, can only be inflicted in two ways:",
+   "begin": 630.8,
+   "end": 635.12,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 11,
+   "text": "by the agency of the courts and ministers of justice, or by military force;",
+   "begin": 635.12,
+   "end": 639.36,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 11,
+   "text": "by the COERCION of the magistracy, or by the COERCION of arms.",
+   "begin": 639.36,
+   "end": 643.279,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 11,
+   "text": "The first kind can evidently apply only to men;",
+   "begin": 643.279,
+   "end": 646.079,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 11,
+   "text": "the last kind must of necessity, be employed against bodies politic, or communities, or States.",
+   "begin": 646.079,
+   "end": 652.24,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 11,
+   "text": "It is evident that there is no process of a court by which the observance of the laws can, in the last resort, be enforced.",
+   "begin": 652.24,
+   "end": 658.24,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 11,
+   "text": "Sentences may be denounced against them for violations of their duty;",
+   "begin": 658.24,
+   "end": 661.6,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 11,
+   "text": "but these sentences can only be carried into execution by the sword.",
+   "begin": 661.6,
+   "end": 665.519,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 11,
+   "text": "In an association where the general authority is confined to the collective bodies of the communities, that compose it, every breach of the laws must involve a state of war;",
+   "begin": 665.519,
+   "end": 674.32,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 11,
+   "text": "and military execution must become the only instrument of civil obedience.",
+   "begin": 674.32,
+   "end": 678.56,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 11,
+   "text": "Such a state of things can certainly not deserve the name of government, nor would any prudent man choose to commit his happiness to it.",
+   "begin": 678.56,
+   "end": 686.24,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 12,
+   "text": "There was a time when we were told that breaches, by the States, of the regulations of the federal authority were not to be expected;",
+   "begin": 686.24,
+   "end": 692.8,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 12,
+   "text": "that a sense of common interest would preside over the conduct of the respective members, and would beget a full compliance with all the constitutional requisitions of the Union.",
+   "begin": 692.8,
+   "end": 702.0,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 12,
+   "text": "This language, at the present day, would appear as wild as a great part of what we now hear from the same quarter will be thought, when we shall have received further lessons from that best oracle of wisdom, experience.",
+   "begin": 702.0,
+   "end": 713.12,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 12,
+   "text": "It at all times betrayed an ignorance of the true springs by which human conduct is actuated, and belied the original inducements to the establishment of civil power.",
+   "begin": 713.12,
+   "end": 722.24,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 12,
+   "text": "Why has government been instituted at all?",
+   "begin": 722.24,
+   "end": 724.639,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 12,
+   "text": "Because the passions of men will not conform to the dictates of reason and justice, without constraint.",
+   "begin": 724.639,
+   "end": 730.16,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 12,
+   "text": "Has it been found that bodies of men act with more rectitude or greater disinterestedness than individuals?",
+   "begin": 730.16,
+   "end": 736.16,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 12,
+   "text": "The contrary of this has been inferred by all accurate observers of the conduct of mankind;",
+   "begin": 736.16,
+   "end": 741.2,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 12,
+   "text": "and the inference is founded upon obvious reasons.",
+   "begin": 741.2,
+   "end": 744.24,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 12,
+   "text": "Regard to reputation has a less active influence, when the infamy of a bad action is to be divided among a number than when it is to fall singly upon one.",
+   "begin": 744.24,
+   "end": 753.12,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 12,
+   "text": "A spirit of faction, which is apt to mingle its poison in the deliberations of all bodies of men, will often hurry the persons of whom they are composed into improprieties and excesses, for which they would blush in a private capacity.",
+   "begin": 753.12,
+   "end": 765.92,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 13,
+   "text": "In addition to all this, there is, in the nature of sovereign power, an impatience of control, that disposes those who are invested with the exercise of it, to look with an evil eye upon all external attempts to restrain or direct its operations.",
+   "begin": 765.92,
+   "end": 779.839,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 13,
+   "text": "From this spirit it happens, that in every political association which is formed upon the principle of uniting in a common interest a number of lesser sovereignties, there will be found a kind of eccentric tendency in the subordinate or inferior orbs, by the operation of which there will be a perpetual effort in each to fly off from the common centre.",
+   "begin": 779.839,
+   "end": 798.079,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 13,
+   "text": "This tendency is not difficult to be accounted for.",
+   "begin": 798.079,
+   "end": 800.959,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 13,
+   "text": "It has its origin in the love of power.",
+   "begin": 800.959,
+   "end": 803.36,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 13,
+   "text": "Power controlled or abridged is almost always the rival and enemy of that power by which it is controlled or abridged.",
+   "begin": 803.36,
+   "end": 810.079,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 13,
+   "text": "This simple proposition will teach us how little reason there is to expect, that the persons intrusted with the administration of the affairs of the particular members of a confederacy will at all times be ready, with perfect good-humor, and an unbiased regard to the public weal, to execute the resolutions or decrees of the general authority.",
+   "begin": 810.079,
+   "end": 828.0,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 13,
+   "text": "The reverse of this results from the constitution of human nature.",
+   "begin": 828.0,
+   "end": 832.079,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 14,
+   "text": "If, therefore, the measures of the Confederacy cannot be executed without the intervention of the particular administrations, there will be little prospect of their being executed at all.",
+   "begin": 832.079,
+   "end": 841.44,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 14,
+   "text": "The rulers of the respective members, whether they have a constitutional right to do it or not, will undertake to judge of the propriety of the measures themselves.",
+   "begin": 841.44,
+   "end": 849.519,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 14,
+   "text": "They will consider the conformity of the thing proposed or required to their immediate interests or aims;",
+   "begin": 849.519,
+   "end": 854.72,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 14,
+   "text": "the momentary conveniences or inconveniences that would attend its adoption.",
+   "begin": 854.72,
+   "end": 859.04,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 14,
+   "text": "All this will be done;",
+   "begin": 859.04,
+   "end": 860.399,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 14,
+   "text": "and in a spirit of interested and suspicious scrutiny, without that knowledge of national circumstances and reasons of state, which is essential to a right judgment, and with that strong predilection in favor of local objects, which can hardly fail to mislead the decision.",
+   "begin": 860.399,
+   "end": 874.48,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 14,
+   "text": "The same process must be repeated in every member of which the body is constituted;",
+   "begin": 874.48,
+   "end": 878.88,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 14,
+   "text": "and the execution of the plans, framed by the councils of the whole, will always fluctuate on the discretion of the ill-informed and prejudiced opinion of every part.",
+   "begin": 878.88,
+   "end": 887.68,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 14,
+   "text": "Those who have been conversant in the proceedings of popular assemblies;",
+   "begin": 887.68,
+   "end": 891.12,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 14,
+   "text": "who have seen how difficult it often is, where there is no exterior pressure of circumstances, to bring them to harmonious resolutions on important points, will readily conceive how impossible it must be to induce a number of such assemblies, deliberating at a distance from each other, at different times, and under different impressions, long to co-operate in the same views and pursuits.",
+   "begin": 891.12,
+   "end": 911.44,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 15,
+   "text": "In our case, the concurrence of thirteen distinct sovereign wills is requisite, under the Confederation, to the complete execution of every important measure that proceeds from the Union.",
+   "begin": 911.44,
+   "end": 921.6,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 15,
+   "text": "It has happened as was to have been foreseen.",
+   "begin": 921.6,
+   "end": 924.0,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 15,
+   "text": "The measures of the Union have not been executed;",
+   "begin": 924.0,
+   "end": 926.48,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 15,
+   "text": "the delinquencies of the States have, step by step, matured themselves to an extreme, which has, at length, arrested all the wheels of the national government, and brought them to an awful stand.",
+   "begin": 926.48,
+   "end": 936.88,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 15,
+   "text": "Congress at this time scarcely possess the means of keeping up the forms of administration, till the States can have time to agree upon a more substantial substitute for the present shadow of a federal government.",
+   "begin": 936.88,
+   "end": 947.199,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 15,
+   "text": "Things did not come to this desperate extremity at once.",
+   "begin": 947.199,
+   "end": 950.24,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 15,
+   "text": "The causes which have been specified produced at first only unequal and disproportionate degrees of compliance with the requisitions of the Union.",
+   "begin": 950.24,
+   "end": 957.519,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 15,
+   "text": "The greater deficiencies of some States furnished the pretext of example and the temptation of interest to the complying, or to the least delinquent States.",
+   "begin": 957.519,
+   "end": 966.24,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 15,
+   "text": "Why should we do more in proportion than those who are embarked with us in the same political voyage?",
+   "begin": 966.24,
+   "end": 971.6,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 15,
+   "text": "Why should we consent to bear more than our proper share of the common burden?",
+   "begin": 971.6,
+   "end": 975.519,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 15,
+   "text": "These were suggestions which human selfishness could not withstand, and which even speculative men, who looked forward to remote consequences, could not, without hesitation, combat.",
+   "begin": 975.519,
+   "end": 985.92,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 15,
+   "text": "Each State, yielding to the persuasive voice of immediate interest or convenience, has successively withdrawn its support, till the frail and tottering edifice seems ready to fall upon our heads, and to crush us beneath its ruins.",
+   "begin": 985.92,
+   "end": 999.72,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 16,
+   "text": "PUBLIUS.",
+   "begin": 999.72,
+   "end": 1000.72,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 17,
+   "text": "1 \"I mean for the Union.''",
+   "begin": 1000.72,
+   "end": 1001.035465,
+   "synced": false
+  }
+ ]
+}

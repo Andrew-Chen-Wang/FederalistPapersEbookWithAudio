@@ -1,0 +1,851 @@
+{
+ "paper": 62,
+ "duration": 786.622404,
+ "match_ratio": 0.9924,
+ "heading": [
+  "The Senate",
+  "For the Independent Journal."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 10.559,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "HAVING examined the constitution of the House of Representatives, and answered such of the objections against it as seemed to merit notice, I enter next on the examination of the Senate.",
+   "begin": 10.559,
+   "end": 21.199,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "The heads into which this member of the government may be considered are:",
+   "begin": 21.199,
+   "end": 25.199,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "The qualification of senators;",
+   "begin": 25.199,
+   "end": 27.92,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "The appointment of them by the State legislatures;",
+   "begin": 27.92,
+   "end": 31.599,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The equality of representation in the Senate;",
+   "begin": 31.599,
+   "end": 35.2,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "The number of senators, and the term for which they are to be elected;",
+   "begin": 35.2,
+   "end": 39.68,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "The powers vested in the Senate.",
+   "begin": 39.68,
+   "end": 43.44,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "The qualifications proposed for senators, as distinguished from those of representatives, consist in a more advanced age and a longer period of citizenship.",
+   "begin": 43.44,
+   "end": 53.039,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "A senator must be thirty years of age at least;",
+   "begin": 53.039,
+   "end": 55.68,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "as a representative must be twenty-five.",
+   "begin": 55.68,
+   "end": 58.16,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "And the former must have been a citizen nine years;",
+   "begin": 58.16,
+   "end": 60.879,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "as seven years are required for the latter.",
+   "begin": 60.879,
+   "end": 63.52,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "The propriety of these distinctions is explained by the nature of the senatorial trust, which, requiring greater extent of information and tability of character, requires at the same time that the senator should have reached a period of life most likely to supply these advantages;",
+   "begin": 63.52,
+   "end": 78.4,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "and which, participating immediately in transactions with foreign nations, ought to be exercised by none who are not thoroughly weaned from the prepossessions and habits incident to foreign birth and education.",
+   "begin": 78.4,
+   "end": 90.079,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "The term of nine years appears to be a prudent mediocrity between a total exclusion of adopted citizens, whose merits and talents may claim a share in the public confidence, and an indiscriminate and hasty admission of them, which might create a channel for foreign influence on the national councils.",
+   "begin": 90.079,
+   "end": 107.04,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "It is equally unnecessary to dilate on the appointment of senators by the State legislatures.",
+   "begin": 107.04,
+   "end": 112.479,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "Among the various modes which might have been devised for constituting this branch of the government, that which has been proposed by the convention is probably the most congenial with the public opinion.",
+   "begin": 112.479,
+   "end": 122.88,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "It is recommended by the double advantage of favoring a select appointment, and of giving to the State governments such an agency in the formation of the federal government as must secure the authority of the former, and may form a convenient link between the two systems.",
+   "begin": 122.88,
+   "end": 138.4,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "The equality of representation in the Senate is another point, which, being evidently the result of compromise between the opposite pretensions of the large and the small States, does not call for much discussion.",
+   "begin": 138.4,
+   "end": 149.44,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "If indeed it be right, that among a people thoroughly incorporated into one nation, every district ought to have a PROPORTIONAL share in the government, and that among independent and sovereign States, bound together by a simple league, the parties, however unequal in size, ought to have an EQUAL share in the common councils, it does not appear to be without some reason that in a compound republic, partaking both of the national and federal character, the government ought to be founded on a mixture of the principles of proportional and equal representation.",
+   "begin": 149.44,
+   "end": 177.44,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "But it is superfluous to try, by the standard of theory, a part of the Constitution which is allowed on all hands to be the result, not of theory, but \"of a spirit of amity, and that mutual deference and concession which the peculiarity of our political situation rendered indispensable.'' A common government, with powers equal to its objects, is called for by the voice, and still more loudly by the political situation, of America.",
+   "begin": 177.44,
+   "end": 202.4,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "A government founded on principles more consonant to the wishes of the larger States, is not likely to be obtained from the smaller States.",
+   "begin": 202.4,
+   "end": 209.44,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "The only option, then, for the former, lies between the proposed government and a government still more objectionable.",
+   "begin": 209.44,
+   "end": 216.08,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "Under this alternative, the advice of prudence must be to embrace the lesser evil;",
+   "begin": 216.08,
+   "end": 220.72,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "and, instead of indulging a fruitless anticipation of the possible mischiefs which may ensue, to contemplate rather the advantageous consequences which may qualify the sacrifice.",
+   "begin": 220.72,
+   "end": 230.799,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "In this spirit it may be remarked, that the equal vote allowed to each State is at once a constitutional recognition of the portion of sovereignty remaining in the individual States, and an instrument for preserving that residuary sovereignty.",
+   "begin": 230.799,
+   "end": 244.08,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "So far the equality ought to be no less acceptable to the large than to the small States;",
+   "begin": 244.08,
+   "end": 249.04,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "since they are not less solicitous to guard, by every possible expedient, against an improper consolidation of the States into one simple republic.",
+   "begin": 249.04,
+   "end": 257.6,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "Another advantage accruing from this ingredient in the constitution of the Senate is, the additional impediment it must prove against improper acts of legislation.",
+   "begin": 257.6,
+   "end": 266.72,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "No law or resolution can now be passed without the concurrence, first, of a majority of the people, and then, of a majority of the States.",
+   "begin": 266.72,
+   "end": 274.88,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "It must be acknowledged that this complicated check on legislation may in some instances be injurious as well as beneficial;",
+   "begin": 274.88,
+   "end": 281.6,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "and that the peculiar defense which it involves in favor of the smaller States, would be more rational, if any interests common to them, and distinct from those of the other States, would otherwise be exposed to peculiar danger.",
+   "begin": 281.6,
+   "end": 293.28,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "But as the larger States will always be able, by their power over the supplies, to defeat unreasonable exertions of this prerogative of the lesser States, and as the faculty and excess of law-making seem to be the diseases to which our governments are most liable, it is not impossible that this part of the Constitution may be more convenient in practice than it appears to many in contemplation.",
+   "begin": 293.28,
+   "end": 317.28,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "The number of senators, and the duration of their appointment, come next to be considered.",
+   "begin": 317.28,
+   "end": 322.479,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "In order to form an accurate judgment on both of these points, it will be proper to inquire into the purposes which are to be answered by a senate;",
+   "begin": 322.479,
+   "end": 329.84,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "and in order to ascertain these, it will be necessary to review the inconveniences which a republic must suffer from the want of such an institution.",
+   "begin": 329.84,
+   "end": 338.32,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 9,
+   "text": "First.",
+   "begin": 338.32,
+   "end": 339.28,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 9,
+   "text": "It is a misfortune incident to republican government, though in a less degree than to other governments, that those who administer it may forget their obligations to their constituents, and prove unfaithful to their important trust.",
+   "begin": 339.28,
+   "end": 351.52,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "In this point of view, a senate, as a second branch of the legislative assembly, distinct from, and dividing the power with, a first, must be in all cases a salutary check on the government.",
+   "begin": 351.52,
+   "end": 361.919,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "It doubles the security to the people, by requiring the concurrence of two distinct bodies in schemes of usurpation or perfidy, where the ambition or corruption of one would otherwise be sufficient.",
+   "begin": 361.919,
+   "end": 372.56,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "This is a precaution founded on such clear principles, and now so well understood in the United States, that it would be more than superfluous to enlarge on it.",
+   "begin": 372.56,
+   "end": 381.039,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "I will barely remark, that as the improbability of sinister combinations will be in proportion to the dissimilarity in the genius of the two bodies, it must be politic to distinguish them from each other by every circumstance which will consist with a due harmony in all proper measures, and with the genuine principles of republican government.",
+   "begin": 381.039,
+   "end": 399.759,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 10,
+   "text": "Secondly.",
+   "begin": 399.759,
+   "end": 400.72,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 10,
+   "text": "The necessity of a senate is not less indicated by the propensity of all single and numerous assemblies to yield to the impulse of sudden and violent passions, and to be seduced by factious leaders into intemperate and pernicious resolutions.",
+   "begin": 400.72,
+   "end": 413.919,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "Examples on this subject might be cited without number;",
+   "begin": 413.919,
+   "end": 416.72,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "and from proceedings within the United States, as well as from the history of other nations.",
+   "begin": 416.72,
+   "end": 421.039,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "But a position that will not be contradicted, need not be proved.",
+   "begin": 421.039,
+   "end": 424.8,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "All that need be remarked is, that a body which is to correct this infirmity ought itself to be free from it, and consequently ought to be less numerous.",
+   "begin": 424.8,
+   "end": 432.88,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 10,
+   "text": "It ought, moreover, to possess great firmness, and consequently ought to hold its authority by a tenure of considerable duration.",
+   "begin": 432.88,
+   "end": 440.639,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 11,
+   "text": "Thirdly.",
+   "begin": 440.639,
+   "end": 441.36,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 11,
+   "text": "Another defect to be supplied by a senate lies in a want of due acquaintance with the objects and principles of legislation.",
+   "begin": 441.36,
+   "end": 448.319,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 11,
+   "text": "It is not possible that an assembly of men called for the most part from pursuits of a private nature, continued in appointment for a short time, and led by no permanent motive to devote the intervals of public occupation to a study of the laws, the affairs, and the comprehensive interests of their country, should, if left wholly to themselves, escape a variety of important errors in the exercise of their legislative trust.",
+   "begin": 448.319,
+   "end": 470.56,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 11,
+   "text": "It may be affirmed, on the best grounds, that no small share of the present embarrassments of America is to be charged on the blunders of our governments;",
+   "begin": 470.56,
+   "end": 478.16,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 11,
+   "text": "and that these have proceeded from the heads rather than the hearts of most of the authors of them.",
+   "begin": 478.16,
+   "end": 483.28,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 11,
+   "text": "What indeed are all the repealing, explaining, and amending laws, which fill and disgrace our voluminous codes, but so many monuments of deficient wisdom;",
+   "begin": 483.28,
+   "end": 491.84,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 11,
+   "text": "so many impeachments exhibited by each succeeding against each preceding session;",
+   "begin": 491.84,
+   "end": 496.479,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 11,
+   "text": "so many admonitions to the people, of the value of those aids which may be expected from a well-constituted senate?",
+   "begin": 496.479,
+   "end": 503.12,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 12,
+   "text": "A good government implies two things:",
+   "begin": 503.12,
+   "end": 505.44,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 12,
+   "text": "first, fidelity to the object of government, which is the happiness of the people;",
+   "begin": 505.44,
+   "end": 510.08,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 12,
+   "text": "secondly, a knowledge of the means by which that object can be best attained.",
+   "begin": 510.08,
+   "end": 514.479,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 12,
+   "text": "Some governments are deficient in both these qualities;",
+   "begin": 514.479,
+   "end": 517.2,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 12,
+   "text": "most governments are deficient in the first.",
+   "begin": 517.2,
+   "end": 519.68,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 12,
+   "text": "I scruple not to assert, that in American governments too little attention has been paid to the last.",
+   "begin": 519.68,
+   "end": 525.12,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 12,
+   "text": "The federal Constitution avoids this error;",
+   "begin": 525.12,
+   "end": 527.36,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 12,
+   "text": "and what merits particular notice, it provides for the last in a mode which increases the security for the first.",
+   "begin": 527.36,
+   "end": 533.92,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 13,
+   "text": "Fourthly.",
+   "begin": 533.92,
+   "end": 534.88,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 13,
+   "text": "The mutability in the public councils arising from a rapid succession of new members, however qualified they may be, points out, in the strongest manner, the necessity of some stable institution in the government.",
+   "begin": 534.88,
+   "end": 546.24,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 13,
+   "text": "Every new election in the States is found to change one half of the representatives.",
+   "begin": 546.24,
+   "end": 550.72,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 13,
+   "text": "From this change of men must proceed a change of opinions;",
+   "begin": 550.72,
+   "end": 553.76,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 13,
+   "text": "and from a change of opinions, a change of measures.",
+   "begin": 553.76,
+   "end": 556.399,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 13,
+   "text": "But a continual change even of good measures is inconsistent with every rule of prudence and every prospect of success.",
+   "begin": 556.399,
+   "end": 563.44,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 13,
+   "text": "The remark is verified in private life, and becomes more just, as well as more important, in national transactions.",
+   "begin": 563.44,
+   "end": 571.6,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 14,
+   "text": "To trace the mischievous effects of a mutable government would fill a volume.",
+   "begin": 571.6,
+   "end": 575.36,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 14,
+   "text": "I will hint a few only, each of which will be perceived to be a source of innumerable others.",
+   "begin": 575.36,
+   "end": 580.72,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 15,
+   "text": "In the first place, it forfeits the respect and confidence of other nations, and all the advantages connected with national character.",
+   "begin": 580.72,
+   "end": 588.16,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 15,
+   "text": "An individual who is observed to be inconstant to his plans, or perhaps to carry on his affairs without any plan at all, is marked at once, by all prudent people, as a speedy victim to his own unsteadiness and folly.",
+   "begin": 588.16,
+   "end": 600.56,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 15,
+   "text": "His more friendly neighbors may pity him, but all will decline to connect their fortunes with his;",
+   "begin": 600.56,
+   "end": 605.68,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 15,
+   "text": "and not a few will seize the opportunity of making their fortunes out of his.",
+   "begin": 605.68,
+   "end": 609.839,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 15,
+   "text": "One nation is to another what one individual is to another;",
+   "begin": 609.839,
+   "end": 613.2,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 15,
+   "text": "with this melancholy distinction perhaps, that the former, with fewer of the benevolent emotions than the latter, are under fewer restraints also from taking undue advantage from the indiscretions of each other.",
+   "begin": 613.2,
+   "end": 624.32,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 15,
+   "text": "Every nation, consequently, whose affairs betray a want of wisdom and stability, may calculate on every loss which can be sustained from the more systematic policy of their wiser neighbors.",
+   "begin": 624.32,
+   "end": 634.88,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 15,
+   "text": "But the best instruction on this subject is unhappily conveyed to America by the example of her own situation.",
+   "begin": 634.88,
+   "end": 641.279,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 15,
+   "text": "She finds that she is held in no respect by her friends;",
+   "begin": 641.279,
+   "end": 644.399,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 15,
+   "text": "that she is the derision of her enemies;",
+   "begin": 644.399,
+   "end": 646.24,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 15,
+   "text": "and that she is a prey to every nation which has an interest in speculating on her fluctuating councils and embarrassed affairs.",
+   "begin": 646.24,
+   "end": 653.12,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 16,
+   "text": "The internal effects of a mutable policy are still more calamitous.",
+   "begin": 653.12,
+   "end": 657.12,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 16,
+   "text": "It poisons the blessing of liberty itself.",
+   "begin": 657.12,
+   "end": 660.24,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 16,
+   "text": "It will be of little avail to the people, that the laws are made by men of their own choice, if the laws be so voluminous that they cannot be read, or so incoherent that they cannot be understood;",
+   "begin": 660.24,
+   "end": 669.92,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 16,
+   "text": "if they be repealed or revised before they are promulgated, or undergo such incessant changes that no man, who knows what the law is to-day, can guess what it will be to-morrow.",
+   "begin": 669.92,
+   "end": 679.68,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 16,
+   "text": "Law is defined to be a rule of action;",
+   "begin": 679.68,
+   "end": 681.76,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 16,
+   "text": "but how can that be a rule, which is little known, and less fixed?",
+   "begin": 681.76,
+   "end": 685.92,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 17,
+   "text": "Another effect of public instability is the unreasonable advantage it gives to the sagacious, the enterprising, and the moneyed few over the industrious and uniformed mass of the people.",
+   "begin": 685.92,
+   "end": 696.32,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 17,
+   "text": "Every new regulation concerning commerce or revenue, or in any way affecting the value of the different species of property, presents a new harvest to those who watch the change, and can trace its consequences;",
+   "begin": 696.32,
+   "end": 706.88,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 17,
+   "text": "a harvest, reared not by themselves, but by the toils and cares of the great body of their fellow-citizens.",
+   "begin": 706.88,
+   "end": 712.56,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 17,
+   "text": "This is a state of things in which it may be said with some truth that laws are made for the FEW, not for the MANY.",
+   "begin": 712.56,
+   "end": 719.44,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 18,
+   "text": "In another point of view, great injury results from an unstable government.",
+   "begin": 719.44,
+   "end": 723.839,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 18,
+   "text": "The want of confidence in the public councils damps every useful undertaking, the success and profit of which may depend on a continuance of existing arrangements.",
+   "begin": 723.839,
+   "end": 732.8,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 18,
+   "text": "What prudent merchant will hazard his fortunes in any new branch of commerce when he knows not but that his plans may be rendered unlawful before they can be executed?",
+   "begin": 732.8,
+   "end": 740.959,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 18,
+   "text": "What farmer or manufacturer will lay himself out for the encouragement given to any particular cultivation or establishment, when he can have no assurance that his preparatory labors and advances will not render him a victim to an inconstant government?",
+   "begin": 740.959,
+   "end": 753.519,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 18,
+   "text": "In a word, no great improvement or laudable enterprise can go forward which requires the auspices of a steady system of national policy.",
+   "begin": 753.519,
+   "end": 761.2,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 19,
+   "text": "But the most deplorable effect of all is that diminution of attachment and reverence which steals into the hearts of the people, towards a political system which betrays so many marks of infirmity, and disappoints so many of their flattering hopes.",
+   "begin": 761.2,
+   "end": 774.079,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 19,
+   "text": "No government, any more than an individual, will long be respected without being truly respectable;",
+   "begin": 774.079,
+   "end": 779.68,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 19,
+   "text": "nor be truly respectable, without possessing a certain portion of order and stability.",
+   "begin": 779.68,
+   "end": 785.44,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 20,
+   "text": "PUBLIUS.",
+   "begin": 785.44,
+   "end": 786.622404,
+   "synced": true
+  }
+ ]
+}

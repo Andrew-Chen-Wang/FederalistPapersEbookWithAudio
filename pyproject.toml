@@ -1,0 +1,14 @@
+[project]
+name = "federalistpapersebook"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ebooklib>=0.20",
+    "requests>=2.34.2",
+    "yt-dlp>=2026.7.4",
+]
+
+[dependency-groups]
+transcribe = []

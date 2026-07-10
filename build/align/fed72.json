@@ -1,0 +1,564 @@
+{
+ "paper": 72,
+ "duration": 624.66322,
+ "match_ratio": 0.9799,
+ "heading": [
+  "The Same Subject Continued, and Re-Eligibility of the Executive Considered",
+  "From the New York Packet.",
+  "Friday, March 21, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.72,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE administration of government, in its largest sense, comprehends all the operations of the body politic, whether legislative, executive, or judiciary;",
+   "begin": 16.72,
+   "end": 25.359,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "but in its most usual, and perhaps its most precise signification.",
+   "begin": 25.359,
+   "end": 28.88,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "it is limited to executive details, and falls peculiarly within the province of the executive department.",
+   "begin": 28.88,
+   "end": 34.559,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "The actual conduct of foreign negotiations, the preparatory plans of finance, the application and disbursement of the public moneys in conformity to the general appropriations of the legislature, the arrangement of the army and navy, the directions of the operations of war, these, and other matters of a like nature, constitute what seems to be most properly understood by the administration of government.",
+   "begin": 34.559,
+   "end": 56.239,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "The persons, therefore, to whose immediate management these different matters are committed, ought to be considered as the assistants or deputies of the chief magistrate, and on this account, they ought to derive their offices from his appointment, at least from his nomination, and ought to be subject to his superintendence.",
+   "begin": 56.239,
+   "end": 71.439,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "This view of the subject will at once suggest to us the intimate connection between the duration of the executive magistrate in office and the stability of the system of administration.",
+   "begin": 71.439,
+   "end": 80.64,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "To reverse and undo what has been done by a predecessor, is very often considered by a successor as the best proof he can give of his own capacity and desert;",
+   "begin": 80.64,
+   "end": 88.799,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "and in addition to this propensity, where the alteration has been the result of public choice, the person substituted is warranted in supposing that the dismission of his predecessor has proceeded from a dislike to his measures;",
+   "begin": 88.799,
+   "end": 100.24,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "and that the less he resembles him, the more he will recommend himself to the favor of his constituents.",
+   "begin": 100.24,
+   "end": 105.36,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "These considerations, and the influence of personal confidences and attachments, would be likely to induce every new President to promote a change of men to fill the subordinate stations;",
+   "begin": 105.36,
+   "end": 114.56,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 1,
+   "text": "and these causes together could not fail to occasion a disgraceful and ruinous mutability in the administration of the government.",
+   "begin": 114.56,
+   "end": 121.6,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "With a positive duration of considerable extent, I connect the circumstance of re-eligibility.",
+   "begin": 121.6,
+   "end": 127.28,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "The first is necessary to give to the officer himself the inclination and the resolution to act his part well, and to the community time and leisure to observe the tendency of his measures, and thence to form an experimental estimate of their merits.",
+   "begin": 127.28,
+   "end": 139.68,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "The last is necessary to enable the people, when they see reason to approve of his conduct, to continue him in his station, in order to prolong the utility of his talents and virtues, and to secure to the government the advantage of permanency in a wise system of administration.",
+   "begin": 139.68,
+   "end": 153.599,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "Nothing appears more plausible at first sight, nor more ill-founded upon close inspection, than a scheme which in relation to the present point has had some respectable advocates, I mean that of continuing the chief magistrate in office for a certain time, and then excluding him from it, either for a limited period or forever after.",
+   "begin": 153.599,
+   "end": 170.4,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "This exclusion, whether temporary or perpetual, would have nearly the same effects, and these effects would be for the most part rather pernicious than salutary.",
+   "begin": 170.4,
+   "end": 178.879,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "One ill effect of the exclusion would be a diminution of the inducements to good behavior.",
+   "begin": 178.879,
+   "end": 183.599,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "There are few men who would not feel much less zeal in the discharge of a duty when they were conscious that the advantages of the station with which it was connected must be relinquished at a determinate period, than when they were permitted to entertain a hope of OBTAINING, by MERITING, a continuance of them.",
+   "begin": 183.599,
+   "end": 198.72,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "This position will not be disputed so long as it is admitted that the desire of reward is one of the strongest incentives of human conduct;",
+   "begin": 198.72,
+   "end": 206.0,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "or that the best security for the fidelity of mankind is to make their interests coincide with their duty.",
+   "begin": 206.0,
+   "end": 212.0,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "Even the love of fame, the ruling passion of the noblest minds, which would prompt a man to plan and undertake extensive and arduous enterprises for the public benefit, requiring considerable time to mature and perfect them, if he could flatter himself with the prospect of being allowed to finish what he had begun, would, on the contrary, deter him from the undertaking, when he foresaw that he must quit the scene before he could accomplish the work, and must commit that, together with his own reputation, to hands which might be unequal or unfriendly to the task.",
+   "begin": 212.0,
+   "end": 238.799,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "The most to be expected from the generality of men, in such a situation, is the negative merit of not doing harm, instead of the positive merit of doing good.",
+   "begin": 238.799,
+   "end": 247.68,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "Another ill effect of the exclusion would be the temptation to sordid views, to peculation, and, in some instances, to usurpation.",
+   "begin": 247.68,
+   "end": 254.959,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "An avaricious man, who might happen to fill the office, looking forward to a time when he must at all events yield up the emoluments he enjoyed, would feel a propensity, not easy to be resisted by such a man, to make the best use of the opportunity he enjoyed while it lasted, and might not scruple to have recourse to the most corrupt expedients to make the harvest as abundant as it was transitory;",
+   "begin": 254.959,
+   "end": 275.199,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "though the same man, probably, with a different prospect before him, might content himself with the regular perquisites of his situation, and might even be unwilling to risk the consequences of an abuse of his opportunities.",
+   "begin": 275.199,
+   "end": 285.28,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "His avarice might be a guard upon his avarice.",
+   "begin": 285.28,
+   "end": 288.639,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "Add to this that the same man might be vain or ambitious, as well as avaricious.",
+   "begin": 288.639,
+   "end": 293.44,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "And if he could expect to prolong his honors by his good conduct, he might hesitate to sacrifice his appetite for them to his appetite for gain.",
+   "begin": 293.44,
+   "end": 300.8,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "But with the prospect before him of approaching an inevitable annihilation, his avarice would be likely to get the victory over his caution, his vanity, or his ambition.",
+   "begin": 300.8,
+   "end": 309.68,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "An ambitious man, too, when he found himself seated on the summit of his country's honors, when he looked forward to the time at which he must descend from the exalted eminence for ever, and reflected that no exertion of merit on his part could save him from the unwelcome reverse;",
+   "begin": 309.68,
+   "end": 323.28,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "such a man, in such a situation, would be much more violently tempted to embrace a favorable conjuncture for attempting the prolongation of his power, at every personal hazard, than if he had the probability of answering the same end by doing his duty.",
+   "begin": 323.28,
+   "end": 336.32,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "Would it promote the peace of the community, or the stability of the government to have half a dozen men who had had credit enough to be raised to the seat of the supreme magistracy, wandering among the people like discontented ghosts, and sighing for a place which they were destined never more to possess?",
+   "begin": 336.32,
+   "end": 350.479,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "A third ill effect of the exclusion would be, the depriving the community of the advantage of the experience gained by the chief magistrate in the exercise of his office.",
+   "begin": 350.479,
+   "end": 358.479,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "That experience is the parent of wisdom, is an adage the truth of which is recognized by the wisest as well as the simplest of mankind.",
+   "begin": 358.479,
+   "end": 365.84,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "What more desirable or more essential than this quality in the governors of nations?",
+   "begin": 365.84,
+   "end": 369.919,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "Where more desirable or more essential than in the first magistrate of a nation?",
+   "begin": 369.919,
+   "end": 374.24,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "Can it be wise to put this desirable and essential quality under the ban of the Constitution, and to declare that the moment it is acquired, its possessor shall be compelled to abandon the station in which it was acquired, and to which it is adapted?",
+   "begin": 374.24,
+   "end": 386.8,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "This, nevertheless, is the precise import of all those regulations which exclude men from serving their country, by the choice of their fellowcitizens, after they have by a course of service fitted themselves for doing it with a greater degree of utility.",
+   "begin": 386.8,
+   "end": 399.36,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "A fourth ill effect of the exclusion would be the banishing men from stations in which, in certain emergencies of the state, their presence might be of the greatest moment to the public interest or safety.",
+   "begin": 399.36,
+   "end": 409.28,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "There is no nation which has not, at one period or another, experienced an absolute necessity of the services of particular men in particular situations;",
+   "begin": 409.28,
+   "end": 417.36,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "perhaps it would not be too strong to say, to the preservation of its political existence.",
+   "begin": 417.36,
+   "end": 422.24,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "How unwise, therefore, must be every such self-denying ordinance as serves to prohibit a nation from making use of its own citizens in the manner best suited to its exigencies and circumstances!",
+   "begin": 422.24,
+   "end": 432.56,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "Without supposing the personal essentiality of the man, it is evident that a change of the chief magistrate, at the breaking out of a war, or at any similar crisis, for another, even of equal merit, would at all times be detrimental to the community, inasmuch as it would substitute inexperience to experience, and would tend to unhinge and set afloat the already settled train of the administration.",
+   "begin": 432.56,
+   "end": 453.599,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 10,
+   "text": "A fifth ill effect of the exclusion would be, that it would operate as a constitutional interdiction of stability in the administration.",
+   "begin": 453.599,
+   "end": 460.639,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "By NECESSITATING a change of men, in the first office of the nation, it would necessitate a mutability of measures.",
+   "begin": 460.639,
+   "end": 465.36,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "It is not generally to be expected, that men will vary and measures remain uniform.",
+   "begin": 465.36,
+   "end": 469.84,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "The contrary is the usual course of things.",
+   "begin": 469.84,
+   "end": 472.08,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "And we need not be apprehensive that there will be too much stability, while there is even the option of changing;",
+   "begin": 472.08,
+   "end": 477.12,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 10,
+   "text": "nor need we desire to prohibit the people from continuing their confidence where they think it may be safely placed, and where, by constancy on their part, they may obviate the fatal inconveniences of fluctuating councils and a variable policy.",
+   "begin": 477.12,
+   "end": 488.879,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 11,
+   "text": "These are some of the disadvantages which would flow from the principle of exclusion.",
+   "begin": 488.879,
+   "end": 493.12,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 11,
+   "text": "They apply most forcibly to the scheme of a perpetual exclusion;",
+   "begin": 493.12,
+   "end": 496.4,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 11,
+   "text": "but when we consider that even a partial exclusion would always render the readmission of the person a remote and precarious object, the observations which have been made will apply nearly as fully to one case as to the other.",
+   "begin": 496.4,
+   "end": 507.28,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 12,
+   "text": "What are the advantages promised to counterbalance these disadvantages?",
+   "begin": 507.28,
+   "end": 510.879,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 12,
+   "text": "They are represented to be:",
+   "begin": 510.879,
+   "end": 513.279,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 12,
+   "text": "1st, greater independence in the magistrate;",
+   "begin": 513.279,
+   "end": 516.08,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 12,
+   "text": "2d, greater security to the people.",
+   "begin": 516.08,
+   "end": 518.479,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 12,
+   "text": "Unless the exclusion be perpetual, there will be no pretense to infer the first advantage.",
+   "begin": 518.479,
+   "end": 522.959,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 12,
+   "text": "But even in that case, may he have no object beyond his present station, to which he may sacrifice his independence?",
+   "begin": 522.959,
+   "end": 529.36,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 12,
+   "text": "May he have no connections, no friends, for whom he may sacrifice it?",
+   "begin": 529.36,
+   "end": 533.36,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 12,
+   "text": "May he not be less willing by a firm conduct, to make personal enemies, when he acts under the impression that a time is fast approaching, on the arrival of which he not only MAY, but MUST, be exposed to their resentments, upon an equal, perhaps upon an inferior, footing?",
+   "begin": 533.36,
+   "end": 547.76,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 12,
+   "text": "It is not an easy point to determine whether his independence would be most promoted or impaired by such an arrangement.",
+   "begin": 547.76,
+   "end": 553.6,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 13,
+   "text": "As to the second supposed advantage, there is still greater reason to entertain doubts concerning it.",
+   "begin": 553.6,
+   "end": 558.8,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 13,
+   "text": "If the exclusion were to be perpetual, a man of irregular ambition, of whom alone there could be reason in any case to entertain apprehension, would, with infinite reluctance, yield to the necessity of taking his leave forever of a post in which his passion for power and pre-eminence had acquired the force of habit.",
+   "begin": 558.8,
+   "end": 574.8,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 13,
+   "text": "And if he had been fortunate or adroit enough to conciliate the good-will of the people, he might induce them to consider as a very odious and unjustifiable restraint upon themselves, a provision which was calculated to debar them of the right of giving a fresh proof of their attachment to a favorite.",
+   "begin": 574.8,
+   "end": 589.6,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 13,
+   "text": "There may be conceived circumstances in which this disgust of the people, seconding the thwarted ambition of such a favorite, might occasion greater danger to liberty, than could ever reasonably be dreaded from the possibility of a perpetuation in office, by the voluntary suffrages of the community, exercising a constitutional privilege.",
+   "begin": 589.6,
+   "end": 606.48,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 14,
+   "text": "There is an excess of refinement in the idea of disabling the people to continue in office men who had entitled themselves, in their opinion, to approbation and confidence;",
+   "begin": 606.48,
+   "end": 615.12,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 14,
+   "text": "the advantages of which are at best speculative and equivocal, and are overbalanced by disadvantages far more certain and decisive.",
+   "begin": 615.12,
+   "end": 623.2,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 15,
+   "text": "PUBLIUS.",
+   "begin": 623.2,
+   "end": 624.66322,
+   "synced": true
+  }
+ ]
+}

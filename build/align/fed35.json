@@ -1,0 +1,709 @@
+{
+ "paper": 35,
+ "duration": 694.532063,
+ "match_ratio": 0.9894,
+ "heading": [
+  "The Same Subject Continued",
+  "Concerning the General Power of Taxation",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 12.96,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "BEFORE we proceed to examine any other objections to an indefinite power of taxation in the Union, I shall make one general remark;",
+   "begin": 12.96,
+   "end": 20.0,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "which is, that if the jurisdiction of the national government, in the article of revenue, should be restricted to particular objects, it would naturally occasion an undue proportion of the public burdens to fall upon those objects.",
+   "begin": 20.0,
+   "end": 31.679,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "Two evils would spring from this source:",
+   "begin": 31.679,
+   "end": 33.76,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "the oppression of particular branches of industry;",
+   "begin": 33.76,
+   "end": 36.399,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "and an unequal distribution of the taxes, as well among the several States as among the citizens of the same State.",
+   "begin": 36.399,
+   "end": 42.719,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Suppose, as has been contended for, the federal power of taxation were to be confined to duties on imports, it is evident that the government, for want of being able to command other resources, would frequently be tempted to extend these duties to an injurious excess.",
+   "begin": 42.719,
+   "end": 57.44,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "There are persons who imagine that they can never be carried to too great a length;",
+   "begin": 57.44,
+   "end": 61.28,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "since the higher they are, the more it is alleged they will tend to discourage an extravagant consumption, to produce a favorable balance of trade, and to promote domestic manufactures.",
+   "begin": 61.28,
+   "end": 70.4,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "But all extremes are pernicious in various ways.",
+   "begin": 70.4,
+   "end": 73.28,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "Exorbitant duties on imported articles would beget a general spirit of smuggling;",
+   "begin": 73.28,
+   "end": 77.6,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "which is always prejudicial to the fair trader, and eventually to the revenue itself:",
+   "begin": 77.6,
+   "end": 82.479,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "they tend to render other classes of the community tributary, in an improper degree, to the manufacturing classes, to whom they give a premature monopoly of the markets;",
+   "begin": 82.479,
+   "end": 91.119,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "they sometimes force industry out of its more natural channels into others in which it flows with less advantage;",
+   "begin": 91.119,
+   "end": 97.04,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "and in the last place, they oppress the merchant, who is often obliged to pay them himself without any retribution from the consumer.",
+   "begin": 97.04,
+   "end": 103.759,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "When the demand is equal to the quantity of goods at market, the consumer generally pays the duty;",
+   "begin": 103.759,
+   "end": 108.72,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "but when the markets happen to be overstocked, a great proportion falls upon the merchant, and sometimes not only exhausts his profits, but breaks in upon his capital.",
+   "begin": 108.72,
+   "end": 117.92,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "I am apt to think that a division of the duty, between the seller and the buyer, more often happens than is commonly imagined.",
+   "begin": 117.92,
+   "end": 124.159,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "It is not always possible to raise the price of a commodity in exact proportion to every additional imposition laid upon it.",
+   "begin": 124.159,
+   "end": 130.16,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 2,
+   "text": "The merchant, especially in a country of small commercial capital, is often under a necessity of keeping prices down in order to a more expeditious sale.",
+   "begin": 130.16,
+   "end": 138.56,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "The maxim that the consumer is the payer, is so much oftener true than the reverse of the proposition, that it is far more equitable that the duties on imports should go into a common stock, than that they should redound to the exclusive benefit of the importing States.",
+   "begin": 138.56,
+   "end": 152.08,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "But it is not so generally true as to render it equitable, that those duties should form the only national fund.",
+   "begin": 152.08,
+   "end": 158.4,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "When they are paid by the merchant they operate as an additional tax upon the importing State, whose citizens pay their proportion of them in the character of consumers.",
+   "begin": 158.4,
+   "end": 166.8,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "In this view they are productive of inequality among the States;",
+   "begin": 166.8,
+   "end": 170.16,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "which inequality would be increased with the increased extent of the duties.",
+   "begin": 170.16,
+   "end": 174.16,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "The confinement of the national revenues to this species of imposts would be attended with inequality, from a different cause, between the manufacturing and the non-manufacturing States.",
+   "begin": 174.16,
+   "end": 183.519,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "The States which can go farthest towards the supply of their own wants, by their own manufactures, will not, according to their numbers or wealth, consume so great a proportion of imported articles as those States which are not in the same favorable situation.",
+   "begin": 183.519,
+   "end": 197.04,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 3,
+   "text": "They would not, therefore, in this mode alone contribute to the public treasury in a ratio to their abilities.",
+   "begin": 197.04,
+   "end": 203.2,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 3,
+   "text": "To make them do this it is necessary that recourse be had to excises, the proper objects of which are particular kinds of manufactures.",
+   "begin": 203.2,
+   "end": 210.48,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 3,
+   "text": "New York is more deeply interested in these considerations than such of her citizens as contend for limiting the power of the Union to external taxation may be aware of.",
+   "begin": 210.48,
+   "end": 218.799,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 3,
+   "text": "New York is an importing State, and is not likely speedily to be, to any great extent, a manufacturing State.",
+   "begin": 218.799,
+   "end": 224.72,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 3,
+   "text": "She would, of course, suffer in a double light from restraining the jurisdiction of the Union to commercial imposts.",
+   "begin": 224.72,
+   "end": 230.48,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "So far as these observations tend to inculcate a danger of the import duties being extended to an injurious extreme it may be observed, conformably to a remark made in another part of these papers, that the interest of the revenue itself would be a sufficient guard against such an extreme.",
+   "begin": 230.48,
+   "end": 246.159,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "I readily admit that this would be the case, as long as other resources were open;",
+   "begin": 246.159,
+   "end": 250.48,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "but if the avenues to them were closed, HOPE, stimulated by necessity, would beget experiments, fortified by rigorous precautions and additional penalties, which, for a time, would have the intended effect, till there had been leisure to contrive expedients to elude these new precautions.",
+   "begin": 250.48,
+   "end": 266.16,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "The first success would be apt to inspire false opinions, which it might require a long course of subsequent experience to correct.",
+   "begin": 266.16,
+   "end": 273.12,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "Necessity, especially in politics, often occasions false hopes, false reasonings, and a system of measures correspondingly erroneous.",
+   "begin": 273.12,
+   "end": 280.479,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 4,
+   "text": "But even if this supposed excess should not be a consequence of the limitation of the federal power of taxation, the inequalities spoken of would still ensue, though not in the same degree, from the other causes that have been noticed.",
+   "begin": 280.479,
+   "end": 292.32,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 4,
+   "text": "Let us now return to the examination of objections.",
+   "begin": 292.32,
+   "end": 295.28,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "One which, if we may judge from the frequency of its repetition, seems most to be relied on, is, that the House of Representatives is not sufficiently numerous for the reception of all the different classes of citizens, in order to combine the interests and feelings of every part of the community, and to produce a due sympathy between the representative body and its constituents.",
+   "begin": 295.28,
+   "end": 314.639,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "This argument presents itself under a very specious and seducing form;",
+   "begin": 314.639,
+   "end": 318.479,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "and is well calculated to lay hold of the prejudices of those to whom it is addressed.",
+   "begin": 318.479,
+   "end": 323.44,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "But when we come to dissect it with attention, it will appear to be made up of nothing but fair-sounding words.",
+   "begin": 323.44,
+   "end": 328.88,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "The object it seems to aim at is, in the first place, impracticable, and in the sense in which it is contended for, is unnecessary.",
+   "begin": 328.88,
+   "end": 336.4,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "I reserve for another place the discussion of the question which relates to the sufficiency of the representative body in respect to numbers, and shall content myself with examining here the particular use which has been made of a contrary supposition, in reference to the immediate subject of our inquiries.",
+   "begin": 336.4,
+   "end": 351.68,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "The idea of an actual representation of all classes of the people, by persons of each class, is altogether visionary.",
+   "begin": 351.68,
+   "end": 358.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "Unless it were expressly provided in the Constitution, that each different occupation should send one or more members, the thing would never take place in practice.",
+   "begin": 358.56,
+   "end": 367.12,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "Mechanics and manufacturers will always be inclined, with few exceptions, to give their votes to merchants, in preference to persons of their own professions or trades.",
+   "begin": 367.12,
+   "end": 375.52,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "Those discerning citizens are well aware that the mechanic and manufacturing arts furnish the materials of mercantile enterprise and industry.",
+   "begin": 375.52,
+   "end": 383.28,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "Many of them, indeed, are immediately connected with the operations of commerce.",
+   "begin": 383.28,
+   "end": 387.12,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "They know that the merchant is their natural patron and friend;",
+   "begin": 387.12,
+   "end": 390.16,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "and they are aware, that however great the confidence they may justly feel in their own good sense, their interests can be more effectually promoted by the merchant than by themselves.",
+   "begin": 390.16,
+   "end": 399.039,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "They are sensible that their habits in life have not been such as to give them those acquired endowments, without which, in a deliberative assembly, the greatest natural abilities are for the most part useless;",
+   "begin": 399.039,
+   "end": 409.759,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 6,
+   "text": "and that the influence and weight, and superior acquirements of the merchants render them more equal to a contest with any spirit which might happen to infuse itself into the public councils, unfriendly to the manufacturing and trading interests.",
+   "begin": 409.759,
+   "end": 422.08,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 6,
+   "text": "These considerations, and many others that might be mentioned prove, and experience confirms it, that artisans and manufacturers will commonly be disposed to bestow their votes upon merchants and those whom they recommend.",
+   "begin": 422.08,
+   "end": 433.84,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 6,
+   "text": "We must therefore consider merchants as the natural representatives of all these classes of the community.",
+   "begin": 433.84,
+   "end": 439.52,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "With regard to the learned professions, little need be observed;",
+   "begin": 439.52,
+   "end": 442.96,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "they truly form no distinct interest in society, and according to their situation and talents, will be indiscriminately the objects of the confidence and choice of each other, and of other parts of the community.",
+   "begin": 442.96,
+   "end": 454.08,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 8,
+   "text": "Nothing remains but the landed interest;",
+   "begin": 454.08,
+   "end": 456.16,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 8,
+   "text": "and this, in a political view, and particularly in relation to taxes, I take to be perfectly united, from the wealthiest landlord down to the poorest tenant.",
+   "begin": 456.16,
+   "end": 464.479,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "No tax can be laid on land which will not affect the proprietor of millions of acres as well as the proprietor of a single acre.",
+   "begin": 464.479,
+   "end": 471.36,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "Every landholder will therefore have a common interest to keep the taxes on land as low as possible;",
+   "begin": 471.36,
+   "end": 476.72,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "and common interest may always be reckoned upon as the surest bond of sympathy.",
+   "begin": 476.72,
+   "end": 481.36,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "But if we even could suppose a distinction of interest between the opulent landholder and the middling farmer, what reason is there to conclude, that the first would stand a better chance of being deputed to the national legislature than the last?",
+   "begin": 481.36,
+   "end": 493.44,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "If we take fact as our guide, and look into our own senate and assembly, we shall find that moderate proprietors of land prevail in both;",
+   "begin": 493.44,
+   "end": 500.319,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "nor is this less the case in the senate, which consists of a smaller number, than in the assembly, which is composed of a greater number.",
+   "begin": 500.319,
+   "end": 506.96,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "Where the qualifications of the electors are the same, whether they have to choose a small or a large number, their votes will fall upon those in whom they have most confidence;",
+   "begin": 506.96,
+   "end": 515.44,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 8,
+   "text": "whether these happen to be men of large fortunes, or of moderate property, or of no property at all.",
+   "begin": 515.44,
+   "end": 521.36,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 9,
+   "text": "It is said to be necessary, that all classes of citizens should have some of their own number in the representative body, in order that their feelings and interests may be the better understood and attended to.",
+   "begin": 521.36,
+   "end": 531.68,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "But we have seen that this will never happen under any arrangement that leaves the votes of the people free.",
+   "begin": 531.68,
+   "end": 536.64,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "Where this is the case, the representative body, with too few exceptions to have any influence on the spirit of the government, will be composed of landholders, merchants, and men of the learned professions.",
+   "begin": 536.64,
+   "end": 546.8,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 9,
+   "text": "But where is the danger that the interests and feelings of the different classes of citizens will not be understood or attended to by these three descriptions of men?",
+   "begin": 546.8,
+   "end": 554.56,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 9,
+   "text": "Will not the landholder know and feel whatever will promote or insure the interest of landed property?",
+   "begin": 554.56,
+   "end": 559.36,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 9,
+   "text": "And will he not, from his own interest in that species of property, be sufficiently prone to resist every attempt to prejudice or encumber it?",
+   "begin": 559.36,
+   "end": 566.72,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 9,
+   "text": "Will not the merchant understand and be disposed to cultivate, as far as may be proper, the interests of the mechanic and manufacturing arts, to which his commerce is so nearly allied?",
+   "begin": 566.72,
+   "end": 576.08,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 9,
+   "text": "Will not the man of the learned profession, who will feel a neutrality to the rivalships between the different branches of industry, be likely to prove an impartial arbiter between them, ready to promote either, so far as it shall appear to him conducive to the general interests of the society?",
+   "begin": 576.08,
+   "end": 590.8,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 10,
+   "text": "If we take into the account the momentary humors or dispositions which may happen to prevail in particular parts of the society, and to which a wise administration will never be inattentive, is the man whose situation leads to extensive inquiry and information less likely to be a competent judge of their nature, extent, and foundation than one whose observation does not travel beyond the circle of his neighbors and acquaintances?",
+   "begin": 590.8,
+   "end": 612.32,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 10,
+   "text": "Is it not natural that a man who is a candidate for the favor of the people, and who is dependent on the suffrages of his fellow-citizens for the continuance of his public honors, should take care to inform himself of their dispositions and inclinations, and should be willing to allow them their proper degree of influence upon his conduct?",
+   "begin": 612.32,
+   "end": 628.72,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 10,
+   "text": "This dependence, and the necessity of being bound himself, and his posterity, by the laws to which he gives his assent, are the true, and they are the strong chords of sympathy between the representative and the constituent.",
+   "begin": 628.72,
+   "end": 640.079,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 11,
+   "text": "There is no part of the administration of government that requires extensive information and a thorough knowledge of the principles of political economy, so much as the business of taxation.",
+   "begin": 640.079,
+   "end": 648.959,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 11,
+   "text": "The man who understands those principles best will be least likely to resort to oppressive expedients, or sacrifice any particular class of citizens to the procurement of revenue.",
+   "begin": 648.959,
+   "end": 658.959,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 11,
+   "text": "It might be demonstrated that the most productive system of finance will always be the least burdensome.",
+   "begin": 658.959,
+   "end": 664.16,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 11,
+   "text": "There can be no doubt that in order to a judicious exercise of the power of taxation, it is necessary that the person in whose hands it should be acquainted with the general genius, habits, and modes of thinking of the people at large, and with the resources of the country.",
+   "begin": 664.16,
+   "end": 677.44,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 11,
+   "text": "And this is all that can be reasonably meant by a knowledge of the interests and feelings of the people.",
+   "begin": 677.44,
+   "end": 682.56,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 11,
+   "text": "In any other sense the proposition has either no meaning, or an absurd one.",
+   "begin": 682.56,
+   "end": 686.399,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 11,
+   "text": "And in that sense let every considerate citizen judge for himself where the requisite qualification is most likely to be found.",
+   "begin": 686.399,
+   "end": 693.279,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 12,
+   "text": "PUBLIUS.",
+   "begin": 693.279,
+   "end": 694.532063,
+   "synced": true
+  }
+ ]
+}

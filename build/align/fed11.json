@@ -1,0 +1,780 @@
+{
+ "paper": 11,
+ "duration": 809.261859,
+ "match_ratio": 0.9828,
+ "heading": [
+  "The Utility of the Union in Respect to Commercial Relations and a Navy",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.36,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE importance of the Union, in a commercial light, is one of those points about which there is least room to entertain a difference of opinion, and which has, in fact, commanded the most general assent of men who have any acquaintance with the subject.",
+   "begin": 15.36,
+   "end": 28.4,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "This applies as well to our intercourse with foreign countries as with each other.",
+   "begin": 28.4,
+   "end": 33.12,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "There are appearances to authorize a supposition that the adventurous spirit, which distinguishes the commercial character of America, has already excited uneasy sensations in several of the maritime powers of Europe.",
+   "begin": 33.12,
+   "end": 44.96,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "They seem to be apprehensive of our too great interference in that carrying trade, which is the support of their navigation and the foundation of their naval strength.",
+   "begin": 44.96,
+   "end": 53.76,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "Those of them which have colonies in America look forward to what this country is capable of becoming, with painful solicitude.",
+   "begin": 53.76,
+   "end": 60.48,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "They foresee the dangers that may threaten their American dominions from the neighborhood of States, which have all the dispositions, and would possess all the means, requisite to the creation of a powerful marine.",
+   "begin": 60.48,
+   "end": 71.119,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "Impressions of this kind will naturally indicate the policy of fostering divisions among us, and of depriving us, as far as possible, of an ACTIVE COMMERCE in our own bottoms.",
+   "begin": 71.119,
+   "end": 80.56,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "This would answer the threefold purpose of preventing our interference in their navigation, of monopolizing the profits of our trade, and of clipping the wings by which we might soar to a dangerous greatness.",
+   "begin": 80.56,
+   "end": 91.36,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "Did not prudence forbid the detail, it would not be difficult to trace, by facts, the workings of this policy to the cabinets of ministers.",
+   "begin": 91.36,
+   "end": 99.52,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "If we continue united, we may counteract a policy so unfriendly to our prosperity in a variety of ways.",
+   "begin": 99.52,
+   "end": 105.84,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "By prohibitory regulations, extending, at the same time, throughout the States, we may oblige foreign countries to bid against each other, for the privileges of our markets.",
+   "begin": 105.84,
+   "end": 114.799,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "This assertion will not appear chimerical to those who are able to appreciate the importance of the markets of three millions of people--increasing in rapid progression, for the most part exclusively addicted to agriculture, and likely from local circumstances to remain so--to any manufacturing nation;",
+   "begin": 114.799,
+   "end": 130.479,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "and the immense difference there would be to the trade and navigation of such a nation, between a direct communication in its own ships, and an indirect conveyance of its products and returns, to and from America, in the ships of another country.",
+   "begin": 130.479,
+   "end": 143.84,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "Suppose, for instance, we had a government in America, capable of excluding Great Britain (with whom we have at present no treaty of commerce) from all our ports;",
+   "begin": 143.84,
+   "end": 152.08,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "what would be the probable operation of this step upon her politics?",
+   "begin": 152.08,
+   "end": 155.76,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "Would it not enable us to negotiate, with the fairest prospect of success, for commercial privileges of the most valuable and extensive kind, in the dominions of that kingdom?",
+   "begin": 155.76,
+   "end": 164.959,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "When these questions have been asked, upon other occasions, they have received a plausible, but not a solid or satisfactory answer.",
+   "begin": 164.959,
+   "end": 172.0,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "It has been said that prohibitions on our part would produce no change in the system of Britain, because she could prosecute her trade with us through the medium of the Dutch, who would be her immediate customers and paymasters for those articles which were wanted for the supply of our markets.",
+   "begin": 172.0,
+   "end": 185.92,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "But would not her navigation be materially injured by the loss of the important advantage of being her own carrier in that trade?",
+   "begin": 185.92,
+   "end": 192.8,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "Would not the principal part of its profits be intercepted by the Dutch, as a compensation for their agency and risk?",
+   "begin": 192.8,
+   "end": 198.64,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "Would not the mere circumstance of freight occasion a considerable deduction?",
+   "begin": 198.64,
+   "end": 202.64,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "Would not so circuitous an intercourse facilitate the competitions of other nations, by enhancing the price of British commodities in our markets, and by transferring to other hands the management of this interesting branch of the British commerce?",
+   "begin": 202.64,
+   "end": 215.28,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "A mature consideration of the objects suggested by these questions will justify a belief that the real disadvantages to Britain from such a state of things, conspiring with the pre-possessions of a great part of the nation in favor of the American trade, and with the importunities of the West India islands, would produce a relaxation in her present system, and would let us into the enjoyment of privileges in the markets of those islands elsewhere, from which our trade would derive the most substantial benefits.",
+   "begin": 215.28,
+   "end": 240.72,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "Such a point gained from the British government, and which could not be expected without an equivalent in exemptions and immunities in our markets, would be likely to have a correspondent effect on the conduct of other nations, who would not be inclined to see themselves altogether supplanted in our trade.",
+   "begin": 240.72,
+   "end": 255.28,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "A further resource for influencing the conduct of European nations toward us, in this respect, would arise from the establishment of a federal navy.",
+   "begin": 255.28,
+   "end": 263.04,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "There can be no doubt that the continuance of the Union under an efficient government would put it in our power, at a period not very distant, to create a navy which, if it could not vie with those of the great maritime powers, would at least be of respectable weight if thrown into the scale of either of two contending parties.",
+   "begin": 263.04,
+   "end": 279.12,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "This would be more peculiarly the case in relation to operations in the West Indies.",
+   "begin": 279.12,
+   "end": 283.52,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "A few ships of the line, sent opportunely to the reinforcement of either side, would often be sufficient to decide the fate of a campaign, on the event of which interests of the greatest magnitude were suspended.",
+   "begin": 283.52,
+   "end": 294.56,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "Our position is, in this respect, a most commanding one.",
+   "begin": 294.56,
+   "end": 297.759,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "And if to this consideration we add that of the usefulness of supplies from this country, in the prosecution of military operations in the West Indies, it will readily be perceived that a situation so favorable would enable us to bargain with great advantage for commercial privileges.",
+   "begin": 297.759,
+   "end": 311.52,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "A price would be set not only upon our friendship, but upon our neutrality.",
+   "begin": 311.52,
+   "end": 315.52,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "By a steady adherence to the Union we may hope, erelong, to become the arbiter of Europe in America, and to be able to incline the balance of European competitions in this part of the world as our interest may dictate.",
+   "begin": 315.52,
+   "end": 327.44,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "But in the reverse of this eligible situation, we shall discover that the rivalships of the parts would make them checks upon each other, and would frustrate all the tempting advantages which nature has kindly placed within our reach.",
+   "begin": 327.44,
+   "end": 339.039,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "In a state so insignificant our commerce would be a prey to the wanton intermeddlings of all nations at war with each other;",
+   "begin": 339.039,
+   "end": 345.44,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "who, having nothing to fear from us, would with little scruple or remorse, supply their wants by depredations on our property as often as it fell in their way.",
+   "begin": 345.44,
+   "end": 353.84,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 6,
+   "text": "The rights of neutrality will only be respected when they are defended by an adequate power.",
+   "begin": 353.84,
+   "end": 358.72,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "A nation, despicable by its weakness, forfeits even the privilege of being neutral.",
+   "begin": 358.72,
+   "end": 364.0,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 7,
+   "text": "Under a vigorous national government, the natural strength and resources of the country, directed to a common interest, would baffle all the combinations of European jealousy to restrain our growth.",
+   "begin": 364.0,
+   "end": 374.16,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "This situation would even take away the motive to such combinations, by inducing an impracticability of success.",
+   "begin": 374.16,
+   "end": 380.8,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "An active commerce, an extensive navigation, and a flourishing marine would then be the offspring of moral and physical necessity.",
+   "begin": 380.8,
+   "end": 388.0,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "We might defy the little arts of the little politicians to control or vary the irresistible and unchangeable course of nature.",
+   "begin": 388.0,
+   "end": 395.68,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 8,
+   "text": "But in a state of disunion, these combinations might exist and might operate with success.",
+   "begin": 395.68,
+   "end": 401.199,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 8,
+   "text": "It would be in the power of the maritime nations, availing themselves of our universal impotence, to prescribe the conditions of our political existence;",
+   "begin": 401.199,
+   "end": 408.88,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 8,
+   "text": "and as they have a common interest in being our carriers, and still more in preventing our becoming theirs, they would in all probability combine to embarrass our navigation in such a manner as would in effect destroy it, and confine us to a PASSIVE COMMERCE.",
+   "begin": 408.88,
+   "end": 422.4,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 8,
+   "text": "We should then be compelled to content ourselves with the first price of our commodities, and to see the profits of our trade snatched from us to enrich our enemies and p rsecutors.",
+   "begin": 422.4,
+   "end": 431.199,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "That unequaled spirit of enterprise, which signalizes the genius of the American merchants and navigators, and which is in itself an inexhaustible mine of national wealth, would be stifled and lost, and poverty and disgrace would overspread a country which, with wisdom, might make herself the admiration and envy of the world.",
+   "begin": 431.199,
+   "end": 449.199,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "There are rights of great moment to the trade of America which are rights of the Union--I allude to the fisheries, to the navigation of the Western lakes, and to that of the Mississippi.",
+   "begin": 449.199,
+   "end": 459.36,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "The dissolution of the Confederacy would give room for delicate questions concerning the future existence of these rights;",
+   "begin": 459.36,
+   "end": 464.96,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "which the interest of more powerful partners would hardly fail to solve to our disadvantage.",
+   "begin": 464.96,
+   "end": 469.919,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "The disposition of Spain with regard to the Mississippi needs no comment.",
+   "begin": 469.919,
+   "end": 474.08,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "France and Britain are concerned with us in the fisheries, and view them as of the utmost moment to their navigation.",
+   "begin": 474.08,
+   "end": 479.68,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "They, of course, would hardly remain long indifferent to that decided mastery, of which experience has shown us to be possessed in this valuable branch of traffic, and by which we are able to undersell those nations in their own markets.",
+   "begin": 479.68,
+   "end": 491.599,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "What more natural than that they should be disposed to exclude from the lists such dangerous competitors?",
+   "begin": 491.599,
+   "end": 498.16,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 10,
+   "text": "This branch of trade ought not to be considered as a partial benefit.",
+   "begin": 498.16,
+   "end": 502.479,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "All the navigating States may, in different degrees, advantageously participate in it, and under circumstances of a greater extension of mercantile capital, would not be unlikely to do it.",
+   "begin": 502.479,
+   "end": 512.479,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "As a nursery of seamen, it now is, or when time shall have more nearly assimilated the principles of navigation in the several States, will become, a universal resource.",
+   "begin": 512.479,
+   "end": 521.599,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "To the establishment of a navy, it must be indispensable.",
+   "begin": 521.599,
+   "end": 525.36,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 11,
+   "text": "To this great national object, a NAVY, union will contribute in various ways.",
+   "begin": 525.36,
+   "end": 530.56,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 11,
+   "text": "Every institution will grow and flourish in proportion to the quantity and extent of the means concentred towards its formation and support.",
+   "begin": 530.56,
+   "end": 538.16,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "A navy of the United States, as it would embrace the resources of all, is an object far less remote than a navy of any single State or partial confederacy, which would only embrace the resources of a single part.",
+   "begin": 538.16,
+   "end": 550.16,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "It happens, indeed, that different portions of confederated America possess each some peculiar advantage for this essential establishment.",
+   "begin": 550.16,
+   "end": 557.92,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "The more southern States furnish in greater abundance certain kinds of naval stores--tar, pitch, and turpentine.",
+   "begin": 557.92,
+   "end": 564.399,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "Their wood for the construction of ships is also of a more solid and lasting texture.",
+   "begin": 564.399,
+   "end": 569.04,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "The difference in the duration of the ships of which the navy might be composed, if chiefly constructed of Southern wood, would be of signal importance, either in the view of naval strength or of national economy.",
+   "begin": 569.04,
+   "end": 579.68,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "Some of the Southern and of the Middle States yield a greater plenty of iron, and of better quality.",
+   "begin": 579.68,
+   "end": 585.519,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 11,
+   "text": "Seamen must chiefly be drawn from the Northern hive.",
+   "begin": 585.519,
+   "end": 587.92,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "The necessity of naval protection to external or maritime commerce does not require a particular elucidation, no more than the conduciveness of that species of commerce to the prosperity of a navy.",
+   "begin": 587.92,
+   "end": 599.2,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "An unrestrained intercourse between the States themselves will advance the trade of each by an interchange of their respective productions, not only for the supply of reciprocal wants at home, but for exportation to foreign markets.",
+   "begin": 599.2,
+   "end": 612.0,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 12,
+   "text": "The veins of commerce in every part will be replenished, and will acquire additional motion and vigor from a free circulation of the commodities of every part.",
+   "begin": 612.0,
+   "end": 620.48,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 12,
+   "text": "Commercial enterprise will have much greater scope, from the diversity in the productions of different States.",
+   "begin": 620.48,
+   "end": 626.079,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 12,
+   "text": "When the staple of one fails from a bad harvest or unproductive crop, it can call to its aid the staple of another.",
+   "begin": 626.079,
+   "end": 632.32,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 12,
+   "text": "The variety, not less than the value, of products for exportation contributes to the activity of foreign commerce.",
+   "begin": 632.32,
+   "end": 638.959,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 12,
+   "text": "It can be conducted upon much better terms with a large number of materials of a given value than with a small number of materials of the same value;",
+   "begin": 638.959,
+   "end": 646.959,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 12,
+   "text": "arising from the competitions of trade and from the fluctations of markets.",
+   "begin": 646.959,
+   "end": 650.959,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 12,
+   "text": "Particular articles may be in great demand at certain periods, and unsalable at others;",
+   "begin": 650.959,
+   "end": 656.48,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 12,
+   "text": "but if there be a variety of articles, it can scarcely happen that they should all be at one time in the latter predicament, and on this account the operations of the merchant would be less liable to any considerable obstruction or stagnation.",
+   "begin": 656.48,
+   "end": 668.72,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "The speculative trader will at once perceive the force of these observations, and will acknowledge that the aggregate balance of the commerce of the United States would bid fair to be much more favorable than that of the thirteen States without union or with partial unions.",
+   "begin": 668.72,
+   "end": 682.88,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 13,
+   "text": "It may perhaps be replied to this, that whether the States are united or disunited, there would still be an intimate intercourse between them which would answer the same ends;",
+   "begin": 682.88,
+   "end": 691.92,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 13,
+   "text": "this intercourse would be fettered, interrupted, and narrowed by a multiplicity of causes, which in the course of these papers have been amply detailed.",
+   "begin": 691.92,
+   "end": 699.76,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 13,
+   "text": "A unity of commercial, as well as political, interests, can only result from a unity of government.",
+   "begin": 699.76,
+   "end": 706.32,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 14,
+   "text": "There are other points of view in which this subject might be placed, of a striking and animating kind.",
+   "begin": 706.32,
+   "end": 711.519,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 14,
+   "text": "But they would lead us too far into the regions of futurity, and would involve topics not proper for a newspaper discussion.",
+   "begin": 711.519,
+   "end": 718.079,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 14,
+   "text": "I shall briefly observe, that our situation invites and our interests prompt us to aim at an ascendant in the system of American affairs.",
+   "begin": 718.079,
+   "end": 725.68,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 14,
+   "text": "The world may politically, as well as geographically, be divided into four parts, each having a distinct set of interests.",
+   "begin": 725.68,
+   "end": 732.56,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 14,
+   "text": "Unhappily for the other three, Europe, by her arms and by her negotiations, by force and by fraud, has, in different degrees, extended her dominion over them all.",
+   "begin": 732.56,
+   "end": 741.6,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 14,
+   "text": "Africa, Asia, and America, have successively felt her domination.",
+   "begin": 741.6,
+   "end": 745.519,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 14,
+   "text": "The superiority she has long maintained has tempted her to plume herself as the Mistress of the World, and to consider the rest of mankind as created for her benefit.",
+   "begin": 745.519,
+   "end": 754.16,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 14,
+   "text": "Men admired as profound philosophers have, in direct terms, attributed to her inhabitants a physical superiority, and have gravely asserted that all animals, and with them the human species, degenerate in America--that even dogs cease to bark after having breathed awhile in our atmosphere.1 Facts have too long supported these arrogant pretensions of the Europeans.",
+   "begin": 754.16,
+   "end": 776.56,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 14,
+   "text": "It belongs to us to vindicate the honor of the human race, and to teach that assuming brother, moderation.",
+   "begin": 776.56,
+   "end": 782.48,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 14,
+   "text": "Union will enable us to do it.",
+   "begin": 782.48,
+   "end": 784.959,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 14,
+   "text": "Disunion will will add another victim to his triumphs.",
+   "begin": 784.959,
+   "end": 787.6,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 14,
+   "text": "Let Americans disdain to be the instruments of European greatness!",
+   "begin": 787.6,
+   "end": 791.44,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 14,
+   "text": "Let the thirteen States, bound together in a strict and indissoluble Union, concur in erecting one great American system, superior to the control of all transatlantic force or influence, and able to dictate the terms of the connection between the old and the new world!",
+   "begin": 791.44,
+   "end": 807.959,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 15,
+   "text": "PUBLIUS.",
+   "begin": 807.959,
+   "end": 808.959,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 16,
+   "text": "1 \"Recherches philosophiques sur les Americains.''",
+   "begin": 808.959,
+   "end": 809.261859,
+   "synced": false
+  }
+ ]
+}

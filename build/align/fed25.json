@@ -1,0 +1,613 @@
+{
+ "paper": 25,
+ "duration": 620.321088,
+ "match_ratio": 0.9824,
+ "heading": [
+  "The Same Subject Continued",
+  "(The Powers Necessary to the Common Defense Further Considered)",
+  "From the New York Packet.",
+  "Friday, December 21, 1787."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.64,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IT MAY perhaps be urged that the objects enumerated in the preceding number ought to be provided for by the State governments, under the direction of the Union.",
+   "begin": 16.64,
+   "end": 24.48,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "But this would be, in reality, an inversion of the primary principle of our political association, as it would in practice transfer the care of the common defense from the federal head to the individual members:",
+   "begin": 24.48,
+   "end": 34.48,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "a project oppressive to some States, dangerous to all, and baneful to the Confederacy.",
+   "begin": 34.48,
+   "end": 39.92,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "The territories of Britain, Spain, and of the Indian nations in our neighborhood do not border on particular States, but encircle the Union from Maine to Georgia.",
+   "begin": 39.92,
+   "end": 48.32,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The danger, though in different degrees, is therefore common.",
+   "begin": 48.32,
+   "end": 51.199,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "And the means of guarding against it ought, in like manner, to be the objects of common councils and of a common treasury.",
+   "begin": 51.199,
+   "end": 57.6,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "It happens that some States, from local situation, are more directly exposed.",
+   "begin": 57.6,
+   "end": 62.0,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "New York is of this class.",
+   "begin": 62.0,
+   "end": 63.68,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "Upon the plan of separate provisions, New York would have to sustain the whole weight of the establishments requisite to her immediate safety, and to the mediate or ultimate protection of her neighbors.",
+   "begin": 63.68,
+   "end": 72.96,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "This would neither be equitable as it respected New York nor safe as it respected the other States.",
+   "begin": 72.96,
+   "end": 78.799,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "Various inconveniences would attend such a system.",
+   "begin": 78.799,
+   "end": 81.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "The States, to whose lot it might fall to support the necessary establishments, would be as little able as willing, for a considerable time to come, to bear the burden of competent provisions.",
+   "begin": 81.68,
+   "end": 91.84,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "The security of all would thus be subjected to the parsimony, improvidence, or inability of a part.",
+   "begin": 91.84,
+   "end": 97.92,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "If the resources of such part becoming more abundant and extensive, its provisions should be proportionally enlarged, the other States would quickly take the alarm at seeing the whole military force of the Union in the hands of two or three of its members, and those probably amongst the most powerful.",
+   "begin": 97.92,
+   "end": 113.92,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "They would each choose to have some counterpoise, and pretenses could easily be contrived.",
+   "begin": 113.92,
+   "end": 119.36,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "In this situation, military establishments, nourished by mutual jealousy, would be apt to swell beyond their natural or proper size;",
+   "begin": 119.36,
+   "end": 126.24,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "and being at the separate disposal of the members, they would be engines for the abridgment or demolition of the national authcrity.",
+   "begin": 126.24,
+   "end": 132.959,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Reasons have been already given to induce a supposition that the State governments will too naturally be prone to a rivalship with that of the Union, the foundation of which will be the love of power;",
+   "begin": 132.959,
+   "end": 142.72,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "and that in any contest between the federal head and one of its members the people will be most apt to unite with their local government.",
+   "begin": 142.72,
+   "end": 149.76,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "If, in addition to this immense advantage, the ambition of the members should be stimulated by the separate and independent possession of military forces, it would afford too strong a temptation and too great a facility to them to make enterprises upon, and finally to subvert, the constitutional authority of the Union.",
+   "begin": 149.76,
+   "end": 165.599,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "On the other hand, the liberty of the people would be less safe in this state of things than in that which left the national forces in the hands of the national government.",
+   "begin": 165.599,
+   "end": 174.08,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "As far as an army may be considered as a dangerous weapon of power, it had better be in those hands of which the people are most likely to be jealous than in those of which they are least likely to be jealous.",
+   "begin": 174.08,
+   "end": 184.239,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "For it is a truth, which the experience of ages has attested, that the people are always most in danger when the means of injuring their rights are in the possession of those of whom they entertain the least suspicion.",
+   "begin": 184.239,
+   "end": 195.36,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "The framers of the existing Confederation, fully aware of the danger to the Union from the separate possession of military forces by the States, have, in express terms, prohibited them from having either ships or troops, unless with the consent of Congress.",
+   "begin": 195.36,
+   "end": 208.959,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "The truth is, that the existence of a federal government and military establishments under State authority are not less at variance with each other than a due supply of the federal treasury and the system of quotas and requisitions.",
+   "begin": 208.959,
+   "end": 220.72,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "There are other lights besides those already taken notice of, in which the impropriety of restraints on the discretion of the national legislature will be equally manifest.",
+   "begin": 220.72,
+   "end": 230.08,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "The design of the objection, which has been mentioned, is to preclude standing armies in time of peace, though we have never been informed how far it is designed the prohibition should extend;",
+   "begin": 230.08,
+   "end": 239.84,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "whether to raising armies as well as to KEEPING THEM UP in a season of tranquillity or not.",
+   "begin": 239.84,
+   "end": 244.48,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "If it be confined to the latter it will have no precise signification, and it will be ineffectual for the purpose intended.",
+   "begin": 244.48,
+   "end": 251.12,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "When armies are once raised what shall be denominated \"keeping them up,'' contrary to the sense of the Constitution?",
+   "begin": 251.12,
+   "end": 257.359,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "What time shall be requisite to ascertain the violation?",
+   "begin": 257.359,
+   "end": 260.239,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "Shall it be a week, a month, a year?",
+   "begin": 260.239,
+   "end": 262.479,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "Or shall we say they may be continued as long as the danger which occasioned their being raised continues?",
+   "begin": 262.479,
+   "end": 268.0,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "This would be to admit that they might be kept up IN TIME OF PEACE, against threatening or impending danger, which would be at once to deviate from the literal meaning of the prohibition, and to introduce an extensive latitude of construction.",
+   "begin": 268.0,
+   "end": 279.68,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "Who shall judge of the continuance of the danger?",
+   "begin": 279.68,
+   "end": 282.24,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "This must undoubtedly be submitted to the national government, and the matter would then be brought to this issue, that the national government, to provide against apprehended danger, might in the first instance raise troops, and might afterwards keep them on foot as long as they supposed the peace or safety of the community was in any degree of jeopardy.",
+   "begin": 282.24,
+   "end": 299.04,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "It is easy to perceive that a discretion so latitudinary as this would afford ample room for eluding the force of the provision.",
+   "begin": 299.04,
+   "end": 306.479,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "The supposed utility of a provision of this kind can only be founded on the supposed probability, or at least possibility, of a combination between the executive and the legislative, in some scheme of usurpation.",
+   "begin": 306.479,
+   "end": 317.919,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 6,
+   "text": "Should this at any time happen, how easy would it be to fabricate pretenses of approaching danger!",
+   "begin": 317.919,
+   "end": 323.199,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 6,
+   "text": "Indian hostilities, instigated by Spain or Britain, would always be at hand.",
+   "begin": 323.199,
+   "end": 327.36,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "Provocations to produce the desired appearances might even be given to some foreign power, and appeased again by timely concessions.",
+   "begin": 327.36,
+   "end": 334.56,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "If we can reasonably presume such a combination to have been formed, and that the enterprise is warranted by a sufficient prospect of success, the army, when once raised, from whatever cause, or on whatever pretext, may be applied to the execution of the project.",
+   "begin": 334.56,
+   "end": 349.12,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "If, to obviate this consequence, it should be resolved to extend the prohibition to the RAISING of armies in time of peace, the United States would then exhibit the most extraordinary spectacle which the world has yet seen, that of a nation incapacitated by its Constitution to prepare for defense, before it was actually invaded.",
+   "begin": 349.12,
+   "end": 366.96,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "As the ceremony of a formal denunciation of war has of late fallen into disuse, the presence of an enemy within our territories must be waited for, as the legal warrant to the government to begin its levies of men for the protection of the State.",
+   "begin": 366.96,
+   "end": 380.08,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "We must receive the blow, before we could even prepare to return it.",
+   "begin": 380.08,
+   "end": 383.759,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "All that kind of policy by which nations anticipate distant danger, and meet the gathering storm, must be abstained from, as contrary to the genuine maxims of a free government.",
+   "begin": 383.759,
+   "end": 393.44,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 7,
+   "text": "We must expose our property and liberty to the mercy of foreign invaders, and invite them by our weakness to seize the naked and defenseless prey, because we are afraid that rulers, created by our choice, dependent on our will, might endanger that liberty, by an abuse of the means necessary to its preservation.",
+   "begin": 393.44,
+   "end": 409.36,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "Here I expect we shall be told that the militia of the country is its natural bulwark, and would be at all times equal to the national defense.",
+   "begin": 409.36,
+   "end": 417.52,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "This doctrine, in substance, had like to have lost us our independence.",
+   "begin": 417.52,
+   "end": 421.68,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 8,
+   "text": "It cost millions to the United States that might have been saved.",
+   "begin": 421.68,
+   "end": 425.199,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 8,
+   "text": "The facts which, from our own experience, forbid a reliance of this kind, are too recent to permit us to be the dupes of such a suggestion.",
+   "begin": 425.199,
+   "end": 432.8,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 8,
+   "text": "The steady operations of war against a regular and disciplined army can only be successfully conducted by a force of the same kind.",
+   "begin": 432.8,
+   "end": 439.759,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 8,
+   "text": "Considerations of economy, not less than of stability and vigor, confirm this position.",
+   "begin": 439.759,
+   "end": 444.8,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 8,
+   "text": "The American militia, in the course of the late war, have, by their valor on numerous occasions, erected eternal monuments to their fame;",
+   "begin": 444.8,
+   "end": 452.24,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 8,
+   "text": "but the bravest of them feel and know that the liberty of their country could not have been established by their efforts alone, however great and valuable they were.",
+   "begin": 452.24,
+   "end": 460.0,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 8,
+   "text": "War, like most other things, is a science to be acquired and perfected by diligence, by perserverance, by time, and by practice.",
+   "begin": 460.0,
+   "end": 467.759,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 9,
+   "text": "All violent policy, as it is contrary to the natural and experienced course of human affairs, defeats itself.",
+   "begin": 467.759,
+   "end": 474.56,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 9,
+   "text": "Pennsylvania, at this instant, affords an example of the truth of this remark.",
+   "begin": 474.56,
+   "end": 478.56,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 9,
+   "text": "The Bill of Rights of that State declares that standing armies are dangerous to liberty, and ought not to be kept up in time of peace.",
+   "begin": 478.56,
+   "end": 485.12,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 9,
+   "text": "Pennsylvania, nevertheless, in a time of profound peace, from the existence of partial disorders in one or two of her counties, has resolved to raise a body of troops;",
+   "begin": 485.12,
+   "end": 493.199,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 9,
+   "text": "and in all probability will keep them up as long as there is any appearance of danger to the public peace.",
+   "begin": 493.199,
+   "end": 498.96,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 9,
+   "text": "The conduct of Massachusetts affords a lesson on the same subject, though on different ground.",
+   "begin": 498.96,
+   "end": 503.52,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 9,
+   "text": "That State (without waiting for the sanction of Congress, as the articles of the Confederation require) was compelled to raise troops to quell a domestic insurrection, and still keeps a corps in pay to prevent a revival of the spirit of revolt.",
+   "begin": 503.52,
+   "end": 515.599,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 9,
+   "text": "The particular constitution of Massachusetts opposed no obstacle to the measure;",
+   "begin": 515.599,
+   "end": 519.68,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 9,
+   "text": "but the instance is still of use to instruct us that cases are likely to occur under our government, as well as under those of other nations, which will sometimes render a military force in time of peace essential to the security of the society, and that it is therefore improper in this respect to control the legislative discretion.",
+   "begin": 519.68,
+   "end": 536.24,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 9,
+   "text": "It also teaches us, in its application to the United States, how little the rights of a feeble government are likely to be respected, even by its own constituents.",
+   "begin": 536.24,
+   "end": 544.32,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 9,
+   "text": "And it teaches us, in addition to the rest, how unequal parchment provisions are to a struggle with public necessity..",
+   "begin": 544.32,
+   "end": 551.04,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 10,
+   "text": "It was a fundamental maxim of the Lacedaemonian commonwealth, that the post of admiral should not be conferred twice on the same person.",
+   "begin": 551.04,
+   "end": 557.839,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 10,
+   "text": "The Peloponnesian confederates, having suffered a severe defeat at sea from the Athenians, demanded Lysander, who had before served with success in that capacity, to command the combined fleets.",
+   "begin": 557.839,
+   "end": 568.08,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 10,
+   "text": "The Lacedaemonians, to gratify their allies, and yet preserve the semblance of an adherence to their ancient institutions, had recourse to the flimsy subterfuge of investing Lysander with the real power of admiral, under the nominal title of vice-admiral.",
+   "begin": 568.08,
+   "end": 581.44,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 10,
+   "text": "This instance is selected from among a multitude that might be cited to confirm the truth already advanced and illustrated by domestic examples;",
+   "begin": 581.44,
+   "end": 588.48,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 10,
+   "text": "which is, that nations pay little regard to rules and maxims calculated in their very nature to run counter to the necessities of society.",
+   "begin": 588.48,
+   "end": 595.76,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 10,
+   "text": "Wise politicians will be cautious about fettering the government with restrictions that cannot be observed, because they know that every breach of the fundamental laws, though dictated by necessity, impairs that sacred reverence which ought to be maintained in the breast of rulers towards the constitution of a country, and forms a precedent for other breaches where the same plea of necessity does not exist at all, or is less urgent and palpable.",
+   "begin": 595.76,
+   "end": 619.0,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 11,
+   "text": "PUBLIUS.",
+   "begin": 619.0,
+   "end": 620.321088,
+   "synced": true
+  }
+ ]
+}

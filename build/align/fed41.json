@@ -1,0 +1,1323 @@
+{
+ "paper": 41,
+ "duration": 1131.76381,
+ "match_ratio": 0.9885,
+ "heading": [
+  "General View of the Powers Conferred by The Constitution",
+  "For the Independent Journal."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 11.36,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE Constitution proposed by the convention may be considered under two general points of view.",
+   "begin": 11.36,
+   "end": 16.16,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The FIRST relates to the sum or quantity of power which it vests in the government, including the restraints imposed on the States.",
+   "begin": 16.16,
+   "end": 22.8,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "The SECOND, to the particular structure of the government, and the distribution of this power among its several branches.",
+   "begin": 22.8,
+   "end": 28.96,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "Under the FIRST view of the subject, two important questions arise:",
+   "begin": 28.96,
+   "end": 33.28,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "Whether any part of the powers transferred to the general government be unnecessary or improper?",
+   "begin": 33.28,
+   "end": 39.04,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Whether the entire mass of them be dangerous to the portion of jurisdiction left in the several States?",
+   "begin": 39.04,
+   "end": 44.879,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "Is the aggregate power of the general government greater than ought to have been vested in it?",
+   "begin": 44.879,
+   "end": 49.84,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "This is the FIRST question.",
+   "begin": 49.84,
+   "end": 51.6,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "It cannot have escaped those who have attended with candor to the arguments employed against the extensive powers of the government, that the authors of them have very little considered how far these powers were necessary means of attaining a necessary end.",
+   "begin": 51.6,
+   "end": 64.0,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "They have chosen rather to dwell on the inconveniences which must be unavoidably blended with all political advantages;",
+   "begin": 64.0,
+   "end": 70.08,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "and on the possible abuses which must be incident to every power or trust, of which a beneficial use can be made.",
+   "begin": 70.08,
+   "end": 76.72,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "This method of handling the subject cannot impose on the good sense of the people of America.",
+   "begin": 76.72,
+   "end": 81.6,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "It may display the subtlety of the writer;",
+   "begin": 81.6,
+   "end": 83.84,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "it may open a boundless field for rhetoric and declamation;",
+   "begin": 83.84,
+   "end": 86.96,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "it may inflame the passions of the unthinking, and may confirm the prejudices of the misthinking:",
+   "begin": 86.96,
+   "end": 92.159,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "but cool and candid people will at once reflect, that the purest of human blessings must have a portion of alloy in them;",
+   "begin": 92.159,
+   "end": 98.32,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "that the choice must always be made, if not of the lesser evil, at least of the GREATER, not the PERFECT, good;",
+   "begin": 98.32,
+   "end": 104.799,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "and that in every political institution, a power to advance the public happiness involves a discretion which may be misapplied and abused.",
+   "begin": 104.799,
+   "end": 112.56,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "They will see, therefore, that in all cases where power is to be conferred, the point first to be decided is, whether such a power be necessary to the public good;",
+   "begin": 112.56,
+   "end": 120.96,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "as the next will be, in case of an affirmative decision, to guard as effectually as possible against a perversion of the power to the public detriment.",
+   "begin": 120.96,
+   "end": 129.119,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "That we may form a correct judgment on this subject, it will be proper to review the several powers conferred on the government of the Union;",
+   "begin": 129.119,
+   "end": 135.52,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "and that this may be the more conveniently done they may be reduced into different classes as they relate to the following different objects:",
+   "begin": 135.52,
+   "end": 143.52,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "Security against foreign danger;",
+   "begin": 143.52,
+   "end": 146.72,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "Regulation of the intercourse with foreign nations;",
+   "begin": 146.72,
+   "end": 150.239,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "Maintenance of harmony and proper intercourse among the States;",
+   "begin": 150.239,
+   "end": 154.48,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "Certain miscellaneous objects of general utility;",
+   "begin": 154.48,
+   "end": 158.8,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "Restraint of the States from certain injurious acts;",
+   "begin": 158.8,
+   "end": 162.16,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "Provisions for giving due efficacy to all these powers.",
+   "begin": 162.16,
+   "end": 165.92,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "The powers falling within the FIRST class are those of declaring war and granting letters of marque;",
+   "begin": 165.92,
+   "end": 170.879,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "of providing armies and fleets;",
+   "begin": 170.879,
+   "end": 172.56,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "of regulating and calling forth the militia;",
+   "begin": 172.56,
+   "end": 174.8,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "of levying and borrowing money.",
+   "begin": 174.8,
+   "end": 177.2,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "Security against foreign danger is one of the primitive objects of civil society.",
+   "begin": 177.2,
+   "end": 181.519,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "It is an avowed and essential object of the American Union.",
+   "begin": 181.519,
+   "end": 184.959,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "The powers requisite for attaining it must be effectually confided to the federal councils.",
+   "begin": 184.959,
+   "end": 190.0,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "Is the power of declaring war necessary?",
+   "begin": 190.0,
+   "end": 192.48,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "No man will answer this question in the negative.",
+   "begin": 192.48,
+   "end": 194.879,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "It would be superfluous, therefore, to enter into a proof of the affirmative.",
+   "begin": 194.879,
+   "end": 198.959,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "The existing Confederation establishes this power in the most ample form.",
+   "begin": 198.959,
+   "end": 203.28,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "Is the power of raising armies and equipping fleets necessary?",
+   "begin": 203.28,
+   "end": 206.4,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "This is involved in the foregoing power.",
+   "begin": 206.4,
+   "end": 208.799,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "It is involved in the power of self-defense.",
+   "begin": 208.799,
+   "end": 211.44,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "But was it necessary to give an INDEFINITE POWER of raising TROOPS, as well as providing fleets;",
+   "begin": 211.44,
+   "end": 216.56,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "and of maintaining both in PEACE, as well as in war?",
+   "begin": 216.56,
+   "end": 220.159,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "The answer to these questions has been too far anticipated in another place to admit an extensive discussion of them in this place.",
+   "begin": 220.159,
+   "end": 226.879,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "The answer indeed seems to be so obvious and conclusive as scarcely to justify such a discussion in any place.",
+   "begin": 226.879,
+   "end": 233.519,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 5,
+   "text": "With what color of propriety could the force necessary for defense be limited by those who cannot limit the force of offense?",
+   "begin": 233.519,
+   "end": 240.159,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 5,
+   "text": "If a federal Constitution could chain the ambition or set bounds to the exertions of all other nations, then indeed might it prudently chain the discretion of its own government, and set bounds to the exertions for its own safety.",
+   "begin": 240.159,
+   "end": 252.319,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "How could a readiness for war in time of peace be safely prohibited, unless we could prohibit, in like manner, the preparations and establishments of every hostile nation?",
+   "begin": 252.319,
+   "end": 261.12,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "The means of security can only be regulated by the means and the danger of attack.",
+   "begin": 261.12,
+   "end": 265.44,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "They will, in fact, be ever determined by these rules, and by no others.",
+   "begin": 265.44,
+   "end": 269.919,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "It is in vain to oppose Constitutional barriers to the impulse of self-preservation.",
+   "begin": 269.919,
+   "end": 274.88,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 6,
+   "text": "It is worse than in vain;",
+   "begin": 274.88,
+   "end": 276.4,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 6,
+   "text": "because it plants in the Constitution itself necessary usurpations of power, every precedent of which is a germ of unnecessary and multiplied repetitions.",
+   "begin": 276.4,
+   "end": 285.199,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 6,
+   "text": "If one nation maintains constantly a disciplined army, ready for the service of ambition or revenge, it obliges the most pacific nations who may be within the reach of its enterprises to take corresponding precautions.",
+   "begin": 285.199,
+   "end": 296.8,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "The fifteenth century was the unhappy epoch of military establishments in the time of peace.",
+   "begin": 296.8,
+   "end": 301.759,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "They were introduced by Charles VII.",
+   "begin": 301.759,
+   "end": 303.6,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "of France.",
+   "begin": 303.6,
+   "end": 304.56,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "All Europe has followed, or been forced into, the example.",
+   "begin": 304.56,
+   "end": 308.0,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 7,
+   "text": "Had the example not been followed by other nations, all Europe must long ago have worn the chains of a universal monarch.",
+   "begin": 308.0,
+   "end": 315.199,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 7,
+   "text": "Were every nation except France now to disband its peace establishments, the same event might follow.",
+   "begin": 315.199,
+   "end": 320.479,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 7,
+   "text": "The veteran legions of Rome were an overmatch for the undisciplined valor of all other nations and rendered her the mistress of the world.",
+   "begin": 320.479,
+   "end": 327.12,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 7,
+   "text": "Not the less true is it, that the liberties of Rome proved the final victim to her military triumphs;",
+   "begin": 327.12,
+   "end": 332.24,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 7,
+   "text": "and that the liberties of Europe, as far as they ever existed, have, with few exceptions, been the price of her military establishments.",
+   "begin": 332.24,
+   "end": 339.199,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 7,
+   "text": "A standing force, therefore, is a dangerous, at the same time that it may be a necessary, provision.",
+   "begin": 339.199,
+   "end": 345.28,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 7,
+   "text": "On the smallest scale it has its inconveniences.",
+   "begin": 345.28,
+   "end": 347.919,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 7,
+   "text": "On an extensive scale its consequences may be fatal.",
+   "begin": 347.919,
+   "end": 351.199,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 7,
+   "text": "On any scale it is an object of laudable circumspection and precaution.",
+   "begin": 351.199,
+   "end": 356.16,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 8,
+   "text": "A wise nation will combine all these considerations;",
+   "begin": 356.16,
+   "end": 358.88,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 8,
+   "text": "and, whilst it does not rashly preclude itself from any resource which may become essential to its safety, will exert all its prudence in diminishing both the necessity and the danger of resorting to one which may be inauspicious to its liberties.",
+   "begin": 358.88,
+   "end": 371.52,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 8,
+   "text": "The clearest marks of this prudence are stamped on the proposed Constitution.",
+   "begin": 371.52,
+   "end": 375.12,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 8,
+   "text": "The Union itself, which it cements and secures, destroys every pretext for a military establishment which could be dangerous.",
+   "begin": 375.12,
+   "end": 382.08,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 8,
+   "text": "America united, with a handful of troops, or without a single soldier, exhibits a more forbidding posture to foreign ambition than America disunited, with a hundred thousand veterans ready for combat.",
+   "begin": 382.08,
+   "end": 393.6,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 9,
+   "text": "It was remarked, on a former occasion, that the want of this pretext had saved the liberties of one nation in Europe.",
+   "begin": 393.6,
+   "end": 399.6,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 9,
+   "text": "Being rendered by her insular situation and her maritime resources impregnable to the armies of her neighbors, the rulers of Great Britain have never been able, by real or artificial dangers, to cheat the public into an extensive peace establishment.",
+   "begin": 399.6,
+   "end": 412.8,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 9,
+   "text": "The distance of the United States from the powerful nations of the world gives them the same happy security.",
+   "begin": 412.8,
+   "end": 418.16,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 9,
+   "text": "A dangerous establishment can never be necessary or plausible, so long as they continue a united people.",
+   "begin": 418.16,
+   "end": 423.599,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 9,
+   "text": "But let it never, for a moment, be forgotten that they are indebted for this advantage to the Union alone.",
+   "begin": 423.599,
+   "end": 428.88,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 9,
+   "text": "The moment of its dissolution will be the date of a new order of things.",
+   "begin": 428.88,
+   "end": 432.639,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 9,
+   "text": "The fears of the weaker, or the ambition of the stronger States, or Confederacies, will set the same example in the New, as Charles VII.",
+   "begin": 432.639,
+   "end": 439.36,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 9,
+   "text": "did in the Old World.",
+   "begin": 439.36,
+   "end": 441.28,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 9,
+   "text": "The example will be followed here from the same motives which produced universal imitation there.",
+   "begin": 441.28,
+   "end": 446.56,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 9,
+   "text": "Instead of deriving from our situation the precious advantage which Great Britain has derived from hers, the face of America will be but a copy of that of the continent of Europe.",
+   "begin": 446.56,
+   "end": 455.28,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 9,
+   "text": "It will present liberty everywhere crushed between standing armies and perpetual taxes.",
+   "begin": 455.28,
+   "end": 460.0,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 10,
+   "text": "The fortunes of disunited America will be even more disastrous than those of Europe.",
+   "begin": 460.0,
+   "end": 464.72,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 10,
+   "text": "The sources of evil in the latter are confined to her own limits.",
+   "begin": 464.72,
+   "end": 467.919,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 10,
+   "text": "No superior powers of another quarter of the globe intrigue among her rival nations, inflame their mutual animosities, and render them the instruments of foreign ambition, jealousy, and revenge.",
+   "begin": 467.919,
+   "end": 478.4,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 10,
+   "text": "In America the miseries springing from her internal jealousies, contentions, and wars, would form a part only of her lot.",
+   "begin": 478.4,
+   "end": 485.36,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 10,
+   "text": "A plentiful addition of evils would have their source in that relation in which Europe stands to this quarter of the earth, and which no other quarter of the earth bears to Europe.",
+   "begin": 485.36,
+   "end": 494.24,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 10,
+   "text": "This picture of the consequences of disunion cannot be too highly colored, or too often exhibited.",
+   "begin": 494.24,
+   "end": 499.599,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 10,
+   "text": "Every man who loves peace, every man who loves his country, every man who loves liberty, ought to have it ever before his eyes, that he may cherish in his heart a due attachment to the Union of America, and be able to set a due value on the means of preserving it.",
+   "begin": 499.599,
+   "end": 513.76,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 11,
+   "text": "Next to the effectual establishment of the Union, the best possible precaution against danger from standing armies is a limitation of the term for which revenue may be appropriated to their support.",
+   "begin": 513.76,
+   "end": 523.599,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 11,
+   "text": "This precaution the Constitution has prudently added.",
+   "begin": 523.599,
+   "end": 526.8,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 11,
+   "text": "I will not repeat here the observations which I flatter myself have placed this subject in a just and satisfactory light.",
+   "begin": 526.8,
+   "end": 533.279,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 11,
+   "text": "But it may not be improper to take notice of an argument against this part of the Constitution, which has been drawn from the policy and practice of Great Britain.",
+   "begin": 533.279,
+   "end": 540.959,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 11,
+   "text": "It is said that the continuance of an army in that kingdom requires an annual vote of the legislature;",
+   "begin": 540.959,
+   "end": 546.0,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 11,
+   "text": "whereas the American Constitution has lengthened this critical period to two years.",
+   "begin": 546.0,
+   "end": 550.64,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 11,
+   "text": "This is the form in which the comparison is usually stated to the public:",
+   "begin": 550.64,
+   "end": 554.399,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 11,
+   "text": "but is it a just form?",
+   "begin": 554.399,
+   "end": 556.08,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 11,
+   "text": "Is it a fair comparison?",
+   "begin": 556.08,
+   "end": 557.68,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 11,
+   "text": "Does the British Constitution restrain the parliamentary discretion to one year?",
+   "begin": 557.68,
+   "end": 562.0,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 11,
+   "text": "Does the American impose on the Congress appropriations for two years?",
+   "begin": 562.0,
+   "end": 566.0,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 11,
+   "text": "On the contrary, it cannot be unknown to the authors of the fallacy themselves, that the British Constitution fixes no limit whatever to the discretion of the legislature, and that the American ties down the legislature to two years, as the longest admissible term.",
+   "begin": 566.0,
+   "end": 580.32,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 12,
+   "text": "Had the argument from the British example been truly stated, it would have stood thus:",
+   "begin": 580.32,
+   "end": 584.88,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 12,
+   "text": "The term for which supplies may be appropriated to the army establishment, though unlimited by the British Constitution, has nevertheless, in practice, been limited by parliamentary discretion to a single year.",
+   "begin": 584.88,
+   "end": 596.0,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 12,
+   "text": "Now, if in Great Britain, where the House of Commons is elected for seven years;",
+   "begin": 596.0,
+   "end": 599.6,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 12,
+   "text": "where so great a proportion of the members are elected by so small a proportion of the people;",
+   "begin": 599.6,
+   "end": 604.16,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 12,
+   "text": "where the electors are so corrupted by the representatives, and the representatives so corrupted by the Crown, the representative body can possess a power to make appropriations to the army for an indefinite term, without desiring, or without daring, to extend the term beyond a single year, ought not suspicion herself to blush, in pretending that the representatives of the United States, elected FREELY by the WHOLE BODY of the people, every SECOND YEAR, cannot be safely intrusted with the discretion over such appropriations, expressly limited to the short period of TWO YEARS?",
+   "begin": 604.16,
+   "end": 634.0,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 12,
+   "text": "A bad cause seldom fails to betray itself.",
+   "begin": 634.0,
+   "end": 636.88,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 12,
+   "text": "Of this truth, the management of the opposition to the federal government is an unvaried exemplification.",
+   "begin": 636.88,
+   "end": 642.48,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 13,
+   "text": "But among all the blunders which have been committed, none is more striking than the attempt to enlist on that side the prudent jealousy entertained by the people, of standing armies.",
+   "begin": 642.48,
+   "end": 651.76,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 13,
+   "text": "The attempt has awakened fully the public attention to that important subject;",
+   "begin": 651.76,
+   "end": 655.36,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 13,
+   "text": "and has led to investigations which must terminate in a thorough and universal conviction, not only that the Constitution has provided the most effectual guards against danger from that quarter, but that nothing short of a Constitution fully adequate to the national defense and the preservation of the Union, can save America from as many standing armies as it may be split into States or Confederacies, and from such a progressive augmentation, of these establishments in each, as will render them as burdensome to the properties and ominous to the liberties of the people, as any establishment that can become necessary, under a united and efficient government, must be tolerable to the former and safe to the latter.",
+   "begin": 655.36,
+   "end": 691.12,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 14,
+   "text": "The palpable necessity of the power to provide and maintain a navy has protected that part of the Constitution against a spirit of censure, which has spared few other parts.",
+   "begin": 691.12,
+   "end": 700.16,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 14,
+   "text": "It must, indeed, be numbered among the greatest blessings of America, that as her Union will be the only source of her maritime strength, so this will be a principal source of her security against danger from abroad.",
+   "begin": 700.16,
+   "end": 711.36,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 14,
+   "text": "In this respect our situation bears another likeness to the insular advantage of Great Britain.",
+   "begin": 711.36,
+   "end": 716.24,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 14,
+   "text": "The batteries most capable of repelling foreign enterprises on our safety, are happily such as can never be turned by a perfidious government against our liberties.",
+   "begin": 716.24,
+   "end": 725.2,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 15,
+   "text": "The inhabitants of the Atlantic frontier are all of them deeply interested in this provision for naval protection, and if they have hitherto been suffered to sleep quietly in their beds;",
+   "begin": 725.2,
+   "end": 734.8,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 15,
+   "text": "if their property has remained safe against the predatory spirit of licentious adventurers;",
+   "begin": 734.8,
+   "end": 739.44,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 15,
+   "text": "if their maritime towns have not yet been compelled to ransom themselves from the terrors of a conflagration, by yielding to the exactions of daring and sudden invaders, these instances of good fortune are not to be ascribed to the capacity of the existing government for the protection of those from whom it claims allegiance, but to causes that are fugitive and fallacious.",
+   "begin": 739.44,
+   "end": 758.48,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 16,
+   "text": "If we except perhaps Virginia and Maryland, which are peculiarly vulnerable on their eastern frontiers, no part of the Union ought to feel more anxiety on this subject than New York.",
+   "begin": 758.48,
+   "end": 768.32,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 16,
+   "text": "Her seacoast is extensive.",
+   "begin": 768.32,
+   "end": 770.24,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 16,
+   "text": "A very important district of the State is an island.",
+   "begin": 770.24,
+   "end": 773.12,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 16,
+   "text": "The State itself is penetrated by a large navigable river for more than fifty leagues.",
+   "begin": 773.12,
+   "end": 777.839,
+   "synced": true
+  },
+  {
+   "id": "u0126",
+   "para": 16,
+   "text": "The great emporium of its commerce, the great reservoir of its wealth, lies every moment at the mercy of events, and may almost be regarded as a hostage for ignominious compliances with the dictates of a foreign enemy, or even with the rapacious demands of pirates and barbarians.",
+   "begin": 777.839,
+   "end": 792.639,
+   "synced": true
+  },
+  {
+   "id": "u0127",
+   "para": 16,
+   "text": "Should a war be the result of the precarious situation of European affairs, and all the unruly passions attending it be let loose on the ocean, our escape from insults and depredations, not only on that element, but every part of the other bordering on it, will be truly miraculous.",
+   "begin": 792.639,
+   "end": 807.68,
+   "synced": true
+  },
+  {
+   "id": "u0128",
+   "para": 17,
+   "text": "In the present condition of America, the States more immediately exposed to these calamities have nothing to hope from the phantom of a general government which now exists;",
+   "begin": 807.68,
+   "end": 815.92,
+   "synced": true
+  },
+  {
+   "id": "u0129",
+   "para": 17,
+   "text": "and if their single resources were equal to the task of fortifying themselves against the danger, the object to be protected would be almost consumed by the means of protecting them.",
+   "begin": 815.92,
+   "end": 825.04,
+   "synced": true
+  },
+  {
+   "id": "u0130",
+   "para": 17,
+   "text": "The power of regulating and calling forth the militia has been already sufficiently vindicated and explained.",
+   "begin": 825.04,
+   "end": 830.399,
+   "synced": true
+  },
+  {
+   "id": "u0131",
+   "para": 17,
+   "text": "The power of levying and borrowing money, being the sinew of that which is to be exerted in the national defense, is properly thrown into the same class with it.",
+   "begin": 830.399,
+   "end": 838.56,
+   "synced": true
+  },
+  {
+   "id": "u0132",
+   "para": 17,
+   "text": "This power, also, has been examined already with much attention, and has, I trust, been clearly shown to be necessary, both in the extent and form given to it by the Constitution.",
+   "begin": 838.56,
+   "end": 848.959,
+   "synced": true
+  },
+  {
+   "id": "u0133",
+   "para": 18,
+   "text": "I will address one additional reflection only to those who contend that the power ought to have been restrained to external taxation by which they mean, taxes on articles imported from other countries.",
+   "begin": 848.959,
+   "end": 859.36,
+   "synced": true
+  },
+  {
+   "id": "u0134",
+   "para": 18,
+   "text": "It cannot be doubted that this will always be a valuable source of revenue;",
+   "begin": 859.36,
+   "end": 863.36,
+   "synced": true
+  },
+  {
+   "id": "u0135",
+   "para": 18,
+   "text": "that for a considerable time it must be a principal source;",
+   "begin": 863.36,
+   "end": 866.639,
+   "synced": true
+  },
+  {
+   "id": "u0136",
+   "para": 18,
+   "text": "that at this moment it is an essential one.",
+   "begin": 866.639,
+   "end": 869.199,
+   "synced": true
+  },
+  {
+   "id": "u0137",
+   "para": 18,
+   "text": "But we may form very mistaken ideas on this subject, if we do not call to mind in our calculations, that the extent of revenue drawn from foreign commerce must vary with the variations, both in the extent and the kind of imports;",
+   "begin": 869.199,
+   "end": 881.44,
+   "synced": true
+  },
+  {
+   "id": "u0138",
+   "para": 18,
+   "text": "and that these variations do not correspond with the progress of population, which must be the general measure of the public wants.",
+   "begin": 881.44,
+   "end": 888.48,
+   "synced": true
+  },
+  {
+   "id": "u0139",
+   "para": 18,
+   "text": "As long as agriculture continues the sole field of labor, the importation of manufactures must increase as the consumers multiply.",
+   "begin": 888.48,
+   "end": 895.839,
+   "synced": true
+  },
+  {
+   "id": "u0140",
+   "para": 18,
+   "text": "As soon as domestic manufactures are begun by the hands not called for by agriculture, the imported manufactures will decrease as the numbers of people increase.",
+   "begin": 895.839,
+   "end": 905.519,
+   "synced": true
+  },
+  {
+   "id": "u0141",
+   "para": 19,
+   "text": "In a more remote stage, the imports may consist in a considerable part of raw materials, which will be wrought into articles for exportation, and will, therefore, require rather the encouragement of bounties, than to be loaded with discouraging duties.",
+   "begin": 905.519,
+   "end": 919.279,
+   "synced": true
+  },
+  {
+   "id": "u0142",
+   "para": 19,
+   "text": "A system of government, meant for duration, ought to contemplate these revolutions, and be able to accommodate itself to them.",
+   "begin": 919.279,
+   "end": 925.6,
+   "synced": true
+  },
+  {
+   "id": "u0143",
+   "para": 19,
+   "text": "Some, who have not denied the necessity of the power of taxation, have grounded a very fierce attack against the Constitution, on the language in which it is defined.",
+   "begin": 925.6,
+   "end": 934.32,
+   "synced": true
+  },
+  {
+   "id": "u0144",
+   "para": 19,
+   "text": "It has been urged and echoed, that the power \"to lay and collect taxes, duties, imposts, and excises, to pay the debts, and provide for the common defense and general welfare of the United States,'' amounts to an unlimited commission to exercise every power which may be alleged to be necessary for the common defense or general welfare.",
+   "begin": 934.32,
+   "end": 952.399,
+   "synced": true
+  },
+  {
+   "id": "u0145",
+   "para": 19,
+   "text": "No stronger proof could be given of the distress under which these writers labor for objections, than their stooping to such a misconstruction.",
+   "begin": 952.399,
+   "end": 960.24,
+   "synced": true
+  },
+  {
+   "id": "u0146",
+   "para": 19,
+   "text": "Had no other enumeration or definition of the powers of the Congress been found in the Constitution, than the general expressions just cited, the authors of the objection might have had some color for it;",
+   "begin": 960.24,
+   "end": 970.32,
+   "synced": true
+  },
+  {
+   "id": "u0147",
+   "para": 19,
+   "text": "though it would have been difficult to find a reason for so awkward a form of describing an authority to legislate in all possible cases.",
+   "begin": 970.32,
+   "end": 977.6,
+   "synced": true
+  },
+  {
+   "id": "u0148",
+   "para": 19,
+   "text": "A power to destroy the freedom of the press, the trial by jury, or even to regulate the course of descents, or the forms of conveyances, must be very singularly expressed by the terms \"to raise money for the general welfare.",
+   "begin": 977.6,
+   "end": 989.92,
+   "synced": true
+  },
+  {
+   "id": "u0149",
+   "para": 20,
+   "text": "''But what color can the objection have, when a specification of the objects alluded to by these general terms immediately follows, and is not even separated by a longer pause than a semicolon?",
+   "begin": 989.92,
+   "end": 1000.32,
+   "synced": true
+  },
+  {
+   "id": "u0150",
+   "para": 20,
+   "text": "If the different parts of the same instrument ought to be so expounded, as to give meaning to every part which will bear it, shall one part of the same sentence be excluded altogether from a share in the meaning;",
+   "begin": 1000.32,
+   "end": 1011.199,
+   "synced": true
+  },
+  {
+   "id": "u0151",
+   "para": 20,
+   "text": "and shall the more doubtful and indefinite terms be retained in their full extent, and the clear and precise expressions be denied any signification whatsoever?",
+   "begin": 1011.199,
+   "end": 1020.24,
+   "synced": true
+  },
+  {
+   "id": "u0152",
+   "para": 20,
+   "text": "For what purpose could the enumeration of particular powers be inserted, if these and all others were meant to be included in the preceding general power?",
+   "begin": 1020.24,
+   "end": 1028.799,
+   "synced": true
+  },
+  {
+   "id": "u0153",
+   "para": 20,
+   "text": "Nothing is more natural nor common than first to use a general phrase, and then to explain and qualify it by a recital of particulars.",
+   "begin": 1028.799,
+   "end": 1036.319,
+   "synced": true
+  },
+  {
+   "id": "u0154",
+   "para": 21,
+   "text": "But the idea of an enumeration of particulars which neither explain nor qualify the general meaning, and can have no other effect than to confound and mislead, is an absurdity, which, as we are reduced to the dilemma of charging either on the authors of the objection or on the authors of the Constitution, we must take the liberty of supposing, had not its origin with the latter.",
+   "begin": 1036.319,
+   "end": 1056.559,
+   "synced": true
+  },
+  {
+   "id": "u0155",
+   "para": 21,
+   "text": "The objection here is the more extraordinary, as it appears that the language used by the convention is a copy from the articles of Confederation.",
+   "begin": 1056.559,
+   "end": 1064.48,
+   "synced": true
+  },
+  {
+   "id": "u0156",
+   "para": 21,
+   "text": "The objects of the Union among the States, as described in article third, are \"their common defense, security of their liberties, and mutual and general welfare.",
+   "begin": 1064.48,
+   "end": 1073.679,
+   "synced": true
+  },
+  {
+   "id": "u0157",
+   "para": 21,
+   "text": "'' The terms of article eighth are still more identical:",
+   "begin": 1073.679,
+   "end": 1076.559,
+   "synced": true
+  },
+  {
+   "id": "u0158",
+   "para": 21,
+   "text": "\"All charges of war and all other expenses that shall be incurred for the common defense or general welfare, and allowed by the United States in Congress, shall be defrayed out of a common treasury,'' etc.",
+   "begin": 1076.559,
+   "end": 1087.76,
+   "synced": true
+  },
+  {
+   "id": "u0159",
+   "para": 21,
+   "text": "A similar language again occurs in article ninth.",
+   "begin": 1087.76,
+   "end": 1090.799,
+   "synced": true
+  },
+  {
+   "id": "u0160",
+   "para": 21,
+   "text": "Construe either of these articles by the rules which would justify the construction put on the new Constitution, and they vest in the existing Congress a power to legislate in all cases whatsoever.",
+   "begin": 1090.799,
+   "end": 1101.52,
+   "synced": true
+  },
+  {
+   "id": "u0161",
+   "para": 22,
+   "text": "But what would have been thought of that assembly, if, attaching themselves to these general expressions, and disregarding the specifications which ascertain and limit their import, they had exercised an unlimited power of providing for the common defense and general welfare?",
+   "begin": 1101.52,
+   "end": 1115.52,
+   "synced": true
+  },
+  {
+   "id": "u0162",
+   "para": 22,
+   "text": "I appeal to the objectors themselves, whether they would in that case have employed the same reasoning in justification of Congress as they now make use of against the convention.",
+   "begin": 1115.52,
+   "end": 1125.28,
+   "synced": true
+  },
+  {
+   "id": "u0163",
+   "para": 22,
+   "text": "How difficult it is for error to escape its own condemnation!",
+   "begin": 1125.28,
+   "end": 1130.44,
+   "synced": true
+  },
+  {
+   "id": "u0164",
+   "para": 23,
+   "text": "PUBLIUS.",
+   "begin": 1130.44,
+   "end": 1131.76381,
+   "synced": true
+  }
+ ]
+}

@@ -1,0 +1,859 @@
+{
+ "paper": 42,
+ "duration": 893.643175,
+ "match_ratio": 0.9885,
+ "heading": [
+  "The Powers Conferred by the Constitution Further Considered",
+  "From the New York Packet. Tuesday, January 22, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.72,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE SECOND class of powers, lodged in the general government, consists of those which regulate the intercourse with foreign nations, to wit:",
+   "begin": 16.72,
+   "end": 24.16,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "to make treaties;",
+   "begin": 24.16,
+   "end": 25.199,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "to send and receive ambassadors, other public ministers, and consuls;",
+   "begin": 25.199,
+   "end": 28.8,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "to define and punish piracies and felonies committed on the high seas, and offenses against the law of nations;",
+   "begin": 28.8,
+   "end": 34.719,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "to regulate foreign commerce, including a power to prohibit, after the year 1808, the importation of slaves, and to lay an intermediate duty of ten dollars per head, as a discouragement to such importations.",
+   "begin": 34.719,
+   "end": 46.48,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "This class of powers forms an obvious and essential branch of the federal administration.",
+   "begin": 46.48,
+   "end": 51.44,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "If we are to be one nation in any respect, it clearly ought to be in respect to other nations.",
+   "begin": 51.44,
+   "end": 56.559,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "The powers to make treaties and to send and receive ambassadors, speak their own propriety.",
+   "begin": 56.559,
+   "end": 62.0,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "Both of them are comprised in the articles of Confederation, with this difference only, that the former is disembarrassed, by the plan of the convention, of an exception, under which treaties might be substantially frustrated by regulations of the States;",
+   "begin": 62.0,
+   "end": 74.159,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "and that a power of appointing and receiving \"other public ministers and consuls,'' is expressly and very properly added to the former provision concerning ambassadors.",
+   "begin": 74.159,
+   "end": 83.36,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "The term ambassador, if taken strictly, as seems to be required by the second of the articles of Confederation, comprehends the highest grade only of public ministers, and excludes the grades which the United States will be most likely to prefer, where foreign embassies may be necessary.",
+   "begin": 83.36,
+   "end": 98.479,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "And under no latitude of construction will the term comprehend consuls.",
+   "begin": 98.479,
+   "end": 102.799,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "Yet it has been found expedient, and has been the practice of Congress, to employ the inferior grades of public ministers, and to send and receive consuls.",
+   "begin": 102.799,
+   "end": 111.52,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "It is true, that where treaties of commerce stipulate for the mutual appointment of consuls, whose functions are connected with commerce, the admission of foreign consuls may fall within the power of making commercial treaties;",
+   "begin": 111.52,
+   "end": 121.92,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "and that where no such treaties exist, the mission of American consuls into foreign countries may PERHAPS be covered under the authority, given by the ninth article of the Confederation, to appoint all such civil officers as may be necessary for managing the general affairs of the United States.",
+   "begin": 121.92,
+   "end": 137.04,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "But the admission of consuls into the United States, where no previous treaty has stipulated it, seems to have been nowhere provided for.",
+   "begin": 137.04,
+   "end": 144.239,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "A supply of the omission is one of the lesser instances in which the convention have improved on the model before them.",
+   "begin": 144.239,
+   "end": 150.48,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "But the most minute provisions become important when they tend to obviate the necessity or the pretext for gradual and unobserved usurpations of power.",
+   "begin": 150.48,
+   "end": 158.959,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "A list of the cases in which Congress have been betrayed, or forced by the defects of the Confederation, into violations of their chartered authorities, would not a little surprise those who have paid no attention to the subject;",
+   "begin": 158.959,
+   "end": 169.36,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "and would be no inconsiderable argument in favor of the new Constitution, which seems to have provided no less studiously for the lesser, than the more obvious and striking defects of the old.",
+   "begin": 169.36,
+   "end": 179.44,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "The power to define and punish piracies and felonies committed on the high seas, and offenses against the law of nations, belongs with equal propriety to the general government, and is a still greater improvement on the articles of Confederation.",
+   "begin": 179.44,
+   "end": 192.159,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "These articles contain no provision for the case of offenses against the law of nations;",
+   "begin": 192.159,
+   "end": 196.239,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "and consequently leave it in the power of any indiscreet member to embroil the Confederacy with foreign nations.",
+   "begin": 196.239,
+   "end": 202.4,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "The provision of the federal articles on the subject of piracies and felonies extends no further than to the establishment of courts for the trial of these offenses.",
+   "begin": 202.4,
+   "end": 210.56,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "The definition of piracies might, perhaps, without inconveniency, be left to the law of nations;",
+   "begin": 210.56,
+   "end": 215.519,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "though a legislative definition of them is found in most municipal codes.",
+   "begin": 215.519,
+   "end": 219.36,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "A definition of felonies on the high seas is evidently requisite.",
+   "begin": 219.36,
+   "end": 223.36,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "Felony is a term of loose signification, even in the common law of England;",
+   "begin": 223.36,
+   "end": 227.44,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "and of various import in the statute law of that kingdom.",
+   "begin": 227.44,
+   "end": 230.72,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "But neither the common nor the statute law of that, or of any other nation, ought to be a standard for the proceedings of this, unless previously made its own by legislative adoption.",
+   "begin": 230.72,
+   "end": 241.04,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "The meaning of the term, as defined in the codes of the several States, would be as impracticable as the former would be a dishonorable and illegitimate guide.",
+   "begin": 241.04,
+   "end": 249.12,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "It is not precisely the same in any two of the States;",
+   "begin": 249.12,
+   "end": 252.0,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "and varies in each with every revision of its criminal laws.",
+   "begin": 252.0,
+   "end": 255.76,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "For the sake of certainty and uniformity, therefore, the power of defining felonies in this case was in every respect necessary and proper.",
+   "begin": 255.76,
+   "end": 263.6,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "The regulation of foreign commerce, having fallen within several views which have been taken of this subject, has been too fully discussed to need additional proofs here of its being properly submitted to the federal administration.",
+   "begin": 263.6,
+   "end": 275.52,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "It were doubtless to be wished, that the power of prohibiting the importation of slaves had not been postponed until the year 1808, or rather that it had been suffered to have immediate operation.",
+   "begin": 275.52,
+   "end": 285.6,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "But it is not difficult to account, either for this restriction on the general government, or for the manner in which the whole clause is expressed.",
+   "begin": 285.6,
+   "end": 292.8,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "It ought to be considered as a great point gained in favor of humanity, that a period of twenty years may terminate forever, within these States, a traffic which has so long and so loudly upbraided the barbarism of modern policy;",
+   "begin": 292.8,
+   "end": 304.4,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "that within that period, it will receive a considerable discouragement from the federal government, and may be totally abolished, by a concurrence of the few States which continue the unnatural traffic, in the prohibitory example which has been given by so great a majority of the Union.",
+   "begin": 304.4,
+   "end": 318.4,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "Happy would it be for the unfortunate Africans, if an equal prospect lay before them of being redeemed from the oppressions of their European brethren!",
+   "begin": 318.4,
+   "end": 326.96,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "Attempts have been made to pervert this clause into an objection against the Constitution, by representing it on one side as a criminal toleration of an illicit practice, and on another as calculated to prevent voluntary and beneficial emigrations from Europe to America.",
+   "begin": 326.96,
+   "end": 341.52,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "I mention these misconstructions, not with a view to give them an answer, for they deserve none, but as specimens of the manner and spirit in which some have thought fit to conduct their opposition to the proposed government.",
+   "begin": 341.52,
+   "end": 352.4,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 6,
+   "text": "The powers included in the THIRD class are those which provide for the harmony and proper intercourse among the States.",
+   "begin": 352.4,
+   "end": 358.4,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 6,
+   "text": "Under this head might be included the particular restraints imposed on the authority of the States, and certain powers of the judicial department;",
+   "begin": 358.4,
+   "end": 365.68,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "but the former are reserved for a distinct class, and the latter will be particularly examined when we arrive at the structure and organization of the government.",
+   "begin": 365.68,
+   "end": 373.759,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "I shall confine myself to a cursory review of the remaining powers comprehended under this third description, to wit:",
+   "begin": 373.759,
+   "end": 379.68,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "to regulate commerce among the several States and the Indian tribes;",
+   "begin": 379.68,
+   "end": 383.6,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "to coin money, regulate the value thereof, and of foreign coin;",
+   "begin": 383.6,
+   "end": 387.44,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "to provide for the punishment of counterfeiting the current coin and secureties of the United States;",
+   "begin": 387.44,
+   "end": 392.4,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "to fix the standard of weights and measures;",
+   "begin": 392.4,
+   "end": 394.88,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "to establish a uniform rule of naturalization, and uniform laws of bankruptcy, to prescribe the manner in which the public acts, records, and judicial proceedings of each State shall be proved, and the effect they shall have in other States;",
+   "begin": 394.88,
+   "end": 406.88,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 6,
+   "text": "and to establish post offices and post roads.",
+   "begin": 406.88,
+   "end": 409.919,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 6,
+   "text": "The defect of power in the existing Confederacy to regulate the commerce between its several members, is in the number of those which have been clearly pointed out by experience.",
+   "begin": 409.919,
+   "end": 419.52,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "To the proofs and remarks which former papers have brought into view on this subject, it may be added that without this supplemental provision, the great and essential power of regulating foreign commerce would have been incomplete and ineffectual.",
+   "begin": 419.52,
+   "end": 431.599,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "A very material object of this power was the relief of the States which import and export through other States, from the improper contributions levied on them by the latter.",
+   "begin": 431.599,
+   "end": 440.8,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "Were these at liberty to regulate the trade between State and State, it must be foreseen that ways would be found out to load the articles of import and export, during the passage through their jurisdiction, with duties which would fall on the makers of the latter and the consumers of the former.",
+   "begin": 440.8,
+   "end": 455.52,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "We may be assured by past experience, that such a practice would be introduced by future contrivances;",
+   "begin": 455.52,
+   "end": 460.88,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "and both by that and a common knowledge of human affairs, that it would nourish unceasing animosities, and not improbably terminate in serious interruptions of the public tranquillity.",
+   "begin": 460.88,
+   "end": 470.24,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 8,
+   "text": "To those who do not view the question through the medium of passion or of interest, the desire of the commercial States to collect, in any form, an indirect revenue from their uncommercial neighbors, must appear not less impolitic than it is unfair;",
+   "begin": 470.24,
+   "end": 482.24,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 8,
+   "text": "since it would stimulate the injured party, by resentment as well as interest, to resort to less convenient channels for their foreign trade.",
+   "begin": 482.24,
+   "end": 489.44,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 8,
+   "text": "But the mild voice of reason, pleading the cause of an enlarged and permanent interest, is but too often drowned, before public bodies as well as individuals, by the clamors of an impatient avidity for immediate and immoderate gain.",
+   "begin": 489.44,
+   "end": 502.8,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 8,
+   "text": "The necessity of a superintending authority over the reciprocal trade of confederated States, has been illustrated by other examples as well as our own.",
+   "begin": 502.8,
+   "end": 511.12,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 8,
+   "text": "In Switzerland, where the Union is so very slight, each canton is obliged to allow to merchandises a passage through its jurisdiction into other cantons, without an augmentation of the tolls.",
+   "begin": 511.12,
+   "end": 521.839,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "In Germany it is a law of the empire, that the princes and states shall not lay tolls or customs on bridges, rivers, or passages, without the consent of the emperor and the diet;",
+   "begin": 521.839,
+   "end": 530.8,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 8,
+   "text": "though it appears from a quotation in an antecedent paper, that the practice in this, as in many other instances in that confederacy, has not followed the law, and has produced there the mischiefs which have been foreseen here.",
+   "begin": 530.8,
+   "end": 542.0,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 8,
+   "text": "Among the restraints imposed by the Union of the Netherlands on its members, one is, that they shall not establish imposts disadvantageous to their neighbors, without the general permission.",
+   "begin": 542.0,
+   "end": 551.68,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 9,
+   "text": "The regulation of commerce with the Indian tribes is very properly unfettered from two limitations in the articles of Confederation, which render the provision obscure and contradictory.",
+   "begin": 551.68,
+   "end": 561.2,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 9,
+   "text": "The power is there restrained to Indians, not members of any of the States, and is not to violate or infringe the legislative right of any State within its own limits.",
+   "begin": 561.2,
+   "end": 570.08,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 9,
+   "text": "What description of Indians are to be deemed members of a State, is not yet settled, and has been a question of frequent perplexity and contention in the federal councils.",
+   "begin": 570.08,
+   "end": 578.88,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 9,
+   "text": "And how the trade with Indians, though not members of a State, yet residing within its legislative jurisdiction, can be regulated by an external authority, without so far intruding on the internal rights of legislation, is absolutely incomprehensible.",
+   "begin": 578.88,
+   "end": 591.68,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 9,
+   "text": "This is not the only case in which the articles of Confederation have inconsiderately endeavored to accomplish impossibilities;",
+   "begin": 591.68,
+   "end": 597.44,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 9,
+   "text": "to reconcile a partial sovereignty in the Union, with complete sovereignty in the States;",
+   "begin": 597.44,
+   "end": 601.68,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 9,
+   "text": "to subvert a mathematical axiom, by taking away a part, and letting the whole remain.",
+   "begin": 601.68,
+   "end": 607.12,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 10,
+   "text": "All that need be remarked on the power to coin money, regulate the value thereof, and of foreign coin, is, that by providing for this last case, the Constitution has supplied a material omission in the articles of Confederation.",
+   "begin": 607.12,
+   "end": 619.6,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 10,
+   "text": "The authority of the existing Congress is restrained to the regulation of coin STRUCK by their own authority, or that of the respective States.",
+   "begin": 619.6,
+   "end": 627.279,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 10,
+   "text": "It must be seen at once that the proposed uniformity in the VALUE of the current coin might be destroyed by subjecting that of foreign coin to the different regulations of the different States.",
+   "begin": 627.279,
+   "end": 637.12,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 10,
+   "text": "The punishment of counterfeiting the public securities, as well as the current coin, is submitted of course to that authority which is to secure the value of both.",
+   "begin": 637.12,
+   "end": 645.44,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 10,
+   "text": "The regulation of weights and measures is transferred from the articles of Confederation, and is founded on like considerations with the preceding power of regulating coin.",
+   "begin": 645.44,
+   "end": 654.56,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 11,
+   "text": "The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions.",
+   "begin": 654.56,
+   "end": 662.88,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 11,
+   "text": "In the fourth article of the Confederation, it is declared \"that the FREE INHABITANTS of each of these States, paupers, vagabonds, and fugitives from justice, excepted, shall be entitled to all privileges and immunities of FREE CITIZENS in the several States;",
+   "begin": 662.88,
+   "end": 675.76,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 11,
+   "text": "and THE PEOPLE of each State shall, in every other, enjoy all the privileges of trade and commerce,'' etc.",
+   "begin": 675.76,
+   "end": 681.519,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 11,
+   "text": "There is a confusion of language here, which is remarkable.",
+   "begin": 681.519,
+   "end": 684.959,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 11,
+   "text": "Why the terms FREE INHABITANTS are used in one part of the article, FREE CITIZENS in another, and PEOPLE in another;",
+   "begin": 684.959,
+   "end": 692.0,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 11,
+   "text": "or what was meant by superadding to \"all privileges and immunities of free citizens,'' \"all the privileges of trade and commerce,'' cannot easily be determined.",
+   "begin": 692.0,
+   "end": 701.36,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 11,
+   "text": "It seems to be a construction scarcely avoidable, however, that those who come under the denomination of FREE INHABITANTS of a State, although not citizens of such State, are entitled, in every other State, to all the privileges of FREE CITIZENS of the latter;",
+   "begin": 701.36,
+   "end": 714.399,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 11,
+   "text": "that is, to greater privileges than they may be entitled to in their own State:",
+   "begin": 714.399,
+   "end": 718.639,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 11,
+   "text": "so that it may be in the power of a particular State, or rather every State is laid under a necessity, not only to confer the rights of citizenship in other States upon any whom it may admit to such rights within itself, but upon any whom it may allow to become inhabitants within its jurisdiction.",
+   "begin": 718.639,
+   "end": 733.839,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 11,
+   "text": "But were an exposition of the term \"inhabitants'' to be admitted which would confine the stipulated privileges to citizens alone, the difficulty is diminished only, not removed.",
+   "begin": 733.839,
+   "end": 743.44,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 11,
+   "text": "The very improper power would still be retained by each State, of naturalizing aliens in every other State.",
+   "begin": 743.44,
+   "end": 749.36,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 11,
+   "text": "In one State, residence for a short term confirms all the rights of citizenship:",
+   "begin": 749.36,
+   "end": 753.76,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 11,
+   "text": "in another, qualifications of greater importance are required.",
+   "begin": 753.76,
+   "end": 757.279,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 11,
+   "text": "An alien, therefore, legally incapacitated for certain rights in the latter, may, by previous residence only in the former, elude his incapacity;",
+   "begin": 757.279,
+   "end": 765.279,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 11,
+   "text": "and thus the law of one State be preposterously rendered paramount to the law of another, within the jurisdiction of the other.",
+   "begin": 765.279,
+   "end": 772.24,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 12,
+   "text": "We owe it to mere casualty, that very serious embarrassments on this subject have been hitherto escaped.",
+   "begin": 772.24,
+   "end": 778.32,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 12,
+   "text": "By the laws of several States, certain descriptions of aliens, who had rendered themselves obnoxious, were laid under interdicts inconsistent not only with the rights of citizenship but with the privilege of residence.",
+   "begin": 778.32,
+   "end": 789.2,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 12,
+   "text": "What would have been the consequence, if such persons, by residence or otherwise, had acquired the character of citizens under the laws of another State, and then asserted their rights as such, both to residence and citizenship, within the State proscribing them?",
+   "begin": 789.2,
+   "end": 801.76,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 12,
+   "text": "Whatever the legal consequences might have been, other consequences would probably have resulted, of too serious a nature not to be provided against.",
+   "begin": 801.76,
+   "end": 809.839,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 12,
+   "text": "The new Constitution has accordingly, with great propriety, made provision against them, and all others proceeding from the defect of the Confederation on this head, by authorizing the general government to establish a uniform rule of naturalization throughout the United States.",
+   "begin": 809.839,
+   "end": 823.6,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 12,
+   "text": "The power of establishing uniform laws of bankruptcy is so intimately connected with the regulation of commerce, and will prevent so many frauds where the parties or their property may lie or be removed into different States, that the expediency of it seems not likely to be drawn into question.",
+   "begin": 823.6,
+   "end": 838.88,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 12,
+   "text": "The power of prescribing by general laws, the manner in which the public acts, records and judicial proceedings of each State shall be proved, and the effect they shall have in other States, is an evident and valuable improvement on the clause relating to this subject in the articles of Confederation.",
+   "begin": 838.88,
+   "end": 853.76,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 12,
+   "text": "The meaning of the latter is extremely indeterminate, and can be of little importance under any interpretation which it will bear.",
+   "begin": 853.76,
+   "end": 860.079,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 12,
+   "text": "The power here established may be rendered a very convenient instrument of justice, and be particularly beneficial on the borders of contiguous States, where the effects liable to justice may be suddenly and secretly translated, in any stage of the process, within a foreign jurisdiction.",
+   "begin": 860.079,
+   "end": 875.199,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 12,
+   "text": "The power of establishing post roads must, in every view, be a harmless power, and may, perhaps, by judicious management, become productive of great public conveniency.",
+   "begin": 875.199,
+   "end": 884.639,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 12,
+   "text": "Nothing which tends to facilitate the intercourse between the States can be deemed unworthy of the public care.",
+   "begin": 884.639,
+   "end": 892.36,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 13,
+   "text": "PUBLIUS.",
+   "begin": 892.36,
+   "end": 893.643175,
+   "synced": true
+  }
+ ]
+}

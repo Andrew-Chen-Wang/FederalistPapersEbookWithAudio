@@ -1,0 +1,1347 @@
+{
+ "paper": 84,
+ "duration": 1270.01542,
+ "match_ratio": 0.92,
+ "heading": [
+  "Certain General and Miscellaneous Objections to the Constitution Considered and Answered",
+  "From McLEAN's Edition, New York."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 11.44,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IN THE course of the foregoing review of the Constitution, I have taken notice of, and endeavored to answer most of the objections which have appeared against it.",
+   "begin": 11.44,
+   "end": 19.68,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "There, however, remain a few which either did not fall naturally under any particular head or were forgotten in their proper places.",
+   "begin": 19.68,
+   "end": 26.96,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "These shall now be discussed;",
+   "begin": 26.96,
+   "end": 29.039,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "but as the subject has been drawn into great length, I shall so far consult brevity as to comprise all my observations on these miscellaneous points in a single paper.",
+   "begin": 29.039,
+   "end": 38.879,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The most considerable of the remaining objections is that the plan of the convention contains no bill of rights.",
+   "begin": 38.879,
+   "end": 44.64,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "Among other answers given to this, it has been upon different occasions remarked that the constitutions of several of the States are in a similar predicament.",
+   "begin": 44.64,
+   "end": 52.64,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "I add that New York is of the number.",
+   "begin": 52.64,
+   "end": 55.199,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "And yet the opposers of the new system, in this State, who profess an unlimited admiration for its constitution, are among the most intemperate partisans of a bill of rights.",
+   "begin": 55.199,
+   "end": 64.4,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "To justify their zeal in this matter, they allege two things:",
+   "begin": 64.4,
+   "end": 67.76,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "one is that, though the constitution of New York has no bill of rights prefixed to it, yet it contains, in the body of it, various provisions in favor of particular privileges and rights, which, in substance amount to the same thing;",
+   "begin": 67.76,
+   "end": 80.08,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "the other is, that the Constitution adopts, in their full extent, the common and statute law of Great Britain, by which many other rights, not expressed in it, are equally secured.",
+   "begin": 80.08,
+   "end": 89.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "To the first I answer, that the Constitution proposed by the convention contains, as well as the constitution of this State, a number of such provisions.",
+   "begin": 89.68,
+   "end": 97.92,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "Independent of those which relate to the structure of the government, we find the following:",
+   "begin": 97.92,
+   "end": 101.92,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "Article 1, section 3, clause 7 \"Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust, or profit under the United States;",
+   "begin": 101.92,
+   "end": 115.36,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "but the party convicted shall, nevertheless, be liable and subject to indictment, trial, judgment, and punishment according to law.'' Section 9, of the same article, clause 2 \"The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.'' Clause 3 \"No bill of attainder or ex-post-facto law shall be passed.'' Clause 7 \"No title of nobility shall be granted by the United States;",
+   "begin": 115.36,
+   "end": 141.12,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "and no person holding any office of profit or trust under them, shall, without the consent of the Congress, accept of any present, emolument, office, or title of any kind whatever, from any king, prince, or foreign state.'' Article 3, section 2, clause 3 \"The trial of all crimes, except in cases of impeachment, shall be by jury;",
+   "begin": 141.12,
+   "end": 159.68,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "and such trial shall be held in the State where the said crimes shall have been committed;",
+   "begin": 159.68,
+   "end": 164.08,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "but when not committed within any State, the trial shall be at such place or places as the Congress may by law have directed.'' Section 3, of the same article \"Treason against the United States shall consist only in levying war against them, or in adhering to their enemies, giving them aid and comfort.",
+   "begin": 164.08,
+   "end": 180.72,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "No person shall be convicted of treason, unless on the testimony of two witnesses to the same overt act, or on confession in open court.'' And clause 3, of the same section \"The Congress shall have power to declare the punishment of treason;",
+   "begin": 180.72,
+   "end": 193.2,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "but no attainder of treason shall work corruption of blood, or forfeiture, except during the life of the person attainted.''",
+   "begin": 193.2,
+   "end": 199.76,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "It may well be a question, whether these are not, upon the whole, of equal importance with any which are to be found in the constitution of this State.",
+   "begin": 199.76,
+   "end": 207.599,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "The establishment of the writ of habeas corpus, the prohibition of ex-post-facto laws, and of TITLES OF NOBILITY, TO WHICH WE HAVE NO CORRESPONDING PROVISION IN OUR CONSTITUTION, are perhaps greater securities to liberty and republicanism than any it contains.",
+   "begin": 207.599,
+   "end": 221.599,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "The creation of crimes after the commission of the fact, or, in other words, the subjecting of men to punishment for things which, when they were done, were breaches of no law, and the practice of arbitrary imprisonments, have been, in all ages, the favorite and most formidable instruments of tyranny.",
+   "begin": 221.599,
+   "end": 236.72,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "The observations of the judicious Blackstone,1 in reference to the latter, are well worthy of recital:",
+   "begin": 236.72,
+   "end": 246.08,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "\"To bereave a man of life, \u00c3\u0095says he,\u00c3\u00a5 or by violence to confiscate his estate, without accusation or trial, would be so gross and notorious an act of despotism, as must at once convey the alarm of tyranny throughout the whole nation;",
+   "begin": 246.08,
+   "end": 258.639,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "but confinement of the person, by secretly hurrying him to jail, where his sufferings are unknown or forgotten, is a less public, a less striking, and therefore A MORE DANGEROUS ENGINE of arbitrary government.'' And as a remedy for this fatal evil he is everywhere peculiarly emphatical in his encomiums on the habeas-corpus act, which in one place he calls \"the BULWARK of the British Constitution.''2",
+   "begin": 258.639,
+   "end": 283.52,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "Nothing need be said to illustrate the importance of the prohibition of titles of nobility.",
+   "begin": 283.52,
+   "end": 287.84,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 6,
+   "text": "This may truly be denominated the corner-stone of republican government;",
+   "begin": 287.84,
+   "end": 291.44,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "for so long as they are excluded, there can never be serious danger that the government will be any other than that of the people.",
+   "begin": 291.44,
+   "end": 298.479,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "To the second that is, to the pretended establishment of the common and state law by the Constitution, I answer, that they are expressly made subject \"to such alterations and provisions as the legislature shall from time to time make concerning the same.'' They are therefore at any moment liable to repeal by the ordinary legislative power, and of course have no constitutional sanction.",
+   "begin": 298.479,
+   "end": 319.28,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "The only use of the declaration was to recognize the ancient law and to remove doubts which might have been occasioned by the Revolution.",
+   "begin": 319.28,
+   "end": 326.96,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "This consequently can be considered as no part of a declaration of rights, which under our constitutions must be intended as limitations of the power of the government itself.",
+   "begin": 326.96,
+   "end": 336.72,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "It has been several times truly remarked that bills of rights are, in their origin, stipulations between kings and their subjects, abridgements of prerogative in favor of privilege, reservations of rights not surrendered to the prince.",
+   "begin": 336.72,
+   "end": 348.72,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "Such was MAGNA CHARTA, obtained by the barons, sword in hand, from King John.",
+   "begin": 348.72,
+   "end": 353.28,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "Such were the subsequent confirmations of that charter by succeeding princes.",
+   "begin": 353.28,
+   "end": 357.12,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "Such was the PETITION OF RIGHT assented to by Charles I., in the beginning of his reign.",
+   "begin": 357.12,
+   "end": 362.0,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "Such, also, was the Declaration of Right presented by the Lords and Commons to the Prince of Orange in 1688, and afterwards thrown into the form of an act of parliament called the Bill of Rights.",
+   "begin": 362.0,
+   "end": 372.4,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "It is evident, therefore, that, according to their primitive signification, they have no application to constitutions professedly founded upon the power of the people, and executed by their immediate representatives and servants.",
+   "begin": 372.4,
+   "end": 383.919,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "Here, in strictness, the people surrender nothing;",
+   "begin": 383.919,
+   "end": 386.56,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "and as they retain every thing they have no need of particular reservations.",
+   "begin": 386.56,
+   "end": 390.639,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 8,
+   "text": "\"WE, THE PEOPLE of the United States, to secure the blessings of liberty to ourselves and our posterity, do ORDAIN and ESTABLISH this Constitution for the United States of America.'' Here is a better recognition of popular rights, than volumes of those aphorisms which make the principal figure in several of our State bills of rights, and which would sound much better in a treatise of ethics than in a constitution of government.",
+   "begin": 390.639,
+   "end": 413.12,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "But a minute detail of particular rights is certainly far less applicable to a Constitution like that under consideration, which is merely intended to regulate the general political interests of the nation, than to a constitution which has the regulation of every species of personal and private concerns.",
+   "begin": 413.12,
+   "end": 428.96,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "If, therefore, the loud clamors against the plan of the convention, on this score, are well founded, no epithets of reprobation will be too strong for the constitution of this State.",
+   "begin": 428.96,
+   "end": 438.16,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "But the truth is, that both of them contain all which, in relation to their objects, is reasonably to be desired.",
+   "begin": 438.16,
+   "end": 444.56,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "I go further, and affirm that bills of rights, in the sense and to the extent in which they are contended for, are not only unnecessary in the proposed Constitution, but would even be dangerous.",
+   "begin": 444.56,
+   "end": 454.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "They would contain various exceptions to powers not granted;",
+   "begin": 454.56,
+   "end": 457.52,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "and, on this very account, would afford a colorable pretext to claim more than were granted.",
+   "begin": 457.52,
+   "end": 462.639,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "For why declare that things shall not be done which there is no power to do?",
+   "begin": 462.639,
+   "end": 466.879,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 10,
+   "text": "Why, for instance, should it be said that the liberty of the press shall not be restrained, when no power is given by which restrictions may be imposed?",
+   "begin": 466.879,
+   "end": 474.639,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 10,
+   "text": "I will not contend that such a provision would confer a regulating power;",
+   "begin": 474.639,
+   "end": 478.4,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 10,
+   "text": "but it is evident that it would furnish, to men disposed to usurp, a plausible pretense for claiming that power.",
+   "begin": 478.4,
+   "end": 484.72,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 10,
+   "text": "They might urge with a semblance of reason, that the Constitution ought not to be charged with the absurdity of providing against the abuse of an authority which was not given, and that the provision against restraining the liberty of the press afforded a clear implication, that a power to prescribe proper regulations concerning it was intended to be vested in the national government.",
+   "begin": 484.72,
+   "end": 503.12,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 10,
+   "text": "This may serve as a specimen of the numerous handles which would be given to the doctrine of constructive powers, by the indulgence of an injudicious zeal for bills of rights.",
+   "begin": 503.12,
+   "end": 511.599,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 11,
+   "text": "On the subject of the liberty of the press, as much as has been said, I cannot forbear adding a remark or two:",
+   "begin": 511.599,
+   "end": 517.36,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 11,
+   "text": "in the first place, I observe, that there is not a syllable concerning it in the constitution of this State;",
+   "begin": 517.36,
+   "end": 522.399,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 11,
+   "text": "in the next, I contend, that whatever has been said about it in that of any other State, amounts to nothing.",
+   "begin": 522.399,
+   "end": 528.24,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 11,
+   "text": "What signifies a declaration, that \"the liberty of the press shall be inviolably preserved''?",
+   "begin": 528.24,
+   "end": 533.12,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 11,
+   "text": "What is the liberty of the press?",
+   "begin": 533.12,
+   "end": 534.72,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 11,
+   "text": "Who can give it any definition which would not leave the utmost latitude for evasion?",
+   "begin": 534.72,
+   "end": 539.44,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "I hold it to be impracticable;",
+   "begin": 539.44,
+   "end": 541.04,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "and from this I infer, that its security, whatever fine declarations may be inserted in any constitution respecting it, must altogether depend on public opinion, and on the general spirit of the people and of the government.3 And here, after all, as is intimated upon another occasion, must we seek for the only solid basis of all our rights.",
+   "begin": 541.04,
+   "end": 629.36,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 12,
+   "text": "There remains but one other view of this matter to conclude the point.",
+   "begin": 629.36,
+   "end": 632.959,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 12,
+   "text": "The truth is, after all the declamations we have heard, that the Constitution is itself, in every rational sense, and to every useful purpose, A BILL OF RIGHTS.",
+   "begin": 632.959,
+   "end": 641.279,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 12,
+   "text": "The several bills of rights in Great Britain form its Constitution, and conversely the constitution of each State is its bill of rights.",
+   "begin": 641.279,
+   "end": 647.92,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 12,
+   "text": "And the proposed Constitution, if adopted, will be the bill of rights of the Union.",
+   "begin": 647.92,
+   "end": 652.399,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 12,
+   "text": "Is it one object of a bill of rights to declare and specify the political privileges of the citizens in the structure and administration of the government?",
+   "begin": 652.399,
+   "end": 659.519,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 12,
+   "text": "This is done in the most ample and precise manner in the plan of the convention;",
+   "begin": 659.519,
+   "end": 663.04,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "comprehending various precautions for the public security, which are not to be found in any of the State constitutions.",
+   "begin": 663.04,
+   "end": 668.959,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 12,
+   "text": "Is another object of a bill of rights to define certain immunities and modes of proceeding, which are relative to personal and private concerns?",
+   "begin": 668.959,
+   "end": 676.64,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 12,
+   "text": "This we have seen has also been attended to, in a variety of cases, in the same plan.",
+   "begin": 676.64,
+   "end": 681.68,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 12,
+   "text": "Adverting therefore to the substantial meaning of a bill of rights, it is absurd to allege that it is not to be found in the work of the convention.",
+   "begin": 681.68,
+   "end": 689.12,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 12,
+   "text": "It may be said that it does not go far enough, though it will not be easy to make this appear;",
+   "begin": 689.12,
+   "end": 693.519,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 12,
+   "text": "but it can with no propriety be contended that there is no such thing.",
+   "begin": 693.519,
+   "end": 697.68,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 12,
+   "text": "It certainly must be immaterial what mode is observed as to the order of declaring the rights of the citizens, if they are to be found in any part of the instrument which establishes the government.",
+   "begin": 697.68,
+   "end": 707.279,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 12,
+   "text": "And hence it must be apparent, that much of what has been said on this subject rests merely on verbal and nominal distinctions, entirely foreign from the substance of the thing.",
+   "begin": 707.279,
+   "end": 716.399,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 13,
+   "text": "Another objection which has been made, and which, from the frequency of its repetition, it is to be presumed is relied on, is of this nature:",
+   "begin": 716.399,
+   "end": 723.12,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 13,
+   "text": "\"It is improper \u00c3\u0095say the objectors\u00c3\u00a5 to confer such large powers, as are proposed, upon the national government, because the seat of that government must of necessity be too remote from many of the States to admit of a proper knowledge on the part of the constituent, of the conduct of the representative body.'' This argument, if it proves any thing, proves that there ought to be no general government whatever.",
+   "begin": 723.12,
+   "end": 743.76,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 13,
+   "text": "For the powers which, it seems to be agreed on all hands, ought to be vested in the Union, cannot be safely intrusted to a body which is not under every requisite control.",
+   "begin": 743.76,
+   "end": 752.72,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 13,
+   "text": "But there are satisfactory reasons to show that the objection is in reality not well founded.",
+   "begin": 752.72,
+   "end": 757.76,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 13,
+   "text": "There is in most of the arguments which relate to distance a palpable illusion of the imagination.",
+   "begin": 757.76,
+   "end": 763.2,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 13,
+   "text": "What are the sources of information by which the people in Montgomery County must regulate their judgment of the conduct of their representatives in the State legislature?",
+   "begin": 763.2,
+   "end": 771.279,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 13,
+   "text": "Of personal observation they can have no benefit.",
+   "begin": 771.279,
+   "end": 773.92,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 13,
+   "text": "This is confined to the citizens on the spot.",
+   "begin": 773.92,
+   "end": 776.399,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 13,
+   "text": "They must therefore depend on the information of intelligent men, in whom they confide;",
+   "begin": 776.399,
+   "end": 780.8,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 13,
+   "text": "and how must these men obtain their information?",
+   "begin": 780.8,
+   "end": 783.44,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 13,
+   "text": "Evidently from the complexion of public measures, from the public prints, from correspondences with theirrepresentatives, and with other persons who reside at the place of their deliberations.",
+   "begin": 783.44,
+   "end": 792.959,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 13,
+   "text": "This does not apply to Montgomery County only, but to all the counties at any considerable distance from the seat of government.",
+   "begin": 792.959,
+   "end": 799.44,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 14,
+   "text": "It is equally evident that the same sources of information would be open to the people in relation to the conduct of their representatives in the general government, and the impediments to a prompt communication which distance may be supposed to create, will be overbalanced by the effects of the vigilance of the State governments.",
+   "begin": 799.44,
+   "end": 814.8,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 14,
+   "text": "The executive and legislative bodies of each State will be so many sentinels over the persons employed in every department of the national administration;",
+   "begin": 814.8,
+   "end": 822.16,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 14,
+   "text": "and as it will be in their power to adopt and pursue a regular and effectual system of intelligence, they can never be at a loss to know the behavior of those who represent their constituents in the national councils, and can readily communicate the same knowledge to the people.",
+   "begin": 822.16,
+   "end": 835.36,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 14,
+   "text": "Their disposition to apprise the community of whatever may prejudice its interests from another quarter, may be relied upon, if it were only from the rivalship of power.",
+   "begin": 835.36,
+   "end": 844.16,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 14,
+   "text": "And we may conclude with the fullest assurance that the people, through that channel, will be better informed of the conduct of their national representatives, than they can be by any means they now possess of that of their State representatives.",
+   "begin": 844.16,
+   "end": 855.839,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 15,
+   "text": "It ought also to be remembered that the citizens who inhabit the country at and near the seat of government will, in all questions that affect the general liberty and prosperity, have the same interest with those who are at a distance, and that they will stand ready to sound the alarm when necessary, and to point out the actors in any pernicious project.",
+   "begin": 855.839,
+   "end": 872.959,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 15,
+   "text": "The public papers will be expeditious messengers of intelligence to the most remote inhabitants of the Union.",
+   "begin": 872.959,
+   "end": 878.8,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 16,
+   "text": "Among the many curious objections which have appeared against the proposed Constitution, the most extraordinary and the least colorable is derived from the want of some provision respecting the debts due TO the United States.",
+   "begin": 878.8,
+   "end": 890.8,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 16,
+   "text": "This has been represented as a tacit relinquishment of those debts, and as a wicked contrivance to screen public defaulters.",
+   "begin": 890.8,
+   "end": 897.519,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 16,
+   "text": "The newspapers have teemed with the most inflammatory railings on this head;",
+   "begin": 897.519,
+   "end": 901.199,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 16,
+   "text": "yet there is nothing clearer than that the suggestion is entirely void of foundation, the of",
+   "begin": 901.199,
+   "end": 905.76,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 17,
+   "text": "fspring of extreme ignorance or extreme dishonesty.",
+   "begin": 905.76,
+   "end": 908.88,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 17,
+   "text": "In addition to the remarks I have made upon the subject in another place, I shall only observe that as it is a plain dictate of common-sense, so it is also an established doctrine of political law, that \"STATES NEITHER LOSE ANY OF THEIR RIGHTS, NOR ARE DISCHARGED FROM ANY OF THEIR OBLIGATIONS, BY A CHANGE IN THE FORM OF THEIR CIVIL GOVERNMENT.''4 The last objection of any consequence, which I at present recollect, turns upon the article of expense.",
+   "begin": 908.88,
+   "end": 932.8,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 17,
+   "text": "If it were even true, that the adoption of the proposed government would occasion a considerable increase of expense, it would be an objection that ought to have no weight against the plan.",
+   "begin": 932.8,
+   "end": 942.24,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 18,
+   "text": "The great bulk of the citizens of America are with reason convinced, that Union is the basis of their political happiness.",
+   "begin": 942.24,
+   "end": 948.639,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 18,
+   "text": "Men of sense of all parties now, with few exceptions, agree that it cannot be preserved under the present system, nor without radical alterations;",
+   "begin": 948.639,
+   "end": 956.24,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 18,
+   "text": "that new and extensive powers ought to be granted to the national head, and that these require a different organization of the federal government a single body being an unsafe depositary of such ample authorities.",
+   "begin": 956.24,
+   "end": 967.36,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 18,
+   "text": "In conceding all this, the question of expense must be given up;",
+   "begin": 967.36,
+   "end": 971.199,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 18,
+   "text": "for it is impossible, with any degree of safety, to narrow the foundation upon which the system is to stand.",
+   "begin": 971.199,
+   "end": 976.88,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 18,
+   "text": "The two branches of the legislature are, in the first instance, to consist of only sixty-five persons, which is the same number of which Congress, under the existing Confederation, may be composed.",
+   "begin": 976.88,
+   "end": 986.8,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 18,
+   "text": "It is true that this number is intended to be increased;",
+   "begin": 986.8,
+   "end": 989.519,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 18,
+   "text": "but this is to keep pace with the progress of the population and resources of the country.",
+   "begin": 989.519,
+   "end": 994.079,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 18,
+   "text": "It is evident that a less number would, even in the first instance, have been unsafe, and that a continuance of the present number would, in a more advanced stage of population, be a very inadequate representation of the people.",
+   "begin": 994.079,
+   "end": 1006.32,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 19,
+   "text": "Whence is the dreaded augmentation of expense to spring?",
+   "begin": 1006.32,
+   "end": 1009.759,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 19,
+   "text": "One source indicated, is the multiplication of offices under the new government.",
+   "begin": 1009.759,
+   "end": 1014.079,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 19,
+   "text": "Let us examine this a little.",
+   "begin": 1014.079,
+   "end": 1016.32,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 20,
+   "text": "It is evident that the principal departments of the administration under the present government, are the same which will be required under the new.",
+   "begin": 1016.32,
+   "end": 1022.959,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 20,
+   "text": "There are now a Secretary of War, a Secretary of Foreign Affairs, a Secretary for Domestic Affairs, a Board of Treasury, consisting of three persons, a Treasurer, assistants, clerks, etc.",
+   "begin": 1022.959,
+   "end": 1033.76,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 20,
+   "text": "These officers are indispensable under any system, and will suffice under the new as well as the old.",
+   "begin": 1033.76,
+   "end": 1039.36,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 20,
+   "text": "As to ambassadors and other ministers and agents in foreign countries, the proposed Constitution can make no other difference than to render their characters, where they reside, more respectable, and their services more useful.",
+   "begin": 1039.36,
+   "end": 1050.559,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 20,
+   "text": "As to persons to be employed in the collection of the revenues, it is unquestionably true that these will form a very considerable addition to the number of federal officers;",
+   "begin": 1050.559,
+   "end": 1058.32,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 20,
+   "text": "but it will not follow that this will occasion an increase of public expense.",
+   "begin": 1058.32,
+   "end": 1062.24,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 20,
+   "text": "It will be in most cases nothing more than an exchange of State for national officers.",
+   "begin": 1062.24,
+   "end": 1067.2,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 20,
+   "text": "In the collection of all duties, for instance, the persons employed will be wholly of the latter description.",
+   "begin": 1067.2,
+   "end": 1072.64,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 20,
+   "text": "The States individually will stand in no need of any for this purpose.",
+   "begin": 1072.64,
+   "end": 1076.32,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 20,
+   "text": "What difference can it make in point of expense to pay officers of the customs appointed by the State or by the United States?",
+   "begin": 1076.32,
+   "end": 1082.72,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 20,
+   "text": "There is no good reason to suppose that either the number or the salaries of the latter will be greater than those of the former.",
+   "begin": 1082.72,
+   "end": 1089.2,
+   "synced": true
+  },
+  {
+   "id": "u0126",
+   "para": 21,
+   "text": "Where then are we to seek for those additional articles of expense which are to swell the account to the enormous size that has been represented to us?",
+   "begin": 1089.2,
+   "end": 1097.039,
+   "synced": true
+  },
+  {
+   "id": "u0127",
+   "para": 21,
+   "text": "The chief item which occurs to me respects the support of the judges of the United States.",
+   "begin": 1097.039,
+   "end": 1102.08,
+   "synced": true
+  },
+  {
+   "id": "u0128",
+   "para": 21,
+   "text": "I do not add the President, because there is now a president of Congress, whose expenses may not be far, if any thing, short of those which will be incurred on account of the President of the United States.",
+   "begin": 1102.08,
+   "end": 1112.48,
+   "synced": true
+  },
+  {
+   "id": "u0129",
+   "para": 21,
+   "text": "The support of the judges will clearly be an extra expense, but to what extent will depend on the particular plan which may be adopted in regard to this matter.",
+   "begin": 1112.48,
+   "end": 1120.24,
+   "synced": true
+  },
+  {
+   "id": "u0130",
+   "para": 21,
+   "text": "But upon no reasonable plan can it amount to a sum which will be an object of material consequence.",
+   "begin": 1120.24,
+   "end": 1126.24,
+   "synced": true
+  },
+  {
+   "id": "u0131",
+   "para": 22,
+   "text": "Let us now see what there is to counterbalance any extra expense that may attend the establishment of the proposed government.",
+   "begin": 1126.24,
+   "end": 1132.799,
+   "synced": true
+  },
+  {
+   "id": "u0132",
+   "para": 22,
+   "text": "The first thing which presents itself is that a great part of the business which now keeps Congress sitting through the year will be transacted by the President.",
+   "begin": 1132.799,
+   "end": 1140.16,
+   "synced": true
+  },
+  {
+   "id": "u0133",
+   "para": 22,
+   "text": "Even the management of foreign negotiations will naturally devolve upon him, according to general principles concerted with the Senate, and subject to their final concurrence.",
+   "begin": 1140.16,
+   "end": 1148.48,
+   "synced": true
+  },
+  {
+   "id": "u0134",
+   "para": 22,
+   "text": "Hence it is evident that a portion of the year will suffice for the session of both the Senate and the House of Representatives;",
+   "begin": 1148.48,
+   "end": 1154.48,
+   "synced": true
+  },
+  {
+   "id": "u0135",
+   "para": 22,
+   "text": "we may suppose about a fourth for the latter and a third, or perhaps half, for the former.",
+   "begin": 1154.48,
+   "end": 1159.28,
+   "synced": true
+  },
+  {
+   "id": "u0136",
+   "para": 22,
+   "text": "The extra business of treaties and appointments may give this extra occupation to the Senate.",
+   "begin": 1159.28,
+   "end": 1164.08,
+   "synced": true
+  },
+  {
+   "id": "u0137",
+   "para": 22,
+   "text": "From this circumstance we may infer that, until the House of Representatives shall be increased greatly beyond its present number, there will be a considerable saving of expense from the difference between the constant session of the present and the temporary session of the future Congress.",
+   "begin": 1164.08,
+   "end": 1178.24,
+   "synced": true
+  },
+  {
+   "id": "u0138",
+   "para": 23,
+   "text": "But there is another circumstance of great importance in the view of economy.",
+   "begin": 1178.24,
+   "end": 1182.16,
+   "synced": true
+  },
+  {
+   "id": "u0139",
+   "para": 23,
+   "text": "The business of the United States has hitherto occupied the State legislatures, as well as Congress.",
+   "begin": 1182.16,
+   "end": 1187.2,
+   "synced": true
+  },
+  {
+   "id": "u0140",
+   "para": 23,
+   "text": "The latter has made requisitions which the former have had to provide for.",
+   "begin": 1187.2,
+   "end": 1191.36,
+   "synced": true
+  },
+  {
+   "id": "u0141",
+   "para": 23,
+   "text": "Hence it has happened that the sessions of the State legislatures have been protracted greatly beyond what was necessary for the execution of the mere local business of the States.",
+   "begin": 1191.36,
+   "end": 1199.44,
+   "synced": true
+  },
+  {
+   "id": "u0142",
+   "para": 23,
+   "text": "More than half their time has been frequently employed in matters which related to the United States.",
+   "begin": 1199.44,
+   "end": 1204.32,
+   "synced": true
+  },
+  {
+   "id": "u0143",
+   "para": 23,
+   "text": "Now the members who compose the legislatures of the several States amount to two thousand and upwards, which number has hitherto performed what under the new system will be done in the first instance by sixty-five persons, and probably at no future period by above a fourth or fifth of that number.",
+   "begin": 1204.32,
+   "end": 1219.28,
+   "synced": true
+  },
+  {
+   "id": "u0144",
+   "para": 23,
+   "text": "The Congress under the proposed government will do all the business of the United States themselves, without the intervention of the State legislatures, who thenceforth will have only to attend to the affairs of their particular States, and will not have to sit in any proportion as long as they have heretofore done.",
+   "begin": 1219.28,
+   "end": 1233.84,
+   "synced": true
+  },
+  {
+   "id": "u0145",
+   "para": 23,
+   "text": "This difference in the time of the sessions of the State legislatures will be clear gain, and will alone form an article of saving, which may be regarded as an equivalent for any additional objects of expense that may be occasioned by the adoption of the new system.",
+   "begin": 1233.84,
+   "end": 1247.6,
+   "synced": true
+  },
+  {
+   "id": "u0146",
+   "para": 24,
+   "text": "The result from these observations is that the sources of additional expense from the establishment of the proposed Constitution are much fewer than may have been imagined;",
+   "begin": 1247.6,
+   "end": 1255.679,
+   "synced": true
+  },
+  {
+   "id": "u0147",
+   "para": 24,
+   "text": "that they are counterbalanced by considerable objects of saving;",
+   "begin": 1255.679,
+   "end": 1258.799,
+   "synced": true
+  },
+  {
+   "id": "u0148",
+   "para": 24,
+   "text": "and that while it is questionable on which side the scale will preponderate, it is certain that a government less expensive would be incompetent to the purposes of the Union.",
+   "begin": 1258.799,
+   "end": 1268.24,
+   "synced": true
+  },
+  {
+   "id": "u0149",
+   "para": 25,
+   "text": "PUBLIUS.",
+   "begin": 1268.24,
+   "end": 1269.24,
+   "synced": true
+  },
+  {
+   "id": "u0150",
+   "para": 26,
+   "text": "1.",
+   "begin": 1269.24,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0151",
+   "para": 26,
+   "text": "Vide Blackstone's \"Commentaries,'' vol.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0152",
+   "para": 26,
+   "text": "1., p.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0153",
+   "para": 26,
+   "text": "136.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0154",
+   "para": 27,
+   "text": "2.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0155",
+   "para": 27,
+   "text": "Vide Blackstone's \"Commentaries,'' vol.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0156",
+   "para": 27,
+   "text": "iv., p.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0157",
+   "para": 27,
+   "text": "438.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0158",
+   "para": 28,
+   "text": "3.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0159",
+   "para": 28,
+   "text": "To show that there is a power in the Constitution by which the liberty of the press may be affected, recourse has been had to the power of taxation.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0160",
+   "para": 28,
+   "text": "It is said that duties may be laid upon the publications so high as to amount to a prohibition.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0161",
+   "para": 28,
+   "text": "I know not by what logic it could be maintained, that the declarations in the State constitutions, in favor of the freedom of the press, would be a constitutional impediment to the imposition of duties upon publications by the State legislatures.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0162",
+   "para": 28,
+   "text": "It cannot certainly be pretended that any degree of duties, however low, would be an abridgment of the liberty of the press.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0163",
+   "para": 28,
+   "text": "We know that newspapers are taxed in Great Britain, and yet it is notorious that the press nowhere enjoys greater liberty than in that country.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0164",
+   "para": 28,
+   "text": "And if duties of any kind may be laid without a violation of that liberty, it is evident that the extent must depend on legislative discretion, respecting the liberty of the press, will give it no greater security than it will have without them.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0165",
+   "para": 28,
+   "text": "The same invasions of it may be effected under the State constitutions which contain those declarations through the means of taxation, as under the proposed Constitution, which has nothing of the kind.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0166",
+   "para": 28,
+   "text": "It would be quite as significant to declare that government ought to be free, that taxes ought not to be excessive, etc., as that the liberty of the press ought not to be restrained.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  },
+  {
+   "id": "u0167",
+   "para": 29,
+   "text": "4.",
+   "begin": 1270.01542,
+   "end": 1270.01542,
+   "synced": false
+  }
+ ]
+}

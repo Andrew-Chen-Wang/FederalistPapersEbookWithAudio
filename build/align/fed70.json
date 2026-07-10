@@ -1,0 +1,1036 @@
+{
+ "paper": 70,
+ "duration": 956.058413,
+ "match_ratio": 0.9644,
+ "heading": [
+  "The Executive Department Further Considered",
+  "From the New York Packet.",
+  "Tuesday, March 18, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.28,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THERE is an idea, which is not without its advocates, that a vigorous Executive is inconsistent with the genius of republican government.",
+   "begin": 13.28,
+   "end": 20.4,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The enlightened well-wishers to this species of government must at least hope that the supposition is destitute of foundation;",
+   "begin": 20.4,
+   "end": 26.32,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "since they can never admit its truth, without at the same time admitting the condemnation of their own principles.",
+   "begin": 26.32,
+   "end": 32.16,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "Energy in the Executive is a leading character in the definition of good government.",
+   "begin": 32.16,
+   "end": 36.48,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "It is essential to the protection of the community against foreign attacks;",
+   "begin": 36.48,
+   "end": 40.079,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "it is not less essential to the steady administration of the laws;",
+   "begin": 40.079,
+   "end": 43.28,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "to the protection of property against those irregular and high-handed combinations which sometimes interrupt the ordinary course of justice;",
+   "begin": 43.28,
+   "end": 49.84,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "to the security of liberty against the enterprises and assaults of ambition, of faction, and of anarchy.",
+   "begin": 49.84,
+   "end": 55.76,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "Every man the least conversant in Roman story, knows how often that republic was obliged to take refuge in the absolute power of a single man, under the formidable title of Dictator, as well against the intrigues of ambitious individuals who aspired to the tyranny, and the seditions of whole classes of the community whose conduct threatened the existence of all government, as against the invasions of external enemies who menaced the conquest and destruction of Rome.",
+   "begin": 55.76,
+   "end": 78.479,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "There can be no need, however, to multiply arguments or examples on this head.",
+   "begin": 78.479,
+   "end": 82.56,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "A feeble Executive implies a feeble execution of the government.",
+   "begin": 82.56,
+   "end": 85.92,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "A feeble execution is but another phrase for a bad execution;",
+   "begin": 85.92,
+   "end": 89.52,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "and a government ill executed, whatever it may be in theory, must be, in practice, a bad government.",
+   "begin": 89.52,
+   "end": 95.84,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "Taking it for granted, therefore, that all men of sense will agree in the necessity of an energetic Executive, it will only remain to inquire, what are the ingredients which constitute this energy?",
+   "begin": 95.84,
+   "end": 105.36,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "How far can they be combined with those other ingredients which constitute safety in the republican sense?",
+   "begin": 105.36,
+   "end": 110.799,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "And how far does this combination characterize the plan which has been reported by the convention?",
+   "begin": 110.799,
+   "end": 116.079,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "The ingredients which constitute energy in the Executive are, first, unity;",
+   "begin": 116.079,
+   "end": 120.079,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "secondly, duration;",
+   "begin": 120.079,
+   "end": 121.36,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "thirdly, an adequate provision for its support;",
+   "begin": 121.36,
+   "end": 123.759,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "fourthly, competent powers.",
+   "begin": 123.759,
+   "end": 125.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "The ingredients which constitute safety in the repub lican sense are, first, a due dependence on the people, secondly, a due responsibility.",
+   "begin": 125.92,
+   "end": 133.68,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 6,
+   "text": "Those politicians and statesmen who have been the most celebrated for the soundness of their principles and for the justice of their views, have declared in favor of a single Executive and a numerous legislature.",
+   "begin": 133.68,
+   "end": 143.92,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 6,
+   "text": "They have with great propriety, considered energy as the most necessary qualification of the former, and have regarded this as most applicable to power in a single hand, while they have, with equal propriety, considered the latter as best adapted to deliberation and wisdom, and best calculated to conciliate the confidence of the people and to secure their privileges and interests.",
+   "begin": 143.92,
+   "end": 163.28,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 7,
+   "text": "That unity is conducive to energy will not be disputed.",
+   "begin": 163.28,
+   "end": 166.56,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 7,
+   "text": "Decision, activity, secrecy, and despatch will generally characterize the proceedings of one man in a much more eminent degree than the proceedings of any greater number;",
+   "begin": 166.56,
+   "end": 174.879,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 7,
+   "text": "and in proportion as the number is increased, these qualities will be diminished.",
+   "begin": 174.879,
+   "end": 178.879,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 8,
+   "text": "This unity may be destroyed in two ways:",
+   "begin": 178.879,
+   "end": 181.44,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 8,
+   "text": "either by vesting the power in two or more magistrates of equal dignity and authority;",
+   "begin": 181.44,
+   "end": 185.599,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 8,
+   "text": "or by vesting it ostensibly in one man, subject, in whole or in part, to the control and co-operation of others, in the capacity of counsellors to him.",
+   "begin": 185.599,
+   "end": 193.84,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 8,
+   "text": "Of the first, the two Consuls of Rome may serve as an example;",
+   "begin": 193.84,
+   "end": 197.68,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 8,
+   "text": "of the last, we shall find examples in the constitutions of several of the States.",
+   "begin": 197.68,
+   "end": 201.76,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 8,
+   "text": "New York and New Jersey, if I recollect right, are the only States which have intrusted the executive authority wholly to single men.1 Both these methods of destroying the unity of the Executive have their partisans;",
+   "begin": 201.76,
+   "end": 223.519,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "but the votaries of an executive council are the most numerous.",
+   "begin": 223.519,
+   "end": 226.72,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "They are both liable, if not to equal, to similar objections, and may in most lights be examined in conjunction.",
+   "begin": 226.72,
+   "end": 233.04,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 9,
+   "text": "The experience of other nations will afford little instruction on this head.",
+   "begin": 233.04,
+   "end": 236.879,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 9,
+   "text": "As far, however, as it teaches any thing, it teaches us not to be enamoured of plurality in the Executive.",
+   "begin": 236.879,
+   "end": 242.64,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 9,
+   "text": "We have seen that the Achaeans, on an experiment of two Praetors, were induced to abolish one.",
+   "begin": 242.64,
+   "end": 247.68,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 9,
+   "text": "The Roman history records many instances of mischiefs to the republic from the dissensions between the Consuls, and between the military Tribunes, who were at times substituted for the Consuls.",
+   "begin": 247.68,
+   "end": 256.72,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "But it gives us no specimens of any peculiar advantages derived to the state from the circumstance of the plurality of those magistrates.",
+   "begin": 256.72,
+   "end": 264.08,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "That the dissensions between them were not more frequent or more fatal, is a matter of astonishment, until we advert to the singular position in which the republic was almost continually placed, and to the prudent policy pointed out by the circumstances of the state, and pursued by the Consuls, of making a division of the government between them.",
+   "begin": 264.08,
+   "end": 280.88,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "The patricians engaged in a perpetual struggle with the plebeians for the preservation of their ancient authorities and dignities;",
+   "begin": 280.88,
+   "end": 287.04,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "the Consuls, who were generally chosen out of the former body, were commonly united by the personal interest they had in the defense of the privileges of their order.",
+   "begin": 287.04,
+   "end": 294.8,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "In addition to this motive of union, after the arms of the republic had considerably expanded the bounds of its empire, it became an established custom with the Consuls to divide the administration between themselves by lot one of them remaining at Rome to govern the city and its environs, the other taking the command in the more distant provinces.",
+   "begin": 294.8,
+   "end": 312.0,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "This expedient must, no doubt, have had great influence in preventing those collisions and rivalships which might otherwise have embroiled the peace of the republic.",
+   "begin": 312.0,
+   "end": 319.44,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "But quitting the dim light of historical research, attaching ourselves purely to the dictates of reason and good se se, we shall discover much greater cause to reject than to approve the idea of plurality in the Executive, under any modification whatever.",
+   "begin": 319.44,
+   "end": 332.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 11,
+   "text": "Wherever two or more persons are engaged in any common enterprise or pursuit, there is always danger of difference of opinion.",
+   "begin": 332.56,
+   "end": 339.12,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 11,
+   "text": "If it be a public trust or office, in which they are clothed with equal dignity and authority, there is peculiar danger of personal emulation and even animosity.",
+   "begin": 339.12,
+   "end": 347.759,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 11,
+   "text": "From either, and especially from all these causes, the most bitter dissensions are apt to spring.",
+   "begin": 347.759,
+   "end": 352.88,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 11,
+   "text": "Whenever these happen, they lessen the respectability, weaken the authority, and distract the plans and operation of those whom they divide.",
+   "begin": 352.88,
+   "end": 360.16,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 11,
+   "text": "If they should unfortunately assail the supreme executive magistracy of a country, consisting of a plurality of persons, they might impede or frustrate the most important measures of the government, in the most critical emergencies of the state.",
+   "begin": 360.16,
+   "end": 371.84,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 11,
+   "text": "And what is still worse, they might split the community into the most violent and irreconcilable factions, adhering differently to the different individuals who composed the magistracy.",
+   "begin": 371.84,
+   "end": 381.919,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 12,
+   "text": "Men often oppose a thing, merely because they have had no agency in planning it, or because it may have been planned by those whom they dislike.",
+   "begin": 381.919,
+   "end": 389.199,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 12,
+   "text": "But if they have been consulted, and have happened to disapprove, opposition then becomes, in their estimation, an indispensable duty of self-love.",
+   "begin": 389.199,
+   "end": 396.72,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 12,
+   "text": "They seem to think themselves bound in honor, and by all the motives of personal infallibility, to defeat the success of what has been resolved upon contrary to their sentiments.",
+   "begin": 396.72,
+   "end": 405.52,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 12,
+   "text": "Men of upright, benevolent tempers have too many opportunities of remarking, with horror, to what desperate lengths this disposition is sometimes carried, and how often the great interests of society are sacrificed to the vanity, to the conceit, and to the obstinacy of individuals, who have credit enough to make their passions and their caprices interesting to mankind.",
+   "begin": 405.52,
+   "end": 423.68,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 12,
+   "text": "Perhaps the question now before the public may, in its consequences, afford melancholy proofs of the effects of this despicable frailty, or rather detestable vice, in the human character.",
+   "begin": 423.68,
+   "end": 434.479,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 13,
+   "text": "Upon the principles of a free government, inconveniences from the source just mentioned must necessarily be submitted to in the formation of the legislature;",
+   "begin": 434.479,
+   "end": 442.72,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 13,
+   "text": "but it is unnecessary, and therefore unwise, to introduce them into the constitution of the Executive.",
+   "begin": 442.72,
+   "end": 448.4,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 13,
+   "text": "It is here too that they may be most pernicious.",
+   "begin": 448.4,
+   "end": 451.12,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 13,
+   "text": "In the legislature, promptitude of decision is oftener an evil than a benefit.",
+   "begin": 451.12,
+   "end": 455.68,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 13,
+   "text": "The differences of opinion, and the jarrings of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check excesses in the majority.",
+   "begin": 455.68,
+   "end": 467.84,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 13,
+   "text": "When a resolution too is once taken, the opposition must be at an end.",
+   "begin": 467.84,
+   "end": 471.759,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 13,
+   "text": "That resolution is a law, and resistance to it punishable.",
+   "begin": 471.759,
+   "end": 475.28,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 13,
+   "text": "But no favorable circumstances palliate or atone for the disadvantages of dissension in the executive department.",
+   "begin": 475.28,
+   "end": 481.44,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 13,
+   "text": "Here, they are pure and unmixed.",
+   "begin": 481.44,
+   "end": 483.52,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 13,
+   "text": "There is no point at which they cease to operate.",
+   "begin": 483.52,
+   "end": 486.0,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 13,
+   "text": "They serve to embarrass and weaken the execution of the plan or measure to which they relate, from the first step to the final conclusion of it.",
+   "begin": 486.0,
+   "end": 492.72,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 13,
+   "text": "They constantly counteract those qualities in the Executive which are the most necessary ingredients in its composition, vigor and expedition, and this without anycounterbalancing good.",
+   "begin": 492.72,
+   "end": 502.639,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 13,
+   "text": "In the conduct of war, in which the energy of the Executive is the bulwark of the national security, every thing would be to be apprehended from its plurality.",
+   "begin": 502.639,
+   "end": 511.36,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 14,
+   "text": "It must be confessed that these observations apply with principal weight to the first case supposed that is, to a plurality of magistrates of equal dignity and authority a scheme, the advocates for which are not likely to form a numerous sect;",
+   "begin": 511.36,
+   "end": 523.36,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 14,
+   "text": "but they apply, though not with equal, yet with considerable weight to the project of a council, whose concurrence is made constitutionally necessary to the operations of the ostensible Executive.",
+   "begin": 523.36,
+   "end": 533.68,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 14,
+   "text": "An artful cabal in that council would be able to distract and to enervate the whole system of administration.",
+   "begin": 533.68,
+   "end": 539.36,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 14,
+   "text": "If no such cabal should exist, the mere diversity of views and opinions would alone be sufficient to tincture the exercise of the executive authority with a spirit of habitual feebleness and dilatoriness.",
+   "begin": 539.36,
+   "end": 549.76,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 15,
+   "text": "But one of the weightiest objections to a plurality in the Executive, and which lies as much against the last as the first plan, is, that it tends to conceal faults and destroy responsibility.",
+   "begin": 549.76,
+   "end": 560.56,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 15,
+   "text": "Responsibility is of two kinds to censure and to punishment.",
+   "begin": 560.56,
+   "end": 564.8,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 15,
+   "text": "The first is the more important of the two, especially in an elective office.",
+   "begin": 564.8,
+   "end": 569.04,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 15,
+   "text": "Man, in public trust, will much oftener act in such a manner as to render him unworthy of being any longer trusted, than in such a manner as to make him obnoxious to legal punishment.",
+   "begin": 569.04,
+   "end": 578.8,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 15,
+   "text": "But the multiplication of the Executive adds to the difficulty of detection in either case.",
+   "begin": 578.8,
+   "end": 584.0,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 15,
+   "text": "It often becomes impossible, amidst mutual accusations, to determine on whom the blame or the punishment of a pernicious measure, or series of pernicious measures, ought really to fall.",
+   "begin": 584.0,
+   "end": 593.36,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 15,
+   "text": "It is shifted from one to another with so much dexterity, and under such plausible appearances, that the public opinion is left in suspense about the real author.",
+   "begin": 593.36,
+   "end": 601.6,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 15,
+   "text": "The circumstances which may have led to any national miscarriage or misfortune are sometimes so complicated that, where there are a number of actors who may have had different degrees and kinds of agency, though we may clearly see upon the whole that there has been mismanagement, yet it may be impracticable to pronounce to whose account the evil which may have been incurred is truly chargeable.",
+   "begin": 601.6,
+   "end": 620.399,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 15,
+   "text": "\"I was overruled by my council.",
+   "begin": 620.399,
+   "end": 622.24,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 15,
+   "text": "The council were so divided in their opinions that it was impossible to obtain any better resolution on the point.'' These and similar pretexts are constantly at hand, whether true or false.",
+   "begin": 622.24,
+   "end": 631.44,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 15,
+   "text": "And who is there that will either take the trouble or incur the odium, of a strict scrunity into the secret springs of the transaction?",
+   "begin": 631.44,
+   "end": 638.079,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 15,
+   "text": "Should there be found a citizen zealous enough to undertake the unpromising task, if there happen to be collusion between the parties concerned, how easy it is to clothe the circumstances with so much ambiguity, as to render it uncertain what was the precise conduct of any of those parties?",
+   "begin": 638.079,
+   "end": 652.24,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 16,
+   "text": "In the single instance in which the governor of this State is coupled with a council that is, in the appointment to offices, we have seen the mischiefs of it in the view now under consideration.",
+   "begin": 652.24,
+   "end": 661.839,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 16,
+   "text": "Scandalous appointments to important offices have been made.",
+   "begin": 661.839,
+   "end": 665.279,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 16,
+   "text": "Some cases, indeed, have been so flagrant that ALL PARTIES have agreed in the impropriety of the thing.",
+   "begin": 665.279,
+   "end": 670.72,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 16,
+   "text": "When inquiry has been made, the blame has been laid by the governor on the members of the council, who, on their part, have charged it upon his nomination;",
+   "begin": 670.72,
+   "end": 677.279,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 16,
+   "text": "while the people remain altogether at a loss to determine, by whose influence their interests have been committed to hands so unqualified and so manifestly improper.",
+   "begin": 677.279,
+   "end": 686.24,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 16,
+   "text": "In tenderness to individuals, I forbear to descend to particulars.",
+   "begin": 686.24,
+   "end": 690.48,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 17,
+   "text": "It is evident from these considerations, that the plurality of the Executive tends to deprive the people of the two greatest securities they can have for the faithful exercise of any delegated power, first, the restraints of public opinion, which lose their efficacy, as well on account of the division of the censure attendant on bad measures among a number, as on account of the uncertainty on whom it ought to fall;",
+   "begin": 690.48,
+   "end": 710.079,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 17,
+   "text": "and, secondly, the opportunity of discovering with facility and clearness the misconduct of the persons they trust, in order either to their removal from office or to their actual punishment in cases which admit of it.",
+   "begin": 710.079,
+   "end": 721.92,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 18,
+   "text": "In England, the king is a perpetual magistrate;",
+   "begin": 721.92,
+   "end": 724.72,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 18,
+   "text": "and it is a maxim which has obtained for the sake of the pub lic peace, that he is unaccountable for his administration, and his person sacred.",
+   "begin": 724.72,
+   "end": 732.16,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 18,
+   "text": "Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give.",
+   "begin": 732.16,
+   "end": 740.48,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 18,
+   "text": "Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government.",
+   "begin": 740.48,
+   "end": 747.04,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 18,
+   "text": "But even there the king is not bound by the resolutions of his council, though they are answerable for the advice they give.",
+   "begin": 747.04,
+   "end": 753.279,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 18,
+   "text": "He is the absolute master of his own conduct in the exercise of his office, and may observe or disregard the counsel given to him at his sole discretion.",
+   "begin": 753.279,
+   "end": 761.12,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 19,
+   "text": "But in a republic, where every magistrate ought to be personally responsible for his behavior in office the reason which in the British Constitution dictates the propriety of a council, not only ceases to apply, but turns against the institution.",
+   "begin": 761.12,
+   "end": 773.839,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 19,
+   "text": "In the monarchy of Great Britain, it furnishes a substitute for the prohibited responsibility of the chief magistrate, which serves in some degree as a hostage to the national justice for his good behavior.",
+   "begin": 773.839,
+   "end": 784.16,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 19,
+   "text": "In the American republic, it would serve to destroy, or would greatly diminish, the intended and necessary responsibility of the Chief Magistrate himself.",
+   "begin": 784.16,
+   "end": 793.2,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 20,
+   "text": "The idea of a council to the Executive, which has so generally obtained in the State constitutions, has been derived from that maxim of republican jealousy which considers power as safer in the hands of a number of men than of a single man.",
+   "begin": 793.2,
+   "end": 805.68,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 20,
+   "text": "If the maxim should be admitted to be applicable to the case, I should contend that the advantage on that side would not counterbalance the numerous disadvantages on the opposite side.",
+   "begin": 805.68,
+   "end": 814.24,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 20,
+   "text": "But I do not think the rule at all applicable to the executive power.",
+   "begin": 814.24,
+   "end": 817.76,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 20,
+   "text": "I clearly concur in opinion, in this particular, with a writer whom the celebrated Junius pronounces to be \"deep, solid, and ingenious,'' that \"the executive power is more easily confined when it is ONE'';2 that it is far more safe there should be a single object for the jealousy and watchfulness of the people;",
+   "begin": 817.76,
+   "end": 834.16,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 20,
+   "text": "and, in a word, that all multiplication of the Executive is rather dangerous than friendly to liberty.",
+   "begin": 834.16,
+   "end": 840.24,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 21,
+   "text": "A little consideration will satisfy us, that the species of security sought for in the multiplication of the Executive, is nattainable.",
+   "begin": 840.24,
+   "end": 847.92,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 21,
+   "text": "Numbers must be so great as to render combination difficult, or they are rather a source of danger than of security.",
+   "begin": 847.92,
+   "end": 853.92,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 21,
+   "text": "The united credit and influence of several individuals must be more formidable to liberty, than the credit and influence of either of them separately.",
+   "begin": 853.92,
+   "end": 861.36,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 21,
+   "text": "When power, therefore, is placed in the hands of so small a number of men, as to admit of their interests and views being easily combined in a common enterprise, by an artful leader, it becomes more liable to abuse, and more dangerous when abused, than if it be lodged in the hands of one man;",
+   "begin": 861.36,
+   "end": 875.6,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 21,
+   "text": "who, from the very circumstance of his being alone, will be more narrowly watched and more readily suspected, and who cannot unite so great a mass of influence as when he is associated with others.",
+   "begin": 875.6,
+   "end": 885.6,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 21,
+   "text": "The Decemvirs of Rome, whose name denotes their number,3 were more to be dreaded in their usurpation than any ONE of them would have been.",
+   "begin": 885.6,
+   "end": 892.56,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 21,
+   "text": "No person would think of proposing an Executive much more numerous than that body;",
+   "begin": 892.56,
+   "end": 896.48,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 21,
+   "text": "from six to a dozen have been suggested for the number of the council.",
+   "begin": 896.48,
+   "end": 900.0,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 21,
+   "text": "The extreme of these numbers, is not too great for an easy combination;",
+   "begin": 900.0,
+   "end": 903.519,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 21,
+   "text": "and from such a combination America would have more to fear, than from the ambition of any single individual.",
+   "begin": 903.519,
+   "end": 909.04,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 21,
+   "text": "A council to a magistrate, who is himself responsible for what he does, are generally nothing better than a clog upon his good intentions, are often the instruments and accomplices of his bad and are almost always a cloak to his faults.",
+   "begin": 909.04,
+   "end": 921.199,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 22,
+   "text": "I forbear to dwell upon the subject of expense;",
+   "begin": 921.199,
+   "end": 923.68,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 22,
+   "text": "though it be evident that if the council should be numerous enough to answer the principal end aimed at by the institution, the salaries of the members, who must be drawn from their homes to reside at the seat of government, would form an item in the catalogue of public expenditures too serious to be incurred for an object of equivocal utility.",
+   "begin": 923.68,
+   "end": 939.6,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 22,
+   "text": "I will only add that, prior to the appearance of the Constitution, I rarely met with an intelligent man from any of the States, who did not admit, as the result of experience, that the UNITY of the executive of this State was one of the best of the distinguishing features of our constitution.",
+   "begin": 939.6,
+   "end": 954.399,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 23,
+   "text": "PUBLIUS.",
+   "begin": 954.399,
+   "end": 955.399,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 24,
+   "text": "1 New York has no council except for the single purpose of appointing to offices;",
+   "begin": 955.399,
+   "end": 956.058413,
+   "synced": false
+  },
+  {
+   "id": "u0125",
+   "para": 24,
+   "text": "New Jersey has a council whom the governor may consult.",
+   "begin": 956.058413,
+   "end": 956.058413,
+   "synced": false
+  },
+  {
+   "id": "u0126",
+   "para": 24,
+   "text": "But I think, from the terms of the constitution, their resolutions do not bind him.",
+   "begin": 956.058413,
+   "end": 956.058413,
+   "synced": false
+  },
+  {
+   "id": "u0127",
+   "para": 25,
+   "text": "2 De Lolme.",
+   "begin": 956.058413,
+   "end": 956.058413,
+   "synced": false
+  },
+  {
+   "id": "u0128",
+   "para": 26,
+   "text": "3 Ten.",
+   "begin": 956.058413,
+   "end": 956.058413,
+   "synced": false
+  }
+ ]
+}

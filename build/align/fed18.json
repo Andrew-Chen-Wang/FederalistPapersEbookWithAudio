@@ -1,0 +1,941 @@
+{
+ "paper": 18,
+ "duration": 710.298413,
+ "match_ratio": 0.9631,
+ "heading": [
+  "The Same Subject Continued:",
+  "The Insufficiency of the Present Confederation to Preserve the Union",
+  "For the Independent Journal.",
+  "HAMILTON AND MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.519,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "AMONG the confederacies of antiquity, the most considerable was that of the Grecian republics, associated under the Amphictyonic council.",
+   "begin": 15.519,
+   "end": 23.039,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "From the best accounts transmitted of this celebrated institution, it bore a very instructive analogy to the present Confederation of the American States.",
+   "begin": 23.039,
+   "end": 31.119,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "The members retained the character of independent and sovereign states, and had equal votes in the federal council.",
+   "begin": 31.119,
+   "end": 37.28,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "This council had a general authority to propose and resolve whatever it judged necessary for the common welfare of Greece;",
+   "begin": 37.28,
+   "end": 43.92,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "to declare and carry on war;",
+   "begin": 43.92,
+   "end": 45.92,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "to decide, in the last resort, all controversies between the members;",
+   "begin": 45.92,
+   "end": 50.0,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "to fine the aggressing party;",
+   "begin": 50.0,
+   "end": 51.92,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "to employ the whole force of the confederacy against the disobedient;",
+   "begin": 51.92,
+   "end": 55.44,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "to admit new members.",
+   "begin": 55.44,
+   "end": 57.76,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "The Amphictyons were the guardians of religion, and of the immense riches belonging to the temple of Delphos, where they had the right of jurisdiction in controversies between the inhabitants and those who came to consult the oracle.",
+   "begin": 57.76,
+   "end": 69.119,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "As a further provision for the efficacy of the federal powers, they took an oath mutually to defend and protect the united cities, to punish the violators of this oath, and to inflict vengeance on sacrilegious despoilers of the temple.",
+   "begin": 69.119,
+   "end": 81.92,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "In theory, and upon paper, this apparatus of powers seems amply sufficient for all general purposes.",
+   "begin": 81.92,
+   "end": 88.479,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "In several material instances, they exceed the powers enumerated in the articles of confederation.",
+   "begin": 88.479,
+   "end": 93.92,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "The Amphictyons had in their hands the superstition of the times, one of the principal engines by which government was then maintained;",
+   "begin": 93.92,
+   "end": 101.439,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "they had a declared authority to use coercion against refractory cities, and were bound by oath to exert this authority on the necessary occasions.",
+   "begin": 101.439,
+   "end": 109.84,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "Very different, nevertheless, was the experiment from the theory.",
+   "begin": 109.84,
+   "end": 113.92,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "The powers, like those of the present Congress, were administered by deputies appointed wholly by the cities in their political capacities;",
+   "begin": 113.92,
+   "end": 121.2,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "and exercised over them in the same capacities.",
+   "begin": 121.2,
+   "end": 124.079,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "Hence the weakness, the disorders, and finally the destruction of the confederacy.",
+   "begin": 124.079,
+   "end": 128.72,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "The more powerful members, instead of being kept in awe and subordination, tyrannized successively over all the rest.",
+   "begin": 128.72,
+   "end": 135.04,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "Athens, as we learn from Demosthenes, was the arbiter of Greece seventy-three years.",
+   "begin": 135.04,
+   "end": 139.76,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "The Lacedaemonians next governed it twenty-nine years;",
+   "begin": 139.76,
+   "end": 142.56,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "at a subsequent period, after the battle of Leuctra, the Thebans had their turn of domination.",
+   "begin": 142.56,
+   "end": 147.599,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "It happened but too often, according to Plutarch, that the deputies of the strongest cities awed and corrupted those of the weaker;",
+   "begin": 147.599,
+   "end": 154.08,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "and that judgment went in favor of the most powerful party.",
+   "begin": 154.08,
+   "end": 157.68,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "Even in the midst of defensive and dangerous wars with Persia and Macedon, the members never acted in concert, and were, more or fewer of them, eternally the dupes or the hirelings of the common enemy.",
+   "begin": 157.68,
+   "end": 168.8,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "The intervals of foreign war were filled up by domestic vicissitudes convulsions, and carnage.",
+   "begin": 168.8,
+   "end": 174.48,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "After the conclusion of the war with Xerxes, it appears that the Lacedaemonians required that a number of the cities should be turned out of the confederacy for the unfaithful part they had acted.",
+   "begin": 174.48,
+   "end": 184.08,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "The Athenians, finding that the Lacedaemonians would lose fewer partisans by such a measure than themselves, and would become masters of the public deliberations, vigorously opposed and defeated the attempt.",
+   "begin": 184.08,
+   "end": 195.04,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "This piece of history proves at once the inefficiency of the union, the ambition and jealousy of its most powerful members, and the dependent and degraded condition of the rest.",
+   "begin": 195.04,
+   "end": 204.239,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "The smaller members, though entitled by the theory of their system to revolve in equal pride and majesty around the common center, had become, in fact, satellites of the orbs of primary magnitude.",
+   "begin": 204.239,
+   "end": 215.04,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 8,
+   "text": "Had the Greeks, says the Abbe Milot, been as wise as they were courageous, they would have been admonished by experience of the necessity of a closer union, and would have availed themselves of the peace which followed their success against the Persian arms, to establish such a reformation.",
+   "begin": 215.04,
+   "end": 230.08,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "Instead of this obvious policy, Athens and Sparta, inflated with the victories and the glory they had acquired, became first rivals and then enemies;",
+   "begin": 230.08,
+   "end": 238.4,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "and did each other infinitely more mischief than they had suffered from Xerxes.",
+   "begin": 238.4,
+   "end": 242.56,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "Their mutual jealousies, fears, hatreds, and injuries ended in the celebrated Peloponnesian war;",
+   "begin": 242.56,
+   "end": 247.599,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "which itself ended in the ruin and slavery of the Athenians who had begun it.",
+   "begin": 247.599,
+   "end": 253.04,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 9,
+   "text": "As a weak government, when not at war, is ever agitated by internal dissentions, so these never fail to bring on fresh calamities from abroad.",
+   "begin": 253.04,
+   "end": 261.44,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 9,
+   "text": "The Phocians having ploughed up some consecrated ground belonging to the temple of Apollo, the Amphictyonic council, according to the superstition of the age, imposed a fine on the sacrilegious offenders.",
+   "begin": 261.44,
+   "end": 271.759,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "The Phocians, being abetted by Athens and Sparta, refused to submit to the decree.",
+   "begin": 271.759,
+   "end": 276.56,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "The Thebans, with others of the cities, undertook to maintain the authority of the Amphictyons, and to avenge the violated god.",
+   "begin": 276.56,
+   "end": 283.6,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "The latter, being the weaker party, invited the assistance of Philip of Macedon, who had secretly fostered the contest.",
+   "begin": 283.6,
+   "end": 289.759,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "Philip gladly seized the opportunity of executing the designs he had long planned against the liberties of Greece.",
+   "begin": 289.759,
+   "end": 295.44,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "By his intrigues and bribes he won over to his interests the popular leaders of several cities;",
+   "begin": 295.44,
+   "end": 300.4,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "by their influence and votes, gained admission into the Amphictyonic council;",
+   "begin": 300.4,
+   "end": 304.08,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 9,
+   "text": "and by his arts and his arms, made himself master of the confederacy.",
+   "begin": 304.08,
+   "end": 308.639,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "Such were the consequences of the fallacious principle on which this interesting establishment was founded.",
+   "begin": 308.639,
+   "end": 313.84,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "Had Greece, says a judicious observer on her fate, been united by a stricter confederation, and persevered in her union, she would never have worn the chains of Macedon;",
+   "begin": 313.84,
+   "end": 322.4,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "and might have proved a barrier to the vast projects of Rome.",
+   "begin": 322.4,
+   "end": 325.759,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 11,
+   "text": "The Achaean league, as it is called, was another society of Grecian republics, which supplies us with valuable instruction.",
+   "begin": 325.759,
+   "end": 332.8,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 12,
+   "text": "The Union here was far more intimate, and its organization much wiser, than in the preceding instance.",
+   "begin": 332.8,
+   "end": 338.32,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 12,
+   "text": "It will accordingly appear, that though not exempt from a similar catastrophe, it by no means equally deserved it.",
+   "begin": 338.32,
+   "end": 344.88,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 13,
+   "text": "The cities composing this league retained their municipal jurisdiction, appointed their own officers, and enjoyed a perfect equality.",
+   "begin": 344.88,
+   "end": 352.0,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 13,
+   "text": "The senate, in which they were represented, had the sole and exclusive right of peace and war;",
+   "begin": 352.0,
+   "end": 357.039,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 13,
+   "text": "of sending and receiving ambassadors;",
+   "begin": 357.039,
+   "end": 358.96,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 13,
+   "text": "of entering into treaties and alliances;",
+   "begin": 358.96,
+   "end": 361.199,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 13,
+   "text": "of appointing a chief magistrate or praetor, as he was called, who commanded their armies, and who, with the advice and consent of ten of the senators, not only administered the government in the recess of the senate, but had a great share in its deliberations, when assembled.",
+   "begin": 361.199,
+   "end": 374.24,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 13,
+   "text": "According to the primitive constitution, there were two praetors associated in the administration;",
+   "begin": 374.24,
+   "end": 378.72,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 13,
+   "text": "but on trial a single one was preferred.",
+   "begin": 378.72,
+   "end": 381.44,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 14,
+   "text": "It appears that the cities had all the same laws and customs, the same weights and measures, and the same money.",
+   "begin": 381.44,
+   "end": 386.96,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 14,
+   "text": "But how far this effect proceeded from the authority of the federal council is left in uncertainty.",
+   "begin": 386.96,
+   "end": 392.24,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 14,
+   "text": "It is said only that the cities were in a manner compelled to receive the same laws and usages.",
+   "begin": 392.24,
+   "end": 397.44,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 14,
+   "text": "When Lacedaemon was brought into the league by Philopoemen, it was attended with an abolition of the institutions and laws of Lycurgus, and an adoption of those of the Achaeans.",
+   "begin": 397.44,
+   "end": 406.08,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 14,
+   "text": "The Amphictyonic confederacy, of which she had been a member, left her in the full exercise of her government and her legislation.",
+   "begin": 406.08,
+   "end": 412.88,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 14,
+   "text": "This circumstance alone proves a very material difference in the genius of the two systems.",
+   "begin": 412.88,
+   "end": 418.0,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 15,
+   "text": "It is much to be regretted that such imperfect monuments remain of this curious political fabric.",
+   "begin": 418.0,
+   "end": 423.52,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 15,
+   "text": "Could its interior structure and regular operation be ascertained, it is probable that more light would be thrown by it on the science of federal government, than by any of the like experiments with which we are acquainted.",
+   "begin": 423.52,
+   "end": 434.72,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 16,
+   "text": "One important fact seems to be witnessed by all the historians who take notice of Achaean affairs.",
+   "begin": 434.72,
+   "end": 439.919,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 16,
+   "text": "It is, that as well after the renovation of the league by Aratus, as before its dissolution by the arts of Macedon, there was infinitely more of moderation and justice in the administration of its government, and less of violence and sedition in the people, than were to be found in any of the cities exercising SINGLY all the prerogatives of sovereignty.",
+   "begin": 439.919,
+   "end": 458.08,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 16,
+   "text": "The Abbe Mably, in his observations on Greece, says that the popular government, which was so tempestuous elsewhere, caused no disorders in the members of the Achaean republic, BECAUSE IT WAS THERE TEMPERED BY THE GENERAL AUTHORITY AND LAWS OF THE CONFEDERACY.",
+   "begin": 458.08,
+   "end": 472.479,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 17,
+   "text": "We are not to conclude too hastily, however, that faction did not, in a certain degree, agitate the particular cities;",
+   "begin": 472.479,
+   "end": 478.72,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 17,
+   "text": "much less that a due subordination and harmony reigned in the general system.",
+   "begin": 478.72,
+   "end": 482.8,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 17,
+   "text": "The contrary is sufficiently displayed in the vicissitudes and fate of the republic.",
+   "begin": 482.8,
+   "end": 487.44,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 18,
+   "text": "Whilst the Amphictyonic confederacy remained, that of the Achaeans, which comprehended the less important cities only, made little figure on the theatre of Greece.",
+   "begin": 487.44,
+   "end": 496.4,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 18,
+   "text": "When the former became a victim to Macedon, the latter was spared by the policy of Philip and Alexander.",
+   "begin": 496.4,
+   "end": 501.759,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 18,
+   "text": "Under the successors of these princes, however, a different policy prevailed.",
+   "begin": 501.759,
+   "end": 505.84,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 18,
+   "text": "The arts of division were practiced among the Achaeans.",
+   "begin": 505.84,
+   "end": 508.639,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 18,
+   "text": "Each city was seduced into a separate interest;",
+   "begin": 508.639,
+   "end": 511.039,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 18,
+   "text": "the union was dissolved.",
+   "begin": 511.039,
+   "end": 512.88,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 18,
+   "text": "Some of the cities fell under the tyranny of Macedonian garrisons;",
+   "begin": 512.88,
+   "end": 516.08,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 18,
+   "text": "others under that of usurpers springing out of their own confusions.",
+   "begin": 516.08,
+   "end": 520.08,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 18,
+   "text": "Shame and oppression erelong awaken their love of liberty.",
+   "begin": 520.08,
+   "end": 523.44,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 18,
+   "text": "A few cities reunited.",
+   "begin": 523.44,
+   "end": 524.72,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 18,
+   "text": "Their example was followed by others, as opportunities were found of cutting off their tyrants.",
+   "begin": 524.72,
+   "end": 529.68,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 18,
+   "text": "The league soon embraced almost the whole Peloponnesus.",
+   "begin": 529.68,
+   "end": 532.48,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 18,
+   "text": "Macedon saw its progress;",
+   "begin": 532.48,
+   "end": 533.92,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 18,
+   "text": "but was hindered by internal dissensions from stopping it.",
+   "begin": 533.92,
+   "end": 537.12,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 18,
+   "text": "All Greece caught the enthusiasm and seemed ready to unite in one confederacy, when the jealousy and envy in Sparta and Athens, of the rising glory of the Achaeans, threw a fatal damp on the enterprise.",
+   "begin": 537.12,
+   "end": 548.24,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 18,
+   "text": "The dread of the Macedonian power induced the league to court the alliance of the Kings of Egypt and Syria, who, as successors of Alexander, were rivals of the king of Macedon.",
+   "begin": 548.24,
+   "end": 557.519,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 18,
+   "text": "This policy was defeated by Cleomenes, king of Sparta, who was led by his ambition to make an unprovoked attack on his neighbors, the Achaeans, and who, as an enemy to Macedon, had interest enough with the Egyptian and Syrian princes to effect a breach of their engagements with the league.",
+   "begin": 557.519,
+   "end": 573.36,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 19,
+   "text": "The Achaeans were now reduced to the dilemma of submitting to Cleomenes, or of supplicating the aid of Macedon, its former oppressor.",
+   "begin": 573.36,
+   "end": 581.36,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 19,
+   "text": "The latter expedient was adopted.",
+   "begin": 581.36,
+   "end": 583.36,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 19,
+   "text": "The contests of the Greeks always afforded a pleasing opportunity to that powerful neighbor of intermeddling in their affairs.",
+   "begin": 583.36,
+   "end": 589.68,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 19,
+   "text": "A Macedonian army quickly appeared.",
+   "begin": 589.68,
+   "end": 591.839,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 19,
+   "text": "Cleomenes was vanquished.",
+   "begin": 591.839,
+   "end": 593.2,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 19,
+   "text": "The Achaeans soon experienced, as often happens, that a victorious and powerful ally is but another name for a master.",
+   "begin": 593.2,
+   "end": 600.64,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 19,
+   "text": "All that their most abject compliances could obtain from him was a toleration of the exercise of their laws.",
+   "begin": 600.64,
+   "end": 606.64,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 19,
+   "text": "Philip, who was now on the throne of Macedon, soon provoked by his tyrannies, fresh combinations among the Greeks.",
+   "begin": 606.64,
+   "end": 612.8,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 19,
+   "text": "The Achaeans, though weakenened by internal dissensions and by the revolt of Messene, one of its members, being joined by the AEtolians and Athenians, erected the standard of opposition.",
+   "begin": 612.8,
+   "end": 622.64,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 19,
+   "text": "Finding themselves, though thus supported, unequal to the undertaking, they once more had recourse to the dangerous expedient of introducing the succor of foreign arms.",
+   "begin": 622.64,
+   "end": 631.68,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 19,
+   "text": "The Romans, to whom the invitation was made, eagerly embraced it.",
+   "begin": 631.68,
+   "end": 635.6,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 19,
+   "text": "Philip was conquered;",
+   "begin": 635.6,
+   "end": 636.64,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 19,
+   "text": "Macedon subdued.",
+   "begin": 636.64,
+   "end": 638.079,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 19,
+   "text": "A new crisis ensued to the league.",
+   "begin": 638.079,
+   "end": 640.0,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 19,
+   "text": "Dissensions broke out among it members.",
+   "begin": 640.0,
+   "end": 642.72,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 19,
+   "text": "These the Romans fostered.",
+   "begin": 642.72,
+   "end": 645.2,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 19,
+   "text": "Callicrates and other popular leaders became mercenary instruments for inveigling their countrymen.",
+   "begin": 645.2,
+   "end": 649.2,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 19,
+   "text": "The more effectually to nourish discord and disorder the Romans had, to the astonishment of those who confided in their sincerity, already proclaimed universal liberty1 throughout Greece.",
+   "begin": 649.2,
+   "end": 663.12,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 19,
+   "text": "With the same insidious views, they now seduced the members from the league, by representing to their pride the violation it committed on their sovereignty.",
+   "begin": 663.12,
+   "end": 670.399,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 19,
+   "text": "By these arts this union, the last hope of Greece, the last hope of ancient liberty, was torn into pieces;",
+   "begin": 670.399,
+   "end": 676.24,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 19,
+   "text": "and such imbecility and distraction introduced, that the arms of Rome found little difficulty in completing the ruin which their arts had commenced.",
+   "begin": 676.24,
+   "end": 684.079,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 19,
+   "text": "The Achaeans were cut to pieces, and Achaia loaded with chains, under which it is groaning at this hour.",
+   "begin": 684.079,
+   "end": 690.079,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 20,
+   "text": "I have thought it not superfluous to give the outlines of this important portion of history;",
+   "begin": 690.079,
+   "end": 694.64,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 20,
+   "text": "both because it teaches more than one lesson, and because, as a supplement to the outlines of the Achaean constitution, it emphatically illustrates the tendency of federal bodies rather to anarchy among the members, than to tyranny in the head.",
+   "begin": 694.64,
+   "end": 709.0,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 21,
+   "text": "PUBLIUS.",
+   "begin": 709.0,
+   "end": 710.0,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 22,
+   "text": "1 This was but another name more specious for the independence of the members on the federal head.",
+   "begin": 710.0,
+   "end": 710.298413,
+   "synced": false
+  }
+ ]
+}

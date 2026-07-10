@@ -1,0 +1,387 @@
+{
+ "paper": 50,
+ "duration": 376.813424,
+ "match_ratio": 0.982,
+ "heading": [
+  "Periodical Appeals to the People Considered",
+  "From the New York Packet. Tuesday, February 5, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.36,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IT MAY be contended, perhaps, that instead of OCCASIONAL appeals to the people, which are liable to the objections urged against them, PERIODICAL appeals are the proper and adequate means of PREVENTING AND CORRECTING INFRACTIONS OF THE CONSTITUTION.",
+   "begin": 15.36,
+   "end": 28.56,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "It will be attended to, that in the examination of these expedients, I confine myself to their aptitude for ENFORCING the Constitution, by keeping the several departments of power within their due bounds, without particularly considering them as provisions for ALTERING the Constitution itself.",
+   "begin": 28.56,
+   "end": 44.399,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "In the first view, appeals to the people at fixed periods appear to be nearly as ineligible as appeals on particular occasions as they emerge.",
+   "begin": 44.399,
+   "end": 52.64,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions.",
+   "begin": 52.64,
+   "end": 64.96,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "If the periods be distant from each other, the same remark will be applicable to all recent measures;",
+   "begin": 64.96,
+   "end": 70.0,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "and in proportion as the remoteness of the others may favor a dispassionate review of them, this advantage is inseparable from inconveniences which seem to counterbalance it.",
+   "begin": 70.0,
+   "end": 79.52,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "In the first place, a distant prospect of public censure would be a very feeble restraint on power from those excesses to which it might be urged by the force of present motives.",
+   "begin": 79.52,
+   "end": 89.36,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "Is it to be imagined that a legislative assembly, consisting of a hundred or two hundred members, eagerly bent on some favorite object, and breaking through the restraints of the Constitution in pursuit of it, would be arrested in their career, by considerations drawn from a censorial revision of their conduct at the future distance of ten, fifteen, or twenty years?",
+   "begin": 89.36,
+   "end": 108.479,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "In the next place, the abuses would often have completed their mischievous effects before the remedial provision would be applied.",
+   "begin": 108.479,
+   "end": 114.88,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "And in the last place, where this might not be the case, they would be of long standing, would have taken deep root, and would not easily be extirpated.",
+   "begin": 114.88,
+   "end": 123.119,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "The scheme of revising the constitution, in order to correct recent breaches of it, as well as for other purposes, has been actually tried in one of the States.",
+   "begin": 123.119,
+   "end": 131.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "One of the objects of the Council of Censors which met in Pennsylvania in 1783 and 1784, was, as we have seen, to inquire, \"whether the constitution had been violated, and whether the legislative and executive departments had encroached upon each other.",
+   "begin": 131.68,
+   "end": 145.92,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "'' This important and novel experiment in politics merits, in several points of view, very particular attention.",
+   "begin": 145.92,
+   "end": 152.08,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "In some of them it may, perhaps, as a single experiment, made under circumstances somewhat peculiar, be thought to be not absolutely conclusive.",
+   "begin": 152.08,
+   "end": 159.12,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "But as applied to the case under consideration, it involves some facts, which I venture to remark, as a complete and satisfactory illustration of the reasoning which I have employed.",
+   "begin": 159.12,
+   "end": 169.12,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "First.",
+   "begin": 169.12,
+   "end": 170.0,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "It appears, from the names of the gentlemen who composed the council, that some, at least, of its most active members had also been active and leading characters in the parties which pre-existed in the State.",
+   "begin": 170.0,
+   "end": 180.56,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Secondly.",
+   "begin": 180.56,
+   "end": 181.28,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "It appears that the same active and leading members of the council had been active and influential members of the legislative and executive branches, within the period to be reviewed;",
+   "begin": 181.28,
+   "end": 189.519,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "and even patrons or opponents of the very measures to be thus brought to the test of the constitution.",
+   "begin": 189.519,
+   "end": 194.64,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "Two of the members had been vice-presidents of the State, and several other members of the executive council, within the seven preceding years.",
+   "begin": 194.64,
+   "end": 201.44,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "One of them had been speaker, and a number of others distinguished members, of the legislative assembly within the same period.",
+   "begin": 201.44,
+   "end": 207.76,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "Thirdly.",
+   "begin": 207.76,
+   "end": 208.319,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "Every page of their proceedings witnesses the effect of all these circumstances on the temper of their deliberations.",
+   "begin": 208.319,
+   "end": 214.319,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "Throughout the continuance of the council, it was split into two fixed and violent parties.",
+   "begin": 214.319,
+   "end": 219.28,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "The fact is acknowledged and lamented by themselves.",
+   "begin": 219.28,
+   "end": 222.56,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "Had this not been the case, the face of their proceedings exhibits a proof equally satisfactory.",
+   "begin": 222.56,
+   "end": 227.84,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "In all questions, however unimportant in themselves, or unconnected with each other, the same names stand invariably contrasted on the opposite columns.",
+   "begin": 227.84,
+   "end": 236.319,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "Every unbiased observer may infer, without danger of mistake, and at the same time without meaning to reflect on either party, or any individuals of either party, that, unfortunately, PASSION, not REASON, must have presided over their decisions.",
+   "begin": 236.319,
+   "end": 249.519,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "When men exercise their reason coolly and freely on a variety of distinct questions, they inevitably fall into different opinions on some of them.",
+   "begin": 249.519,
+   "end": 257.759,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "When they are governed by a common passion, their opinions, if they are so to be called, will be the same.",
+   "begin": 257.759,
+   "end": 263.68,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "Fourthly.",
+   "begin": 263.68,
+   "end": 264.4,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "It is at least problematical, whether the decisions of this body do not, in several instances, misconstrue the limits prescribed for the legislative and executive departments, instead of reducing and limiting them within their constitutional places.",
+   "begin": 264.4,
+   "end": 277.68,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "Fifthly.",
+   "begin": 277.68,
+   "end": 278.32,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "I have never understood that the decisions of the council on constitutional questions, whether rightly or erroneously formed, have had any effect in varying the practice founded on legislative constructions.",
+   "begin": 278.32,
+   "end": 289.04,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 6,
+   "text": "It even appears, if I mistake not, that in one instance the contemporary legislature denied the constructions of the council, and actually prevailed in the contest.",
+   "begin": 289.04,
+   "end": 297.759,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "This censorial body, therefore, proves at the same time, by its researches, the existence of the disease, and by its example, the inefficacy of the remedy.",
+   "begin": 297.759,
+   "end": 306.8,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party.",
+   "begin": 306.8,
+   "end": 318.479,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 7,
+   "text": "Is it to be presumed, that at any future septennial epoch the same State will be free from parties?",
+   "begin": 318.479,
+   "end": 324.16,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 7,
+   "text": "Is it to be presumed that any other State, at the same or any other given period, will be exempt from them?",
+   "begin": 324.16,
+   "end": 329.919,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "Such an event ought to be neither presumed nor desired;",
+   "begin": 329.919,
+   "end": 333.52,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 7,
+   "text": "because an extinction of parties necessarily implies either a universal alarm for the public safety, or an absolute extinction of liberty.",
+   "begin": 333.52,
+   "end": 341.84,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "Were the precaution taken of excluding from the assemblies elected by the people, to revise the preceding administration of the government, all persons who should have been concerned with the government within the given period, the difficulties would not be obviated.",
+   "begin": 341.84,
+   "end": 354.24,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "The important task would probably devolve on men, who, with inferior capacities, would in other respects be little better qualified.",
+   "begin": 354.24,
+   "end": 362.88,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "Although they might not have been personally concerned in the administration, and therefore not immediately agents in the measures to be examined, they would probably have been involved in the parties connected with these measures, and have been elected under their auspices.",
+   "begin": 362.88,
+   "end": 375.68,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 8,
+   "text": "PUBLIUS.",
+   "begin": 375.68,
+   "end": 376.813424,
+   "synced": true
+  }
+ ]
+}

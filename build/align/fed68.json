@@ -1,0 +1,420 @@
+{
+ "paper": 68,
+ "duration": 464.074014,
+ "match_ratio": 0.9821,
+ "heading": [
+  "The Mode of Electing the President",
+  "From the New York Packet.",
+  "Friday, March 14, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 14.559,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE mode of appointment of the Chief Magistrate of the United States is almost the only part of the system, of any consequence, which has escaped without severe censure, or which has received the slightest mark of approbation from its opponents.",
+   "begin": 14.559,
+   "end": 27.519,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The most plausible of these, who has appeared in print, has even deigned to admit that the election of the President is pretty well guarded.1 I venture somewhat further, and hesitate not to affirm, that if the manner of it be not perfect, it is at least excellent.",
+   "begin": 27.519,
+   "end": 43.68,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "It unites in an eminent degree all the advantages, the union of which was to be wished for.",
+   "begin": 43.68,
+   "end": 49.28,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "It was desirable that the sense of the people should operate in the choice of the person to whom so important a trust was to be confided.",
+   "begin": 49.28,
+   "end": 56.64,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "This end will be answered by committing the right of making it, not to any preestablished body, but to men chosen by the people for the special purpose, and at the particular conjuncture.",
+   "begin": 56.64,
+   "end": 67.28,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "It was equally desirable, that the immediate election should be made by men most capable of analyzing the qualities adapted to the station, and acting under circumstances favorable to deliberation, and to a judicious combination of all the reasons and inducements which were proper to govern their choice.",
+   "begin": 67.28,
+   "end": 83.6,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "A small number of persons, selected by their fellow-citizens from the general mass, will be most likely to possess the information and discernment requisite to such complicated investigations.",
+   "begin": 83.6,
+   "end": 94.079,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 4,
+   "text": "It was also peculiarly desirable to afford as little opportunity as possible to tumult and disorder.",
+   "begin": 94.079,
+   "end": 100.0,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 4,
+   "text": "This evil was not least to be dreaded in the election of a magistrate, who was to have so important an agency in the administration of the government as the President of the United States.",
+   "begin": 100.0,
+   "end": 109.36,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 4,
+   "text": "But the precautions which have been so happily concerted in the system under consideration, promise an effectual security against this mischief.",
+   "begin": 109.36,
+   "end": 116.799,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 4,
+   "text": "The choice of SEVERAL, to form an intermediate body of electors, will be much less apt to convulse the community with any extraordinary or violent movements, than the choice of ONE who was himself to be the final object of the public wishes.",
+   "begin": 116.799,
+   "end": 128.72,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 4,
+   "text": "And as the electors, chosen in each State, are to assemble and vote in the State in which they are chosen, this detached and divided situation will expose them much less to heats and ferments, which might be communicated from them to the people, than if they were all to be convened at one time, in one place.",
+   "begin": 128.72,
+   "end": 144.48,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 5,
+   "text": "Nothing was more to be desired than that every practicable obstacle should be opposed to cabal, intrigue, and corruption.",
+   "begin": 144.48,
+   "end": 150.879,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 5,
+   "text": "These most deadly adversaries of republican government might naturally have been expected to make their approaches from more than one querter, but chiefly from the desire in foreign powers to gain an improper ascendant in our councils.",
+   "begin": 150.879,
+   "end": 163.04,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 5,
+   "text": "How could they better gratify this, than by raising a creature of their own to the chief magistracy of the Union?",
+   "begin": 163.04,
+   "end": 168.64,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 5,
+   "text": "But the convention have guarded against all danger of this sort, with the most provident and judicious attention.",
+   "begin": 168.64,
+   "end": 174.08,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 5,
+   "text": "They have not made the appointment of the President to depend on any preexisting bodies of men, who might be tampered with beforehand to prostitute their votes;",
+   "begin": 174.08,
+   "end": 181.599,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 5,
+   "text": "but they have referred it in the first instance to an immediate act of the people of America, to be exerted in the choice of persons for the temporary and sole purpose of making the appointment.",
+   "begin": 181.599,
+   "end": 190.56,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "And they have excluded from eligibility to this trust, all those who from situation might be suspected of too great devotion to the President in office.",
+   "begin": 190.56,
+   "end": 198.56,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "No senator, representative, or other person holding a place of trust or profit under the United States, can be of the numbers of the electors.",
+   "begin": 198.56,
+   "end": 205.84,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "Thus without corrupting the body of the people, the immediate agents in the election will at least enter upon the task free from any sinister bias.",
+   "begin": 205.84,
+   "end": 213.44,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "Their transient existence, and their detached situation, already taken notice of, afford a satisfactory prospect of their continuing so, to the conclusion of it.",
+   "begin": 213.44,
+   "end": 222.799,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "The business of corruption, when it is to embrace so considerable a number of men, requires time as well as means.",
+   "begin": 222.799,
+   "end": 229.12,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "Nor would it be found easy suddenly to embark them, dispersed as they would be over thirteen States, in any combinations founded upon motives, which though they could not properly be denominated corrupt, might yet be of a nature to mislead them from their duty.",
+   "begin": 229.12,
+   "end": 242.239,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "Another and no less important desideratum was, that the Executive should be independent for his continuance in office on all but the people themselves.",
+   "begin": 242.239,
+   "end": 250.08,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "He might otherwise be tempted to sacrifice his duty to his complaisance for those whose favor was necessary to the duration of his official consequence.",
+   "begin": 250.08,
+   "end": 258.239,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 6,
+   "text": "This advantage will also be secured, by making his re-election to depend on a special body of representatives, deputed by the society for the single purpose of making the important choice.",
+   "begin": 258.239,
+   "end": 268.4,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "All these advantages will happily combine in the plan devised by the convention;",
+   "begin": 268.4,
+   "end": 272.24,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "which is, that the people of each State shall choose a number of persons as electors, equal to the number of senators and representatives of such State in the national government, who shall assemble within the State, and vote for some fit person as President.",
+   "begin": 272.24,
+   "end": 285.12,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "Their votes, thus given, are to be transmitted to the seat of the national government, and the person who may happen to have a majority of the whole number of votes will be the President.",
+   "begin": 285.12,
+   "end": 294.0,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "But as a majority of the votes might not always happen to centre in one man, and as it might be unsafe to permit less than a majority to be conclusive, it is provided that, in such a contingency, the House of Representatives shall select out of the candidates who shall have the five highest number of votes, the man who in their opinion may be best qualified for the office.",
+   "begin": 294.0,
+   "end": 312.479,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 8,
+   "text": "The process of election affords a moral certainty, that the office of President will never fall to the lot of any man who is not in an eminent degree endowed with the requisite qualifications.",
+   "begin": 312.479,
+   "end": 322.16,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "Talents for low intrigue, and the little arts of popularity, may alone suffice to elevate a man to the first honors in a single State;",
+   "begin": 322.16,
+   "end": 328.72,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "but it will require other talents, and a different kind of merit, to establish him in the esteem and confidence of the whole Union, or of so considerable a portion of it as would be necessary to make him a successful candidate for the distinguished office of President of the United States.",
+   "begin": 328.72,
+   "end": 342.32,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "It will not be too strong to say, that there will be a constant probability of seeing the station filled by characters pre-eminent for ability and virtue.",
+   "begin": 342.32,
+   "end": 350.16,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "And this will be thought no inconsiderable recommendation of the Constitution, by those who are able to estimate the share which the executive in every government must necessarily have in its good or ill administration.",
+   "begin": 350.16,
+   "end": 361.039,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "Though we cannot acquiesce in the political heresy of the poet who says:",
+   "begin": 361.039,
+   "end": 364.56,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "\"For forms of government let fools contest That which is best administered is best,'' yet we may safely pronounce, that the true test of a good government is its aptitude and tendency to produce a good administration.",
+   "begin": 364.56,
+   "end": 377.199,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "The Vice-President is to be chosen in the same manner with the President;",
+   "begin": 377.199,
+   "end": 380.639,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "with this difference, that the Senate is to do, in respect to the former, what is to be done by the House of Representatives, in respect to the latter.",
+   "begin": 380.639,
+   "end": 387.84,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 10,
+   "text": "The appointment of an extraordinary person, as Vice-President, has been objected to as superfluous, if not mischievous.",
+   "begin": 387.84,
+   "end": 394.4,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 10,
+   "text": "It has been alleged, that it would have been preferable to have authorized the Senate to elect out of their own body an officer answering that description.",
+   "begin": 394.4,
+   "end": 401.36,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 10,
+   "text": "But two considerations seem to justify the ideas of the convention in this respect.",
+   "begin": 401.36,
+   "end": 406.24,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 10,
+   "text": "One is, that to secure at all times the possibility of a definite resolution of the body, it is necessary that the President should have only a casting vote.",
+   "begin": 406.24,
+   "end": 414.0,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "And to take the senator of any State from his seat as senator, to place him in that of President of the Senate, would be to exchange, in regard to the State from which he came, a constant for a contingent vote.",
+   "begin": 414.0,
+   "end": 425.12,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "The other consideration is, that as the Vice-President may occasionally become a substitute for the President, in the supreme executive magistracy, all the reasons which recommend the mode of election prescribed for the one, apply with great if not with equal force to the manner of appointing the other.",
+   "begin": 425.12,
+   "end": 440.72,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 10,
+   "text": "It is remarkable that in this, as in most other instances, the objection which is made would lie against the constitution of this State.",
+   "begin": 440.72,
+   "end": 447.84,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 10,
+   "text": "We have a Lieutenant-Governor, chosen by the people at large, who presides in the Senate, and is the constitutional substitute for the Governor, in casualties similar to those which would authorize the Vice-President to exercise the authorities and discharge the duties of the President.",
+   "begin": 447.84,
+   "end": 462.16,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 11,
+   "text": "PUBLIUS.",
+   "begin": 462.16,
+   "end": 463.16,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 12,
+   "text": "1 Vide FEDERAL FARMER.",
+   "begin": 463.16,
+   "end": 464.074014,
+   "synced": false
+  }
+ ]
+}

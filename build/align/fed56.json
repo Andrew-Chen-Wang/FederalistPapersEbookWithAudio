@@ -1,0 +1,443 @@
+{
+ "paper": 56,
+ "duration": 506.72907,
+ "match_ratio": 0.9676,
+ "heading": [
+  "The Same Subject Continued(The Total Number of the House of Representatives)",
+  "From the New York Packet. Tuesday, February 19, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 17.279,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE SECOND charge against the House of Representatives is, that it will be too small to possess a due knowledge of the interests of its constituents.",
+   "begin": 17.279,
+   "end": 24.96,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "As this objection evidently proceeds from a comparison of the proposed number of representatives with the great extent of the United States, the number of their inhabitants, and the diversity of their interests, without taking into view at the same time the circumstances which will distinguish the Congress from other legislative bodies, the best answer that can be given to it will be a brief explanation of these peculiarities.",
+   "begin": 24.96,
+   "end": 45.92,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "It is a sound and important principle that the representative ought to be acquainted with the interests and circumstances of his constituents.",
+   "begin": 45.92,
+   "end": 53.68,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "But this principle can extend no further than to those circumstances and interests to which the authority and care of the representative relate.",
+   "begin": 53.68,
+   "end": 62.239,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "An ignorance of a variety of minute and particular objects, which do not lie within the compass of legislation, is consistent with every attribute necessary to a due performance of the legislative trust.",
+   "begin": 62.239,
+   "end": 73.439,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "In determining the extent of information required in the exercise of a particular authority, recourse then must be had to the objects within the purview of that authority.",
+   "begin": 73.439,
+   "end": 82.96,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "What are to be the objects of federal legislation?",
+   "begin": 82.96,
+   "end": 86.4,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "Those which are of most importance, and which seem most to require local knowledge, are commerce, taxation, and the militia.",
+   "begin": 86.4,
+   "end": 94.079,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "A proper regulation of commerce requires much information, as has been elsewhere remarked;",
+   "begin": 94.079,
+   "end": 98.96,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "but as far as this information relates to the laws and local situation of each individual State, a very few representatives would be very sufficient vehicles of it to the federal councils.",
+   "begin": 98.96,
+   "end": 109.04,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "Taxation will consist, in a great measure, of duties which will be involved in the regulation of commerce.",
+   "begin": 109.04,
+   "end": 114.56,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "So far the preceding remark is applicable to this object.",
+   "begin": 114.56,
+   "end": 118.399,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "As far as it may consist of internal collections, a more diffusive knowledge of the circumstances of the State may be necessary.",
+   "begin": 118.399,
+   "end": 125.119,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "But will not this also be possessed in sufficient degree by a very few intelligent men, diffusively elected within the State?",
+   "begin": 125.119,
+   "end": 132.08,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "Divide the largest State into ten or twelve districts, and it will be found that there will be no peculiar local interests in either, which will not be within the knowledge of the representative of the district.",
+   "begin": 132.08,
+   "end": 142.239,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "Besides this source of information, the laws of the State, framed by representatives from every part of it, will be almost of themselves a sufficient guide.",
+   "begin": 142.239,
+   "end": 151.12,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "In every State there have been made, and must continue to be made, regulations on this subject which will, in many cases, leave little more to be done by the federal legislature, than to review the different laws, and reduce them in one general act.",
+   "begin": 151.12,
+   "end": 163.599,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "A skillful individual in his closet with all the local codes before him, might compile a law on some subjects of taxation for the whole union, without any aid from oral information, and it may be expected that whenever internal taxes may be necessary, and particularly in cases requiring uniformity throughout the States, the more simple objects will be preferred.",
+   "begin": 163.599,
+   "end": 182.959,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "To be fully sensible of the facility which will be given to this branch of federal legislation by the assistance of the State codes, we need only suppose for a moment that this or any other State were divided into a number of parts, each having and exercising within itself a power of local legislation.",
+   "begin": 182.959,
+   "end": 199.04,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "Is it not evident that a degree of local information and preparatory labor would be found in the several volumes of their proceedings, which would very much shorten the labors of the general legislature, and render a much smaller number of members sufficient for it?",
+   "begin": 199.04,
+   "end": 211.92,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "The federal councils will derive great advantage from another circumstance.",
+   "begin": 211.92,
+   "end": 215.92,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "The representatives of each State will not only bring with them a considerable knowledge of its laws, and a local knowledge of their respective districts, but will probably in all cases have been members, and may even at the very time be members, of the State legislature, where all the local information and interests of the State are assembled, and from whence they may easily be conveyed by a very few hands into the legislature of the United States.",
+   "begin": 215.92,
+   "end": 238.159,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "The observations made on the subject of taxation apply with greater force to the case of the militia.",
+   "begin": 238.159,
+   "end": 243.76,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "For however different the rules of discipline may be in different States, they are the same throughout each particular State;",
+   "begin": 243.76,
+   "end": 249.76,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "and depend on circumstances which can differ but little in different parts of the same State.",
+   "begin": 249.76,
+   "end": 254.56,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "The attentive reader will discern that the reasoning here used, to prove the sufficiency of a moderate number of representatives, does not in any respect contradict what was urged on another occasion with regard to the extensive information which the representatives ought to possess, and the time that might be necessary for acquiring it.",
+   "begin": 254.56,
+   "end": 271.12,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "This information, so far as it may relate to local objects, is rendered necessary and difficult, not by a difference of laws and local circumstances within a single State, but of those among different States.",
+   "begin": 271.12,
+   "end": 282.16,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "Taking each State by itself, its laws are the same, and its interests but little diversified.",
+   "begin": 282.16,
+   "end": 287.44,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "A few men, therefore, will possess all the knowledge requisite for a proper representation of them.",
+   "begin": 287.44,
+   "end": 292.8,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "Were the interests and affairs of each individual State perfectly simple and uniform, a knowledge of them in one part would involve a knowledge of them in every other, and the whole State might be competently represented by a single member taken from any part of it.",
+   "begin": 292.8,
+   "end": 305.68,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "On a comparison of the different States together, we find a great dissimilarity in their laws, and in many other circumstances connected with the objects of federal legislation, with all of which the federal representatives ought to have some acquaintance.",
+   "begin": 305.68,
+   "end": 318.08,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "Whilst a few representatives, therefore, from each State, may bring with them a due knowledge of their own State, every representative will have much information to acquire concerning all the other States.",
+   "begin": 318.08,
+   "end": 328.32,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "The changes of time, as was formerly remarked, on the comparative situation of the different States, will have an assimilating effect.",
+   "begin": 328.32,
+   "end": 335.759,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "The effect of time on the internal affairs of the States, taken singly, will be just the contrary.",
+   "begin": 335.759,
+   "end": 341.44,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "At present some of the States are little more than a society of husbandmen.",
+   "begin": 341.44,
+   "end": 345.44,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "Few of them have made much progress in those branches of industry which give a variety and complexity to the affairs of a nation.",
+   "begin": 345.44,
+   "end": 352.56,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "These, however, will in all of them be the fruits of a more advanced population, and will require, on the part of each State, a fuller representation.",
+   "begin": 352.56,
+   "end": 360.88,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "The foresight of the convention has accordingly taken care that the progress of population may be accompanied with a proper increase of the representative branch of the government.",
+   "begin": 360.88,
+   "end": 369.6,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "The experience of Great Britain, which presents to mankind so many political lessons, both of the monitory and exemplary kind, and which has been frequently consulted in the course of these inquiries, corroborates the result of the reflections which we have just made.",
+   "begin": 369.6,
+   "end": 382.88,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "The number of inhabitants in the two kingdoms of England and Scotland cannot be stated at less than eight millions.",
+   "begin": 382.88,
+   "end": 388.56,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "The representatives of these eight millions in the House of Commons amount to five hundred and fifty-eight.",
+   "begin": 388.56,
+   "end": 394.16,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "Of this number, one ninth are elected by three hundred and sixty-four persons, and one half, by five thousand seven hundred and twenty-three persons.",
+   "begin": 394.16,
+   "end": 402.0,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "1",
+   "begin": 402.0,
+   "end": 404.639,
+   "synced": false
+  },
+  {
+   "id": "u0045",
+   "para": 6,
+   "text": "It cannot be supposed that the half thus elected, and who do not even reside among the people at large, can add any thing either to the security of the people against the government, or to the knowledge of their circumstances and interests in the legislative councils.",
+   "begin": 404.639,
+   "end": 418.56,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "On the contrary, it is notorious, that they are more frequently the representatives and instruments of the executive magistrate, than the guardians and advocates of the popular rights.",
+   "begin": 418.56,
+   "end": 427.84,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "They might therefore, with great propriety, be considered as something more than a mere deduction from the real representatives of the nation.",
+   "begin": 427.84,
+   "end": 434.479,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "We will, however, consider them in this light alone, and will not extend the deduction to a considerable number of others, who do not reside among their constitutents, are very faintly connected with them, and have very little particular knowledge of their affairs.",
+   "begin": 434.479,
+   "end": 447.28,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "With all these concessions, two hundred and seventy-nine persons only will be the depository of the safety, interest, and happiness of eight millions that is to say, there will be one representative only to maintain the rights and explain the situation OF TWENTY-EIGHT THOUSAND SIX HUNDRED AND SEVENTY constitutents, in an assembly exposed to the whole force of executive influence, and extending its authority to every object of legislation within a nation whose affairs are in the highest degree diversified and complicated.",
+   "begin": 447.28,
+   "end": 474.08,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 7,
+   "text": "Yet it is very certain, not only that a valuable portion of freedom has been preserved under all these circumstances, but that the defects in the British code are chargeable, in a very small proportion, on the ignorance of the legislature concerning the circumstances of the people.",
+   "begin": 474.08,
+   "end": 488.16,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 7,
+   "text": "Allowing to this case the weight which is due to it, and comparing it with that of the House of Representatives as above explained it seems to give the fullest assurance, that a representative for every THIRTY THOUSAND INHABITANTS will render the latter both a safe and competent guardian of the interests which will be confided to it.",
+   "begin": 488.16,
+   "end": 505.12,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 8,
+   "text": "PUBLIUS.",
+   "begin": 505.12,
+   "end": 506.12,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "Burgh's \"Political Disquisitions.",
+   "begin": 506.12,
+   "end": 506.72907,
+   "synced": false
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "''",
+   "begin": 506.72907,
+   "end": 506.72907,
+   "synced": false
+  }
+ ]
+}

@@ -1,0 +1,1093 @@
+{
+ "paper": 38,
+ "duration": 1018.078912,
+ "match_ratio": 0.9826,
+ "heading": [
+  "The Same Subject Continued, and the Incoherence of the Objections to the New Plan Exposed",
+  "From the New York Packet.",
+  "Tuesday, January 15, 1788.",
+  "MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.92,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "IT IS not a little remarkable that in every case reported by ancient history, in which government has been established with deliberation and consent, the task of framing it has not been committed to an assembly of men, but has been performed by some individual citizen of preeminent wisdom and approved integrity.",
+   "begin": 15.92,
+   "end": 32.32,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "Minos, we learn, was the primitive founder of the government of Crete, as Zaleucus was of that of the Locrians.",
+   "begin": 32.32,
+   "end": 38.4,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "Theseus first, and after him Draco and Solon, instituted the government of Athens.",
+   "begin": 38.4,
+   "end": 43.12,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "Lycurgus was the lawgiver of Sparta.",
+   "begin": 43.12,
+   "end": 45.6,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "The foundation of the original government of Rome was laid by Romulus, and the work completed by two of his elective successors, Numa and Tullius Hostilius.",
+   "begin": 45.6,
+   "end": 53.76,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "On the abolition of royalty the consular administration was substituted by Brutus, who stepped forward with a project for such a reform, which, he alleged, had been prepared by Tullius Hostilius, and to which his address obtained the assent and ratification of the senate and people.",
+   "begin": 53.76,
+   "end": 68.32,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "This remark is applicable to confederate governments also.",
+   "begin": 68.32,
+   "end": 71.36,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "Amphictyon, we are told, was the author of that which bore his name.",
+   "begin": 71.36,
+   "end": 74.88,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "The Achaean league received its first birth from Achaeus, and its second from Aratus.",
+   "begin": 74.88,
+   "end": 79.84,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "What degree of agency these reputed lawgivers might have in their respective establishments, or how far they might be clothed with the legitimate authority of the people, cannot in every instance be ascertained.",
+   "begin": 79.84,
+   "end": 90.32,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "In some, however, the proceeding was strictly regular.",
+   "begin": 90.32,
+   "end": 93.6,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "Draco appears to have been intrusted by the people of Athens with indefinite powers to reform its government and laws.",
+   "begin": 93.6,
+   "end": 99.52,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "And Solon, according to Plutarch, was in a manner compelled, by the universal suffrage of his fellow-citizens, to take upon him the sole and absolute power of new-modeling the constitution.",
+   "begin": 99.52,
+   "end": 109.68,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "The proceedings under Lycurgus were less regular;",
+   "begin": 109.68,
+   "end": 112.32,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "but as far as the advocates for a regular reform could prevail, they all turned their eyes towards the single efforts of that celebrated patriot and sage, instead of seeking to bring about a revolution by the intervention of a deliberative body of citizens.",
+   "begin": 112.32,
+   "end": 125.68,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "Whence could it have proceeded, that a people, jealous as the Greeks were of their liberty, should so far abandon the rules of caution as to place their destiny in the hands of a single citizen?",
+   "begin": 125.68,
+   "end": 135.52,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "Whence could it have proceeded, that the Athenians, a people who would not suffer an army to be commanded by fewer than ten generals, and who required no other proof of danger to their liberties than the illustrious merit of a fellow-citizen, should consider one illustrious citizen as a more eligible depositary of the fortunes of themselves and their posterity, than a select body of citizens, from whose common deliberations more wisdom, as well as more safety, might have been expected?",
+   "begin": 135.52,
+   "end": 160.24,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "These questions cannot be fully answered, without supposing that the fears of discord and disunion among a number of counsellors exceeded the apprehension of treachery or incapacity in a single individual.",
+   "begin": 160.24,
+   "end": 170.8,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "History informs us, likewise, of the difficulties with which these celebrated reformers had to contend, as well as the expedients which they were obliged to employ in order to carry their reforms into effect.",
+   "begin": 170.8,
+   "end": 182.64,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "Solon, who seems to have indulged a more temporizing policy, confessed that he had not given to his countrymen the government best suited to their happiness, but most tolerable to their prejudices.",
+   "begin": 182.64,
+   "end": 192.48,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "And Lycurgus, more true to his object, was under the necessity of mixing a portion of violence with the authority of superstition, and of securing his final success by a voluntary renunciation, first of his country, and then of his life.",
+   "begin": 192.48,
+   "end": 205.52,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "If these lessons teach us, on one hand, to admire the improvement made by America on the ancient mode of preparing and establishing regular plans of government, they serve not less, on the other, to admonish us of the hazards and difficulties incident to such experiments, and of the great imprudence of unnecessarily multiplying them.",
+   "begin": 205.52,
+   "end": 223.36,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "Is it an unreasonable conjecture, that the errors which may be contained in the plan of the convention are such as have resulted rather from the defect of antecedent experience on this complicated and difficult subject, than from a want of accuracy or care in the investigation of it;",
+   "begin": 223.36,
+   "end": 238.4,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "and, consequently such as will not be ascertained until an actual trial shall have pointed them out?",
+   "begin": 238.4,
+   "end": 244.16,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "This conjecture is rendered probable, not only by many considerations of a general nature, but by the particular case of the Articles of Confederation.",
+   "begin": 244.16,
+   "end": 252.88,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "It is observable that among the numerous objections and amendments suggested by the several States, when these articles were submitted for their ratification, not one is found which alludes to the great and radical error which on actual trial has discovered itself.",
+   "begin": 252.88,
+   "end": 266.16,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "And if we except the observations which New Jersey was led to make, rather by her local situation, than by her peculiar foresight, it may be questioned whether a single suggestion was of sufficient moment to justify a revision of the system.",
+   "begin": 266.16,
+   "end": 278.4,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "There is abundant reason, nevertheless, to suppose that immaterial as these objections were, they would have been adhered to with a very dangerous inflexibility, in some States, had not a zeal for their opinions and supposed interests been stifled by the more powerful sentiment of selfpreservation.",
+   "begin": 278.4,
+   "end": 293.6,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "One State, we may remember, persisted for several years in refusing her concurrence, although the enemy remained the whole period at our gates, or rather in the very bowels of our country.",
+   "begin": 293.6,
+   "end": 303.6,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "Nor was her pliancy in the end effected by a less motive, than the fear of being chargeable with protracting the public calamities, and endangering the event of the contest.",
+   "begin": 303.6,
+   "end": 312.4,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "Every candid reader will make the proper reflections on these important facts.",
+   "begin": 312.4,
+   "end": 316.56,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 6,
+   "text": "A patient who finds his disorder daily growing worse, and that an efficacious remedy can no longer be delayed without extreme danger, after coolly revolving his situation, and the characters of different physicians, selects and calls in such of them as he judges most capable of administering relief, and best entitled to his confidence.",
+   "begin": 316.56,
+   "end": 334.88,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 6,
+   "text": "The physicians attend;",
+   "begin": 334.88,
+   "end": 336.08,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 6,
+   "text": "the case of the patient is carefully examined;",
+   "begin": 336.08,
+   "end": 338.32,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 6,
+   "text": "a consultation is held;",
+   "begin": 338.32,
+   "end": 339.76,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 6,
+   "text": "they are unanimously agreed that the symptoms are critical, but that the case, with proper and timely relief, is so far from being desperate, that it may be made to issue in an improvement of his constitution.",
+   "begin": 339.76,
+   "end": 350.8,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 6,
+   "text": "They are equally unanimous in prescribing the remedy, by which this happy effect is to be produced.",
+   "begin": 350.8,
+   "end": 356.16,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 6,
+   "text": "The prescription is no sooner made known, however, than a number of persons interpose, and, without denying the reality or danger of the disorder, assure the patient that the prescription will be poison to his constitution, and forbid him, under pain of certain death, to make use of it.",
+   "begin": 356.16,
+   "end": 370.96,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 6,
+   "text": "Might not the patient reasonably demand, before he ventured to follow this advice, that the authors of it should at least agree among themselves on some other remedy to be substituted?",
+   "begin": 370.96,
+   "end": 380.48,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 6,
+   "text": "And if he found them differing as much from one another as from his first counsellors, would he not act prudently in trying the experiment unanimously recommended by the latter, rather than be hearkening to those who could neither deny the necessity of a speedy remedy, nor agree in proposing one?",
+   "begin": 380.48,
+   "end": 395.44,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 7,
+   "text": "Such a patient and in such a situation is America at this moment.",
+   "begin": 395.44,
+   "end": 399.6,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 7,
+   "text": "She has been sensible of her malady.",
+   "begin": 399.6,
+   "end": 401.6,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "She has obtained a regular and unanimous advice from men of her own deliberate choice.",
+   "begin": 401.6,
+   "end": 406.16,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "And she is warned by others against following this advice under pain of the most fatal consequences.",
+   "begin": 406.16,
+   "end": 411.44,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "Do the monitors deny the reality of her danger?",
+   "begin": 411.44,
+   "end": 414.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "No.",
+   "begin": 414.56,
+   "end": 415.36,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 7,
+   "text": "Do they deny the necessity of some speedy and powerful remedy?",
+   "begin": 415.36,
+   "end": 418.88,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 7,
+   "text": "No.",
+   "begin": 418.88,
+   "end": 419.6,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 7,
+   "text": "Are they agreed, are any two of them agreed, in their objections to the remedy proposed, or in the proper one to be substituted?",
+   "begin": 419.6,
+   "end": 426.08,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 7,
+   "text": "Let them speak for themselves.",
+   "begin": 426.08,
+   "end": 427.92,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 7,
+   "text": "This one tells us that the proposed Constitution ought to be rejected, because it is not a confederation of the States, but a government over individuals.",
+   "begin": 427.92,
+   "end": 435.04,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 7,
+   "text": "Another admits that it ought to be a government over individuals to a certain extent, but by no means to the extent proposed.",
+   "begin": 435.04,
+   "end": 441.44,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "A third does not object to the government over individuals, or to the extent proposed, but to the want of a bill of rights.",
+   "begin": 441.44,
+   "end": 447.52,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "A fourth concurs in the absolute necessity of a bill of rights, but contends that it ought to be declaratory, not of the personal rights of individuals, but of the rights reserved to the States in their political capacity.",
+   "begin": 447.52,
+   "end": 458.08,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "A fifth is of opinion that a bill of rights of any sort would be superfluous and misplaced, and that the plan would be unexceptionable but for the fatal power of regulating the times and places of election.",
+   "begin": 458.08,
+   "end": 468.4,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "An objector in a large State exclaims loudly against the unreasonable equality of representation in the Senate.",
+   "begin": 468.4,
+   "end": 474.08,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "An objector in a small State is equally loud against the dangerous inequality in the House of Representatives.",
+   "begin": 474.08,
+   "end": 479.2,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "From this quarter, we are alarmed with the amazing expense, from the number of persons who are to administer the new government.",
+   "begin": 479.2,
+   "end": 485.04,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "From another quarter, and sometimes from the same quarter, on another occasion, the cry is that the Congress will be but a shadow of a representation, and that the government would be far less objectionable if the number and the expense were doubled.",
+   "begin": 485.04,
+   "end": 496.48,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 7,
+   "text": "A patriot in a State that does not import or export, discerns insuperable objections against the power of direct taxation.",
+   "begin": 496.48,
+   "end": 503.28,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 7,
+   "text": "The patriotic adversary in a State of great exports and imports, is not less dissatisfied that the whole burden of taxes may be thrown on consumption.",
+   "begin": 503.28,
+   "end": 511.6,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 7,
+   "text": "This politician discovers in the Constitution a direct and irresistible tendency to monarchy;",
+   "begin": 511.6,
+   "end": 516.56,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 7,
+   "text": "that is equally sure it will end in aristocracy.",
+   "begin": 516.56,
+   "end": 519.2,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 7,
+   "text": "Another is puzzled to say which of these shapes it will ultimately assume, but sees clearly it must be one or other of them;",
+   "begin": 519.2,
+   "end": 525.44,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 7,
+   "text": "whilst a fourth is not wanting, who with no less confidence affirms that the Constitution is so far from having a bias towards either of these dangers, that the weight on that side will not be sufficient to keep it upright and firm against its opposite propensities.",
+   "begin": 525.44,
+   "end": 538.64,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 7,
+   "text": "With another class of adversaries to the Constitution the language is that the legislative, executive, and judiciary departments are intermixed in such a manner as to contradict all the ideas of regular government and all the requisite precautions in favor of liberty.",
+   "begin": 538.64,
+   "end": 552.16,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 7,
+   "text": "Whilst this objection circulates in vague and general expressions, there are but a few who lend their sanction to it.",
+   "begin": 552.16,
+   "end": 558.32,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 7,
+   "text": "Let each one come forward with his particular explanation, and scarce any two are exactly agreed upon the subject.",
+   "begin": 558.32,
+   "end": 564.88,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 7,
+   "text": "In the eyes of one the junction of the Senate with the President in the responsible function of appointing to offices, instead of vesting this executive power in the Executive alone, is the vicious part of the organization.",
+   "begin": 564.88,
+   "end": 575.52,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 7,
+   "text": "To another, the exclusion of the House of Representatives, whose numbers alone could be a due security against corruption and partiality in the exercise of such a power, is equally obnoxious.",
+   "begin": 575.52,
+   "end": 585.84,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 7,
+   "text": "With another, the admission of the President into any share of a power which ever must be a dangerous engine in the hands of the executive magistrate, is an unpardonable violation of the maxims of republican jealousy.",
+   "begin": 585.84,
+   "end": 597.2,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 7,
+   "text": "No part of the arrangement, according to some, is more inadmissible than the trial of impeachments by the Senate, which is alternately a member both of the legislative and executive departments, when this power so evidently belonged to the judiciary department.",
+   "begin": 597.2,
+   "end": 610.8,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 7,
+   "text": "\"We concur fully,'' reply others, \"in the objection to this part of the plan, but we can never agree that a reference of impeachments to the judiciary authority would be an amendment of the error.",
+   "begin": 610.8,
+   "end": 620.64,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 7,
+   "text": "Our principal dislike to the organization arises from the extensive powers already lodged in that department.'' Even among the zealous patrons of a council of state the most irreconcilable variance is discovered concerning the mode in which it ought to be constituted.",
+   "begin": 620.64,
+   "end": 635.44,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 7,
+   "text": "The demand of one gentleman is, that the council should consist of a small number to be appointed by the most numerous branch of the legislature.",
+   "begin": 635.44,
+   "end": 642.72,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 7,
+   "text": "Another would prefer a larger number, and considers it as a fundamental condition that the appointment should be made by the President himself.",
+   "begin": 642.72,
+   "end": 649.52,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 8,
+   "text": "As it can give no umbrage to the writers against the plan of the federal Constitution, let us suppose, that as they are the most zealous, so they are also the most sagacious, of those who think the late convention were unequal to the task assigned them, and that a wiser and better plan might and ought to be substituted.",
+   "begin": 649.52,
+   "end": 665.28,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 8,
+   "text": "Let us further suppose that their country should concur, both in this favorable opinion of their merits, and in their unfavorable opinion of the convention;",
+   "begin": 665.28,
+   "end": 672.96,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 8,
+   "text": "and should accordingly proceed to form them into a second convention, with full powers, and for the express purpose of revising and remoulding the work of the first.",
+   "begin": 672.96,
+   "end": 680.88,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 8,
+   "text": "Were the experiment to be seriously made, though it required some effort to view it seriously even in fiction, I leave it to be decided by the sample of opinions just exhibited, whether, with all their enmity to their predecessors, they would, in any one point, depart so widely from their example, as in the discord and ferment that would mark their own deliberations;",
+   "begin": 680.88,
+   "end": 699.44,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 8,
+   "text": "and whether the Constitution, now before the public, would not stand as fair a chance for immortality, as Lycurgus gave to that of Sparta, by making its change to depend on his own return from exile and death, if it were to be immediately adopted, and were to continue in force, not until a BETTER, but until ANOTHER should be agreed upon by this new assembly of lawgivers.",
+   "begin": 699.44,
+   "end": 719.2,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 9,
+   "text": "It is a matter both of wonder and regret, that those who raise so many objections against the new Constitution should never call to mind the defects of that which is to be exchanged for it.",
+   "begin": 719.2,
+   "end": 729.12,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 9,
+   "text": "It is not necessary that the former should be perfect;",
+   "begin": 729.12,
+   "end": 732.24,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 9,
+   "text": "it is sufficient that the latter is more imperfect.",
+   "begin": 732.24,
+   "end": 735.28,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 9,
+   "text": "No man would refuse to give brass for silver or gold, because the latter had some alloy in it.",
+   "begin": 735.28,
+   "end": 740.8,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 9,
+   "text": "No man would refuse to quit a shattered and tottering habitation for a firm and commodious building, because the latter had not a porch to it, or because some of the rooms might be a little larger or smaller, or the ceilings a little higher or lower than his fancy would have planned them.",
+   "begin": 740.8,
+   "end": 755.04,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 9,
+   "text": "But waiving illustrations of this sort, is it not manifest that most of the capital objections urged against the new system lie with tenfold weight against the existing Confederation?",
+   "begin": 755.04,
+   "end": 764.96,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 9,
+   "text": "Is an indefinite power to raise money dangerous in the hands of the federal government?",
+   "begin": 764.96,
+   "end": 769.52,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 9,
+   "text": "The present Congress can make requisitions to any amount they please, and the States are constitutionally bound to furnish them;",
+   "begin": 769.52,
+   "end": 776.08,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 9,
+   "text": "they can emit bills of credit as long as they will pay for the paper;",
+   "begin": 776.08,
+   "end": 779.2,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 9,
+   "text": "they can borrow, both abroad and at home, as long as a shilling will be lent.",
+   "begin": 779.2,
+   "end": 783.6,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 9,
+   "text": "Is an indefinite power to raise troops dangerous?",
+   "begin": 783.6,
+   "end": 786.4,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 9,
+   "text": "The Confederation gives to Congress that power also;",
+   "begin": 786.4,
+   "end": 789.2,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 9,
+   "text": "and they have already begun to make use of it.",
+   "begin": 789.2,
+   "end": 791.44,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 9,
+   "text": "Is it improper and unsafe to intermix the different powers of government in the same body of men?",
+   "begin": 791.44,
+   "end": 796.4,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 9,
+   "text": "Congress, a single body of men, are the sole depositary of all the federal powers.",
+   "begin": 796.4,
+   "end": 801.6,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 9,
+   "text": "Is it particularly dangerous to give the keys of the treasury, and the command of the army, into the same hands?",
+   "begin": 801.6,
+   "end": 807.04,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 9,
+   "text": "The Confederation places them both in the hands of Congress.",
+   "begin": 807.04,
+   "end": 810.24,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 9,
+   "text": "Is a bill of rights essential to liberty?",
+   "begin": 810.24,
+   "end": 812.48,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 9,
+   "text": "The Confederation has no bill of rights.",
+   "begin": 812.48,
+   "end": 815.12,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 9,
+   "text": "Is it an objection against the new Constitution, that it empowers the Senate, with the concurrence of the Executive, to make treaties which are to be the laws of the land?",
+   "begin": 815.12,
+   "end": 822.88,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 9,
+   "text": "The existing Congress, without any such control, can make treaties which they themselves have declared, and most of the States have recognized, to be the supreme law of the land.",
+   "begin": 822.88,
+   "end": 831.44,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 9,
+   "text": "Is the importation of slaves permitted by the new Constitution for twenty years?",
+   "begin": 831.44,
+   "end": 835.84,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 9,
+   "text": "By the old it is permitted forever.",
+   "begin": 835.84,
+   "end": 838.48,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 10,
+   "text": "I shall be told, that however dangerous this mixture of powers may be in theory, it is rendered harmless by the dependence of Congress on the State for the means of carrying them into practice;",
+   "begin": 838.48,
+   "end": 848.32,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 10,
+   "text": "that however large the mass of powers may be, it is in fact a lifeless mass.",
+   "begin": 848.32,
+   "end": 853.36,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 10,
+   "text": "Then, say I, in the first place, that the Confederation is chargeable with the still greater folly of declaring certain powers in the federal government to be absolutely necessary, and at the same time rendering them absolutely nugatory;",
+   "begin": 853.36,
+   "end": 865.36,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 10,
+   "text": "and, in the next place, that if the Union is to continue, and no better government be substituted, effective powers must either be granted to, or assumed by, the existing Congress;",
+   "begin": 865.36,
+   "end": 875.2,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 10,
+   "text": "in either of which events, the contrast just stated will hold good.",
+   "begin": 875.2,
+   "end": 878.96,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 10,
+   "text": "But this is not all.",
+   "begin": 878.96,
+   "end": 880.24,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 10,
+   "text": "Out of this lifeless mass has already grown an excrescent power, which tends to realize all the dangers that can be apprehended from a defective construction of the supreme government of the Union.",
+   "begin": 880.24,
+   "end": 889.92,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 10,
+   "text": "It is now no longer a point of speculation and hope, that the Western territory is a mine of vast wealth to the United States;",
+   "begin": 889.92,
+   "end": 896.96,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 10,
+   "text": "and although it is not of such a nature as to extricate them from their present distresses, or for some time to come, to yield any regular supplies for the public expenses, yet must it hereafter be able, under proper management, both to effect a gradual discharge of the domestic debt, and to furnish, for a certain period, liberal tributes to the federal treasury.",
+   "begin": 896.96,
+   "end": 915.6,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 10,
+   "text": "A very large proportion of this fund has been already surrendered by individual States;",
+   "begin": 915.6,
+   "end": 920.32,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 10,
+   "text": "and it may with reason be expected that the remaining States will not persist in withholding similar proofs of their equity and generosity.",
+   "begin": 920.32,
+   "end": 920.32,
+   "synced": false
+  },
+  {
+   "id": "u0117",
+   "para": 10,
+   "text": "We may calculate, therefore, that a rich and fertile country, of an area equal to the inhabited extent of the United States, will soon become a national stock.",
+   "begin": 920.32,
+   "end": 927.36,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 10,
+   "text": "Congress have assumed the administration of this stock.",
+   "begin": 927.36,
+   "end": 930.24,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 10,
+   "text": "They have begun to render it productive.",
+   "begin": 930.24,
+   "end": 932.48,
+   "synced": true
+  },
+  {
+   "id": "u0120",
+   "para": 10,
+   "text": "Congress have undertaken to do more:",
+   "begin": 932.48,
+   "end": 934.48,
+   "synced": true
+  },
+  {
+   "id": "u0121",
+   "para": 10,
+   "text": "they have proceeded to form new States, to erect temporary governments, to appoint officers for them, and to prescribe the conditions on which such States shall be admitted into the Confederacy.",
+   "begin": 934.48,
+   "end": 944.64,
+   "synced": true
+  },
+  {
+   "id": "u0122",
+   "para": 10,
+   "text": "All this has been done;",
+   "begin": 944.64,
+   "end": 945.92,
+   "synced": true
+  },
+  {
+   "id": "u0123",
+   "para": 10,
+   "text": "and done without the least color of constitutional authority.",
+   "begin": 945.92,
+   "end": 949.04,
+   "synced": true
+  },
+  {
+   "id": "u0124",
+   "para": 10,
+   "text": "Yet no blame has been whispered;",
+   "begin": 949.04,
+   "end": 950.64,
+   "synced": true
+  },
+  {
+   "id": "u0125",
+   "para": 10,
+   "text": "no alarm has been sounded.",
+   "begin": 950.64,
+   "end": 952.48,
+   "synced": true
+  },
+  {
+   "id": "u0126",
+   "para": 10,
+   "text": "A GREAT and INDEPENDENT fund of revenue is passing into the hands of a SINGLE BODY of men, who can RAISE TROOPS to an INDEFINITE NUMBER, and appropriate money to their support for an INDEFINITE PERIOD OF TIME.",
+   "begin": 952.48,
+   "end": 963.44,
+   "synced": true
+  },
+  {
+   "id": "u0127",
+   "para": 10,
+   "text": "And yet there are men, who have not only been silent spectators of this prospect, but who are advocates for the system which exhibits it;",
+   "begin": 963.44,
+   "end": 970.16,
+   "synced": true
+  },
+  {
+   "id": "u0128",
+   "para": 10,
+   "text": "and, at the same time, urge against the new system the objections which we have heard.",
+   "begin": 970.16,
+   "end": 974.4,
+   "synced": true
+  },
+  {
+   "id": "u0129",
+   "para": 10,
+   "text": "Would they not act with more consistency, in urging the establishment of the latter, as no less necessary to guard the Union against the future powers and resources of a body constructed like the existing Congress, than to save it from the dangers threatened by the present impotency of that Assembly?",
+   "begin": 974.4,
+   "end": 989.2,
+   "synced": true
+  },
+  {
+   "id": "u0130",
+   "para": 11,
+   "text": "I mean not, by any thing here said, to throw censure on the measures which have been pursued by Congress.",
+   "begin": 989.2,
+   "end": 994.64,
+   "synced": true
+  },
+  {
+   "id": "u0131",
+   "para": 11,
+   "text": "I am sensible they could not have done otherwise.",
+   "begin": 994.64,
+   "end": 997.2,
+   "synced": true
+  },
+  {
+   "id": "u0132",
+   "para": 11,
+   "text": "The public interest, the necessity of the case, imposed upon them the task of overleaping their constitutional limits.",
+   "begin": 997.2,
+   "end": 1003.6,
+   "synced": true
+  },
+  {
+   "id": "u0133",
+   "para": 11,
+   "text": "But is not the fact an alarming proof of the danger resulting from a government which does not possess regular powers commensurate to its objects?",
+   "begin": 1003.6,
+   "end": 1010.8,
+   "synced": true
+  },
+  {
+   "id": "u0134",
+   "para": 11,
+   "text": "A dissolution or usurpation is the dreadful dilemma to which it is continually exposed.",
+   "begin": 1010.8,
+   "end": 1016.4,
+   "synced": true
+  },
+  {
+   "id": "u0135",
+   "para": 12,
+   "text": "PUBLIUS.",
+   "begin": 1016.4,
+   "end": 1018.078912,
+   "synced": true
+  }
+ ]
+}

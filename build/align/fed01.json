@@ -1,0 +1,476 @@
+{
+ "paper": 1,
+ "duration": 495.537052,
+ "match_ratio": 0.9204,
+ "heading": [
+  "General Introduction",
+  "For the Independent Journal.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 7.839,
+   "synced": false
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "AFTER an unequivocal experience of the inefficiency of the subsisting federal government, you are called upon to deliberate on a new Constitution for the United States of America.",
+   "begin": 7.839,
+   "end": 16.88,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The subject speaks its own importance;",
+   "begin": 16.88,
+   "end": 19.039,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "comprehending in its consequences nothing less than the existence of the UNION, the safety and welfare of the parts of which it is composed, the fate of an empire in many respects the most interesting in the world.",
+   "begin": 19.039,
+   "end": 30.32,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "It has been frequently remarked that it seems to have been reserved to the people of this country, by their conduct and example, to decide the important question, whether societies of men are really capable or not of establishing good government from reflection and choice, or whether they are forever destined to depend for their political constitutions on accident and force.",
+   "begin": 30.32,
+   "end": 50.16,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "If there be any truth in the remark, the crisis at which we are arrived may with propriety be regarded as the era in which that decision is to be made;",
+   "begin": 50.16,
+   "end": 58.079,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "and a wrong election of the part we shall act may, in this view, deserve to be considered as the general misfortune of mankind.",
+   "begin": 58.079,
+   "end": 65.28,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "This idea will add the inducements of philanthropy to those of patriotism, to heighten the solicitude which all considerate and good men must feel for the event.",
+   "begin": 65.28,
+   "end": 74.32,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "Happy will it be if our choice should be directed by a judicious estimate of our true interests, unperplexed and unbiased by considerations not connected with the public good.",
+   "begin": 74.32,
+   "end": 82.4,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "But this is a thing more ardently to be wished than seriously to be expected.",
+   "begin": 82.4,
+   "end": 86.32,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "The plan offered to our deliberations affects too many particular interests, innovates upon too many local institutions, not to involve in its discussion a variety of objects foreign to its merits, and of views, passions and prejudices little favorable to the discovery of truth.",
+   "begin": 86.32,
+   "end": 102.479,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "Among the most formidable of the obstacles which the new Constitution will have to encounter may readily be distinguished the obvious interest of a certain class of men in every State to resist all changes which may hazard a diminution of the power, emolument, and consequence of the offices they hold under the State establishments;",
+   "begin": 102.479,
+   "end": 118.479,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "and the perverted ambition of another class of men, who will either hope to aggrandize themselves by the confusions of their country, or will flatter themselves with fairer prospects of elevation from the subdivision of the empire into several partial confederacies than from its union under one government.",
+   "begin": 118.479,
+   "end": 133.599,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "It is not, however, my design to dwell upon observations of this nature.",
+   "begin": 133.599,
+   "end": 137.52,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 3,
+   "text": "I am well aware that it would be disingenuous to resolve indiscriminately the opposition of any set of men (merely because their situations might subject them to suspicion) into interested or ambitious views.",
+   "begin": 137.52,
+   "end": 148.239,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "Candor will oblige us to admit that even such men may be actuated by upright intentions;",
+   "begin": 148.239,
+   "end": 152.72,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "and it cannot be doubted that much of the opposition which has made its appearance, or may hereafter make its appearance, will spring from sources, blameless at least, if not respectable--the honest errors of minds led astray by preconceived jealousies and fears.",
+   "begin": 152.72,
+   "end": 167.12,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "So numerous indeed and so powerful are the causes which serve to give a false bias to the judgment, that we, upon many occasions, see wise and good men on the wrong as well as on the right side of questions of the first magnitude to society.",
+   "begin": 167.12,
+   "end": 180.08,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "This circumstance, if duly attended to, would furnish a lesson of moderation to those who are ever so much persuaded of their being in the right in any controversy.",
+   "begin": 180.08,
+   "end": 189.12,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "And a further reason for caution, in this respect, might be drawn from the reflection that we are not always sure that those who advocate the truth are influenced by purer principles than their antagonists.",
+   "begin": 189.12,
+   "end": 199.599,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "Ambition, avarice, personal animosity, party opposition, and many other motives not more laudable than these, are apt to operate as well upon those who support as those who oppose the right side of a question.",
+   "begin": 199.599,
+   "end": 211.76,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "Were there not even these inducements to moderation, nothing could be more ill-judged than that intolerant spirit which has, at all times, characterized political parties.",
+   "begin": 211.76,
+   "end": 220.48,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "For in politics, as in religion, it is equally absurd to aim at making proselytes by fire and sword.",
+   "begin": 220.48,
+   "end": 226.56,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "Heresies in either can rarely be cured by persecution.",
+   "begin": 226.56,
+   "end": 230.08,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "And yet, however just these sentiments will be allowed to be, we have already sufficient indications that it will happen in this as in all former cases of great national discussion.",
+   "begin": 230.08,
+   "end": 239.519,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "A torrent of angry and malignant passions will be let loose.",
+   "begin": 239.519,
+   "end": 243.12,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "To judge from the conduct of the opposite parties, we shall be led to conclude that they will mutually hope to evince the justness of their opinions, and to increase the number of their converts by the loudness of their declamations and the bitterness of their invectives.",
+   "begin": 243.12,
+   "end": 256.16,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "An enlightened zeal for the energy and efficiency of government will be stigmatized as the offspring of a temper fond of despotic power and hostile to the principles of liberty.",
+   "begin": 256.16,
+   "end": 265.04,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "An over-scrupulous jealousy of danger to the rights of the people, which is more commonly the fault of the head than of the heart, will be represented as mere pretense and artifice, the stale bait for popularity at the expense of the public good.",
+   "begin": 265.04,
+   "end": 277.36,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "It will be forgotten, on the one hand, that jealousy is the usual concomitant of love, and that the noble enthusiasm of liberty is apt to be infected with a spirit of narrow and illiberal distrust.",
+   "begin": 277.36,
+   "end": 288.479,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "On the other hand, it will be equally forgotten that the vigor of government is essential to the security of liberty;",
+   "begin": 288.479,
+   "end": 293.759,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "that, in the contemplation of a sound and well-informed judgment, their interest can never be separated;",
+   "begin": 293.759,
+   "end": 298.88,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "and that a dangerous ambition more often lurks behind the specious mask of zeal for the rights of the people than under the forbidden appearance of zeal for the firmness and efficiency of government.",
+   "begin": 298.88,
+   "end": 308.96,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "History will teach us that the former has been found a much more certain road to the introduction of despotism than the latter, and that of those men who have overturned the liberties of republics, the greatest number have begun their career by paying an obsequious court to the people;",
+   "begin": 308.96,
+   "end": 322.96,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "commencing demagogues, and ending tyrants.",
+   "begin": 322.96,
+   "end": 326.72,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "In the course of the preceding observations, I have had an eye, my fellow-citizens, to putting you upon your guard against all attempts, from whatever quarter, to influence your decision in a matter of the utmost moment to your welfare, by any impressions other than those which may result from the evidence of truth.",
+   "begin": 326.72,
+   "end": 342.96,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "You will, no doubt, at the same time, have collected from the general scope of them, that they proceed from a source not unfriendly to the new Constitution.",
+   "begin": 342.96,
+   "end": 350.4,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "Yes, my countrymen, I own to you that, after having given it an attentive consideration, I am clearly of opinion it is your interest to adopt it.",
+   "begin": 350.4,
+   "end": 358.4,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "I am convinced that this is the safest course for your liberty, your dignity, and your happiness.",
+   "begin": 358.4,
+   "end": 363.52,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "I affect not reserves which I do not feel.",
+   "begin": 363.52,
+   "end": 366.0,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "I will not amuse you with an appearance of deliberation when I have decided.",
+   "begin": 366.0,
+   "end": 369.84,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "I frankly acknowledge to you my convictions, and I will freely lay before you the reasons on which they are founded.",
+   "begin": 369.84,
+   "end": 375.759,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "The consciousness of good intentions disdains ambiguity.",
+   "begin": 375.759,
+   "end": 379.919,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "I shall not, however, multiply professions on this head.",
+   "begin": 379.919,
+   "end": 382.72,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "My motives must remain in the depository of my own breast.",
+   "begin": 382.72,
+   "end": 386.319,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "My arguments will be open to all, and may be judged of by all.",
+   "begin": 386.319,
+   "end": 390.319,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "They shall at least be offered in a spirit which will not disgrace the cause of truth.",
+   "begin": 390.319,
+   "end": 394.88,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "I propose, in a series of papers, to discuss the following interesting particulars:",
+   "begin": 394.88,
+   "end": 399.52,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 7,
+   "text": "THE UTILITY OF THE UNION TO YOUR POLITICAL PROSPERITY THE INSUFFICIENCY OF THE PRESENT CONFEDERATION TO PRESERVE THAT UNION THE NECESSITY OF A GOVERNMENT AT LEAST EQUALLY ENERGETIC WITH THE ONE PROPOSED, TO THE ATTAINMENT OF THIS OBJECT THE CONFORMITY OF THE PROPOSED CONSTITUTION TO THE TRUE PRINCIPLES OF REPUBLICAN GOVERNMENT ITS ANALOGY TO YOUR OWN STATE CONSTITUTION and lastly, THE ADDITIONAL SECURITY WHICH ITS ADOPTION WILL AFFORD TO THE PRESERVATION OF THAT SPECIES OF GOVERNMENT, TO LIBERTY, AND TO PROPERTY.",
+   "begin": 399.52,
+   "end": 428.639,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "In the progress of this discussion I shall endeavor to give a satisfactory answer to all the objections which shall have made their appearance, that may seem to have any claim to your attention.",
+   "begin": 428.639,
+   "end": 437.759,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "It may perhaps be thought superfluous to offer arguments to prove the utility of the UNION, a point, no doubt, deeply engraved on the hearts of the great body of the people in every State, and one, which it may be imagined, has no adversaries.",
+   "begin": 437.759,
+   "end": 450.319,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "But the fact is, that we already hear it whispered in the private circles of those who oppose the new Constitution, that the thirteen States are of too great extent for any general system, and that we must of necessity resort to separate confederacies of distinct portions of the whole.1 This doctrine will, in all probability, be gradually propagated, till it has votaries enough to countenance an open avowal of it.",
+   "begin": 450.319,
+   "end": 472.319,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "For nothing can be more evident, to those who are able to take an enlarged view of the subject, than the alternative of an adoption of the new Constitution or a dismemberment of the Union.",
+   "begin": 472.319,
+   "end": 481.52,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "It will therefore be of use to begin by examining the advantages of that Union, the certain evils, and the probable dangers, to which every State will be exposed from its dissolution.",
+   "begin": 481.52,
+   "end": 491.28,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "This shall accordingly constitute the subject of my next address.",
+   "begin": 491.28,
+   "end": 494.28,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "PUBLIUS.",
+   "begin": 494.28,
+   "end": 495.28,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 11,
+   "text": "1 The same idea, tracing the arguments to their consequences, is held out in several of the late publications against the new Constitution.",
+   "begin": 495.28,
+   "end": 495.537052,
+   "synced": false
+  },
+  {
+   "id": "u0058",
+   "para": 11,
+   "text": "Return to the Text",
+   "begin": 495.537052,
+   "end": 495.537052,
+   "synced": false
+  }
+ ]
+}

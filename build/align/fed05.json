@@ -1,0 +1,405 @@
+{
+ "paper": 5,
+ "duration": 456.666848,
+ "match_ratio": 0.9874,
+ "heading": [
+  "The Same Subject Continued:",
+  "Concerning Dangers From Foreign Force and Influence",
+  "For the Independent Journal.",
+  "JAY"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 14.16,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 0,
+   "text": "QUEEN ANNE, in her letter of the 1st July, 1706, to the Scotch Parliament, makes some observations on the importance of the UNION then forming between England and Scotland, which merit our attention.",
+   "begin": 14.16,
+   "end": 26.24,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 0,
+   "text": "I shall present the public with one or two extracts from it:",
+   "begin": 26.24,
+   "end": 30.88,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 0,
+   "text": "\"An entire and perfect union will be the solid foundation of lasting peace:",
+   "begin": 30.88,
+   "end": 35.92,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 0,
+   "text": "It will secure your religion, liberty, and property;",
+   "begin": 35.92,
+   "end": 39.2,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 0,
+   "text": "remove the animosities amongst yourselves, and the jealousies and differences betwixt our two kingdoms.",
+   "begin": 39.2,
+   "end": 45.12,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 0,
+   "text": "It must increase your strength, riches, and trade;",
+   "begin": 45.12,
+   "end": 48.559,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 0,
+   "text": "and by this union the whole island, being joined in affection and free from all apprehensions of different interest, will be ENABLED TO RESIST ALL ITS ENEMIES.'' \"We most earnestly recommend to you calmness and unanimity in this great and weighty affair, that the union may be brought to a happy conclusion, being the only EFFECTUAL way to secure our present and future happiness, and disappoint the designs of our and your enemies, who will doubtless, on this occasion, USE THEIR UTMOST ENDEAVORS TO PREVENT OR DELAY THIS UNION.''",
+   "begin": 48.559,
+   "end": 78.72,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "It was remarked in the preceding paper, that weakness and divisions at home would invite dangers from abroad;",
+   "begin": 78.72,
+   "end": 84.799,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "and that nothing would tend more to secure us from them than union, strength, and good government within ourselves.",
+   "begin": 84.799,
+   "end": 92.0,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "This subject is copious and cannot easily be exhausted.",
+   "begin": 92.0,
+   "end": 95.36,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "The history of Great Britain is the one with which we are in general the best acquainted, and it gives us many useful lessons.",
+   "begin": 95.36,
+   "end": 101.92,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "We may profit by their experience without paying the price which it cost them.",
+   "begin": 101.92,
+   "end": 106.479,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "Although it seems obvious to common sense that the people of such an island should be but one nation, yet we find that they were for ages divided into three, and that those three were almost constantly embroiled in quarrels and wars with one another.",
+   "begin": 106.479,
+   "end": 119.2,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "Notwithstanding their true interest with respect to the continental nations was really the same, yet by the arts and policy and practices of those nations, their mutual jealousies were perpetually kept inflamed, and for a long series of years they were far more inconvenient and troublesome than they were useful and assisting to each other.",
+   "begin": 119.2,
+   "end": 137.68,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "Should the people of America divide themselves into three or four nations, would not the same thing happen?",
+   "begin": 137.68,
+   "end": 143.04,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "Would not similar jealousies arise, and be in like manner cherished?",
+   "begin": 143.04,
+   "end": 146.8,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "Instead of their being \"joined in affection'' and free from all apprehension of different \"interests,'' envy and jealousy would soon extinguish confidence and affection, and the partial interests of each confederacy, instead of the general interests of all America, would be the only objects of their policy and pursuits.",
+   "begin": 146.8,
+   "end": 163.44,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "Hence, like most other BORDERING nations, they would always be either involved in disputes and war, or live in the constant apprehension of them.",
+   "begin": 163.44,
+   "end": 171.92,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "The most sanguine advocates for three or four confederacies cannot reasonably suppose that they would long remain exactly on an equal footing in point of strength, even if it was possible to form them so at first;",
+   "begin": 171.92,
+   "end": 183.92,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "but, admitting that to be practicable, yet what human contrivance can secure the continuance of such equality?",
+   "begin": 183.92,
+   "end": 190.08,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "Independent of those local circumstances which tend to beget and increase power in one part and to impede its progress in another, we must advert to the effects of that superior policy and good management which would probably distinguish the government of one above the rest, and by which their relative equality in strength and consideration would be destroyed.",
+   "begin": 190.08,
+   "end": 208.799,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "For it cannot be presumed that the same degree of sound policy, prudence, and foresight would uniformly be observed by each of these confederacies for a long succession of years.",
+   "begin": 208.799,
+   "end": 218.879,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "Whenever, and from whatever causes, it might happen, and happen it would, that any one of these nations or confederacies should rise on the scale of political importance much above the degree of her neighbors, that moment would those neighbors behold her with envy and with fear.",
+   "begin": 218.879,
+   "end": 233.439,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "Both those passions would lead them to countenance, if not to promote, whatever might promise to diminish her importance;",
+   "begin": 233.439,
+   "end": 238.799,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "and would also restrain them from measures calculated to advance or even to secure her prosperity.",
+   "begin": 238.799,
+   "end": 244.72,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "Much time would not be necessary to enable her to discern these unfriendly dispositions.",
+   "begin": 244.72,
+   "end": 249.68,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "She would soon begin, not only to lose confidence in her neighbors, but also to feel a disposition equally unfavorable to them.",
+   "begin": 249.68,
+   "end": 256.479,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "Distrust naturally creates distrust, and by nothing is good-will and kind conduct more speedily changed than by invidious jealousies and uncandid imputations, whether expressed or implied.",
+   "begin": 256.479,
+   "end": 268.4,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 6,
+   "text": "The North is generally the region of strength, and many local circumstances render it probable that the most Northern of the proposed confederacies would, at a period not very distant, be unquestionably more formidable than any of the others.",
+   "begin": 268.4,
+   "end": 281.28,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 6,
+   "text": "No sooner would this become evident than the NORTHERN HIVE would excite the same ideas and sensations in the more southern parts of America which it formerly did in the southern parts of Europe.",
+   "begin": 281.28,
+   "end": 290.96,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 6,
+   "text": "Nor does it appear to be a rash conjecture that its young swarms might often be tempted to gather honey in the more blooming fields and milder air of their luxurious and more delicate neighbors.",
+   "begin": 290.96,
+   "end": 301.68,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "They who well consider the history of similar divisions and confederacies will find abundant reason to apprehend that those in contemplation would in no other sense be neighbors than as they would be borderers;",
+   "begin": 301.68,
+   "end": 312.4,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 7,
+   "text": "that they would neither love nor trust one another, but on the contrary would be a prey to discord, jealousy, and mutual injuries;",
+   "begin": 312.4,
+   "end": 319.28,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 7,
+   "text": "in short, that they would place us exactly in the situations in which some nations doubtless wish to see us, viz., FORMIDABLE ONLY TO EACH OTHER.",
+   "begin": 319.28,
+   "end": 327.919,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "From these considerations it appears that those gentlemen are greatly mistaken who suppose that alliances offensive and defensive might be formed between these confederacies, and would produce that combination and union of wills of arms and of resources, which would be necessary to put and keep them in a formidable state of defense against foreign enemies.",
+   "begin": 327.919,
+   "end": 346.479,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 9,
+   "text": "When did the independent states, into which Britain and Spain were formerly divided, combine in such alliance, or unite their forces against a foreign enemy?",
+   "begin": 346.479,
+   "end": 354.479,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 9,
+   "text": "The proposed confederacies will be DISTINCT NATIONS.",
+   "begin": 354.479,
+   "end": 357.68,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 9,
+   "text": "Each of them would have its commerce with foreigners to regulate by distinct treaties;",
+   "begin": 357.68,
+   "end": 361.44,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 9,
+   "text": "and as their productions and commodities are different and proper for different markets, so would those treaties be essentially different.",
+   "begin": 361.44,
+   "end": 368.24,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 9,
+   "text": "Different commercial concerns must create different interests, and of course different degrees of political attachment to and connection with different foreign nations.",
+   "begin": 368.24,
+   "end": 376.72,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "Hence it might and probably would happen that the foreign nation with whom the SOUTHERN confederacy might be at war would be the one with whom the NORTHERN confederacy would be the most desirous of preserving peace and friendship.",
+   "begin": 376.72,
+   "end": 388.24,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "An alliance so contrary to their immediate interest would not therefore be easy to form, nor, if formed, would it be observed and fulfilled with perfect good faith.",
+   "begin": 388.24,
+   "end": 396.88,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 10,
+   "text": "Nay, it is far more probable that in America, as in Europe, neighboring nations, acting under the impulse of opposite interests and unfriendly passions, would frequently be found taking different sides.",
+   "begin": 396.88,
+   "end": 407.919,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 10,
+   "text": "Considering our distance from Europe, it would be more natural for these confederacies to apprehend danger from one another than from distant nations, and therefore that each of them should be more desirous to guard against the others by the aid of foreign alliances, than to guard against foreign dangers by alliances between themselves.",
+   "begin": 407.919,
+   "end": 423.759,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 10,
+   "text": "And here let us not forget how much more easy it is to receive foreign fleets into our ports, and foreign armies into our country, than it is to persuade or compel them to depart.",
+   "begin": 423.759,
+   "end": 433.52,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 10,
+   "text": "How many conquests did the Romans and others make in the characters of allies, and what innovations did they under the same character introduce into the governments of those whom they pretended to protect.",
+   "begin": 433.52,
+   "end": 444.08,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 11,
+   "text": "Let candid men judge, then, whether the division of America into any given number of independent sovereignties would tend to secure us against the hostilities and improper interference of foreign nations.",
+   "begin": 444.08,
+   "end": 455.319,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 12,
+   "text": "PUBLIUS.",
+   "begin": 455.319,
+   "end": 456.666848,
+   "synced": true
+  }
+ ]
+}

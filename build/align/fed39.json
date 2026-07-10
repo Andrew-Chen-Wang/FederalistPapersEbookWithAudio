@@ -1,0 +1,964 @@
+{
+ "paper": 39,
+ "duration": 823.333152,
+ "match_ratio": 0.9858,
+ "heading": [
+  "The Conformity of the Plan to Republican Principles",
+  "For the Independent Journal.",
+  "MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 13.04,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE last paper having concluded the observations which were meant to introduce a candid survey of the plan of government reported by the convention, we now proceed to the execution of that part of our undertaking.",
+   "begin": 13.04,
+   "end": 23.92,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "The first question that offers itself is, whether the general form and aspect of the government be strictly republican.",
+   "begin": 23.92,
+   "end": 31.199,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "It is evident that no other form would be reconcilable with the genius of the people of America;",
+   "begin": 31.199,
+   "end": 35.76,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "with the fundamental principles of the Revolution;",
+   "begin": 35.76,
+   "end": 38.079,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "or with that honorable determination which animates every votary of freedom, to rest all our political experiments on the capacity of mankind for self-government.",
+   "begin": 38.079,
+   "end": 47.039,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "If the plan of the convention, therefore, be found to depart from the republican character, its advocates must abandon it as no longer defensible.",
+   "begin": 47.039,
+   "end": 54.879,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "What, then, are the distinctive characters of the republican form?",
+   "begin": 54.879,
+   "end": 58.64,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "Were an answer to this question to be sought, not by recurring to principles, but in the application of the term by political writers, to the constitution of different States, no satisfactory one would ever be found.",
+   "begin": 58.64,
+   "end": 69.119,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "Holland, in which no particle of the supreme authority is derived from the people, has passed almost universally under the denomination of a republic.",
+   "begin": 69.119,
+   "end": 76.88,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 3,
+   "text": "The same title has been bestowed on Venice, where absolute power over the great body of the people is exercised, in the most absolute manner, by a small body of hereditary nobles.",
+   "begin": 76.88,
+   "end": 86.4,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 3,
+   "text": "Poland, which is a mixture of aristocracy and of monarchy in their worst forms, has been dignified with the same appellation.",
+   "begin": 86.4,
+   "end": 93.439,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 3,
+   "text": "The government of England, which has one republican branch only, combined with an hereditary aristocracy and monarchy, has, with equal impropriety, been frequently placed on the list of republics.",
+   "begin": 93.439,
+   "end": 103.84,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 3,
+   "text": "These examples, which are nearly as dissimilar to each other as to a genuine republic, show the extreme inaccuracy with which the term has been used in political disquisitions.",
+   "begin": 103.84,
+   "end": 114.0,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "If we resort for a criterion to the different principles on which different forms of government are established, we may define a republic to be, or at least may bestow that name on, a government which derives all its powers directly or indirectly from the great body of the people, and is administered by persons holding their offices during pleasure, for a limited period, or during good behavior.",
+   "begin": 114.0,
+   "end": 134.879,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "It is ESSENTIAL to such a government that it be derived from the great body of the society, not from an inconsiderable proportion, or a favored class of it;",
+   "begin": 134.879,
+   "end": 142.64,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "otherwise a handful of tyrannical nobles, exercising their oppressions by a delegation of their powers, might aspire to the rank of republicans, and claim for their government the honorable title of republic.",
+   "begin": 142.64,
+   "end": 153.12,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "It is SUFFICIENT for such a government that the persons administering it be appointed, either directly or indirectly, by the people;",
+   "begin": 153.12,
+   "end": 159.599,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "and that they hold their appointments by either of the tenures just specified;",
+   "begin": 159.599,
+   "end": 163.28,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "otherwise every government in the United States, as well as every other popular government that has been or can be well organized or well executed, would be degraded from the republican character.",
+   "begin": 163.28,
+   "end": 173.68,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 4,
+   "text": "According to the constitution of every State in the Union, some or other of the officers of government are appointed indirectly only by the people.",
+   "begin": 173.68,
+   "end": 181.36,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 4,
+   "text": "According to most of them, the chief magistrate himself is so appointed.",
+   "begin": 181.36,
+   "end": 184.72,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 4,
+   "text": "And according to one, this mode of appointment is extended to one of the co-ordinate branches of the legislature.",
+   "begin": 184.72,
+   "end": 190.4,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 4,
+   "text": "According to all the constitutions, also, the tenure of the highest offices is extended to a definite period, and in many instances, both within the legislative and executive departments, to a period of years.",
+   "begin": 190.4,
+   "end": 201.68,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "According to the provisions of most of the constitutions, again, as well as according to the most respectable and received opinions on the subject, the members of the judiciary department are to retain their offices by the firm tenure of good behavior.",
+   "begin": 201.68,
+   "end": 214.799,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "On comparing the Constitution planned by the convention with the standard here fixed, we perceive at once that it is, in the most rigid sense, conformable to it.",
+   "begin": 214.799,
+   "end": 223.44,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 5,
+   "text": "The House of Representatives, like that of one branch at least of all the State legislatures, is elected immediately by the great body of the people.",
+   "begin": 223.44,
+   "end": 230.879,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 5,
+   "text": "The Senate, like the present Congress, and the Senate of Maryland, derives its appointment indirectly from the people.",
+   "begin": 230.879,
+   "end": 236.959,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 5,
+   "text": "The President is indirectly derived from the choice of the people, according to the example in most of the States.",
+   "begin": 236.959,
+   "end": 242.879,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 5,
+   "text": "Even the judges, with all other officers of the Union, will, as in the several States, be the choice, though a remote choice, of the people themselves, the duration of the appointments is equally conformable to the republican standard, and to the model of State constitutions The House of Representatives is periodically elective, as in all the States;",
+   "begin": 242.879,
+   "end": 260.959,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "and for the period of two years, as in the State of South Carolina.",
+   "begin": 260.959,
+   "end": 264.56,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "The Senate is elective, for the period of six years;",
+   "begin": 264.56,
+   "end": 267.36,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "which is but one year more than the period of the Senate of Maryland, and but two more than that of the Senates of New York and Virginia.",
+   "begin": 267.36,
+   "end": 274.0,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "The President is to continue in office for the period of four years;",
+   "begin": 274.0,
+   "end": 277.6,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "as in New York and Delaware, the chief magistrate is elected for three years, and in South Carolina for two years.",
+   "begin": 277.6,
+   "end": 283.6,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "In the other States the election is annual.",
+   "begin": 283.6,
+   "end": 285.919,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "In several of the States, however, no constitutional provision is made for the impeachment of the chief magistrate.",
+   "begin": 285.919,
+   "end": 291.199,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "And in Delaware and Virginia he is not impeachable till out of office.",
+   "begin": 291.199,
+   "end": 295.04,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "The President of the United States is impeachable at any time during his continuance in office.",
+   "begin": 295.04,
+   "end": 300.0,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "The tenure by which the judges are to hold their places, is, as it unquestionably ought to be, that of good behavior.",
+   "begin": 300.0,
+   "end": 306.4,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "The tenure of the ministerial offices generally, will be a subject of legal regulation, conformably to the reason of the case and the example of the State constitutions.",
+   "begin": 306.4,
+   "end": 315.52,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "Could any further proof be required of the republican complexion of this system, the most decisive one might be found in its absolute prohibition of titles of nobility, both under the federal and the State governments;",
+   "begin": 315.52,
+   "end": 326.479,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "and in its express guaranty of the republican form to each of the latter.",
+   "begin": 326.479,
+   "end": 330.479,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 7,
+   "text": "\"But it was not sufficient,'' say the adversaries of the proposed Constitution, \"for the convention to adhere to the republican form.",
+   "begin": 330.479,
+   "end": 336.88,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 7,
+   "text": "They ought, with equal care, to have preserved the FEDERAL form, which regards the Union as a CONFEDERACY of sovereign states;",
+   "begin": 336.88,
+   "end": 343.28,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 7,
+   "text": "instead of which, they have framed a NATIONAL government, which regards the Union as a CONSOLIDATION of the States.'' And it is asked by what authority this bold and radical innovation was undertaken?",
+   "begin": 343.28,
+   "end": 353.44,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 7,
+   "text": "The handle which has been made of this objection requires that it should be examined with some precision.",
+   "begin": 353.44,
+   "end": 359.039,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 8,
+   "text": "Without inquiring into the accuracy of the distinction on which the objection is founded, it will be necessary to a just estimate of its force, first, to ascertain the real character of the government in question;",
+   "begin": 359.039,
+   "end": 369.759,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 8,
+   "text": "secondly, to inquire how far the convention were authorized to propose such a government;",
+   "begin": 369.759,
+   "end": 374.56,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 8,
+   "text": "and thirdly, how far the duty they owed to their country could supply any defect of regular authority.",
+   "begin": 374.56,
+   "end": 380.72,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 9,
+   "text": "First.",
+   "begin": 380.72,
+   "end": 381.44,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 9,
+   "text": "In order to ascertain the real character of the government, it may be considered in relation to the foundation on which it is to be established;",
+   "begin": 381.44,
+   "end": 388.479,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 9,
+   "text": "to the sources from which its ordinary powers are to be drawn;",
+   "begin": 388.479,
+   "end": 391.28,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 9,
+   "text": "to the operation of those powers;",
+   "begin": 391.28,
+   "end": 392.96,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 9,
+   "text": "to the extent of them;",
+   "begin": 392.96,
+   "end": 394.0,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 9,
+   "text": "and to the authority by which future changes in the government are to be introduced.",
+   "begin": 394.0,
+   "end": 398.479,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "On examining the first relation, it appears, on one hand, that the Constitution is to be founded on the assent and ratification of the people of America, given by deputies elected for the special purpose;",
+   "begin": 398.479,
+   "end": 408.88,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "but, on the other, that this assent and ratification is to be given by the people, not as individuals composing one entire nation, but as composing the distinct and independent States to which they respectively belong.",
+   "begin": 408.88,
+   "end": 420.08,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "It is to be the assent and ratification of the several States, derived from the supreme authority in each State, the authority of the people themselves.",
+   "begin": 420.08,
+   "end": 428.319,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 10,
+   "text": "The act, therefore, establishing the Constitution, will not be a NATIONAL, but a FEDERAL act.",
+   "begin": 428.319,
+   "end": 434.0,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "That it will be a federal and not a national act, as these terms are understood by the objectors;",
+   "begin": 434.0,
+   "end": 438.8,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "the act of the people, as forming so many independent States, not as forming one aggregate nation, is obvious from this single consideration, that it is to result neither from the decision of a MAJORITY of the people of the Union, nor from that of a MAJORITY of the States.",
+   "begin": 438.8,
+   "end": 452.96,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "It must result from the UNANIMOUS assent of the several States that are parties to it, differing no otherwise from their ordinary assent than in its being expressed, not by the legislative authority, but by that of the people themselves.",
+   "begin": 452.96,
+   "end": 465.52,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "Were the people regarded in this transaction as forming one nation, the will of the majority of the whole people of the United States would bind the minority, in the same manner as the majority in each State must bind the minority;",
+   "begin": 465.52,
+   "end": 477.039,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "and the will of the majority must be determined either by a comparison of the individual votes, or by considering the will of the majority of the States as evidence of the will of a majority of the people of the United States.",
+   "begin": 477.039,
+   "end": 488.879,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "Neither of these rules have been adopted.",
+   "begin": 488.879,
+   "end": 491.039,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 11,
+   "text": "Each State, in ratifying the Constitution, is considered as a sovereign body, independent of all others, and only to be bound by its own voluntary act.",
+   "begin": 491.039,
+   "end": 499.36,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "In this relation, then, the new Constitution will, if established, be a FEDERAL, and not a NATIONAL constitution.",
+   "begin": 499.36,
+   "end": 506.0,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 12,
+   "text": "The next relation is, to the sources from which the ordinary powers of government are to be derived.",
+   "begin": 506.0,
+   "end": 511.199,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 12,
+   "text": "The House of Representatives will derive its powers from the people of America;",
+   "begin": 511.199,
+   "end": 514.8,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 12,
+   "text": "and the people will be represented in the same proportion, and on the same principle, as they are in the legislature of a particular State.",
+   "begin": 514.8,
+   "end": 521.519,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 12,
+   "text": "So far the government is NATIONAL, not FEDERAL.",
+   "begin": 521.519,
+   "end": 524.24,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 12,
+   "text": "The Senate, on the other hand, will derive its powers from the States, as political and coequal societies;",
+   "begin": 524.24,
+   "end": 529.44,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 12,
+   "text": "and these will be represented on the principle of equality in the Senate, as they now are in the existing Congress.",
+   "begin": 529.44,
+   "end": 535.6,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 12,
+   "text": "So far the government is FEDERAL, not NATIONAL.",
+   "begin": 535.6,
+   "end": 538.48,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 12,
+   "text": "The executive power will be derived from a very compound source.",
+   "begin": 538.48,
+   "end": 542.32,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 12,
+   "text": "The immediate election of the President is to be made by the States in their political characters.",
+   "begin": 542.32,
+   "end": 547.12,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "The votes allotted to them are in a compound ratio, which considers them partly as distinct and coequal societies, partly as unequal members of the same society.",
+   "begin": 547.12,
+   "end": 556.08,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 12,
+   "text": "The eventual election, again, is to be made by that branch of the legislature which consists of the national representatives;",
+   "begin": 556.08,
+   "end": 562.32,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 12,
+   "text": "but in this particular act they are to be thrown into the form of individual delegations, from so many distinct and coequal bodies politic.",
+   "begin": 562.32,
+   "end": 569.92,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 12,
+   "text": "From this aspect of the government it appears to be of a mixed character, presenting at least as many FEDERAL as NATIONAL features.",
+   "begin": 569.92,
+   "end": 576.959,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 13,
+   "text": "The difference between a federal and national government, as it relates to the OPERATION OF THE GOVERNMENT, is supposed to consist in this, that in the former the powers operate on the political bodies composing the Confederacy, in their political capacities;",
+   "begin": 576.959,
+   "end": 589.839,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 13,
+   "text": "in the latter, on the individual citizens composing the nation, in their individual capacities.",
+   "begin": 589.839,
+   "end": 595.36,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 13,
+   "text": "On trying the Constitution by this criterion, it falls under the NATIONAL, not the FEDERAL character;",
+   "begin": 595.36,
+   "end": 601.2,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 13,
+   "text": "though perhaps not so completely as has been understood.",
+   "begin": 601.2,
+   "end": 604.399,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 13,
+   "text": "In several cases, and particularly in the trial of controversies to which States may be parties, they must be viewed and proceeded against in their collective and political capacities only.",
+   "begin": 604.399,
+   "end": 614.24,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 13,
+   "text": "So far the national countenance of the government on this side seems to be disfigured by a few federal features.",
+   "begin": 614.24,
+   "end": 619.92,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 13,
+   "text": "But this blemish is perhaps unavoidable in any plan;",
+   "begin": 619.92,
+   "end": 622.88,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 13,
+   "text": "and the operation of the government on the people, in their individual capacities, in its ordinary and most essential proceedings, may, on the whole, designate it, in this relation, a NATIONAL government.",
+   "begin": 622.88,
+   "end": 633.2,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 14,
+   "text": "But if the government be national with regard to the OPERATION of its powers, it changes its aspect again when we contemplate it in relation to the EXTENT of its powers.",
+   "begin": 633.2,
+   "end": 642.399,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 14,
+   "text": "The idea of a national government involves in it, not only an authority over the individual citizens, but an indefinite supremacy over all persons and things, so far as they are objects of lawful government.",
+   "begin": 642.399,
+   "end": 653.839,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 14,
+   "text": "Among a people consolidated into one nation, this supremacy is completely vested in the national legislature.",
+   "begin": 653.839,
+   "end": 660.16,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 14,
+   "text": "Among communities united for particular purposes, it is vested partly in the general and partly in the municipal legislatures.",
+   "begin": 660.16,
+   "end": 667.12,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 14,
+   "text": "In the former case, all local authorities are subordinate to the supreme;",
+   "begin": 667.12,
+   "end": 670.88,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 14,
+   "text": "and may be controlled, directed, or abolished by it at pleasure.",
+   "begin": 670.88,
+   "end": 674.56,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 14,
+   "text": "In the latter, the local or municipal authorities form distinct and independent portions of the supremacy, no more subject, within their respective spheres, to the general authority, than the general authority is subject to them, within its own sphere.",
+   "begin": 674.56,
+   "end": 687.76,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 14,
+   "text": "In this relation, then, the proposed government cannot be deemed a NATIONAL one;",
+   "begin": 687.76,
+   "end": 691.6,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 14,
+   "text": "since its jurisdiction extends to certain enumerated objects only, and leaves to the several States a residuary and inviolable sovereignty over all other objects.",
+   "begin": 691.6,
+   "end": 700.8,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 14,
+   "text": "It is true that in controversies relating to the boundary between the two jurisdictions, the tribunal which is ultimately to decide, is to be established under the general government.",
+   "begin": 700.8,
+   "end": 709.76,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 14,
+   "text": "But this does not change the principle of the case.",
+   "begin": 709.76,
+   "end": 712.48,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 14,
+   "text": "The decision is to be impartially made, according to the rules of the Constitution;",
+   "begin": 712.48,
+   "end": 716.56,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 14,
+   "text": "and all the usual and most effectual precautions are taken to secure this impartiality.",
+   "begin": 716.56,
+   "end": 722.16,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 14,
+   "text": "Some such tribunal is clearly essential to prevent an appeal to the sword and a dissolution of the compact;",
+   "begin": 722.16,
+   "end": 727.76,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 14,
+   "text": "and that it ought to be established under the general rather than under the local governments, or, to speak more properly, that it could be safely established under the first alone, is a position not likely to be combated.",
+   "begin": 727.76,
+   "end": 738.88,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 15,
+   "text": "If we try the Constitution by its last relation to the authority by which amendments are to be made, we find it neither wholly NATIONAL nor wholly FEDERAL.",
+   "begin": 738.88,
+   "end": 747.839,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 15,
+   "text": "Were it wholly national, the supreme and ultimate authority would reside in the MAJORITY of the people of the Union;",
+   "begin": 747.839,
+   "end": 752.8,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 15,
+   "text": "and this authority would be competent at all times, like that of a majority of every national society, to alter or abolish its established government.",
+   "begin": 752.8,
+   "end": 760.8,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 15,
+   "text": "Were it wholly federal, on the other hand, the concurrence of each State in the Union would be essential to every alteration that would be binding on all.",
+   "begin": 760.8,
+   "end": 768.24,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 15,
+   "text": "The mode provided by the plan of the convention is not founded on either of these principles.",
+   "begin": 768.24,
+   "end": 772.079,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 15,
+   "text": "In requiring more than a majority, and principles.",
+   "begin": 772.079,
+   "end": 773.04,
+   "synced": false
+  },
+  {
+   "id": "u0111",
+   "para": 15,
+   "text": "In requiring more than a majority, and particularly in computing the proportion by STATES, not by CITIZENS, it departs from the NATIONAL and advances towards the FEDERAL character;",
+   "begin": 773.04,
+   "end": 782.56,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 15,
+   "text": "in rendering the concurrence of less than the whole number of States sufficient, it loses again the FEDERAL and partakes of the NATIONAL character.",
+   "begin": 782.56,
+   "end": 790.88,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 16,
+   "text": "The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both.",
+   "begin": 790.88,
+   "end": 798.32,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 16,
+   "text": "In its foundation it is federal, not national;",
+   "begin": 798.32,
+   "end": 801.519,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 16,
+   "text": "in the sources from which the ordinary powers of the government are drawn, it is partly federal and partly national;",
+   "begin": 801.519,
+   "end": 807.519,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 16,
+   "text": "in the operation of these powers, it is national, not federal;",
+   "begin": 807.519,
+   "end": 811.12,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 16,
+   "text": "in the extent of them, again, it is federal, not national;",
+   "begin": 811.12,
+   "end": 814.399,
+   "synced": true
+  },
+  {
+   "id": "u0118",
+   "para": 16,
+   "text": "and, finally, in the authoritative mode of introducing amendments, it is neither wholly federal nor wholly national.",
+   "begin": 814.399,
+   "end": 822.04,
+   "synced": true
+  },
+  {
+   "id": "u0119",
+   "para": 17,
+   "text": "PUBLIUS.",
+   "begin": 822.04,
+   "end": 823.333152,
+   "synced": true
+  }
+ ]
+}

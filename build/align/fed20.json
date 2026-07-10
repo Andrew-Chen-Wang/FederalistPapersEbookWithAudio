@@ -1,0 +1,701 @@
+{
+ "paper": 20,
+ "duration": 551.381043,
+ "match_ratio": 0.9672,
+ "heading": [
+  "The Same Subject Continued:",
+  "The Insufficiency fo the Present Confederation to Preserve the Union",
+  "From the New York Packet. Tuesday, December 11, 1787.",
+  "HAMILTON AND MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 18.88,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE United Netherlands are a confederacy of republics, or rather of aristocracies of a very remarkable texture, yet confirming all the lessons derived from those which we have already reviewed.",
+   "begin": 18.88,
+   "end": 30.08,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "The union is composed of seven coequal and sovereign states, and each state or province is a composition of equal and independent cities.",
+   "begin": 30.08,
+   "end": 38.32,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "In all important cases, not only the provinces but the cities must be unanimous.",
+   "begin": 38.32,
+   "end": 43.76,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 3,
+   "text": "The sovereignty of the Union is represented by the States-General, consisting usually of about fifty deputies appointed by the provinces.",
+   "begin": 43.76,
+   "end": 51.28,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 3,
+   "text": "They hold their seats, some for life, some for six, three, and one years;",
+   "begin": 51.28,
+   "end": 55.36,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "from two provinces they continue in appointment during pleasure.",
+   "begin": 55.36,
+   "end": 58.879,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 4,
+   "text": "The States-General have authority to enter into treaties and alliances;",
+   "begin": 58.879,
+   "end": 62.719,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 4,
+   "text": "to make war and peace;",
+   "begin": 62.719,
+   "end": 64.32,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 4,
+   "text": "to raise armies and equip fleets;",
+   "begin": 64.32,
+   "end": 66.479,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 4,
+   "text": "to ascertain quotas and demand contributions.",
+   "begin": 66.479,
+   "end": 69.6,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 4,
+   "text": "In all these cases, however, unanimity and the sanction of their constituents are requisite.",
+   "begin": 69.6,
+   "end": 75.36,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 4,
+   "text": "They have authority to appoint and receive ambassadors;",
+   "begin": 75.36,
+   "end": 78.479,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "to execute treaties and alliances already formed;",
+   "begin": 78.479,
+   "end": 81.52,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "to provide for the collection of duties on imports and exports;",
+   "begin": 81.52,
+   "end": 85.28,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "to regulate the mint, with a saving to the provincial rights;",
+   "begin": 85.28,
+   "end": 88.4,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "to govern as sovereigns the dependent territories.",
+   "begin": 88.4,
+   "end": 91.52,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "The provinces are restrained, unless with the general consent, from entering into foreign treaties;",
+   "begin": 91.52,
+   "end": 96.56,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 4,
+   "text": "from establishing imposts injurious to others, or charging their neighbors with higher duties than their own subjects.",
+   "begin": 96.56,
+   "end": 102.88,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 4,
+   "text": "A council of state, a chamber of accounts, with five colleges of admiralty, aid and fortify the federal administration.",
+   "begin": 102.88,
+   "end": 110.0,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "The executive magistrate of the union is the stadtholder, who is now an hereditary prince.",
+   "begin": 110.0,
+   "end": 115.2,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "His principal weight and influence in the republic are derived from this independent title;",
+   "begin": 115.2,
+   "end": 120.0,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "from his great patrimonial estates;",
+   "begin": 120.0,
+   "end": 121.92,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 5,
+   "text": "from his family connections with some of the chief potentates of Europe;",
+   "begin": 121.92,
+   "end": 125.2,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 5,
+   "text": "and, more than all, perhaps, from his being stadtholder in the several provinces, as well as for the union;",
+   "begin": 125.2,
+   "end": 130.72,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 5,
+   "text": "in which provincial quality he has the appointment of town magistrates under certain regulations, executes provincial decrees, presides when he pleases in the provincial tribunals, and has throughout the power of pardon.",
+   "begin": 130.72,
+   "end": 143.12,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "As stadtholder of the union, he has, however, considerable prerogatives.",
+   "begin": 143.12,
+   "end": 147.36,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 7,
+   "text": "In his political capacity he has authority to settle disputes between the provinces, when other methods fail;",
+   "begin": 147.36,
+   "end": 153.36,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "to assist at the deliberations of the States-General, and at their particular conferences;",
+   "begin": 153.36,
+   "end": 158.16,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "to give audiences to foreign ambassadors, and to keep agents for his particular affairs at foreign courts.",
+   "begin": 158.16,
+   "end": 164.0,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 8,
+   "text": "In his military capacity he commands the federal troops, provides for garrisons, and in general regulates military affairs;",
+   "begin": 164.0,
+   "end": 170.8,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 8,
+   "text": "disposes of all appointments, from colonels to ensigns, and of the governments and posts of fortified towns.",
+   "begin": 170.8,
+   "end": 177.599,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 9,
+   "text": "In his marine capacity he is admiral-general, and superintends and directs every thing relative to naval forces and other naval affairs;",
+   "begin": 177.599,
+   "end": 184.959,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 9,
+   "text": "presides in the admiralties in person or by proxy;",
+   "begin": 184.959,
+   "end": 188.0,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 9,
+   "text": "appoints lieutenant-admirals and other officers;",
+   "begin": 188.0,
+   "end": 190.8,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 9,
+   "text": "and establishes councils of war, whose sentences are not executed till he approves them.",
+   "begin": 190.8,
+   "end": 195.44,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 10,
+   "text": "His revenue, exclusive of his private income, amounts to three hundred thousand florins.",
+   "begin": 195.44,
+   "end": 200.56,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 10,
+   "text": "The standing army which he commands consists of about forty thousand men.",
+   "begin": 200.56,
+   "end": 204.64,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 11,
+   "text": "Such is the nature of the celebrated Belgic confederacy, as delineated on parchment.",
+   "begin": 204.64,
+   "end": 209.519,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 11,
+   "text": "What are the characters which practice has stamped upon it?",
+   "begin": 209.519,
+   "end": 212.72,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 11,
+   "text": "Imbecility in the government;",
+   "begin": 212.72,
+   "end": 214.239,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 11,
+   "text": "discord among the provinces;",
+   "begin": 214.239,
+   "end": 216.08,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 11,
+   "text": "foreign influence and indignities;",
+   "begin": 216.08,
+   "end": 218.159,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 11,
+   "text": "a precarious existence in peace, and peculiar calamities from war.",
+   "begin": 218.159,
+   "end": 223.04,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 12,
+   "text": "It was long ago remarked by Grotius, that nothing but the hatred of his countrymen to the house of Austria kept them from being ruined by the vices of their constitution.",
+   "begin": 223.04,
+   "end": 232.0,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 13,
+   "text": "The union of Utrecht, says another respectable writer, reposes an authority in the States-General, seemingly sufficient to secure harmony, but the jealousy in each province renders the practice very different from the theory.",
+   "begin": 232.0,
+   "end": 243.76,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 14,
+   "text": "The same instrument, says another, obliges each province to levy certain contributions;",
+   "begin": 243.76,
+   "end": 248.319,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 14,
+   "text": "but this article never could, and probably never will, be executed;",
+   "begin": 248.319,
+   "end": 252.08,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 14,
+   "text": "because the inland provinces, who have little commerce, cannot pay an equal quota.",
+   "begin": 252.08,
+   "end": 257.04,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 15,
+   "text": "In matters of contribution, it is the practice to waive the articles of the constitution.",
+   "begin": 257.04,
+   "end": 262.24,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 15,
+   "text": "The danger of delay obliges the consenting provinces to furnish their quotas, without waiting for the others;",
+   "begin": 262.24,
+   "end": 267.84,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 15,
+   "text": "and then to obtain reimbursement from the others, by deputations, which are frequent, or otherwise, as they can.",
+   "begin": 267.84,
+   "end": 273.84,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 15,
+   "text": "The great wealth and influence of the province of Holland enable her to effect both these purposes.",
+   "begin": 273.84,
+   "end": 279.28,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 16,
+   "text": "It has more than once happened, that the deficiencies had to be ultimately collected at the point of the bayonet;",
+   "begin": 279.28,
+   "end": 284.32,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 16,
+   "text": "a thing practicable, though dreadful, in a confedracy where one of the members exceeds in force all the rest, and where several of them are too small to meditate resistance;",
+   "begin": 284.32,
+   "end": 292.96,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 16,
+   "text": "but utterly impracticable in one composed of members, several of which are equal to each other in strength and resources, and equal singly to a vigorous and persevering defense.",
+   "begin": 292.96,
+   "end": 302.72,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 17,
+   "text": "Foreign ministers, says Sir William Temple, who was himself a foreign minister, elude matters taken ad referendum, by tampering with the provinces and cities.",
+   "begin": 302.72,
+   "end": 312.0,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 17,
+   "text": "In 1726, the treaty of Hanover was delayed by these means a whole year.",
+   "begin": 312.0,
+   "end": 316.96,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 17,
+   "text": "Instances of a like nature are numerous and notorious.",
+   "begin": 316.96,
+   "end": 320.8,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 18,
+   "text": "In critical emergencies, the States-General are often compelled to overleap their constitutional bounds.",
+   "begin": 320.8,
+   "end": 326.4,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 18,
+   "text": "In 1688, they concluded a treaty of themselves at the risk of their heads.",
+   "begin": 326.4,
+   "end": 330.88,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 18,
+   "text": "The treaty of Westphalia, in 1648, by which their independence was formerly and finally recognized, was concluded without the consent of Zealand.",
+   "begin": 330.88,
+   "end": 339.199,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 18,
+   "text": "Even as recently as the last treaty of peace with Great Britain, the constitutional principle of unanimity was departed from.",
+   "begin": 339.199,
+   "end": 346.32,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 18,
+   "text": "A weak constitution must necessarily terminate in dissolution, for want of proper powers, or the usurpation of powers requisite for the public safety.",
+   "begin": 346.32,
+   "end": 355.199,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 18,
+   "text": "Whether the usurpation, when once begun, will stop at the salutary point, or go forward to the dangerous extreme, must depend on the contingencies of the moment.",
+   "begin": 355.199,
+   "end": 364.8,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 18,
+   "text": "Tyranny has perhaps oftener grown out of the assumptions of power, called for, on pressing exigencies, by a defective constitution, than out of the full exercise of the largest constitutional authorities.",
+   "begin": 364.8,
+   "end": 376.479,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 19,
+   "text": "Notwithstanding the calamities produced by the stadtholdership, it has been supposed that without his influence in the individual provinces, the causes of anarchy manifest in the confederacy would long ago have dissolved it.",
+   "begin": 376.479,
+   "end": 388.4,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 19,
+   "text": "\"Under such a government,'' says the Abbe Mably, \"the Union could never have subsisted, if the provinces had not a spring within themselves, capable of quickening their tardiness, and compelling them to the same way of thinking.",
+   "begin": 388.4,
+   "end": 399.44,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 19,
+   "text": "This spring is the stadtholder.'' It is remarked by Sir William Temple, \"that in the intermissions of the stadtholdership, Holland, by her riches and her authority, which drew the others into a sort of dependence, supplied the place.''",
+   "begin": 399.44,
+   "end": 412.08,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 20,
+   "text": "These are not the only circumstances which have controlled the tendency to anarchy and dissolution.",
+   "begin": 412.08,
+   "end": 416.88,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 20,
+   "text": "The surrounding powers impose an absolute necessity of union to a certain degree, at the same time that they nourish by their intrigues the constitutional vices which keep the republic in some degree always at their mercy.",
+   "begin": 416.88,
+   "end": 428.08,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 21,
+   "text": "The true patriots have long bewailed the fatal tendency of these vices, and have made no less than four regular experiments by EXTRAORDINARY ASSEMBLIES, convened for the special purpose, to apply a remedy.",
+   "begin": 428.08,
+   "end": 439.12,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 21,
+   "text": "As many times has their laudable zeal found it impossible to UNITE THE PUBLIC COUNCILS in reforming the known, the acknowledged, the fatal evils of the existing constitution.",
+   "begin": 439.12,
+   "end": 448.96,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 21,
+   "text": "Let us pause, my fellow-citizens, for one moment, over this melancholy and monitory lesson of history;",
+   "begin": 448.96,
+   "end": 454.56,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 21,
+   "text": "and with the tear that drops for the calamities brought on mankind by their adverse opinions and selfish passions, let our gratitude mingle an ejaculation to Heaven, for the propitious concord which has distinguished the consultations for our political happiness.",
+   "begin": 454.56,
+   "end": 468.479,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 22,
+   "text": "A design was also conceived of establishing a general tax to be administered by the federal authority.",
+   "begin": 468.479,
+   "end": 473.919,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 22,
+   "text": "This also had its adversaries and failed.",
+   "begin": 473.919,
+   "end": 476.8,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 23,
+   "text": "This unhappy people seem to be now suffering from popular convulsions, from dissensions among the states, and from the actual invasion of foreign arms, the crisis of their distiny.",
+   "begin": 476.8,
+   "end": 486.4,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 23,
+   "text": "All nations have their eyes fixed on the awful spectacle.",
+   "begin": 486.4,
+   "end": 489.68,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 23,
+   "text": "The first wish prompted by humanity is, that this severe trial may issue in such a revolution of their government as will establish their union, and render it the parent of tranquillity, freedom and happiness:",
+   "begin": 489.68,
+   "end": 500.8,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 23,
+   "text": "The next, that the asylum under which, we trust, the enjoyment of these blessings will speedily be secured in this country, may receive and console them for the catastrophe of their own.",
+   "begin": 500.8,
+   "end": 510.96,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 24,
+   "text": "I make no apology for having dwelt so long on the contemplation of these federal precedents.",
+   "begin": 510.96,
+   "end": 516.24,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 24,
+   "text": "Experience is the oracle of truth;",
+   "begin": 516.24,
+   "end": 517.519,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 24,
+   "text": "and where its responses are unequivocal, they ought to be conclusive and sacred.",
+   "begin": 517.519,
+   "end": 521.919,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 24,
+   "text": "The important truth, which it unequivocally pronounces in the present case, is that a sovereignty over sovereigns, a government over governments, a legislation for communities, as contradistinguished from individuals, as it is a solecism in theory, so in practice it is subversive of the order and ends of civil polity, by substituting VIOLENCE in place of LAW, or the destructive COERCION of the SWORD in place of the mild and salutary COERCION of the MAGISTRACY.",
+   "begin": 521.919,
+   "end": 550.04,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 25,
+   "text": "PUBLIUS.",
+   "begin": 550.04,
+   "end": 551.381043,
+   "synced": true
+  }
+ ]
+}

@@ -1,0 +1,627 @@
+{
+ "paper": 52,
+ "duration": 589.159909,
+ "match_ratio": 0.9957,
+ "heading": [
+  "The House of Representatives",
+  "From the New York Packet. Friday, February 8, 1788."
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 14.96,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "FROM the more general inquiries pursued in the four last papers, I pass on to a more particular examination of the several parts of the government.",
+   "begin": 14.96,
+   "end": 22.88,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "I shall begin with the House of Representatives.",
+   "begin": 22.88,
+   "end": 25.68,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "The first view to be taken of this part of the government relates to the qualifications of the electors and the elected.",
+   "begin": 25.68,
+   "end": 32.0,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "Those of the former are to be the same with those of the electors of the most numerous branch of the State legislatures.",
+   "begin": 32.0,
+   "end": 38.0,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "The definition of the right of suffrage is very justly regarded as a fundamental article of republican government.",
+   "begin": 38.0,
+   "end": 44.64,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "It was incumbent on the convention, therefore, to define and establish this right in the Constitution.",
+   "begin": 44.64,
+   "end": 50.88,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 1,
+   "text": "To have left it open for the occasional regulation of the Congress, would have been improper for the reason just mentioned.",
+   "begin": 50.88,
+   "end": 57.28,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 1,
+   "text": "To have submitted it to the legislative discretion of the States, would have been improper for the same reason;",
+   "begin": 57.28,
+   "end": 62.48,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 1,
+   "text": "and for the additional reason that it would have rendered too dependent on the State governments that branch of the federal government which ought to be dependent on the people alone.",
+   "begin": 62.48,
+   "end": 70.88,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 1,
+   "text": "To have reduced the different qualifications in the different States to one uniform rule, would probably have been as dissatisfactory to some of the States as it would have been difficult to the convention.",
+   "begin": 70.88,
+   "end": 80.72,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 1,
+   "text": "The provision made by the convention appears, therefore, to be the best that lay within their option.",
+   "begin": 80.72,
+   "end": 86.32,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "It must be satisfactory to every State, because it is conformable to the standard already established, or which may be established, by the State itself.",
+   "begin": 86.32,
+   "end": 94.8,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "It will be safe to the United States, because, being fixed by the State constitutions, it is not alterable by the State governments, and it cannot be feared that the people of the States will alter this part of their constitutions in such a manner as to abridge the rights secured to them by the federal Constitution.",
+   "begin": 94.8,
+   "end": 110.24,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "The qualifications of the elected, being less carefully and properly defined by the State constitutions, and being at the same time more susceptible of uniformity, have been very properly considered and regulated by the convention.",
+   "begin": 110.24,
+   "end": 122.64,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "A representative of the United States must be of the age of twenty-five years;",
+   "begin": 122.64,
+   "end": 126.96,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "must have been seven years a citizen of the United States;",
+   "begin": 126.96,
+   "end": 129.92,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "must, at the time of his election, be an inhabitant of the State he is to represent;",
+   "begin": 129.92,
+   "end": 134.4,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "and, during the time of his service, must be in no office under the United States.",
+   "begin": 134.4,
+   "end": 138.96,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 2,
+   "text": "Under these reasonable limitations, the door of this part of the federal government is open to merit of every description, whether native or adoptive, whether young or old, and without regard to poverty or wealth, or to any particular profession of religious faith.",
+   "begin": 138.96,
+   "end": 152.96,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "The term for which the representatives are to be elected falls under a second view which may be taken of this branch.",
+   "begin": 152.96,
+   "end": 158.64,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "In order to decide on the propriety of this article, two questions must be considered:",
+   "begin": 158.64,
+   "end": 163.44,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "first, whether biennial elections will, in this case, be safe;",
+   "begin": 163.44,
+   "end": 167.44,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "secondly, whether they be necessary or useful.",
+   "begin": 167.44,
+   "end": 170.56,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "First.",
+   "begin": 170.56,
+   "end": 171.2,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "As it is essential to liberty that the government in general should have a common interest with the people, so it is particularly essential that the branch of it under consideration should have an immediate dependence on, and an intimate sympathy with, the people.",
+   "begin": 171.2,
+   "end": 184.24,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "Frequent elections are unquestionably the only policy by which this dependence and sympathy can be effectually secured.",
+   "begin": 184.24,
+   "end": 191.36,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 3,
+   "text": "But what particular degree of frequency may be absolutely necessary for the purpose, does not appear to be susceptible of any precise calculation, and must depend on a variety of circumstances with which it may be connected.",
+   "begin": 191.36,
+   "end": 203.04,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "Let us consult experience, the guide that ought always to be followed whenever it can be found.",
+   "begin": 203.04,
+   "end": 208.32,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "The scheme of representation, as a substitute for a meeting of the citizens in person, being at most but very imperfectly known to ancient polity, it is in more modern times only that we are to expect instructive examples.",
+   "begin": 208.32,
+   "end": 220.32,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "And even here, in order to avoid a research too vague and diffusive, it will be proper to confine ourselves to the few examples which are best known, and which bear the greatest analogy to our particular case.",
+   "begin": 220.32,
+   "end": 231.36,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "The first to which this character ought to be applied, is the House of Commons in Great Britain.",
+   "begin": 231.36,
+   "end": 236.48,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "The history of this branch of the English Constitution, anterior to the date of Magna Charta, is too obscure to yield instruction.",
+   "begin": 236.48,
+   "end": 243.6,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "The very existence of it has been made a question among political antiquaries.",
+   "begin": 243.6,
+   "end": 247.6,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "The earliest records of subsequent date prove that parliaments were to SIT only every year;",
+   "begin": 247.6,
+   "end": 252.08,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "not that they were to be ELECTED every year.",
+   "begin": 252.08,
+   "end": 254.0,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "And even these annual sessions were left so much at the discretion of the monarch, that, under various pretexts, very long and dangerous intermissions were often contrived by royal ambition.",
+   "begin": 254.0,
+   "end": 263.76,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 4,
+   "text": "To remedy this grievance, it was provided by a statute in the reign of Charles II.",
+   "begin": 263.76,
+   "end": 268.4,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 4,
+   "text": ", that the intermissions should not be protracted beyond a period of three years.",
+   "begin": 268.4,
+   "end": 272.32,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 4,
+   "text": "On the accession of William III.",
+   "begin": 272.32,
+   "end": 274.08,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 4,
+   "text": ", when a revolution took place in the government, the subject was still more seriously resumed, and it was declared to be among the fundamental rights of the people that parliaments ought to be held FREQUENTLY.",
+   "begin": 274.08,
+   "end": 283.52,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 4,
+   "text": "By another statute, which passed a few years later in the same reign, the term \"frequently,'' which had alluded to the triennial period settled in the time of Charles II.",
+   "begin": 283.52,
+   "end": 292.16,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 4,
+   "text": ", is reduced to a precise meaning, it being expressly enacted that a new parliament shall be called within three years after the termination of the former.",
+   "begin": 292.16,
+   "end": 300.24,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 4,
+   "text": "The last change, from three to seven years, is well known to have been introduced pretty early in the present century, under on alarm for the Hanoverian succession.",
+   "begin": 300.24,
+   "end": 309.36,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "From these facts it appears that the greatest frequency of elections which has been deemed necessary in that kingdom, for binding the representatives to their constituents, does not exceed a triennial return of them.",
+   "begin": 309.36,
+   "end": 319.68,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "And if we may argue from the degree of liberty retained even under septennial elections, and all the other vicious ingredients in the parliamentary constitution, we cannot doubt that a reduction of the period from seven to three years, with the other necessary reforms, would so far extend the influence of the people over their representatives as to satisfy us that biennial elections, under the federal system, cannot possibly be dangerous to the requisite dependence of the House of Representatives on their constituents.",
+   "begin": 319.68,
+   "end": 345.28,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "Elections in Ireland, till of late, were regulated entirely by the discretion of the crown, and were seldom repeated, except on the accession of a new prince, or some other contingent event.",
+   "begin": 345.28,
+   "end": 354.88,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 5,
+   "text": "The parliament which commenced with George II.",
+   "begin": 354.88,
+   "end": 357.36,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 5,
+   "text": "was continued throughout his whole reign, a period of about thirty-five years.",
+   "begin": 357.36,
+   "end": 361.44,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 5,
+   "text": "The only dependence of the representatives on the people consisted in the right of the latter to supply occasional vacancies by the election of new members, and in the chance of some event which might produce a general new election.",
+   "begin": 361.44,
+   "end": 372.88,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 5,
+   "text": "The ability also of the Irish parliament to maintain the rights of their constituents, so far as the disposition might exist, was extremely shackled by the control of the crown over the subjects of their deliberation.",
+   "begin": 372.88,
+   "end": 384.32,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 5,
+   "text": "Of late these shackles, if I mistake not, have been broken;",
+   "begin": 384.32,
+   "end": 387.76,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 5,
+   "text": "and octennial parliaments have besides been established.",
+   "begin": 387.76,
+   "end": 391.68,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 5,
+   "text": "What effect may be produced by this partial reform, must be left to further experience.",
+   "begin": 391.68,
+   "end": 396.24,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 5,
+   "text": "The example of Ireland, from this view of it, can throw but little light on the subject.",
+   "begin": 396.24,
+   "end": 400.64,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 5,
+   "text": "As far as we can draw any conclusion from it, it must be that if the people of that country have been able under all these disadvantages to retain any liberty whatever, the advantage of biennial elections would secure to them every degree of liberty, which might depend on a due connection between their representatives and themselves.",
+   "begin": 400.64,
+   "end": 417.28,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 5,
+   "text": "Let us bring our inquiries nearer home.",
+   "begin": 417.28,
+   "end": 419.84,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 5,
+   "text": "The example of these States, when British colonies, claims particular attention, at the same time that it is so well known as to require little to be said on it.",
+   "begin": 419.84,
+   "end": 428.4,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 5,
+   "text": "The principle of representation, in one branch of the legislature at least, was established in all of them.",
+   "begin": 428.4,
+   "end": 434.0,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 5,
+   "text": "But the periods of election were different.",
+   "begin": 434.0,
+   "end": 436.0,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 5,
+   "text": "They varied from one to seven years.",
+   "begin": 436.0,
+   "end": 438.48,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 5,
+   "text": "Have we any reason to infer, from the spirit and conduct of the representatives of the people, prior to the Revolution, that biennial elections would have been dangerous to the public liberties?",
+   "begin": 438.48,
+   "end": 447.92,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 5,
+   "text": "The spirit which everywhere displayed itself at the commencement of the struggle, and which vanquished the obstacles to independence, is the best of proofs that a sufficient portion of liberty had been everywhere enjoyed to inspire both a sense of its worth and a zeal for its proper enlargement This remark holds good, as well with regard to the then colonies whose elections were least frequent, as to those whose elections were most frequent Virginia was the colony which stood first in resisting the parliamentary usurpations of Great Britain;",
+   "begin": 447.92,
+   "end": 476.24,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 5,
+   "text": "it was the first also in espousing, by public act, the resolution of independence.",
+   "begin": 476.24,
+   "end": 481.12,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 6,
+   "text": "In Virginia, nevertheless, if I have not been misinformed, elections under the former government were septennial.",
+   "begin": 481.12,
+   "end": 487.92,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 6,
+   "text": "This particular example is brought into view, not as a proof of any peculiar merit, for the priority in those instances was probably accidental;",
+   "begin": 487.92,
+   "end": 495.68,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 6,
+   "text": "and still less of any advantage in SEPTENNIAL elections, for when compared with a greater frequency they are inadmissible;",
+   "begin": 495.68,
+   "end": 501.76,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 6,
+   "text": "but merely as a proof, and I conceive it to be a very substantial proof, that the liberties of the people can be in no danger from BIENNIAL elections.",
+   "begin": 501.76,
+   "end": 509.76,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 6,
+   "text": "The conclusion resulting from these examples will be not a little strengthened by recollecting three circumstances.",
+   "begin": 509.76,
+   "end": 515.919,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 6,
+   "text": "The first is, that the federal legislature will possess a part only of that supreme legislative authority which is vested completely in the British Parliament;",
+   "begin": 515.919,
+   "end": 523.84,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 6,
+   "text": "and which, with a few exceptions, was exercised by the colonial assemblies and the Irish legislature.",
+   "begin": 523.84,
+   "end": 529.6,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 6,
+   "text": "It is a received and well-founded maxim, that where no other circumstances affect the case, the greater the power is, the shorter ought to be its duration;",
+   "begin": 529.6,
+   "end": 538.16,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 6,
+   "text": "and, conversely, the smaller the power, the more safely may its duration be protracted.",
+   "begin": 538.16,
+   "end": 544.0,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 6,
+   "text": "In the second place, it has, on another occasion, been shown that the federal legislature will not only be restrained by its dependence on its people, as other legislative bodies are, but that it will be, moreover, watched and controlled by the several collateral legislatures, which other legislative bodies are not.",
+   "begin": 544.0,
+   "end": 560.48,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 6,
+   "text": "And in the third place, no comparison can be made between the means that will be possessed by the more permanent branches of the federal government for seducing, if they should be disposed to seduce, the House of Representatives from their duty to the people, and the means of influence over the popular branch possessed by the other branches of the government above cited.",
+   "begin": 560.48,
+   "end": 579.04,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 6,
+   "text": "With less power, therefore, to abuse, the federal representatives can be less tempted on one side, and will be doubly watched on the other.",
+   "begin": 579.04,
+   "end": 587.44,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 7,
+   "text": "PUBLIUS.",
+   "begin": 587.44,
+   "end": 589.159909,
+   "synced": true
+  }
+ ]
+}

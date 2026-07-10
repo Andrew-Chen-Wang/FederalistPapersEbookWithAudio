@@ -1,0 +1,947 @@
+{
+ "paper": 47,
+ "duration": 907.877007,
+ "match_ratio": 0.9923,
+ "heading": [
+  "The Particular Structure of the New Government and the",
+  "Distribution of Power Among Its Different Parts"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.8,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "HAVING reviewed the general form of the proposed government and the general mass of power allotted to it, I proceed to examine the particular structure of this government, and the distribution of this mass of power among its constituent parts.",
+   "begin": 16.8,
+   "end": 29.359,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "One of the principal objections inculcated by the more respectable adversaries to the Constitution, is its supposed violation of the political maxim, that the legislative, executive, and judiciary departments ought to be separate and distinct.",
+   "begin": 29.359,
+   "end": 42.96,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "In the structure of the federal government, no regard, it is said, seems to have been paid to this essential precaution in favor of liberty.",
+   "begin": 42.96,
+   "end": 50.16,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "The several departments of power are distributed and blended in such a manner as at once to destroy all symmetry and beauty of form, and to expose some of the essential parts of the edifice to the danger of being crushed by the disproportionate weight of other parts.",
+   "begin": 50.16,
+   "end": 63.52,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "No political truth is certainly of greater intrinsic value, or is stamped with the authority of more enlightened patrons of liberty, than that on which the objection is founded.",
+   "begin": 63.52,
+   "end": 73.04,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "The accumulation of all powers, legislative, executive, and judiciary, in the same hands, whether of one, a few, or many, and whether hereditary, selfappointed, or elective, may justly be pronounced the very definition of tyranny.",
+   "begin": 73.04,
+   "end": 85.759,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "Were the federal Constitution, therefore, really chargeable with the accumulation of power, or with a mixture of powers, having a dangerous tendency to such an accumulation, no further arguments would be necessary to inspire a universal reprobation of the system.",
+   "begin": 85.759,
+   "end": 99.759,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "I persuade myself, however, that it will be made apparent to every one, that the charge cannot be supported, and that the maxim on which it relies has been totally misconceived and misapplied.",
+   "begin": 99.759,
+   "end": 109.68,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "In order to form correct ideas on this important subject, it will be proper to investigate the sense in which the preservation of liberty requires that the three great departments of power should be separate and distinct.",
+   "begin": 109.68,
+   "end": 120.64,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "The oracle who is always consulted and cited on this subject is the celebrated Montesquieu.",
+   "begin": 120.64,
+   "end": 125.84,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "If he be not the author of this invaluable precept in the science of politics, he has the merit at least of displaying and recommending it most effectually to the attention of mankind.",
+   "begin": 125.84,
+   "end": 135.68,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "Let us endeavor, in the first place, to ascertain his meaning on this point.",
+   "begin": 135.68,
+   "end": 140.0,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "The British Constitution was to Montesquieu what Homer has been to the didactic writers on epic poetry.",
+   "begin": 140.0,
+   "end": 146.239,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "As the latter have considered the work of the immortal bard as the perfect model from which the principles and rules of the epic art were to be drawn, and by which all similar works were to be judged, so this great political critic appears to have viewed the Constitution of England as the standard, or to use his own expression, as the mirror of political liberty;",
+   "begin": 146.239,
+   "end": 164.08,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "and to have delivered, in the form of elementary truths, the several characteristic principles of that particular system.",
+   "begin": 164.08,
+   "end": 170.16,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "That we may be sure, then, not to mistake his meaning in this case, let us recur to the source from which the maxim was drawn.",
+   "begin": 170.16,
+   "end": 177.12,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "On the slightest view of the British Constitution, we must perceive that the legislative, executive, and judiciary departments are by no means totally separate and distinct from each other.",
+   "begin": 177.12,
+   "end": 186.959,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "The executive magistrate forms an integral part of the legislative authority.",
+   "begin": 186.959,
+   "end": 191.2,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "He alone has the prerogative of making treaties with foreign sovereigns, which, when made, have, under certain limitations, the force of legislative acts.",
+   "begin": 191.2,
+   "end": 199.84,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "All the members of the judiciary department are appointed by him, can be removed by him on the address of the two Houses of Parliament, and form, when he pleases to consult them, one of his constitutional councils.",
+   "begin": 199.84,
+   "end": 211.44,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "One branch of the legislative department forms also a great constitutional council to the executive chief, as, on another hand, it is the sole depositary of judicial power in cases of impeachment, and is invested with the supreme appellate jurisdiction in all other cases.",
+   "begin": 211.44,
+   "end": 226.159,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "The judges, again, are so far connected with the legislative department as often to attend and participate in its deliberations, though not admitted to a legislative vote.",
+   "begin": 226.159,
+   "end": 235.36,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "From these facts, by which Montesquieu was guided, it may clearly be inferred that, in saying \"There can be no liberty where the legislative and executive powers are united in the same person, or body of magistrates,'' or, \"if the power of judging be not separated from the legislative and executive powers,'' he did not mean that these departments ought to have no PARTIAL AGENCY in, or no CONTROL over, the acts of each other.",
+   "begin": 235.36,
+   "end": 258.16,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "His meaning, as his own words import, and still more conclusively as illustrated by the example in his eye, can amount to no more than this, that where the WHOLE power of one department is exercised by the same hands which possess the WHOLE power of another department, the fundamental principles of a free constitution are subverted.",
+   "begin": 258.16,
+   "end": 276.479,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "This would have been the case in the constitution examined by him, if the king, who is the sole executive magistrate, had possessed also the complete legislative power, or the supreme administration of justice;",
+   "begin": 276.479,
+   "end": 286.56,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "or if the entire legislative body had possessed the supreme judiciary, or the supreme executive authority.",
+   "begin": 286.56,
+   "end": 292.24,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "This, however, is not among the vices of that constitution.",
+   "begin": 292.24,
+   "end": 295.919,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "The magistrate in whom the whole executive power resides cannot of himself make a law, though he can put a negative on every law;",
+   "begin": 295.919,
+   "end": 302.88,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "nor administer justice in person, though he has the appointment of those who do administer it.",
+   "begin": 302.88,
+   "end": 308.24,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 4,
+   "text": "The judges can exercise no executive prerogative, though they are shoots from the executive stock;",
+   "begin": 308.24,
+   "end": 313.12,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 4,
+   "text": "nor any legislative function, though they may be advised with by the legislative councils.",
+   "begin": 313.12,
+   "end": 317.759,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 4,
+   "text": "The entire legislature can perform no judiciary act, though by the joint act of two of its branches the judges may be removed from their offices, and though one of its branches is possessed of the judicial power in the last resort.",
+   "begin": 317.759,
+   "end": 329.759,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 4,
+   "text": "The entire legislature, again, can exercise no executive prerogative, though one of its branches constitutes the supreme executive magistracy, and another, on the impeachment of a third, can try and condemn all the subordinate officers in the executive department.",
+   "begin": 329.759,
+   "end": 344.16,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 4,
+   "text": "The reasons on which Montesquieu grounds his maxim are a further demonstration of his meaning.",
+   "begin": 344.16,
+   "end": 349.199,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 4,
+   "text": "\"When the legislative and executive powers are united in the same person or body,'' says he, \"there can be no liberty, because apprehensions may arise lest THE SAME monarch or senate should ENACT tyrannical laws to EXECUTE them in a tyrannical manner.",
+   "begin": 349.199,
+   "end": 364.0,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 4,
+   "text": "'' Again:",
+   "begin": 364.0,
+   "end": 364.56,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 4,
+   "text": "\"Were the power of judging joined with the legislative, the life and liberty of the subject would be exposed to arbitrary control, for THE JUDGE would then be THE LEGISLATOR.",
+   "begin": 364.56,
+   "end": 373.6,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 4,
+   "text": "Were it joined to the executive power, THE JUDGE might behave with all the violence of AN OPPRESSOR.",
+   "begin": 373.6,
+   "end": 378.88,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 4,
+   "text": "'' Some of these reasons are more fully explained in other passages;",
+   "begin": 378.88,
+   "end": 382.16,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 4,
+   "text": "but briefly stated as they are here, they sufficiently establish the meaning which we have put on this celebrated maxim of this celebrated author.",
+   "begin": 382.16,
+   "end": 390.4,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 5,
+   "text": "If we look into the constitutions of the several States, we find that, notwithstanding the emphatical and, in some instances, the unqualified terms in which this axiom has been laid down, there is not a single instance in which the several departments of power have been kept absolutely separate and distinct.",
+   "begin": 390.4,
+   "end": 406.16,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 5,
+   "text": "New Hampshire, whose constitution was the last formed, seems to have been fully aware of the impossibility and inexpediency of avoiding any mixture whatever of these departments, and has qualified the doctrine by declaring \"that the legislative, executive, and judiciary powers ought to be kept as separate from, and independent of, each other AS THE NATURE OF A FREE GOVERNMENT WILL ADMIT;",
+   "begin": 406.16,
+   "end": 426.08,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 5,
+   "text": "OR AS IS CONSISTENT WITH THAT CHAIN OF CONNECTION THAT BINDS THE WHOLE FABRIC OF THE CONSTITUTION IN ONE INDISSOLUBLE BOND OF UNITY AND AMITY.",
+   "begin": 426.08,
+   "end": 434.479,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 5,
+   "text": "'' Her constitution accordingly mixes these departments in several respects.",
+   "begin": 434.479,
+   "end": 438.4,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 5,
+   "text": "The Senate, which is a branch of the legislative department, is also a judicial tribunal for the trial of impeachments.",
+   "begin": 438.4,
+   "end": 444.56,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 5,
+   "text": "The President, who is the head of the executive department, is the presiding member also of the Senate;",
+   "begin": 444.56,
+   "end": 449.599,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 5,
+   "text": "and, besides an equal vote in all cases, has a casting vote in case of a tie.",
+   "begin": 449.599,
+   "end": 454.479,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 5,
+   "text": "The executive head is himself eventually elective every year by the legislative department, and his council is every year chosen by and from the members of the same department.",
+   "begin": 454.479,
+   "end": 464.16,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 5,
+   "text": "Several of the officers of state are also appointed by the legislature.",
+   "begin": 464.16,
+   "end": 467.759,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 5,
+   "text": "And the members of the judiciary department are appointed by the executive department.",
+   "begin": 467.759,
+   "end": 473.28,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 5,
+   "text": "The constitution of Massachusetts has observed a sufficient though less pointed caution, in expressing this fundamental article of liberty.",
+   "begin": 473.28,
+   "end": 480.8,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 5,
+   "text": "It declares \"that the legislative department shall never exercise the executive and judicial powers, or either of them;",
+   "begin": 480.8,
+   "end": 487.039,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 5,
+   "text": "the executive shall never exercise the legislative and judicial powers, or either of them;",
+   "begin": 487.039,
+   "end": 491.44,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 5,
+   "text": "the judicial shall never exercise the legislative and executive powers, or either of them.",
+   "begin": 491.44,
+   "end": 496.639,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 5,
+   "text": "'' This declaration corresponds precisely with the doctrine of Montesquieu, as it has been explained, and is not in a single point violated by the plan of the convention.",
+   "begin": 496.639,
+   "end": 504.879,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 5,
+   "text": "It goes no farther than to prohibit any one of the entire departments from exercising the powers of another department.",
+   "begin": 504.879,
+   "end": 511.12,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 5,
+   "text": "In the very Constitution to which it is prefixed, a partial mixture of powers has been admitted.",
+   "begin": 511.12,
+   "end": 516.479,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 5,
+   "text": "The executive magistrate has a qualified negative on the legislative body, and the Senate, which is a part of the legislature, is a court of impeachment for members both of the executive and judiciary departments.",
+   "begin": 516.479,
+   "end": 527.839,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 5,
+   "text": "The members of the judiciary department, again, are appointable by the executive department, and removable by the same authority on the address of the two legislative branches.",
+   "begin": 527.839,
+   "end": 537.12,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 5,
+   "text": "Lastly, a number of the officers of government are annually appointed by the legislative department.",
+   "begin": 537.12,
+   "end": 542.399,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 6,
+   "text": "As the appointment to offices, particularly executive offices, is in its nature an executive function, the compilers of the Constitution have, in this last point at least, violated the rule established by themselves.",
+   "begin": 542.399,
+   "end": 555.04,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 6,
+   "text": "I pass over the constitutions of Rhode Island and Connecticut, because they were formed prior to the Revolution, and even before the principle under examination had become an object of political attention.",
+   "begin": 555.04,
+   "end": 565.519,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 6,
+   "text": "The constitution of New York contains no declaration on this subject;",
+   "begin": 565.519,
+   "end": 569.279,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 6,
+   "text": "but appears very clearly to have been framed with an eye to the danger of improperly blending the different departments.",
+   "begin": 569.279,
+   "end": 575.12,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 6,
+   "text": "It gives, nevertheless, to the executive magistrate, a partial control over the legislative department;",
+   "begin": 575.12,
+   "end": 580.08,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 6,
+   "text": "and, what is more, gives a like control to the judiciary department;",
+   "begin": 580.08,
+   "end": 583.519,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 6,
+   "text": "and even blends the executive and judiciary departments in the exercise of this control.",
+   "begin": 583.519,
+   "end": 588.32,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 6,
+   "text": "In its council of appointment members of the legislative are associated with the executive authority, in the appointment of officers, both executive and judiciary.",
+   "begin": 588.32,
+   "end": 596.64,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 6,
+   "text": "And its court for the trial of impeachments and correction of errors is to consist of one branch of the legislature and the principal members of the judiciary department.",
+   "begin": 596.64,
+   "end": 605.76,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 7,
+   "text": "The constitution of New Jersey has blended the different powers of government more than any of the preceding.",
+   "begin": 605.76,
+   "end": 611.519,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 7,
+   "text": "The governor, who is the executive magistrate, is appointed by the legislature;",
+   "begin": 611.519,
+   "end": 615.36,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 7,
+   "text": "is chancellor and ordinary, or surrogate of the State;",
+   "begin": 615.36,
+   "end": 618.56,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 7,
+   "text": "is a member of the Supreme Court of Appeals, and president, with a casting vote, of one of the legislative branches.",
+   "begin": 618.56,
+   "end": 624.24,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 7,
+   "text": "The same legislative branch acts again as executive council of the governor, and with him constitutes the Court of Appeals.",
+   "begin": 624.24,
+   "end": 630.959,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 7,
+   "text": "The members of the judiciary department are appointed by the legislative department and removable by one branch of it, on the impeachment of the other.",
+   "begin": 630.959,
+   "end": 638.88,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 7,
+   "text": "According to the constitution of Pennsylvania, the president, who is the head of the executive department, is annually elected by a vote in which the legislative department predominates.",
+   "begin": 638.88,
+   "end": 648.16,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 7,
+   "text": "In conjunction with an executive council, he appoints the members of the judiciary department, and forms a court of impeachment for trial of all officers, judiciary as well as executive.",
+   "begin": 648.16,
+   "end": 658.32,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 7,
+   "text": "The judges of the Supreme Court and justices of the peace seem also to be removable by the legislature;",
+   "begin": 658.32,
+   "end": 663.92,
+   "synced": true
+  },
+  {
+   "id": "u0080",
+   "para": 7,
+   "text": "and the executive power of pardoning in certain cases, to be referred to the same department.",
+   "begin": 663.92,
+   "end": 668.8,
+   "synced": true
+  },
+  {
+   "id": "u0081",
+   "para": 7,
+   "text": "The members of the executive counoil are made EX-OFFICIO justices of peace throughout the State.",
+   "begin": 668.8,
+   "end": 674.56,
+   "synced": true
+  },
+  {
+   "id": "u0082",
+   "para": 7,
+   "text": "In Delaware, the chief executive magistrate is annually elected by the legislative department.",
+   "begin": 674.56,
+   "end": 679.68,
+   "synced": true
+  },
+  {
+   "id": "u0083",
+   "para": 7,
+   "text": "The speakers of the two legislative branches are vice-presidents in the executive department.",
+   "begin": 679.68,
+   "end": 684.48,
+   "synced": true
+  },
+  {
+   "id": "u0084",
+   "para": 7,
+   "text": "The executive chief, with six others, appointed, three by each of the legislative branches constitutes the Supreme Court of Appeals;",
+   "begin": 684.48,
+   "end": 691.519,
+   "synced": true
+  },
+  {
+   "id": "u0085",
+   "para": 7,
+   "text": "he is joined with the legislative department in the appointment of the other judges.",
+   "begin": 691.519,
+   "end": 695.68,
+   "synced": true
+  },
+  {
+   "id": "u0086",
+   "para": 7,
+   "text": "Throughout the States, it appears that the members of the legislature may at the same time be justices of the peace;",
+   "begin": 695.68,
+   "end": 701.839,
+   "synced": true
+  },
+  {
+   "id": "u0087",
+   "para": 7,
+   "text": "in this State, the members of one branch of it are EX-OFFICIO justices of the peace;",
+   "begin": 701.839,
+   "end": 706.399,
+   "synced": true
+  },
+  {
+   "id": "u0088",
+   "para": 7,
+   "text": "as are also the members of the executive council.",
+   "begin": 706.399,
+   "end": 709.519,
+   "synced": true
+  },
+  {
+   "id": "u0089",
+   "para": 7,
+   "text": "The principal officers of the executive department are appointed by the legislative;",
+   "begin": 709.519,
+   "end": 713.839,
+   "synced": true
+  },
+  {
+   "id": "u0090",
+   "para": 7,
+   "text": "and one branch of the latter forms a court of impeachments.",
+   "begin": 713.839,
+   "end": 717.04,
+   "synced": true
+  },
+  {
+   "id": "u0091",
+   "para": 7,
+   "text": "All officers may be removed on address of the legislature.",
+   "begin": 717.04,
+   "end": 721.2,
+   "synced": true
+  },
+  {
+   "id": "u0092",
+   "para": 8,
+   "text": "Maryland has adopted the maxim in the most unqualified terms;",
+   "begin": 721.2,
+   "end": 724.639,
+   "synced": true
+  },
+  {
+   "id": "u0093",
+   "para": 8,
+   "text": "declaring that the legislative, executive, and judicial powers of government ought to be forever separate and distinct from each other.",
+   "begin": 724.639,
+   "end": 731.279,
+   "synced": true
+  },
+  {
+   "id": "u0094",
+   "para": 8,
+   "text": "Her constitution, notwithstanding, makes the executive magistrate appointable by the legislative department;",
+   "begin": 731.279,
+   "end": 736.32,
+   "synced": true
+  },
+  {
+   "id": "u0095",
+   "para": 8,
+   "text": "and the members of the judiciary by the executive department.",
+   "begin": 736.32,
+   "end": 739.76,
+   "synced": true
+  },
+  {
+   "id": "u0096",
+   "para": 8,
+   "text": "The language of Virginia is still more pointed on this subject.",
+   "begin": 739.76,
+   "end": 742.8,
+   "synced": true
+  },
+  {
+   "id": "u0097",
+   "para": 8,
+   "text": "Her constitution declares, \"that the legislative, executive, and judiciary departments shall be separate and distinct;",
+   "begin": 742.8,
+   "end": 748.959,
+   "synced": true
+  },
+  {
+   "id": "u0098",
+   "para": 8,
+   "text": "so that neither exercise the powers properly belonging to the other;",
+   "begin": 748.959,
+   "end": 752.399,
+   "synced": true
+  },
+  {
+   "id": "u0099",
+   "para": 8,
+   "text": "nor shall any person exercise the powers of more than one of them at the same time, except that the justices of county courts shall be eligible to either House of Assembly.",
+   "begin": 752.399,
+   "end": 760.959,
+   "synced": true
+  },
+  {
+   "id": "u0100",
+   "para": 8,
+   "text": "'' Yet we find not only this express exception, with respect to the members of the irferior courts, but that the chief magistrate, with his executive council, are appointable by the legislature;",
+   "begin": 760.959,
+   "end": 770.24,
+   "synced": true
+  },
+  {
+   "id": "u0101",
+   "para": 8,
+   "text": "that two members of the latter are triennially displaced at the pleasure of the legislature;",
+   "begin": 770.24,
+   "end": 774.639,
+   "synced": true
+  },
+  {
+   "id": "u0102",
+   "para": 8,
+   "text": "and that all the principal offices, both executive and judiciary, are filled by the same department.",
+   "begin": 774.639,
+   "end": 779.92,
+   "synced": true
+  },
+  {
+   "id": "u0103",
+   "para": 8,
+   "text": "The executive prerogative of pardon, also, is in one case vested in the legislative department.",
+   "begin": 779.92,
+   "end": 785.68,
+   "synced": true
+  },
+  {
+   "id": "u0104",
+   "para": 9,
+   "text": "The constitution of North Carolina, which declares \"that the legislative, executive, and supreme judicial powers of government ought to be forever separate and distinct from each other,'' refers, at the same time, to the legislative department, the appointment not only of the executive chief, but all the principal officers within both that and the judiciary department.",
+   "begin": 785.68,
+   "end": 804.88,
+   "synced": true
+  },
+  {
+   "id": "u0105",
+   "para": 9,
+   "text": "In South Carolina, the constitution makes the executive magistracy eligible by the legislative department.",
+   "begin": 804.88,
+   "end": 810.639,
+   "synced": true
+  },
+  {
+   "id": "u0106",
+   "para": 9,
+   "text": "It gives to the latter, also, the appointment of the members of the judiciary department, including even justices of the peace and sheriffs;",
+   "begin": 810.639,
+   "end": 817.12,
+   "synced": true
+  },
+  {
+   "id": "u0107",
+   "para": 9,
+   "text": "and the appointment of officers in the executive department, down to captains in the army and navy of the State.",
+   "begin": 817.12,
+   "end": 823.199,
+   "synced": true
+  },
+  {
+   "id": "u0108",
+   "para": 9,
+   "text": "In the constitution of Georgia, where it is declared \"that the legislative, executive, and judiciary departments shall be separate and distinct, so that neither exercise the powers properly belonging to the other,'' we find that the executive department is to be filled by appointments of the legislature;",
+   "begin": 823.199,
+   "end": 838.0,
+   "synced": true
+  },
+  {
+   "id": "u0109",
+   "para": 9,
+   "text": "and the executive prerogative of pardon to be finally exercised by the same authority.",
+   "begin": 838.0,
+   "end": 842.959,
+   "synced": true
+  },
+  {
+   "id": "u0110",
+   "para": 9,
+   "text": "Even justices of the peace are to be appointed by the legislature.",
+   "begin": 842.959,
+   "end": 847.519,
+   "synced": true
+  },
+  {
+   "id": "u0111",
+   "para": 9,
+   "text": "In citing these cases, in which the legislative, executive, and judiciary departments have not been kept totally separate and distinct, I wish not to be regarded as an advocate for the particular organizations of the several State governments.",
+   "begin": 847.519,
+   "end": 859.519,
+   "synced": true
+  },
+  {
+   "id": "u0112",
+   "para": 9,
+   "text": "I am fully aware that among the many excellent principles which they exemplify, they carry strong marks of the haste, and still stronger of the inexperience, under which they were framed.",
+   "begin": 859.519,
+   "end": 869.519,
+   "synced": true
+  },
+  {
+   "id": "u0113",
+   "para": 9,
+   "text": "It is but too obvious that in some instances the fundamental principle under consideration has been violated by too great a mixture, and even an actual consolidation, of the different powers;",
+   "begin": 869.519,
+   "end": 879.36,
+   "synced": true
+  },
+  {
+   "id": "u0114",
+   "para": 9,
+   "text": "and that in no instance has a competent provision been made for maintaining in practice the separation delineated on paper.",
+   "begin": 879.36,
+   "end": 886.32,
+   "synced": true
+  },
+  {
+   "id": "u0115",
+   "para": 9,
+   "text": "What I have wished to evince is, that the charge brought against the proposed Constitution, of violating the sacred maxim of free government, is warranted neither by the real meaning annexed to that maxim by its author, nor by the sense in which it has hitherto been understood in America.",
+   "begin": 886.32,
+   "end": 901.68,
+   "synced": true
+  },
+  {
+   "id": "u0116",
+   "para": 9,
+   "text": "This interesting subject will be resumed in the ensuing paper.",
+   "begin": 901.68,
+   "end": 906.6,
+   "synced": true
+  },
+  {
+   "id": "u0117",
+   "para": 10,
+   "text": "PUBLIUS.",
+   "begin": 906.6,
+   "end": 907.877007,
+   "synced": true
+  }
+ ]
+}

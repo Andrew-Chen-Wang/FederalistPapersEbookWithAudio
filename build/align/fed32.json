@@ -1,0 +1,478 @@
+{
+ "paper": 32,
+ "duration": 486.783129,
+ "match_ratio": 0.992,
+ "heading": [
+  "The Same Subject Continued",
+  "Concerning the General Power of Taxation",
+  "From the Daily Advertiser.",
+  "Thursday, January 3, 1788.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 15.599,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "ALTHOUGH I am of opinion that there would be no real danger of the consequences which seem to be apprehended to the State governments from a power in the Union to control them in the levies of money, because I am persuaded that the sense of the people, the extreme hazard of provoking the resentments of the State governments, and a conviction of the utility and necessity of local administrations for local purposes, would be a complete barrier against the oppressive use of such a power;",
+   "begin": 15.599,
+   "end": 39.6,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "yet I am willing here to allow, in its full extent, the justness of the reasoning which requires that the individual States should possess an independent and uncontrollable authority to raise their own revenues for the supply of their own wants.",
+   "begin": 39.6,
+   "end": 52.719,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "And making this concession, I affirm that (with the sole exception of duties on imports and exports) they would, under the plan of the convention, retain that authority in the most absolute and unqualified sense;",
+   "begin": 52.719,
+   "end": 64.159,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "and that an attempt on the part of the national government to abridge them in the exercise of it, would be a violent assumption of power, unwarranted by any article or clause of its Constitution.",
+   "begin": 64.159,
+   "end": 74.799,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 2,
+   "text": "An entire consolidation of the States into one complete national sovereignty would imply an entire subordination of the parts;",
+   "begin": 74.799,
+   "end": 82.08,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 2,
+   "text": "and whatever powers might remain in them, would be altogether dependent on the general will.",
+   "begin": 82.08,
+   "end": 87.119,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "But as the plan of the convention aims only at a partial union or consolidation, the State governments would clearly retain all the rights of sovereignty which they before had, and which were not, by that act, EXCLUSIVELY delegated to the United States.",
+   "begin": 87.119,
+   "end": 100.4,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "This exclusive delegation, or rather this alienation, of State sovereignty, would only exist in three cases:",
+   "begin": 100.4,
+   "end": 106.88,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "where the Constitution in express terms granted an exclusive authority to the Union;",
+   "begin": 106.88,
+   "end": 111.439,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "where it granted in one instance an authority to the Union, and in another prohibited the States from exercising the like authority;",
+   "begin": 111.439,
+   "end": 118.159,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "and where it granted an authority to the Union, to which a similar authority in the States would be absolutely and totally CONTRADICTORY and REPUGNANT.",
+   "begin": 118.159,
+   "end": 126.0,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "I use these terms to distinguish this last case from another which might appear to resemble it, but which would, in fact, be essentially different;",
+   "begin": 126.0,
+   "end": 133.52,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "I mean where the exercise of a concurrent jurisdiction might be productive of occasional interferences in the POLICY of any branch of administration, but would not imply any direct contradiction or repugnancy in point of constitutional authority.",
+   "begin": 133.52,
+   "end": 147.84,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "These three cases of exclusive jurisdiction in the federal government may be exemplified by the following instances:",
+   "begin": 147.84,
+   "end": 154.0,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 2,
+   "text": "The last clause but one in the eighth section of the first article provides expressly that Congress shall exercise \"EXCLUSIVE LEGISLATION'' over the district to be appropriated as the seat of government.",
+   "begin": 154.0,
+   "end": 164.56,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 2,
+   "text": "This answers to the first case.",
+   "begin": 164.56,
+   "end": 166.56,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 2,
+   "text": "The first clause of the same section empowers Congress \"TO LAY AND COLLECT TAXES, DUTIES, IMPOSTS AND EXCISES'';",
+   "begin": 166.56,
+   "end": 173.12,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 2,
+   "text": "and the second clause of the tenth section of the same article declares that, \"NO STATE SHALL, without the consent of Congress, LAY ANY IMPOSTS OR DUTIES ON IMPORTS OR EXPORTS, except for the purpose of executing its inspection laws.'' Hence would result an exclusive power in the Union to lay duties on imports and exports, with the particular exception mentioned;",
+   "begin": 173.12,
+   "end": 193.04,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 2,
+   "text": "but this power is abridged by another clause, which declares that no tax or duty shall be laid on articles exported from any State;",
+   "begin": 193.04,
+   "end": 200.159,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 2,
+   "text": "in consequence of which qualification, it now only extends to the DUTIES ON IMPORTS.",
+   "begin": 200.159,
+   "end": 205.519,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 2,
+   "text": "This answers to the second case.",
+   "begin": 205.519,
+   "end": 207.599,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 2,
+   "text": "The third will be found in that clause which declares that Congress shall have power \"to establish an UNIFORM RULE of naturalization throughout the United States.'' This must necessarily be exclusive;",
+   "begin": 207.599,
+   "end": 218.4,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 2,
+   "text": "because if each State had power to prescribe a DISTINCT RULE, there could not be a UNIFORM RULE.",
+   "begin": 218.4,
+   "end": 224.64,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 3,
+   "text": "A case which may perhaps be thought to resemble the latter, but which is in fact widely different, affects the question immediately under consideration.",
+   "begin": 224.64,
+   "end": 232.239,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 3,
+   "text": "I mean the power of imposing taxes on all articles other than exports and imports.",
+   "begin": 232.239,
+   "end": 237.36,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 3,
+   "text": "This, I contend, is manifestly a concurrent and coequal authority in the United States and in the individual States.",
+   "begin": 237.36,
+   "end": 243.68,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 3,
+   "text": "There is plainly no expression in the granting clause which makes that power EXCLUSIVE in the Union.",
+   "begin": 243.68,
+   "end": 248.799,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 3,
+   "text": "There is no independent clause or sentence which prohibits the States from exercising it.",
+   "begin": 248.799,
+   "end": 253.68,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 3,
+   "text": "So far is this from being the case, that a plain and conclusive argument to the contrary is to be deduced from the restraint laid upon the States in relation to duties on imports and exports.",
+   "begin": 253.68,
+   "end": 264.4,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 3,
+   "text": "This restriction implies an admission that, if it were not inserted, the States would possess the power it excludes;",
+   "begin": 264.4,
+   "end": 270.479,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 3,
+   "text": "and it implies a further admission, that as to all other taxes, the authority of the States remains undiminished.",
+   "begin": 270.479,
+   "end": 276.479,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 3,
+   "text": "In any other view it would be both unnecessary and dangerous;",
+   "begin": 276.479,
+   "end": 279.919,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 3,
+   "text": "it would be unnecessary, because if the grant to the Union of the power of laying such duties implied the exclusion of the States, or even their subordination in this particular, there could be no need of such a restriction;",
+   "begin": 279.919,
+   "end": 290.88,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 3,
+   "text": "it would be dangerous, because the introduction of it leads directly to the conclusion which has been mentioned, and which, if the reasoning of the objectors be just, could not have been intended;",
+   "begin": 290.88,
+   "end": 300.56,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 3,
+   "text": "I mean that the States, in all cases to which the restriction did not apply, would have a concurrent power of taxation with the Union.",
+   "begin": 300.56,
+   "end": 307.759,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 3,
+   "text": "The restriction in question amounts to what lawyers call a NEGATIVE PREGNANT that is, a NEGATION of one thing, and an AFFIRMANCE of another;",
+   "begin": 307.759,
+   "end": 315.6,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 3,
+   "text": "a negation of the authority of the States to impose taxes on imports and exports, and an affirmance of their authority to impose them on all other articles.",
+   "begin": 315.6,
+   "end": 324.16,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 3,
+   "text": "It would be mere sophistry to argue that it was meant to exclude them ABSOLUTELY from the imposition of taxes of the former kind, and to leave them at liberty to lay others SUBJECT TO THE CONTROL of the national legislature.",
+   "begin": 324.16,
+   "end": 335.44,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 3,
+   "text": "The restraining or prohibitory clause only says, that they shall not, WITHOUT THE CONSENT OF CONGRESS, lay such duties;",
+   "begin": 335.44,
+   "end": 342.0,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 3,
+   "text": "and if we are to understand this in the sense last mentioned, the Constitution would then be made to introduce a formal provision for the sake of a very absurd conclusion;",
+   "begin": 342.0,
+   "end": 351.12,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 3,
+   "text": "which is, that the States, WITH THE CONSENT of the national legislature, might tax imports and exports;",
+   "begin": 351.12,
+   "end": 357.12,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 3,
+   "text": "and that they might tax every other article, UNLESS CONTROLLED by the same body.",
+   "begin": 357.12,
+   "end": 361.44,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 3,
+   "text": "If this was the intention, why not leave it, in the first instance, to what is alleged to be the natural operation of the original clause, conferring a general power of taxation upon the Union?",
+   "begin": 361.44,
+   "end": 371.6,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 3,
+   "text": "It is evident that this could not have been the intention, and that it will not bear a construction of the kind.",
+   "begin": 371.6,
+   "end": 376.96,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 4,
+   "text": "As to a supposition of repugnancy between the power of taxation in the States and in the Union, it cannot be supported in that sense which would be requisite to work an exclusion of the States.",
+   "begin": 376.96,
+   "end": 386.96,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 4,
+   "text": "It is, indeed, possible that a tax might be laid on a particular article by a State which might render it INEXPEDIENT that thus a further tax should be laid on the same article by the Union;",
+   "begin": 386.96,
+   "end": 396.24,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 4,
+   "text": "but it would not imply a constitutional inability to impose a further tax.",
+   "begin": 396.24,
+   "end": 400.56,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 4,
+   "text": "The quantity of the imposition, the expediency or inexpediency of an increase on either side, would be mutually questions of prudence;",
+   "begin": 400.56,
+   "end": 408.0,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 4,
+   "text": "but there would be involved no direct contradiction of power.",
+   "begin": 408.0,
+   "end": 411.68,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 4,
+   "text": "The particular policy of the national and of the State systems of finance might now and then not exactly coincide, and might require reciprocal forbearances.",
+   "begin": 411.68,
+   "end": 420.479,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 4,
+   "text": "It is not, however a mere possibility of inconvenience in the exercise of powers, but an immediate constitutional repugnancy that can by implication alienate and extinguish a pre-existing right of sovereignty.",
+   "begin": 420.479,
+   "end": 432.4,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 5,
+   "text": "The necessity of a concurrent jurisdiction in certain cases results from the division of the sovereign power;",
+   "begin": 432.4,
+   "end": 438.0,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 5,
+   "text": "and the rule that all authorities, of which the States are not explicitly divested in favor of the Union, remain with them in full vigor, is not a theoretical consequence of that division, but is clearly admitted by the whole tenor of the instrument which contains the articles of the proposed Constitution.",
+   "begin": 438.0,
+   "end": 453.44,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 5,
+   "text": "We there find that, notwithstanding the affirmative grants of general authorities, there has been the most pointed care in those cases where it was deemed improper that the like authorities should reside in the States, to insert negative clauses prohibiting the exercise of them by the States.",
+   "begin": 453.44,
+   "end": 468.319,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 5,
+   "text": "The tenth section of the first article consists altogether of such provisions.",
+   "begin": 468.319,
+   "end": 472.56,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 5,
+   "text": "This circumstance is a clear indication of the sense of the convention, and furnishes a rule of interpretation out of the body of the act, which justifies the position I have advanced and refutes every hypothesis to the contrary.",
+   "begin": 472.56,
+   "end": 485.479,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 6,
+   "text": "PUBLIUS.",
+   "begin": 485.479,
+   "end": 486.783129,
+   "synced": true
+  }
+ ]
+}

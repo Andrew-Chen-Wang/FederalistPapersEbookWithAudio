@@ -1,0 +1,437 @@
+{
+ "paper": 4,
+ "duration": 532.41034,
+ "match_ratio": 0.9835,
+ "heading": [
+  "The Same Subject Continued:",
+  "Concerning Dangers From Foreign Force and Influence",
+  "For the Independent Journal.",
+  "JAY"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 16.88,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "MY LAST paper assigned several reasons why the safety of the people would be best secured by union against the danger it may be exposed to by JUST causes of war given to other nations;",
+   "begin": 16.88,
+   "end": 27.359,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "and those reasons show that such causes would not only be more rarely given, but would also be more easily accommodated, by a national government than either by the State governments or the proposed little confederacies.",
+   "begin": 27.359,
+   "end": 39.28,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "But the safety of the people of America against dangers from FOREIGN force depends not only on their forbearing to give JUST causes of war to other nations, but also on their placing and continuing themselves in such a situation as not to INVITE hostility or insult;",
+   "begin": 39.28,
+   "end": 54.96,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 2,
+   "text": "for it need not be observed that there are PRETENDED as well as just causes of war.",
+   "begin": 54.96,
+   "end": 60.48,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 3,
+   "text": "It is too true, however disgraceful it may be to human nature, that nations in general will make war whenever they have a prospect of getting anything by it;",
+   "begin": 60.48,
+   "end": 69.52,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "nay, absolute monarchs will often make war when their nations are to get nothing by it, but for the purposes and objects merely personal, such as thirst for military glory, revenge for personal affronts, ambition, or private compacts to aggrandize or support their particular families or partisans.",
+   "begin": 69.52,
+   "end": 86.4,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "These and a variety of other motives, which affect only the mind of the sovereign, often lead him to engage in wars not sanctified by justice or the voice and interests of his people.",
+   "begin": 86.4,
+   "end": 96.0,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 3,
+   "text": "But, independent of these inducements to war, which are more prevalent in absolute monarchies, but which well deserve our attention, there are others which affect nations as often as kings;",
+   "begin": 96.0,
+   "end": 106.079,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 3,
+   "text": "and some of them will on examination be found to grow out of our relative situation and circumstances.",
+   "begin": 106.079,
+   "end": 112.079,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 4,
+   "text": "With France and with Britain we are rivals in the fisheries, and can supply their markets cheaper than they can themselves, notwithstanding any efforts to prevent it by bounties on their own or duties on foreign fish.",
+   "begin": 112.079,
+   "end": 123.84,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 5,
+   "text": "With them and with most other European nations we are rivals in navigation and the carrying trade;",
+   "begin": 123.84,
+   "end": 128.879,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 5,
+   "text": "and we shall deceive ourselves if we suppose that any of them will rejoice to see it flourish;",
+   "begin": 128.879,
+   "end": 133.36,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 5,
+   "text": "for, as our carrying trade cannot increase without in some degree diminishing theirs, it is more their interest, and will be more their policy, to restrain than to promote it.",
+   "begin": 133.36,
+   "end": 143.44,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 6,
+   "text": "In the trade to China and India, we interfere with more than one nation, inasmuch as it enables us to partake in advantages which they had in a manner monopolized, and as we thereby supply ourselves with commodities which we used to purchase from them.",
+   "begin": 143.44,
+   "end": 157.12,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 7,
+   "text": "The extension of our own commerce in our own vessels cannot give pleasure to any nations who possess territories on or near this continent, because the cheapness and excellence of our productions, added to the circumstance of vicinity, and the enterprise and address of our merchants and navigators, will give us a greater share in the advantages which those territories afford, than consists with the wishes or policy of their respective sovereigns.",
+   "begin": 157.12,
+   "end": 180.319,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 8,
+   "text": "Spain thinks it convenient to shut the Mississippi against us on the one side, and Britain excludes us from the Saint Lawrence on the other;",
+   "begin": 180.319,
+   "end": 187.2,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 8,
+   "text": "nor will either of them permit the other waters which are between them and us to become the means of mutual intercourse and traffic.",
+   "begin": 187.2,
+   "end": 193.92,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 9,
+   "text": "From these and such like considerations, which might, if consistent with prudence, be more amplified and detailed, it is easy to see that jealousies and uneasinesses may gradually slide into the minds and cabinets of other nations, and that we are not to expect that they should regard our advancement in union, in power and consequence by land and by sea, with an eye of indifference and composure.",
+   "begin": 193.92,
+   "end": 215.84,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 10,
+   "text": "The people of America are aware that inducements to war may arise out of these circumstances, as well as from others not so obvious at present, and that whenever such inducements may find fit time and opportunity for operation, pretenses to color and justify them will not be wanting.",
+   "begin": 215.84,
+   "end": 231.519,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 10,
+   "text": "Wisely, therefore, do they consider union and a good national government as necessary to put and keep them in SUCH A SITUATION as, instead of INVITING war, will tend to repress and discourage it.",
+   "begin": 231.519,
+   "end": 242.56,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 10,
+   "text": "That situation consists in the best possible state of defense, and necessarily depends on the government, the arms, and the resources of the country.",
+   "begin": 242.56,
+   "end": 250.48,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 11,
+   "text": "As the safety of the whole is the interest of the whole, and cannot be provided for without government, either one or more or many, let us inquire whether one good government is not, relative to the object in question, more competent than any other given number whatever.",
+   "begin": 250.48,
+   "end": 265.28,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 12,
+   "text": "One government can collect and avail itself of the talents and experience of the ablest men, in whatever part of the Union they may be found.",
+   "begin": 265.28,
+   "end": 272.72,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 12,
+   "text": "It can move on uniform principles of policy.",
+   "begin": 272.72,
+   "end": 275.28,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 12,
+   "text": "It can harmonize, assimilate, and protect the several parts and members, and extend the benefit of its foresight and precautions to each.",
+   "begin": 275.28,
+   "end": 282.56,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 12,
+   "text": "In the formation of treaties, it will regard the interest of the whole, and the particular interests of the parts as connected with that of the whole.",
+   "begin": 282.56,
+   "end": 289.52,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 12,
+   "text": "It can apply the resources and power of the whole to the defense of any particular part, and that more easily and expeditiously than State governments or separate confederacies can possibly do, for want of concert and unity of system.",
+   "begin": 289.52,
+   "end": 302.16,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 12,
+   "text": "It can place the militia under one plan of discipline, and, by putting their officers in a proper line of subordination to the Chief Magistrate, will, as it were, consolidate them into one corps, and thereby render them more efficient than if divided into thirteen or into three or four distinct independent companies.",
+   "begin": 302.16,
+   "end": 319.199,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 13,
+   "text": "What would the militia of Britain be if the English militia obeyed the government of England, if the Scotch militia obeyed the government of Scotland, and if the Welsh militia obeyed the government of Wales?",
+   "begin": 319.199,
+   "end": 329.12,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 13,
+   "text": "Suppose an invasion;",
+   "begin": 329.12,
+   "end": 330.72,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 13,
+   "text": "would those three governments (if they agreed at all) be able, with all their respective forces, to operate against the enemy so effectually as the single government of Great Britain would?",
+   "begin": 330.72,
+   "end": 340.479,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 14,
+   "text": "We have heard much of the fleets of Britain, and the time may come, if we are wise, when the fleets of America may engage attention.",
+   "begin": 340.479,
+   "end": 346.8,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 14,
+   "text": "But if one national government, had not so regulated the navigation of Britain as to make it a nursery for seamen--if one national government had not called forth all the national means and materials for forming fleets, their prowess and their thunder would never have been celebrated.",
+   "begin": 346.8,
+   "end": 361.6,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 14,
+   "text": "Let England have its navigation and fleet--let Scotland have its navigation and fleet--let Wales have its navigation and fleet--let Ireland have its navigation and fleet--let those four of the constituent parts of the British empire be be under four independent governments, and it is easy to perceive how soon they would each dwindle into comparative insignificance.",
+   "begin": 361.6,
+   "end": 381.52,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 15,
+   "text": "Apply these facts to our own case.",
+   "begin": 381.52,
+   "end": 383.6,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 15,
+   "text": "Leave America divided into thirteen or, if you please, into three or four independent governments--what armies could they raise and pay--what fleets could they ever hope to have?",
+   "begin": 383.6,
+   "end": 393.28,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 15,
+   "text": "If one was attacked, would the others fly to its succor, and spend their blood and money in its defense?",
+   "begin": 393.28,
+   "end": 398.24,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 15,
+   "text": "Would there be no danger of their being flattered into neutrality by its specious promises, or seduced by a too great fondness for peace to decline hazarding their tranquillity and present safety for the sake of neighbors, of whom perhaps they have been jealous, and whose importance they are content to see diminished?",
+   "begin": 398.24,
+   "end": 414.96,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 15,
+   "text": "Although such conduct would not be wise, it would, nevertheless, be natural.",
+   "begin": 414.96,
+   "end": 419.12,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 15,
+   "text": "The history of the states of Greece, and of other countries, abounds with such instances, and it is not improbable that what has so often happened would, under similar circumstances, happen again.",
+   "begin": 419.12,
+   "end": 429.599,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 16,
+   "text": "But admit that they might be willing to help the invaded State or confederacy.",
+   "begin": 429.599,
+   "end": 433.68,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 16,
+   "text": "How, and when, and in what proportion shall aids of men and money be afforded?",
+   "begin": 433.68,
+   "end": 437.84,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 16,
+   "text": "Who shall command the allied armies, and from which of them shall he receive his orders?",
+   "begin": 437.84,
+   "end": 442.479,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 16,
+   "text": "Who shall settle the terms of peace, and in case of disputes what umpire shall decide between them and compel acquiescence?",
+   "begin": 442.479,
+   "end": 449.28,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 16,
+   "text": "Various difficulties and inconveniences would be inseparable from such a situation;",
+   "begin": 449.28,
+   "end": 453.919,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 16,
+   "text": "whereas one government, watching over the general and common interests, and combining and directing the powers and resources of the whole, would be free from all these embarrassments, and conduce far more to the safety of the people.",
+   "begin": 453.919,
+   "end": 465.36,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 17,
+   "text": "But whatever may be our situation, whether firmly united under one national government, or split into a number of confederacies, certain it is, that foreign nations will know and view it exactly as it is;",
+   "begin": 465.36,
+   "end": 476.16,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 17,
+   "text": "and they will act toward us accordingly.",
+   "begin": 476.16,
+   "end": 478.4,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 17,
+   "text": "If they see that our national government is efficient and well administered, our trade prudently regulated, our militia properly organized and disciplined, our resources and finances discreetly managed, our credit re-established, our people free, contented, and united, they will be much more disposed to cultivate our friendship than provoke our resentment.",
+   "begin": 478.4,
+   "end": 496.479,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 17,
+   "text": "If, on the other hand, they find us either destitute of an effectual government (each State doing right or wrong, as to its rulers may seem convenient), or split into three or four independent and probably discordant republics or confederacies, one inclining to Britain, another to France, and a third to Spain, and perhaps played off against each other by the three, what a poor, pitiful figure will America make in their eyes!",
+   "begin": 496.479,
+   "end": 518.399,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 17,
+   "text": "How liable would she become not only to their contempt but to their outrage, and how soon would dear-bought experience proclaim that when a people or family so divide, it never fails to be against themselves.",
+   "begin": 518.399,
+   "end": 531.16,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 18,
+   "text": "PUBLIUS.",
+   "begin": 531.16,
+   "end": 532.41034,
+   "synced": true
+  }
+ ]
+}

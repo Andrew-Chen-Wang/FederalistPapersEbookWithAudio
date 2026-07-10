@@ -1,0 +1,532 @@
+{
+ "paper": 49,
+ "duration": 535.800454,
+ "match_ratio": 0.9813,
+ "heading": [
+  "Method of Guarding Against the Encroachments of Any One Department of Government by Appealing to the People Through a Convention",
+  "From the New York Packet. Tuesday, February 5, 1788.",
+  "HAMILTON OR MADISON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 17.84,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE author of the \"Notes on the State of Virginia,'' quoted in the last paper, has subjoined to that valuable work the draught of a constitution, which had been prepared in order to be laid before a convention, expected to be called in 1783, by the legislature, for the establishment of a constitution for that commonwealth.",
+   "begin": 17.84,
+   "end": 34.88,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 1,
+   "text": "The plan, like every thing from the same pen, marks a turn of thinking, original, comprehensive, and accurate;",
+   "begin": 34.88,
+   "end": 41.2,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 1,
+   "text": "and is the more worthy of attention as it equally displays a fervent attachment to republican government and an enlightened view of the dangerous propensities against which it ought to be guarded.",
+   "begin": 41.2,
+   "end": 51.52,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 1,
+   "text": "One of the precautions which he proposes, and on which he appears ultimately to rely as a palladium to the weaker departments of power against the invasions of the stronger, is perhaps altogether his own, and as it immediately relates to the subject of our present inquiry, ought not to be overlooked.",
+   "begin": 51.52,
+   "end": 67.44,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 1,
+   "text": "His proposition is, \"that whenever any two of the three branches of government shall concur in opinion, each by the voices of two thirds of their whole number, that a convention is necessary for altering the constitution, or CORRECTING BREACHES OF IT, a convention shall be called for the purpose.",
+   "begin": 67.44,
+   "end": 82.64,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 1,
+   "text": "''As the people are the only legitimate fountain of power, and it is from them that the constitutional charter, under which the several branches of government hold their power, is derived, it seems strictly consonant to the republican theory, to recur to the same original authority, not only whenever it may be necessary to enlarge, diminish, or new-model the powers of the government, but also whenever any one of the departments may commit encroachments on the chartered authorities of the others.",
+   "begin": 82.64,
+   "end": 107.2,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 2,
+   "text": "The several departments being perfectly co-ordinate by the terms of their common commission, none of them, it is evident, can pretend to an exclusive or superior right of settling the boundaries between their respective powers;",
+   "begin": 107.2,
+   "end": 118.48,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 2,
+   "text": "and how are the encroachments of the stronger to be prevented, or the wrongs of the weaker to be redressed, without an appeal to the people themselves, who, as the grantors of the commissions, can alone declare its true meaning, and enforce its observance?",
+   "begin": 118.48,
+   "end": 130.4,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 2,
+   "text": "There is certainly great force in this reasoning, and it must be allowed to prove that a constitutional road to the decision of the people ought to be marked out and kept open, for certain great and extraordinary occasions.",
+   "begin": 130.4,
+   "end": 142.64,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 2,
+   "text": "But there appear to be insuperable objections against the proposed recurrence to the people, as a provision in all cases for keeping the several departments of power within their constitutional limits.",
+   "begin": 142.64,
+   "end": 152.88,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 2,
+   "text": "In the first place, the provision does not reach the case of a combination of two of the departments against the third.",
+   "begin": 152.88,
+   "end": 158.56,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 2,
+   "text": "If the legislative authority, which possesses so many means of operating on the motives of the other departments, should be able to gain to its interest either of the others, or even one third of its members, the remaining department could derive no advantage from its remedial provision.",
+   "begin": 158.56,
+   "end": 173.2,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 2,
+   "text": "I do not dwell, however, on this objection, because it may be thought to be rather against the modification of the principle, than against the principle itself.",
+   "begin": 173.2,
+   "end": 180.96,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 2,
+   "text": "In the next place, it may be considered as an objection inherent in the principle, that as every appeal to the people would carry an implication of some defect in the government, frequent appeals would, in a great measure, deprive the government of that veneration which time bestows on every thing, and without which perhaps the wisest and freest governments would not possess the requisite stability.",
+   "begin": 180.96,
+   "end": 201.92,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 3,
+   "text": "If it be true that all governments rest on opinion, it is no less true that the strength of opinion in each individual, and its practical influence on his conduct, depend much on the number which he supposes to have entertained the same opinion.",
+   "begin": 201.92,
+   "end": 215.36,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 3,
+   "text": "The reason of man, like man himself, is timid and cautious when left alone, and acquires firmness and confidence in proportion to the number with which it is associated.",
+   "begin": 215.36,
+   "end": 225.44,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 3,
+   "text": "When the examples which fortify opinion are ANCIENT as well as NUMEROUS, they are known to have a double effect.",
+   "begin": 225.44,
+   "end": 231.68,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 3,
+   "text": "In a nation of philosophers, this consideration ought to be disregarded.",
+   "begin": 231.68,
+   "end": 235.6,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 3,
+   "text": "A reverence for the laws would be sufficiently inculcated by the voice of an enlightened reason.",
+   "begin": 235.6,
+   "end": 240.32,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 3,
+   "text": "But a nation of philosophers is as little to be expected as the philosophical race of kings wished for by Plato.",
+   "begin": 240.32,
+   "end": 246.16,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 3,
+   "text": "And in every other nation, the most rational government will not find it a superfluous advantage to have the prejudices of the community on its side.",
+   "begin": 246.16,
+   "end": 253.76,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 3,
+   "text": "The danger of disturbing the public tranquillity by interesting too strongly the public passions, is a still more serious objection against a frequent reference of constitutional questions to the decision of the whole society.",
+   "begin": 253.76,
+   "end": 266.08,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 3,
+   "text": "Notwithstanding the success which has attended the revisions of our established forms of government, and which does so much honor to the virtue and intelligence of the people of America, it must be confessed that the experiments are of too ticklish a nature to be unnecessarily multiplied.",
+   "begin": 266.08,
+   "end": 281.28,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 4,
+   "text": "We are to recollect that all the existing constitutions were formed in the midst of a danger which repressed the passions most unfriendly to order and concord;",
+   "begin": 281.28,
+   "end": 290.0,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 4,
+   "text": "of an enthusiastic confidence of the people in their patriotic leaders, which stifled the ordinary diversity of opinions on great national questions;",
+   "begin": 290.0,
+   "end": 297.92,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 4,
+   "text": "of a universal ardor for new and opposite forms, produced by a universal resentment and indignation against the ancient government;",
+   "begin": 297.92,
+   "end": 305.76,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 4,
+   "text": "and whilst no spirit of party connected with the changes to be made, or the abuses to be reformed, could mingle its leaven in the operation.",
+   "begin": 305.76,
+   "end": 312.8,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 4,
+   "text": "The future situations in which we must expect to be usually placed, do not present any equivalent security against the danger which is apprehended.",
+   "begin": 312.8,
+   "end": 321.04,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 4,
+   "text": "But the greatest objection of all is, that the decisions which would probably result from such appeals would not answer the purpose of maintaining the constitutional equilibrium of the government.",
+   "begin": 321.04,
+   "end": 331.36,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 5,
+   "text": "We have seen that the tendency of republican governments is to an aggrandizement of the legislative at the expense of the other departments.",
+   "begin": 331.36,
+   "end": 338.64,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 5,
+   "text": "The appeals to the people, therefore, would usually be made by the executive and judiciary departments.",
+   "begin": 338.64,
+   "end": 343.84,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 5,
+   "text": "But whether made by one side or the other, would each side enjoy equal advantages on the trial?",
+   "begin": 343.84,
+   "end": 349.12,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 5,
+   "text": "Let us view their different situations.",
+   "begin": 349.12,
+   "end": 352.24,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 5,
+   "text": "The members of the executive and judiciary departments are few in number, and can be personally known to a small part only of the people.",
+   "begin": 352.24,
+   "end": 360.08,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 5,
+   "text": "The latter, by the mode of their appointment, as well as by the nature and permanency of it, are too far removed from the people to share much in their prepossessions.",
+   "begin": 360.08,
+   "end": 368.48,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 5,
+   "text": "The former are generally the objects of jealousy, and their administration is always liable to be discolored and rendered unpopular.",
+   "begin": 368.48,
+   "end": 375.76,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 5,
+   "text": "The members of the legislative department, on the other hand, are numberous.",
+   "begin": 375.76,
+   "end": 379.44,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 5,
+   "text": "They are distributed and dwell among the people at large.",
+   "begin": 379.44,
+   "end": 382.4,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 5,
+   "text": "Their connections of blood, of friendship, and of acquaintance embrace a great proportion of the most influential part of the society.",
+   "begin": 382.4,
+   "end": 389.36,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 5,
+   "text": "The nature of their public trust implies a personal influence among the people, and that they are more immediately the confidential guardians of the rights and liberties of the people.",
+   "begin": 389.36,
+   "end": 398.32,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 6,
+   "text": "With these advantages, it can hardly be supposed that the adverse party would have an equal chance for a favorable issue.",
+   "begin": 398.32,
+   "end": 405.04,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 6,
+   "text": "But the legislative party would not only be able to plead their cause most successfully with the people.",
+   "begin": 405.04,
+   "end": 410.4,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 6,
+   "text": "They would probably be constituted themselves the judges.",
+   "begin": 410.4,
+   "end": 413.44,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 6,
+   "text": "The same influence which had gained them an election into the legislature, would gain them a seat in the convention.",
+   "begin": 413.44,
+   "end": 419.44,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 6,
+   "text": "If this should not be the case with all, it would probably be the case with many, and pretty certainly with those leading characters, on whom every thing depends in such bodies.",
+   "begin": 419.44,
+   "end": 428.8,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 6,
+   "text": "The convention, in short, would be composed chiefly of men who had been, who actually were, or who expected to be, members of the department whose conduct was arraigned.",
+   "begin": 428.8,
+   "end": 438.16,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 6,
+   "text": "They would consequently be parties to the very question to be decided by them.",
+   "begin": 438.16,
+   "end": 442.4,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 6,
+   "text": "It might, however, sometimes happen, that appeals would be made under circumstances less adverse to the executive and judiciary departments.",
+   "begin": 442.4,
+   "end": 449.68,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 6,
+   "text": "The usurpations of the legislature might be so flagrant and so sudden, as to admit of no specious coloring.",
+   "begin": 449.68,
+   "end": 455.92,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 6,
+   "text": "A strong party among themselves might take side with the other branches.",
+   "begin": 455.92,
+   "end": 459.68,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 6,
+   "text": "The executive power might be in the hands of a peculiar favorite of the people.",
+   "begin": 459.68,
+   "end": 464.0,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 7,
+   "text": "In such a posture of things, the public decision might be less swayed by prepossessions in favor of the legislative party.",
+   "begin": 464.0,
+   "end": 470.72,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 7,
+   "text": "But still it could never be expected to turn on the true merits of the question.",
+   "begin": 470.72,
+   "end": 474.56,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 7,
+   "text": "It would inevitably be connected with the spirit of pre-existing parties, or of parties springing out of the question itself.",
+   "begin": 474.56,
+   "end": 480.96,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 7,
+   "text": "It would be connected with persons of distinguished character and extensive influence in the community.",
+   "begin": 480.96,
+   "end": 485.76,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 7,
+   "text": "It would be pronounced by the very men who had been agents in, or opponents of, the measures to which the decision would relate.",
+   "begin": 485.76,
+   "end": 492.4,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 7,
+   "text": "The PASSIONS, therefore, not the REASON, of the public would sit in judgment.",
+   "begin": 492.4,
+   "end": 496.64,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 7,
+   "text": "But it is the reason, alone, of the public, that ought to control and regulate the government.",
+   "begin": 496.64,
+   "end": 501.52,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 7,
+   "text": "The passions ought to be controlled and regulated by the government.",
+   "begin": 501.52,
+   "end": 505.28,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 7,
+   "text": "We found in the last paper, that mere declarations in the written constitution are not sufficient to restrain the several departments within their legal rights.",
+   "begin": 505.28,
+   "end": 513.36,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 7,
+   "text": "It appears in this, that occasional appeals to the people would be neither a proper nor an effectual provision for that purpose.",
+   "begin": 513.36,
+   "end": 520.32,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 7,
+   "text": "How far the provisions of a different nature contained in the plan above quoted might be adequate, I do not examine.",
+   "begin": 520.32,
+   "end": 526.4,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 7,
+   "text": "Some of them are unquestionably founded on sound political principles, and all of them are framed with singular ingenuity and precision.",
+   "begin": 526.4,
+   "end": 534.64,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 8,
+   "text": "PUBLIUS.",
+   "begin": 534.64,
+   "end": 535.800454,
+   "synced": true
+  }
+ ]
+}

@@ -1,0 +1,644 @@
+{
+ "paper": 23,
+ "duration": 581.613424,
+ "match_ratio": 0.9861,
+ "heading": [
+  "The Necessity of a Government as Energetic as the One Proposed to the Preservation of the Union",
+  "From the New York Packet. Tuesday, December 18, 1787.",
+  "HAMILTON"
+ ],
+ "units": [
+  {
+   "id": "u0001",
+   "para": 0,
+   "text": "To the People of the State of New York:",
+   "begin": 0.0,
+   "end": 18.199,
+   "synced": true
+  },
+  {
+   "id": "u0002",
+   "para": 1,
+   "text": "THE necessity of a Constitution, at least equally energetic with the one proposed, to the preservation of the Union, is the point at the examination of which we are now arrived.",
+   "begin": 18.199,
+   "end": 28.56,
+   "synced": true
+  },
+  {
+   "id": "u0003",
+   "para": 2,
+   "text": "This inquiry will naturally divide itself into three branches the objects to be provided for by the federal government, the quantity of power necessary to the accomplishment of those objects, the persons upon whom that power ought to operate.",
+   "begin": 28.56,
+   "end": 41.52,
+   "synced": true
+  },
+  {
+   "id": "u0004",
+   "para": 2,
+   "text": "Its distribution and organization will more properly claim our attention under the succeeding head.",
+   "begin": 41.52,
+   "end": 46.96,
+   "synced": true
+  },
+  {
+   "id": "u0005",
+   "para": 3,
+   "text": "The principal purposes to be answered by union are these the common defense of the members;",
+   "begin": 46.96,
+   "end": 51.96,
+   "synced": true
+  },
+  {
+   "id": "u0006",
+   "para": 3,
+   "text": "the preservation of the public peace as well against internal convulsions as external attacks;",
+   "begin": 51.96,
+   "end": 56.96,
+   "synced": true
+  },
+  {
+   "id": "u0007",
+   "para": 3,
+   "text": "the regulation of commerce with other nations and between the States;",
+   "begin": 56.96,
+   "end": 60.28,
+   "synced": true
+  },
+  {
+   "id": "u0008",
+   "para": 3,
+   "text": "the superintendence of our intercourse, political and commercial, with foreign countries.",
+   "begin": 60.28,
+   "end": 65.239,
+   "synced": true
+  },
+  {
+   "id": "u0009",
+   "para": 4,
+   "text": "The authorities essential to the common defense are these:",
+   "begin": 65.239,
+   "end": 68.4,
+   "synced": true
+  },
+  {
+   "id": "u0010",
+   "para": 4,
+   "text": "to raise armies;",
+   "begin": 68.4,
+   "end": 69.479,
+   "synced": true
+  },
+  {
+   "id": "u0011",
+   "para": 4,
+   "text": "to build and equip fleets;",
+   "begin": 69.479,
+   "end": 71.119,
+   "synced": true
+  },
+  {
+   "id": "u0012",
+   "para": 4,
+   "text": "to prescribe rules for the government of both;",
+   "begin": 71.119,
+   "end": 73.36,
+   "synced": true
+  },
+  {
+   "id": "u0013",
+   "para": 4,
+   "text": "to direct their operations;",
+   "begin": 73.36,
+   "end": 74.799,
+   "synced": true
+  },
+  {
+   "id": "u0014",
+   "para": 4,
+   "text": "to provide for their support.",
+   "begin": 74.799,
+   "end": 77.0,
+   "synced": true
+  },
+  {
+   "id": "u0015",
+   "para": 4,
+   "text": "These powers ought to exist without limitation, BECAUSE IT IS IMPOSSIBLE TO FORESEE OR DEFINE THE EXTENT AND VARIETY OF NATIONAL EXIGENCIES, OR THE CORRESPONDENT EXTENT AND VARIETY OF THE MEANS WHICH MAY BE NECESSARY TO SATISFY THEM.",
+   "begin": 77.0,
+   "end": 89.68,
+   "synced": true
+  },
+  {
+   "id": "u0016",
+   "para": 4,
+   "text": "The circumstances that endanger the safety of nations are infinite, and for this reason no constitutional shackles can wisely be imposed on the power to which the care of it is committed.",
+   "begin": 89.68,
+   "end": 99.64,
+   "synced": true
+  },
+  {
+   "id": "u0017",
+   "para": 4,
+   "text": "This power ought to be coextensive with all the possible combinations of such circumstances;",
+   "begin": 99.64,
+   "end": 103.84,
+   "synced": true
+  },
+  {
+   "id": "u0018",
+   "para": 4,
+   "text": "and ought to be under the direction of the same councils which are appointed to preside over the common defense.",
+   "begin": 103.84,
+   "end": 109.2,
+   "synced": true
+  },
+  {
+   "id": "u0019",
+   "para": 5,
+   "text": "This is one of those truths which, to a correct and unprejudiced mind, carries its own evidence along with it;",
+   "begin": 109.2,
+   "end": 115.119,
+   "synced": true
+  },
+  {
+   "id": "u0020",
+   "para": 5,
+   "text": "and may be obscured, but cannot be made plainer by argument or reasoning.",
+   "begin": 115.119,
+   "end": 119.32,
+   "synced": true
+  },
+  {
+   "id": "u0021",
+   "para": 5,
+   "text": "It rests upon axioms as simple as they are universal;",
+   "begin": 119.32,
+   "end": 122.64,
+   "synced": true
+  },
+  {
+   "id": "u0022",
+   "para": 5,
+   "text": "the MEANS ought to be proportioned to the END;",
+   "begin": 122.64,
+   "end": 125.159,
+   "synced": true
+  },
+  {
+   "id": "u0023",
+   "para": 5,
+   "text": "the persons, from whose agency the attainment of any END is expected, ought to possess the MEANS by which it is to be attained.",
+   "begin": 125.159,
+   "end": 132.48,
+   "synced": true
+  },
+  {
+   "id": "u0024",
+   "para": 6,
+   "text": "Whether there ought to be a federal government intrusted with the care of the common defense, is a question in the first instance, open for discussion;",
+   "begin": 132.48,
+   "end": 139.84,
+   "synced": true
+  },
+  {
+   "id": "u0025",
+   "para": 6,
+   "text": "but the moment it is decided in the affirmative, it will follow, that that government ought to be clothed with all the powers requisite to complete execution of its trust.",
+   "begin": 139.84,
+   "end": 148.16,
+   "synced": true
+  },
+  {
+   "id": "u0026",
+   "para": 6,
+   "text": "And unless it can be shown that the circumstances which may affect the public safety are reducible within certain determinate limits;",
+   "begin": 148.16,
+   "end": 154.36,
+   "synced": true
+  },
+  {
+   "id": "u0027",
+   "para": 6,
+   "text": "unless the contrary of this position can be fairly and rationally disputed, it must be admitted, as a necessary consequence, that there can be no limitation of that authority which is to provide for the defense and protection of the community, in any matter essential to its efficacy that is, in any matter essential to the FORMATION, DIRECTION, or SUPPORT of the NATIONAL FORCES.",
+   "begin": 154.36,
+   "end": 174.76,
+   "synced": true
+  },
+  {
+   "id": "u0028",
+   "para": 7,
+   "text": "Defective as the present Confederation has been proved to be, this principle appears to have been fully recognized by the framers of it;",
+   "begin": 174.76,
+   "end": 181.599,
+   "synced": true
+  },
+  {
+   "id": "u0029",
+   "para": 7,
+   "text": "though they have not made proper or adequate provision for its exercise.",
+   "begin": 181.599,
+   "end": 185.599,
+   "synced": true
+  },
+  {
+   "id": "u0030",
+   "para": 7,
+   "text": "Congress have an unlimited discretion to make requisitions of men and money;",
+   "begin": 185.599,
+   "end": 189.28,
+   "synced": true
+  },
+  {
+   "id": "u0031",
+   "para": 7,
+   "text": "to govern the army and navy;",
+   "begin": 189.28,
+   "end": 190.68,
+   "synced": true
+  },
+  {
+   "id": "u0032",
+   "para": 7,
+   "text": "to direct their operations.",
+   "begin": 190.68,
+   "end": 192.239,
+   "synced": true
+  },
+  {
+   "id": "u0033",
+   "para": 7,
+   "text": "As their requisitions are made constitutionally binding upon the States, who are in fact under the most solemn obligations to furnish the supplies required of them, the intention evidently was that the United States should command whatever resources were by them judged requisite to the \"common defense and general welfare.'' It was presumed that a sense of their true interests, and a regard to the dictates of good faith, would be found sufficient pledges for the punctual performance of the duty of the members to the federal head.",
+   "begin": 192.239,
+   "end": 219.64,
+   "synced": true
+  },
+  {
+   "id": "u0034",
+   "para": 8,
+   "text": "The experiment has, however, demonstrated that this expectation was ill-founded and illusory;",
+   "begin": 219.64,
+   "end": 225.12,
+   "synced": true
+  },
+  {
+   "id": "u0035",
+   "para": 8,
+   "text": "and the observations, made under the last head, will, I imagine, have sufficed to convince the impartial and discerning, that there is an absolute necessity for an entire change in the first principles of the system;",
+   "begin": 225.12,
+   "end": 236.12,
+   "synced": true
+  },
+  {
+   "id": "u0036",
+   "para": 8,
+   "text": "that if we are in earnest about giving the Union energy and duration, we must abandon the vain project of legislating upon the States in their collective capacities;",
+   "begin": 236.12,
+   "end": 244.319,
+   "synced": true
+  },
+  {
+   "id": "u0037",
+   "para": 8,
+   "text": "we must extend the laws of the federal government to the individual citizens of America;",
+   "begin": 244.319,
+   "end": 248.76,
+   "synced": true
+  },
+  {
+   "id": "u0038",
+   "para": 8,
+   "text": "we must discard the fallacious scheme of quotas and requisitions, as equally impracticable and unjust.",
+   "begin": 248.76,
+   "end": 254.959,
+   "synced": true
+  },
+  {
+   "id": "u0039",
+   "para": 8,
+   "text": "The result from all this is that the Union ought to be invested with full power to levy troops;",
+   "begin": 254.959,
+   "end": 260.0,
+   "synced": true
+  },
+  {
+   "id": "u0040",
+   "para": 8,
+   "text": "to build and equip fleets;",
+   "begin": 260.0,
+   "end": 261.759,
+   "synced": true
+  },
+  {
+   "id": "u0041",
+   "para": 8,
+   "text": "and to raise the revenues which will be required for the formation and support of an army and navy, in the customary and ordinary modes practiced in other governments.",
+   "begin": 261.759,
+   "end": 270.56,
+   "synced": true
+  },
+  {
+   "id": "u0042",
+   "para": 9,
+   "text": "If the circumstances of our country are such as to demand a compound instead of a simple, a confederate instead of a sole, government, the essential point which will remain to be adjusted will be to discriminate the OBJECTS, as far as it can be done, which shall appertain to the different provinces or departments of power;",
+   "begin": 270.56,
+   "end": 287.36,
+   "synced": true
+  },
+  {
+   "id": "u0043",
+   "para": 9,
+   "text": "allowing to each the most ample authority for fulfilling the objects committed to its charge.",
+   "begin": 287.36,
+   "end": 292.72,
+   "synced": true
+  },
+  {
+   "id": "u0044",
+   "para": 9,
+   "text": "Shall the Union be constituted the guardian of the common safety?",
+   "begin": 292.72,
+   "end": 296.12,
+   "synced": true
+  },
+  {
+   "id": "u0045",
+   "para": 9,
+   "text": "Are fleets and armies and revenues necessary to this purpose?",
+   "begin": 296.12,
+   "end": 300.12,
+   "synced": true
+  },
+  {
+   "id": "u0046",
+   "para": 9,
+   "text": "The government of the Union must be empowered to pass all laws, and to make all regulations which have relation to them.",
+   "begin": 300.12,
+   "end": 306.08,
+   "synced": true
+  },
+  {
+   "id": "u0047",
+   "para": 9,
+   "text": "The same must be the case in respect to commerce, and to every other matter to which its jurisdiction is permitted to extend.",
+   "begin": 306.08,
+   "end": 312.28,
+   "synced": true
+  },
+  {
+   "id": "u0048",
+   "para": 9,
+   "text": "Is the administration of justice between the citizens of the same State the proper department of the local governments?",
+   "begin": 312.28,
+   "end": 318.199,
+   "synced": true
+  },
+  {
+   "id": "u0049",
+   "para": 9,
+   "text": "These must possess all the authorities which are connected with this object, and with every other that may be allotted to their particular cognizance and direction.",
+   "begin": 318.199,
+   "end": 325.96,
+   "synced": true
+  },
+  {
+   "id": "u0050",
+   "para": 9,
+   "text": "Not to confer in each case a degree of power commensurate to the end, would be to violate the most obvious rules of prudence and propriety, and improvidently to trust the great interests of the nation to hands which are disabled from managing them with vigor and success.",
+   "begin": 325.96,
+   "end": 340.24,
+   "synced": true
+  },
+  {
+   "id": "u0051",
+   "para": 10,
+   "text": "Who is likely to make suitable provisions for the public defense, as that body to which the guardianship of the public safety is confided;",
+   "begin": 340.24,
+   "end": 347.28,
+   "synced": true
+  },
+  {
+   "id": "u0052",
+   "para": 10,
+   "text": "which, as the centre of information, will best understand the extent and urgency of the dangers that threaten;",
+   "begin": 347.28,
+   "end": 352.72,
+   "synced": true
+  },
+  {
+   "id": "u0053",
+   "para": 10,
+   "text": "as the representative of the WHOLE, will feel itself most deeply interested in the preservation of every part;",
+   "begin": 352.72,
+   "end": 358.479,
+   "synced": true
+  },
+  {
+   "id": "u0054",
+   "para": 10,
+   "text": "which, from the responsibility implied in the duty assigned to it, will be most sensibly impressed with the necessity of proper exertions;",
+   "begin": 358.479,
+   "end": 365.199,
+   "synced": true
+  },
+  {
+   "id": "u0055",
+   "para": 10,
+   "text": "and which, by the extension of its authority throughout the States, can alone establish uniformity and concert in the plans and measures by which the common safety is to be secured?",
+   "begin": 365.199,
+   "end": 374.12,
+   "synced": true
+  },
+  {
+   "id": "u0056",
+   "para": 10,
+   "text": "Is there not a manifest inconsistency in devolving upon the federal government the care of the general defense, and leaving in the State governments the EFFECTIVE powers by which it is to be provided for?",
+   "begin": 374.12,
+   "end": 384.24,
+   "synced": true
+  },
+  {
+   "id": "u0057",
+   "para": 10,
+   "text": "Is not a want of co-operation the infallible consequence of such a system?",
+   "begin": 384.24,
+   "end": 388.28,
+   "synced": true
+  },
+  {
+   "id": "u0058",
+   "para": 10,
+   "text": "And will not weakness, disorder, an undue distribution of the burdens and calamities of war, an unnecessary and intolerable increase of expense, be its natural and inevitable concomitants?",
+   "begin": 388.28,
+   "end": 399.16,
+   "synced": true
+  },
+  {
+   "id": "u0059",
+   "para": 10,
+   "text": "Have we not had unequivocal experience of its effects in the course of the revolution which we have just accomplished?",
+   "begin": 399.16,
+   "end": 405.24,
+   "synced": true
+  },
+  {
+   "id": "u0060",
+   "para": 11,
+   "text": "Every view we may take of the subject, as candid inquirers after truth, will serve to convince us, that it is both unwise and dangerous to deny the federal government an unconfined authority, as to all those objects which are intrusted to its management.",
+   "begin": 405.24,
+   "end": 419.199,
+   "synced": true
+  },
+  {
+   "id": "u0061",
+   "para": 11,
+   "text": "It will indeed deserve the most vigilant and careful attention of the people, to see that it be modeled in such a manner as to admit of its being safely vested with the requisite powers.",
+   "begin": 419.199,
+   "end": 428.759,
+   "synced": true
+  },
+  {
+   "id": "u0062",
+   "para": 11,
+   "text": "If any plan which has been, or may be, offered to our consideration, should not, upon a dispassionate inspection, be found to answer this description, it ought to be rejected.",
+   "begin": 428.759,
+   "end": 438.28,
+   "synced": true
+  },
+  {
+   "id": "u0063",
+   "para": 11,
+   "text": "A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS.",
+   "begin": 438.28,
+   "end": 449.8,
+   "synced": true
+  },
+  {
+   "id": "u0064",
+   "para": 11,
+   "text": "Wherever THESE can with propriety be confided, the coincident powers may safely accompany them.",
+   "begin": 449.8,
+   "end": 456.199,
+   "synced": true
+  },
+  {
+   "id": "u0065",
+   "para": 11,
+   "text": "This is the true result of all just reasoning upon the subject.",
+   "begin": 456.199,
+   "end": 460.039,
+   "synced": true
+  },
+  {
+   "id": "u0066",
+   "para": 11,
+   "text": "And the adversaries of the plan promulgated by the convention ought to have confined themselves to showing, that the internal structure of the proposed government was such as to render it unworthy of the confidence of the people.",
+   "begin": 460.039,
+   "end": 471.28,
+   "synced": true
+  },
+  {
+   "id": "u0067",
+   "para": 11,
+   "text": "They ought not to have wandered into inflammatory declamations and unmeaning cavils about the extent of the powers.",
+   "begin": 471.28,
+   "end": 478.0,
+   "synced": true
+  },
+  {
+   "id": "u0068",
+   "para": 11,
+   "text": "The POWERS are not too extensive for the OBJECTS of federal administration, or, in other words, for the management of our NATIONAL INTERESTS;",
+   "begin": 478.0,
+   "end": 485.68,
+   "synced": true
+  },
+  {
+   "id": "u0069",
+   "para": 11,
+   "text": "nor can any satisfactory argument be framed to show that they are chargeable with such an excess.",
+   "begin": 485.68,
+   "end": 491.319,
+   "synced": true
+  },
+  {
+   "id": "u0070",
+   "para": 11,
+   "text": "If it be true, as has been insinuated by some of the writers on the other side, that the difficulty arises from the nature of the thing, and that the extent of the country will not permit us to form a government in which such ample powers can safely be reposed, it would prove that we ought to contract our views, and resort to the expedient of separate confederacies, which will move within more practicable spheres.",
+   "begin": 491.319,
+   "end": 513.12,
+   "synced": true
+  },
+  {
+   "id": "u0071",
+   "para": 11,
+   "text": "For the absurdity must continually stare us in the face of confiding to a government the direction of the most essential national interests, without daring to trust it to the authorities which are indispensible to their proper and efficient management.",
+   "begin": 513.12,
+   "end": 525.08,
+   "synced": true
+  },
+  {
+   "id": "u0072",
+   "para": 11,
+   "text": "Let us not attempt to reconcile contradictions, but firmly embrace a rational alternative.",
+   "begin": 525.08,
+   "end": 530.48,
+   "synced": true
+  },
+  {
+   "id": "u0073",
+   "para": 12,
+   "text": "I trust, however, that the impracticability of one general system cannot be shown.",
+   "begin": 530.48,
+   "end": 535.04,
+   "synced": true
+  },
+  {
+   "id": "u0074",
+   "para": 12,
+   "text": "I am greatly mistaken, if any thing of weight has yet been advanced of this tendency;",
+   "begin": 535.04,
+   "end": 539.48,
+   "synced": true
+  },
+  {
+   "id": "u0075",
+   "para": 12,
+   "text": "and I flatter myself, that the observations which have been made in the course of these papers have served to place the reverse of that position in as clear a light as any matter still in the womb of time and experience can be susceptible of.",
+   "begin": 539.48,
+   "end": 551.6,
+   "synced": true
+  },
+  {
+   "id": "u0076",
+   "para": 12,
+   "text": "This, at all events, must be evident, that the very difficulty itself, drawn from the extent of the country, is the strongest argument in favor of an energetic government;",
+   "begin": 551.6,
+   "end": 560.88,
+   "synced": true
+  },
+  {
+   "id": "u0077",
+   "para": 12,
+   "text": "for any other can certainly never preserve the Union of so large an empire.",
+   "begin": 560.88,
+   "end": 565.519,
+   "synced": true
+  },
+  {
+   "id": "u0078",
+   "para": 12,
+   "text": "If we embrace the tenets of those who oppose the adoption of the proposed Constitution, as the standard of our political creed, we cannot fail to verify the gloomy doctrines which predict the impracticability of a national system pervading entire limits of the present Confederacy.",
+   "begin": 565.519,
+   "end": 580.32,
+   "synced": true
+  },
+  {
+   "id": "u0079",
+   "para": 13,
+   "text": "PUBLIUS.",
+   "begin": 580.32,
+   "end": 581.613424,
+   "synced": false
+  }
+ ]
+}
