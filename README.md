@@ -25,6 +25,11 @@ plays media overlays in fixed-layout books — use the fixed-layout edition
 there (or the audio player at the top of each chapter in the reflowable
 editions).
 
+The fixed-layout edition doing native Read Aloud in Apple Books, with the
+sentence being narrated highlighted:
+
+![Apple Books playing the fixed-layout edition with Read Aloud sentence highlighting](docs/apple-books-read-aloud.png)
+
 ## Credits
 
 - **Narration**: [VonClegg Classics](https://www.youtube.com/@voncleggclassics5928),
