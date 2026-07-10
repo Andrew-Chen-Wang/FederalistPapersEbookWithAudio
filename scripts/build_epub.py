@@ -80,8 +80,10 @@ def clock(sec: float) -> str:
 
 
 def load_caption_words(n: int):
-    """[(raw_word, start_sec)] from the best available json3 captions."""
-    rank = {"en-orig": 0, "fluidaudio": 1, "whisper": 2, "en": 3}
+    """[(raw_word, start_sec)] for the transcript edition. FluidAudio
+    transcripts come first: they carry punctuation and capitalization,
+    unlike YouTube's ASR captions."""
+    rank = {"fluidaudio": 0, "en-orig": 1, "whisper": 2, "en": 3}
     caps = sorted(
         CAPS.glob(f"fed{n:02d}.*.json3"),
         key=lambda p: rank.get(p.name.split(".", 2)[1], 9),

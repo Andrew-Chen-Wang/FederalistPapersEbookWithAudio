@@ -14,7 +14,7 @@ Three editions, from the [latest release](https://github.com/Andrew-Chen-Wang/Fe
 | Edition | Download | What it is |
 |---|---|---|
 | **Canonical + audio** | [the-federalist-papers.epub](https://github.com/Andrew-Chen-Wang/FederalistPapersEbookWithAudio/releases/latest/download/the-federalist-papers.epub) (~883 MB) | The authoritative Avalon text with embedded narration; sentences highlight where the narration matches the canonical text. The narrator reads a slightly different historical edition in places, so wording can occasionally differ from the audio. |
-| **Transcript + audio** | [the-federalist-papers-transcript.epub](https://github.com/Andrew-Chen-Wang/FederalistPapersEbookWithAudio/releases/latest/download/the-federalist-papers-transcript.epub) (~883 MB) | Exactly what the narrator says, word for word, with embedded narration and highlight sync. Text comes from the word-timestamped transcripts, so it follows the audio 1:1 (but is mostly unpunctuated ASR text). |
+| **Transcript + audio** | [the-federalist-papers-transcript.epub](https://github.com/Andrew-Chen-Wang/FederalistPapersEbookWithAudio/releases/latest/download/the-federalist-papers-transcript.epub) (~883 MB) | Exactly what the narrator says, word for word, with embedded narration and highlight sync. Text comes from the punctuated, word-timestamped FluidAudio transcripts, so it follows the audio 1:1. |
 | **Text only** | [the-federalist-papers-text-only.epub](https://github.com/Andrew-Chen-Wang/FederalistPapersEbookWithAudio/releases/latest/download/the-federalist-papers-text-only.epub) (~0.5 MB) | Just the canonical Federalist Papers, no audio. |
 
 In readers that fully support EPUB media overlays (e.g. [Thorium Reader](https://thorium.edrlab.org/)),
